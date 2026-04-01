@@ -1,0 +1,498 @@
+{
+  "city_slug": "warszawa",
+  "overview": {
+    "total_offers": 8548,
+    "avg_price": 3715,
+    "median_price": 3000,
+    "min_price": 500,
+    "max_price": 15000,
+    "avg_price_per_m2": 86,
+    "avg_area": 55
+  },
+  "districts": [
+    {
+      "name": "Wilanów",
+      "offer_count": 165,
+      "avg_price": 5164,
+      "min_price": 600,
+      "max_price": 15000
+    },
+    {
+      "name": "Stare Miasto",
+      "offer_count": 80,
+      "avg_price": 4976,
+      "min_price": 1100,
+      "max_price": 14950
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 645,
+      "avg_price": 4366,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "WARSZAWA",
+      "offer_count": 261,
+      "avg_price": 4327,
+      "min_price": 500,
+      "max_price": 14500
+    },
+    {
+      "name": "Kazimierza",
+      "offer_count": 25,
+      "avg_price": 4192,
+      "min_price": 900,
+      "max_price": 9500
+    },
+    {
+      "name": "Zamknięte",
+      "offer_count": 105,
+      "avg_price": 4077,
+      "min_price": 520,
+      "max_price": 13000
+    },
+    {
+      "name": "Wola",
+      "offer_count": 570,
+      "avg_price": 3996,
+      "min_price": 650,
+      "max_price": 14500
+    },
+    {
+      "name": "Mokotów",
+      "offer_count": 796,
+      "avg_price": 3828,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "Warszawy",
+      "offer_count": 54,
+      "avg_price": 3761,
+      "min_price": 1000,
+      "max_price": 15000
+    },
+    {
+      "name": "Praga-Północ",
+      "offer_count": 124,
+      "avg_price": 3712,
+      "min_price": 600,
+      "max_price": 14000
+    },
+    {
+      "name": "strzeżone",
+      "offer_count": 28,
+      "avg_price": 3602,
+      "min_price": 1250,
+      "max_price": 11900
+    },
+    {
+      "name": "OGRODZONE",
+      "offer_count": 14,
+      "avg_price": 3594,
+      "min_price": 1900,
+      "max_price": 6990
+    },
+    {
+      "name": "monitorowane",
+      "offer_count": 15,
+      "avg_price": 3509,
+      "min_price": 850,
+      "max_price": 6500
+    },
+    {
+      "name": "Żoliborz",
+      "offer_count": 199,
+      "avg_price": 3500,
+      "min_price": 750,
+      "max_price": 12500
+    },
+    {
+      "name": "Praga-Południe",
+      "offer_count": 239,
+      "avg_price": 3429,
+      "min_price": 600,
+      "max_price": 15000
+    },
+    {
+      "name": "Warszawskim",
+      "offer_count": 23,
+      "avg_price": 3422,
+      "min_price": 1500,
+      "max_price": 8100
+    },
+    {
+      "name": "Mokotowie",
+      "offer_count": 42,
+      "avg_price": 3330,
+      "min_price": 1010,
+      "max_price": 10500
+    },
+    {
+      "name": "KABATY",
+      "offer_count": 10,
+      "avg_price": 3280,
+      "min_price": 1530,
+      "max_price": 5700
+    },
+    {
+      "name": "bloków mieszkalnych",
+      "offer_count": 30,
+      "avg_price": 3272,
+      "min_price": 1000,
+      "max_price": 6000
+    },
+    {
+      "name": "Mokotowa",
+      "offer_count": 12,
+      "avg_price": 3167,
+      "min_price": 1900,
+      "max_price": 4100
+    },
+    {
+      "name": "Włochy",
+      "offer_count": 252,
+      "avg_price": 3128,
+      "min_price": 500,
+      "max_price": 11999
+    },
+    {
+      "name": "Woli",
+      "offer_count": 16,
+      "avg_price": 3025,
+      "min_price": 1350,
+      "max_price": 6800
+    },
+    {
+      "name": "Wawer",
+      "offer_count": 102,
+      "avg_price": 2969,
+      "min_price": 500,
+      "max_price": 10000
+    },
+    {
+      "name": "Ochota",
+      "offer_count": 276,
+      "avg_price": 2939,
+      "min_price": 620,
+      "max_price": 12500
+    },
+    {
+      "name": "Bemowie",
+      "offer_count": 10,
+      "avg_price": 2939,
+      "min_price": 950,
+      "max_price": 4600
+    },
+    {
+      "name": "Warszawskiej",
+      "offer_count": 19,
+      "avg_price": 2901,
+      "min_price": 1000,
+      "max_price": 9000
+    },
+    {
+      "name": "Warszawie",
+      "offer_count": 47,
+      "avg_price": 2764,
+      "min_price": 790,
+      "max_price": 10000
+    },
+    {
+      "name": "Ursus",
+      "offer_count": 194,
+      "avg_price": 2713,
+      "min_price": 700,
+      "max_price": 8900
+    },
+    {
+      "name": "Wesoła",
+      "offer_count": 42,
+      "avg_price": 2693,
+      "min_price": 750,
+      "max_price": 6000
+    },
+    {
+      "name": "Białołęka",
+      "offer_count": 225,
+      "avg_price": 2674,
+      "min_price": 700,
+      "max_price": 6200
+    },
+    {
+      "name": "Ursynów",
+      "offer_count": 394,
+      "avg_price": 2631,
+      "min_price": 500,
+      "max_price": 11000
+    },
+    {
+      "name": "Bemowo",
+      "offer_count": 320,
+      "avg_price": 2616,
+      "min_price": 550,
+      "max_price": 15000
+    },
+    {
+      "name": "Bielany",
+      "offer_count": 366,
+      "avg_price": 2585,
+      "min_price": 600,
+      "max_price": 10000
+    },
+    {
+      "name": "Praga Południe",
+      "offer_count": 13,
+      "avg_price": 2577,
+      "min_price": 1250,
+      "max_price": 4900
+    },
+    {
+      "name": "PRAGA",
+      "offer_count": 63,
+      "avg_price": 2510,
+      "min_price": 700,
+      "max_price": 9500
+    },
+    {
+      "name": "Centrum",
+      "offer_count": 12,
+      "avg_price": 2303,
+      "min_price": 1100,
+      "max_price": 3999
+    },
+    {
+      "name": "Targówek",
+      "offer_count": 311,
+      "avg_price": 2224,
+      "min_price": 550,
+      "max_price": 9500
+    },
+    {
+      "name": "Ursynowie",
+      "offer_count": 12,
+      "avg_price": 2171,
+      "min_price": 1000,
+      "max_price": 4500
+    },
+    {
+      "name": "Rembertów",
+      "offer_count": 52,
+      "avg_price": 2082,
+      "min_price": 699,
+      "max_price": 4000
+    },
+    {
+      "name": "English",
+      "offer_count": 25,
+      "avg_price": 1998,
+      "min_price": 840,
+      "max_price": 5600
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 1940,
+      "avg_price": 2435,
+      "median_price": 2350,
+      "avg_area": 33,
+      "price_per_m2": 94
+    },
+    {
+      "rooms": 2,
+      "offer_count": 2486,
+      "avg_price": 3581,
+      "median_price": 3300,
+      "avg_area": 47,
+      "price_per_m2": 85
+    },
+    {
+      "rooms": 3,
+      "offer_count": 2082,
+      "avg_price": 4706,
+      "median_price": 4200,
+      "avg_area": 66,
+      "price_per_m2": 83
+    },
+    {
+      "rooms": 4,
+      "offer_count": 793,
+      "avg_price": 5984,
+      "median_price": 5900,
+      "avg_area": 92,
+      "price_per_m2": 83
+    },
+    {
+      "rooms": 5,
+      "offer_count": 328,
+      "avg_price": 3950,
+      "median_price": 1290,
+      "avg_area": 100,
+      "price_per_m2": 82
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 3966,
+      "pct": 46.4
+    },
+    {
+      "source": "otodom",
+      "offer_count": 1557,
+      "pct": 18.2
+    },
+    {
+      "source": "gratka",
+      "offer_count": 872,
+      "pct": 10.2
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 796,
+      "pct": 9.3
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 539,
+      "pct": 6.3
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 530,
+      "pct": 6.2
+    },
+    {
+      "source": "morizon",
+      "offer_count": 288,
+      "pct": 3.4
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 454
+    },
+    {
+      "price": 1000,
+      "count": 1129
+    },
+    {
+      "price": 1500,
+      "count": 730
+    },
+    {
+      "price": 2000,
+      "count": 646
+    },
+    {
+      "price": 2500,
+      "count": 1118
+    },
+    {
+      "price": 3000,
+      "count": 980
+    },
+    {
+      "price": 3500,
+      "count": 842
+    },
+    {
+      "price": 4000,
+      "count": 483
+    },
+    {
+      "price": 4500,
+      "count": 381
+    },
+    {
+      "price": 5000,
+      "count": 246
+    },
+    {
+      "price": 5500,
+      "count": 246
+    },
+    {
+      "price": 6000,
+      "count": 166
+    },
+    {
+      "price": 6500,
+      "count": 163
+    },
+    {
+      "price": 7000,
+      "count": 112
+    },
+    {
+      "price": 7500,
+      "count": 120
+    },
+    {
+      "price": 8000,
+      "count": 95
+    },
+    {
+      "price": 8500,
+      "count": 85
+    },
+    {
+      "price": 9000,
+      "count": 72
+    },
+    {
+      "price": 9500,
+      "count": 76
+    },
+    {
+      "price": 10000,
+      "count": 61
+    },
+    {
+      "price": 10500,
+      "count": 42
+    },
+    {
+      "price": 11000,
+      "count": 35
+    },
+    {
+      "price": 11500,
+      "count": 37
+    },
+    {
+      "price": 12000,
+      "count": 58
+    },
+    {
+      "price": 12500,
+      "count": 25
+    },
+    {
+      "price": 13000,
+      "count": 29
+    },
+    {
+      "price": 13500,
+      "count": 25
+    },
+    {
+      "price": 14000,
+      "count": 39
+    },
+    {
+      "price": 14500,
+      "count": 16
+    },
+    {
+      "price": 15000,
+      "count": 37
+    }
+  ],
+  "generated_month": "2026-03",
+  "generated_at": "2026-04-01T01:00:00.288334+02:00",
+  "data_as_of": "2026-04-01T01:00:00.288334+02:00"
+}

@@ -1,0 +1,286 @@
+{
+  "city_slug": "poznan",
+  "overview": {
+    "total_offers": 2896,
+    "avg_price": 2058,
+    "median_price": 1900,
+    "min_price": 500,
+    "max_price": 10000,
+    "avg_price_per_m2": 59,
+    "avg_area": 47
+  },
+  "districts": [
+    {
+      "name": "zamknięte",
+      "offer_count": 13,
+      "avg_price": 2938,
+      "min_price": 900,
+      "max_price": 6200
+    },
+    {
+      "name": "Poznan",
+      "offer_count": 104,
+      "avg_price": 2498,
+      "min_price": 600,
+      "max_price": 8400
+    },
+    {
+      "name": "Stare Miasto",
+      "offer_count": 403,
+      "avg_price": 2352,
+      "min_price": 540,
+      "max_price": 10000
+    },
+    {
+      "name": "Nowe Miasto",
+      "offer_count": 166,
+      "avg_price": 2306,
+      "min_price": 500,
+      "max_price": 8600
+    },
+    {
+      "name": "Grunwald",
+      "offer_count": 314,
+      "avg_price": 2280,
+      "min_price": 500,
+      "max_price": 9000
+    },
+    {
+      "name": "Jeżyce",
+      "offer_count": 295,
+      "avg_price": 2251,
+      "min_price": 527,
+      "max_price": 8000
+    },
+    {
+      "name": "Poznania",
+      "offer_count": 18,
+      "avg_price": 2216,
+      "min_price": 800,
+      "max_price": 4950
+    },
+    {
+      "name": "bloków mieszkalnych",
+      "offer_count": 24,
+      "avg_price": 2161,
+      "min_price": 744,
+      "max_price": 3800
+    },
+    {
+      "name": "Wilda",
+      "offer_count": 191,
+      "avg_price": 2151,
+      "min_price": 500,
+      "max_price": 10000
+    },
+    {
+      "name": "Poznaniu",
+      "offer_count": 34,
+      "avg_price": 1897,
+      "min_price": 750,
+      "max_price": 4500
+    },
+    {
+      "name": "Naramowice",
+      "offer_count": 66,
+      "avg_price": 1721,
+      "min_price": 600,
+      "max_price": 4800
+    },
+    {
+      "name": "Rataje",
+      "offer_count": 112,
+      "avg_price": 1570,
+      "min_price": 500,
+      "max_price": 4000
+    },
+    {
+      "name": "Łazarz",
+      "offer_count": 106,
+      "avg_price": 1565,
+      "min_price": 500,
+      "max_price": 3900
+    },
+    {
+      "name": "Winogrady",
+      "offer_count": 132,
+      "avg_price": 1411,
+      "min_price": 500,
+      "max_price": 4500
+    },
+    {
+      "name": "Os.",
+      "offer_count": 28,
+      "avg_price": 1348,
+      "min_price": 550,
+      "max_price": 2900
+    },
+    {
+      "name": "Piątkowo",
+      "offer_count": 153,
+      "avg_price": 1306,
+      "min_price": 500,
+      "max_price": 3500
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 887,
+      "avg_price": 1569,
+      "median_price": 1600,
+      "avg_area": 30,
+      "price_per_m2": 67
+    },
+    {
+      "rooms": 2,
+      "offer_count": 822,
+      "avg_price": 2338,
+      "median_price": 2300,
+      "avg_area": 52,
+      "price_per_m2": 57
+    },
+    {
+      "rooms": 3,
+      "offer_count": 624,
+      "avg_price": 2463,
+      "median_price": 2300,
+      "avg_area": 57,
+      "price_per_m2": 55
+    },
+    {
+      "rooms": 4,
+      "offer_count": 238,
+      "avg_price": 2196,
+      "median_price": 1250,
+      "avg_area": 64,
+      "price_per_m2": 57
+    },
+    {
+      "rooms": 5,
+      "offer_count": 50,
+      "avg_price": 1797,
+      "median_price": 1000,
+      "avg_area": 60,
+      "price_per_m2": 54
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 1713,
+      "pct": 59.2
+    },
+    {
+      "source": "otodom",
+      "offer_count": 690,
+      "pct": 23.8
+    },
+    {
+      "source": "gratka",
+      "offer_count": 189,
+      "pct": 6.5
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 132,
+      "pct": 4.6
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 66,
+      "pct": 2.3
+    },
+    {
+      "source": "morizon",
+      "offer_count": 65,
+      "pct": 2.2
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 41,
+      "pct": 1.4
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 580
+    },
+    {
+      "price": 1000,
+      "count": 483
+    },
+    {
+      "price": 1500,
+      "count": 446
+    },
+    {
+      "price": 2000,
+      "count": 523
+    },
+    {
+      "price": 2500,
+      "count": 367
+    },
+    {
+      "price": 3000,
+      "count": 182
+    },
+    {
+      "price": 3500,
+      "count": 114
+    },
+    {
+      "price": 4000,
+      "count": 60
+    },
+    {
+      "price": 4500,
+      "count": 54
+    },
+    {
+      "price": 5000,
+      "count": 25
+    },
+    {
+      "price": 5500,
+      "count": 16
+    },
+    {
+      "price": 6000,
+      "count": 10
+    },
+    {
+      "price": 6500,
+      "count": 14
+    },
+    {
+      "price": 7000,
+      "count": 3
+    },
+    {
+      "price": 7500,
+      "count": 5
+    },
+    {
+      "price": 8000,
+      "count": 7
+    },
+    {
+      "price": 8500,
+      "count": 3
+    },
+    {
+      "price": 9000,
+      "count": 1
+    },
+    {
+      "price": 10000,
+      "count": 3
+    }
+  ],
+  "generated_month": "2026-03",
+  "generated_at": "2026-04-01T01:00:00.494215+02:00",
+  "data_as_of": "2026-04-01T01:00:00.494215+02:00"
+}

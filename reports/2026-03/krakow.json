@@ -1,0 +1,520 @@
+{
+  "city_slug": "krakow",
+  "overview": {
+    "total_offers": 4593,
+    "avg_price": 2660,
+    "median_price": 2430,
+    "min_price": 500,
+    "max_price": 15000,
+    "avg_price_per_m2": 69,
+    "avg_area": 50
+  },
+  "districts": [
+    {
+      "name": "Wola Justowska",
+      "offer_count": 18,
+      "avg_price": 4389,
+      "min_price": 1200,
+      "max_price": 12500
+    },
+    {
+      "name": "Zwierzyniec",
+      "offer_count": 83,
+      "avg_price": 3807,
+      "min_price": 500,
+      "max_price": 12900
+    },
+    {
+      "name": "Kazimierz",
+      "offer_count": 58,
+      "avg_price": 3640,
+      "min_price": 800,
+      "max_price": 11500
+    },
+    {
+      "name": "Zabłocie",
+      "offer_count": 16,
+      "avg_price": 3553,
+      "min_price": 2200,
+      "max_price": 5000
+    },
+    {
+      "name": "Stare Miastoul",
+      "offer_count": 12,
+      "avg_price": 3545,
+      "min_price": 2050,
+      "max_price": 6400
+    },
+    {
+      "name": "Salwator",
+      "offer_count": 13,
+      "avg_price": 3527,
+      "min_price": 2100,
+      "max_price": 9000
+    },
+    {
+      "name": "Podgórze",
+      "offer_count": 53,
+      "avg_price": 3459,
+      "min_price": 650,
+      "max_price": 12000
+    },
+    {
+      "name": "Kraków",
+      "offer_count": 68,
+      "avg_price": 3415,
+      "min_price": 550,
+      "max_price": 13000
+    },
+    {
+      "name": "Stare Miasto",
+      "offer_count": 373,
+      "avg_price": 3395,
+      "min_price": 500,
+      "max_price": 14000
+    },
+    {
+      "name": "Krakowa",
+      "offer_count": 15,
+      "avg_price": 3367,
+      "min_price": 2200,
+      "max_price": 7300
+    },
+    {
+      "name": "monitorowane",
+      "offer_count": 14,
+      "avg_price": 3334,
+      "min_price": 600,
+      "max_price": 4861
+    },
+    {
+      "name": "zamknięte",
+      "offer_count": 17,
+      "avg_price": 3271,
+      "min_price": 700,
+      "max_price": 6200
+    },
+    {
+      "name": "Prądnik",
+      "offer_count": 38,
+      "avg_price": 3184,
+      "min_price": 500,
+      "max_price": 12900
+    },
+    {
+      "name": "Krowodrzaul",
+      "offer_count": 15,
+      "avg_price": 2990,
+      "min_price": 2000,
+      "max_price": 4600
+    },
+    {
+      "name": "Grzegórzki",
+      "offer_count": 290,
+      "avg_price": 2989,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "Swoszowice",
+      "offer_count": 39,
+      "avg_price": 2954,
+      "min_price": 521,
+      "max_price": 5000
+    },
+    {
+      "name": "Grzegórzkiul",
+      "offer_count": 15,
+      "avg_price": 2953,
+      "min_price": 750,
+      "max_price": 6000
+    },
+    {
+      "name": "Łobzów",
+      "offer_count": 10,
+      "avg_price": 2908,
+      "min_price": 1800,
+      "max_price": 4600
+    },
+    {
+      "name": "bloków mieszkalnych",
+      "offer_count": 25,
+      "avg_price": 2832,
+      "min_price": 1700,
+      "max_price": 4000
+    },
+    {
+      "name": "Łagiewniki-Borek Fałęcki",
+      "offer_count": 29,
+      "avg_price": 2779,
+      "min_price": 650,
+      "max_price": 5900
+    },
+    {
+      "name": "Stare Podgórze",
+      "offer_count": 262,
+      "avg_price": 2747,
+      "min_price": 500,
+      "max_price": 12000
+    },
+    {
+      "name": "Dębniki",
+      "offer_count": 281,
+      "avg_price": 2674,
+      "min_price": 500,
+      "max_price": 11000
+    },
+    {
+      "name": "Płaszów",
+      "offer_count": 13,
+      "avg_price": 2618,
+      "min_price": 1100,
+      "max_price": 4400
+    },
+    {
+      "name": "Podgórzeul",
+      "offer_count": 14,
+      "avg_price": 2593,
+      "min_price": 1600,
+      "max_price": 4400
+    },
+    {
+      "name": "Ruczajul",
+      "offer_count": 10,
+      "avg_price": 2580,
+      "min_price": 650,
+      "max_price": 3800
+    },
+    {
+      "name": "domów wielorodzinnych",
+      "offer_count": 20,
+      "avg_price": 2577,
+      "min_price": 700,
+      "max_price": 4000
+    },
+    {
+      "name": "Bronowice",
+      "offer_count": 210,
+      "avg_price": 2516,
+      "min_price": 500,
+      "max_price": 8000
+    },
+    {
+      "name": "Krowodrza",
+      "offer_count": 367,
+      "avg_price": 2396,
+      "min_price": 505,
+      "max_price": 9300
+    },
+    {
+      "name": "Kurdwanów",
+      "offer_count": 14,
+      "avg_price": 2311,
+      "min_price": 900,
+      "max_price": 3300
+    },
+    {
+      "name": "Ruczaj",
+      "offer_count": 41,
+      "avg_price": 2309,
+      "min_price": 900,
+      "max_price": 5400
+    },
+    {
+      "name": "Prądnik Biały",
+      "offer_count": 267,
+      "avg_price": 2280,
+      "min_price": 500,
+      "max_price": 8900
+    },
+    {
+      "name": "Czyżyny",
+      "offer_count": 145,
+      "avg_price": 2229,
+      "min_price": 500,
+      "max_price": 7500
+    },
+    {
+      "name": "Podgórze Duchackie",
+      "offer_count": 163,
+      "avg_price": 2227,
+      "min_price": 500,
+      "max_price": 8000
+    },
+    {
+      "name": "Nowa Huta",
+      "offer_count": 74,
+      "avg_price": 2219,
+      "min_price": 620,
+      "max_price": 4000
+    },
+    {
+      "name": "Łagiewniki",
+      "offer_count": 159,
+      "avg_price": 2186,
+      "min_price": 600,
+      "max_price": 5500
+    },
+    {
+      "name": "Mistrzejowice",
+      "offer_count": 98,
+      "avg_price": 2156,
+      "min_price": 500,
+      "max_price": 4800
+    },
+    {
+      "name": "Prądniku",
+      "offer_count": 11,
+      "avg_price": 2105,
+      "min_price": 650,
+      "max_price": 3450
+    },
+    {
+      "name": "Bieżanów-Prokocim",
+      "offer_count": 139,
+      "avg_price": 2092,
+      "min_price": 500,
+      "max_price": 6500
+    },
+    {
+      "name": "Wzgórza Krzesławickie",
+      "offer_count": 22,
+      "avg_price": 2064,
+      "min_price": 680,
+      "max_price": 3500
+    },
+    {
+      "name": "Prądnik Czerwony",
+      "offer_count": 292,
+      "avg_price": 2055,
+      "min_price": 500,
+      "max_price": 6000
+    },
+    {
+      "name": "Bieżanów",
+      "offer_count": 11,
+      "avg_price": 1977,
+      "min_price": 600,
+      "max_price": 3300
+    },
+    {
+      "name": "Bieńczyce",
+      "offer_count": 91,
+      "avg_price": 1922,
+      "min_price": 600,
+      "max_price": 4000
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 44,
+      "avg_price": 1532,
+      "min_price": 550,
+      "max_price": 4700
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 1117,
+      "avg_price": 2104,
+      "median_price": 2000,
+      "avg_area": 39,
+      "price_per_m2": 77
+    },
+    {
+      "rooms": 2,
+      "offer_count": 1413,
+      "avg_price": 2681,
+      "median_price": 2650,
+      "avg_area": 46,
+      "price_per_m2": 64
+    },
+    {
+      "rooms": 3,
+      "offer_count": 1042,
+      "avg_price": 3085,
+      "median_price": 3000,
+      "avg_area": 60,
+      "price_per_m2": 69
+    },
+    {
+      "rooms": 4,
+      "offer_count": 274,
+      "avg_price": 3831,
+      "median_price": 3150,
+      "avg_area": 78,
+      "price_per_m2": 62
+    },
+    {
+      "rooms": 5,
+      "offer_count": 77,
+      "avg_price": 3233,
+      "median_price": 1270,
+      "avg_area": 74,
+      "price_per_m2": 72
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 2190,
+      "pct": 47.7
+    },
+    {
+      "source": "otodom",
+      "offer_count": 614,
+      "pct": 13.4
+    },
+    {
+      "source": "gratka",
+      "offer_count": 552,
+      "pct": 12.0
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 475,
+      "pct": 10.3
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 286,
+      "pct": 6.2
+    },
+    {
+      "source": "morizon",
+      "offer_count": 254,
+      "pct": 5.5
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 118,
+      "pct": 2.6
+    },
+    {
+      "source": "krn",
+      "offer_count": 104,
+      "pct": 2.3
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 384
+    },
+    {
+      "price": 1000,
+      "count": 655
+    },
+    {
+      "price": 1500,
+      "count": 553
+    },
+    {
+      "price": 2000,
+      "count": 741
+    },
+    {
+      "price": 2500,
+      "count": 820
+    },
+    {
+      "price": 3000,
+      "count": 510
+    },
+    {
+      "price": 3500,
+      "count": 348
+    },
+    {
+      "price": 4000,
+      "count": 140
+    },
+    {
+      "price": 4500,
+      "count": 120
+    },
+    {
+      "price": 5000,
+      "count": 69
+    },
+    {
+      "price": 5500,
+      "count": 59
+    },
+    {
+      "price": 6000,
+      "count": 46
+    },
+    {
+      "price": 6500,
+      "count": 31
+    },
+    {
+      "price": 7000,
+      "count": 14
+    },
+    {
+      "price": 7500,
+      "count": 15
+    },
+    {
+      "price": 8000,
+      "count": 16
+    },
+    {
+      "price": 8500,
+      "count": 11
+    },
+    {
+      "price": 9000,
+      "count": 8
+    },
+    {
+      "price": 9500,
+      "count": 13
+    },
+    {
+      "price": 10000,
+      "count": 6
+    },
+    {
+      "price": 10500,
+      "count": 1
+    },
+    {
+      "price": 11000,
+      "count": 3
+    },
+    {
+      "price": 11500,
+      "count": 2
+    },
+    {
+      "price": 12000,
+      "count": 7
+    },
+    {
+      "price": 12500,
+      "count": 5
+    },
+    {
+      "price": 13000,
+      "count": 13
+    },
+    {
+      "price": 13500,
+      "count": 1
+    },
+    {
+      "price": 14000,
+      "count": 1
+    },
+    {
+      "price": 15000,
+      "count": 1
+    }
+  ],
+  "generated_month": "2026-03",
+  "generated_at": "2026-04-01T01:00:00.136597+02:00",
+  "data_as_of": "2026-04-01T01:00:00.136597+02:00"
+}
