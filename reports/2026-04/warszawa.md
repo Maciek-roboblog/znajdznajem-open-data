@@ -99,7 +99,7 @@
 
 ## Streszczenie
 
-W kwietniu 2026 na rynku wynajmu w Warszawie odnotowaliśmy 9 782 aktywnych ofert wśród 10 tysięcy ogłoszeń z 10 największych portali. Mediana ceny to 2 950 zł miesięcznie.
+Kwiecień 2026
 
 Dane są agregatem publicznych ogłoszeń z OLX, Otodom, Gratka, Morizon i 6 innych portali. Wszystkie liczby są dostępne jako open data w repozytorium GitHub (patrz sekcja [Dane źródłowe](#dane-źródłowe)).
 
@@ -154,4 +154,4 @@ MIT — wolno cytować, forkować, remixować. Preferowana atrybucja:
 
 ---
 
-*Raport wygenerowany automatycznie 2026-04-24T05:47:32 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
+*Raport wygenerowany automatycznie 2026-04-24T05:51:15 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
