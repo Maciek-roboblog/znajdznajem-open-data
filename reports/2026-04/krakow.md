@@ -99,7 +99,7 @@
 
 ## Streszczenie
 
-Rynek wynajmu w Krak
+Krakowski rynek wynajmu w kwietniu 2026 roku charakteryzuje się znaczną podażą, z 6014 aktywnymi ofertami i blisko 1800 nowymi w ostatnim tygodniu. Mediana ceny wynosi 2500 zł, co przy cenie 68 zł/m² wskazuje, że najczęściej poszukiwane są mieszkania w przedziale 2500-2999 zł. Widoczna jest duża dysproporcja cenowa między dzielnicami, gdzie Nowa Huta pozostaje najtańsza, a Stare Miasto najdroższe, co pozwala na dopasowanie oferty do różnych budżetów.
 
 Dane są agregatem publicznych ogłoszeń z OLX, Otodom, Gratka, Morizon i 6 innych portali. Wszystkie liczby są dostępne jako open data w repozytorium GitHub (patrz sekcja [Dane źródłowe](#dane-źródłowe)).
 
@@ -154,4 +154,4 @@ MIT — wolno cytować, forkować, remixować. Preferowana atrybucja:
 
 ---
 
-*Raport wygenerowany automatycznie 2026-04-24T05:51:13 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
+*Raport wygenerowany automatycznie 2026-04-24T05:52:23 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*

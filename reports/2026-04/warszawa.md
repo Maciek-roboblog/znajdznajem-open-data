@@ -99,7 +99,7 @@
 
 ## Streszczenie
 
-Kwiecień 2026
+Rynek wynajmu w Warszawie w kwietniu 2026 roku charakteryzuje się wysoką podażą blisko 9,8 tys. aktywnych ofert, z medianą ceny 2950 zł miesięcznie (84 zł/m²). Co ciekawe, najczęstsze widełki cenowe 1000-1499 zł sugerują dominację mniejszych lokali lub pokoi, co może być kluczowe dla najemców z ograniczonym budżetem. Dysproporcje cenowe między najtańszym Rembertów a najdroższym Wilanowem pozostają znaczące. W ciągu ostatniego tygodnia pojawiło się 2633 nowych ofert.
 
 Dane są agregatem publicznych ogłoszeń z OLX, Otodom, Gratka, Morizon i 6 innych portali. Wszystkie liczby są dostępne jako open data w repozytorium GitHub (patrz sekcja [Dane źródłowe](#dane-źródłowe)).
 
@@ -154,4 +154,4 @@ MIT — wolno cytować, forkować, remixować. Preferowana atrybucja:
 
 ---
 
-*Raport wygenerowany automatycznie 2026-04-24T05:51:15 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
+*Raport wygenerowany automatycznie 2026-04-24T05:52:24 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
