@@ -13,3 +13,10 @@ Weekly snapshot + reports for **2026-04**.
 
 - **Kraków**: 6 014 aktywne · mediana 2 500 zł · 68 zł/m²
 - **Warszawa**: 9 782 aktywne · mediana 2 950 zł · 84 zł/m²
+
+## 2026-W17 — 2026-04-24
+
+Weekly snapshot + reports for **2026-04**.
+
+- **Kraków**: 6 014 aktywne · mediana 2 500 zł · 68 zł/m²
+- **Warszawa**: 9 782 aktywne · mediana 2 950 zł · 84 zł/m²

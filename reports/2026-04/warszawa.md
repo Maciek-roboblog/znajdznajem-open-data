@@ -154,4 +154,4 @@ MIT — wolno cytować, forkować, remixować. Preferowana atrybucja:
 
 ---
 
-*Raport wygenerowany automatycznie 2026-04-24T05:40:06 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
+*Raport wygenerowany automatycznie 2026-04-24T05:47:32 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
