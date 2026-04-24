@@ -2,7 +2,7 @@
 
 For quotes, custom data cuts, or interview requests:
 
-- **Email**: press@znajdznajem.pl
+- **Email**: admin@znajdznajem.pl
 - **Response time**: best-effort, typically <48h on weekdays
 
 ## Preferred citation
