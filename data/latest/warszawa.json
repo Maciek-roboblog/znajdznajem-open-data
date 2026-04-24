@@ -6,7 +6,7 @@
   "new_offers_url": "https://znajdznajem.pl/warszawa/nowe-oferty",
   "students_url": "https://znajdznajem.pl/warszawa/dla-studentow",
   "rooms_url": "https://znajdznajem.pl/warszawa/pokoje",
-  "active_offers": 9780,
+  "active_offers": 9782,
   "median_price": 2950,
   "avg_price_per_m2": 84,
   "avg_price": 3531,
@@ -15,5 +15,5 @@
   "top_source": "olx",
   "top_price_range": "1 000-1 499 zł",
   "new_offers_last_day": 12,
-  "new_offers_last_7d": 2633
+  "new_offers_last_7d": 2634
 }

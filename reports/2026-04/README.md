@@ -4,8 +4,8 @@
 
 ## Miasta w tym raporcie
 
-- **[Kraków](./krakow.md)** — 6 013 ofert, mediana 2 500 zł/mies.
-- **[Warszawa](./warszawa.md)** — 9 780 ofert, mediana 2 950 zł/mies.
+- **[Kraków](./krakow.md)** — 6 014 ofert, mediana 2 500 zł/mies.
+- **[Warszawa](./warszawa.md)** — 9 782 ofert, mediana 2 950 zł/mies.
 
 ## Kontakt prasowy
 

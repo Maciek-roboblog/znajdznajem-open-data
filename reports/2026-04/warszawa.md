@@ -6,7 +6,7 @@
   "@context": "https://schema.org",
   "@type": "Dataset",
   "name": "Rynek wynajmu w Warszawie — raport kwiecień 2026",
-  "description": "Miesięczny agregat aktywnych ofert wynajmu w Warszawie (kwiecień 2026). 9 780 aktywnych ofert · mediana 2 950 zł miesięcznie. Źródło: agregat z 10 polskich portali ogłoszeniowych (OLX, Otodom, Gratka, Morizon i 6 innych). Aktualizacja: tygodniowa. License: MIT.",
+  "description": "Miesięczny agregat aktywnych ofert wynajmu w Warszawie (kwiecień 2026). 9 782 aktywnych ofert · mediana 2 950 zł miesięcznie. Źródło: agregat z 10 polskich portali ogłoszeniowych (OLX, Otodom, Gratka, Morizon i 6 innych). Aktualizacja: tygodniowa. License: MIT.",
   "url": "https://github.com/Maciek-roboblog/znajdznajem-open-data/blob/main/reports/2026-04/warszawa.md",
   "sameAs": "https://znajdznajem.pl/warszawa/raport",
   "temporalCoverage": "2026-04",
@@ -86,18 +86,20 @@
 </script>
 -->
 
+![Rynek wynajmu w Warszawie — kwiecień 2026](warszawa-og.png)
+
 > **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **9 780** aktywnych ofert wynajmu w Warszawie w kwietniu 2026
+- **9 782** aktywnych ofert wynajmu w Warszawie w kwietniu 2026
 - Mediana: **2 950 zł/mies.** · cena za m²: **84 zł**
 - Najwięcej ofert w widełkach **1 000-1 499 zł**
 - Najtańsza dzielnica: **Rembertów** · najdroższa: **Wilanów**
 
 ## Streszczenie
 
-W kwietniu 2026 na rynku wynajmu w Warszawie odnotowaliśmy 9 780 aktywnych ofert wśród 10 tysięcy ogłoszeń z 10 największych portali. Mediana ceny to 2 950 zł miesięcznie.
+W kwietniu 2026 na rynku wynajmu w Warszawie odnotowaliśmy 9 782 aktywnych ofert wśród 10 tysięcy ogłoszeń z 10 największych portali. Mediana ceny to 2 950 zł miesięcznie.
 
 Dane są agregatem publicznych ogłoszeń z OLX, Otodom, Gratka, Morizon i 6 innych portali. Wszystkie liczby są dostępne jako open data w repozytorium GitHub (patrz sekcja [Dane źródłowe](#dane-źródłowe)).
 
@@ -105,7 +107,7 @@ Dane są agregatem publicznych ogłoszeń z OLX, Otodom, Gratka, Morizon i 6 inn
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 9 780 |
+| Aktywne oferty | 9 782 |
 | Mediana ceny miesięcznej | 2 950 zł |
 | Średnia cena za m² | 84 zł |
 | Najczęstsze widełki cenowe | 1 000-1 499 zł |
@@ -152,4 +154,4 @@ MIT — wolno cytować, forkować, remixować. Preferowana atrybucja:
 
 ---
 
-*Raport wygenerowany automatycznie 2026-04-24T04:19:56 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
+*Raport wygenerowany automatycznie 2026-04-24T05:36:38 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*

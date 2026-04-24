@@ -6,7 +6,7 @@
   "@context": "https://schema.org",
   "@type": "Dataset",
   "name": "Rynek wynajmu w Krakowie — raport kwiecień 2026",
-  "description": "Miesięczny agregat aktywnych ofert wynajmu w Krakowie (kwiecień 2026). 6 013 aktywnych ofert · mediana 2 500 zł miesięcznie. Źródło: agregat z 10 polskich portali ogłoszeniowych (OLX, Otodom, Gratka, Morizon i 6 innych). Aktualizacja: tygodniowa. License: MIT.",
+  "description": "Miesięczny agregat aktywnych ofert wynajmu w Krakowie (kwiecień 2026). 6 014 aktywnych ofert · mediana 2 500 zł miesięcznie. Źródło: agregat z 10 polskich portali ogłoszeniowych (OLX, Otodom, Gratka, Morizon i 6 innych). Aktualizacja: tygodniowa. License: MIT.",
   "url": "https://github.com/Maciek-roboblog/znajdznajem-open-data/blob/main/reports/2026-04/krakow.md",
   "sameAs": "https://znajdznajem.pl/krakow/raport",
   "temporalCoverage": "2026-04",
@@ -86,18 +86,20 @@
 </script>
 -->
 
+![Rynek wynajmu w Krakowie — kwiecień 2026](krakow-og.png)
+
 > **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **6 013** aktywnych ofert wynajmu w Krakowie w kwietniu 2026
+- **6 014** aktywnych ofert wynajmu w Krakowie w kwietniu 2026
 - Mediana: **2 500 zł/mies.** · cena za m²: **68 zł**
 - Najwięcej ofert w widełkach **2 500-2 999 zł**
 - Najtańsza dzielnica: **Nowa Huta** · najdroższa: **Stare Miasto**
 
 ## Streszczenie
 
-W kwietniu 2026 na rynku wynajmu w Krakowie odnotowaliśmy 6 013 aktywnych ofert wśród 7 tysięcy ogłoszeń z 10 największych portali. Mediana ceny to 2 500 zł miesięcznie.
+W kwietniu 2026 na rynku wynajmu w Krakowie odnotowaliśmy 6 014 aktywnych ofert wśród 7 tysięcy ogłoszeń z 10 największych portali. Mediana ceny to 2 500 zł miesięcznie.
 
 Dane są agregatem publicznych ogłoszeń z OLX, Otodom, Gratka, Morizon i 6 innych portali. Wszystkie liczby są dostępne jako open data w repozytorium GitHub (patrz sekcja [Dane źródłowe](#dane-źródłowe)).
 
@@ -105,7 +107,7 @@ Dane są agregatem publicznych ogłoszeń z OLX, Otodom, Gratka, Morizon i 6 inn
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 6 013 |
+| Aktywne oferty | 6 014 |
 | Mediana ceny miesięcznej | 2 500 zł |
 | Średnia cena za m² | 68 zł |
 | Najczęstsze widełki cenowe | 2 500-2 999 zł |
@@ -152,4 +154,4 @@ MIT — wolno cytować, forkować, remixować. Preferowana atrybucja:
 
 ---
 
-*Raport wygenerowany automatycznie 2026-04-24T04:19:56 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
+*Raport wygenerowany automatycznie 2026-04-24T05:36:38 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
