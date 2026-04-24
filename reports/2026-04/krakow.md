@@ -1,17 +1,103 @@
 # Rynek wynajmu w Krakowie — raport kwiecień 2026
 
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Rynek wynajmu w Krakowie — raport kwiecień 2026",
+  "description": "Miesięczny agregat aktywnych ofert wynajmu w Krakowie (kwiecień 2026). 6 013 aktywnych ofert · mediana 2 500 zł miesięcznie. Źródło: agregat z 10 polskich portali ogłoszeniowych (OLX, Otodom, Gratka, Morizon i 6 innych). Aktualizacja: tygodniowa. License: MIT.",
+  "url": "https://github.com/Maciek-roboblog/znajdznajem-open-data/blob/main/reports/2026-04/krakow.md",
+  "sameAs": "https://znajdznajem.pl/krakow/raport",
+  "temporalCoverage": "2026-04",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Kraków",
+    "containedInPlace": {
+      "@type": "Country",
+      "name": "Poland"
+    }
+  },
+  "creator": {
+    "@type": "Organization",
+    "name": "ZnajdzNajem",
+    "url": "https://znajdznajem.pl",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "admin@znajdznajem.pl",
+      "contactType": "Press"
+    }
+  },
+  "license": "https://opensource.org/licenses/MIT",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "rynek najmu",
+    "wynajem mieszkań",
+    "ceny najmu Kraków",
+    "open data",
+    "Polska",
+    "Kraków"
+  ],
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "active_offers",
+      "description": "Liczba aktywnych ofert (60-day window)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "median_price",
+      "description": "Mediana ceny miesięcznej (zł)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "avg_price_per_m2",
+      "description": "Średnia cena za metr kwadratowy (zł)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "top_price_range",
+      "description": "Najczęstsze widełki cenowe"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "cheapest_district",
+      "description": "Dzielnica z najniższą medianą"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "most_expensive_district",
+      "description": "Dzielnica z najwyższą medianą"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/Maciek-roboblog/znajdznajem-open-data/main/data/latest/city-stats.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://raw.githubusercontent.com/Maciek-roboblog/znajdznajem-open-data/main/data/latest/krakow.json"
+    }
+  ]
+}
+</script>
+-->
+
 > **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **6 027** aktywnych ofert wynajmu w Krakowie w kwietniu 2026
+- **6 013** aktywnych ofert wynajmu w Krakowie w kwietniu 2026
 - Mediana: **2 500 zł/mies.** · cena za m²: **68 zł**
 - Najwięcej ofert w widełkach **2 500-2 999 zł**
 - Najtańsza dzielnica: **Nowa Huta** · najdroższa: **Stare Miasto**
 
 ## Streszczenie
 
-W kwietniu 2026 na rynku wynajmu w Krakowie odnotowaliśmy 6 027 aktywnych ofert wśród 7 tysięcy ogłoszeń z 10 największych portali. Mediana ceny to 2 500 zł miesięcznie.
+W kwietniu 2026 na rynku wynajmu w Krakowie odnotowaliśmy 6 013 aktywnych ofert wśród 7 tysięcy ogłoszeń z 10 największych portali. Mediana ceny to 2 500 zł miesięcznie.
 
 Dane są agregatem publicznych ogłoszeń z OLX, Otodom, Gratka, Morizon i 6 innych portali. Wszystkie liczby są dostępne jako open data w repozytorium GitHub (patrz sekcja [Dane źródłowe](#dane-źródłowe)).
 
@@ -19,13 +105,13 @@ Dane są agregatem publicznych ogłoszeń z OLX, Otodom, Gratka, Morizon i 6 inn
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 6 027 |
+| Aktywne oferty | 6 013 |
 | Mediana ceny miesięcznej | 2 500 zł |
 | Średnia cena za m² | 68 zł |
 | Najczęstsze widełki cenowe | 2 500-2 999 zł |
 | Najtańsza dzielnica | Nowa Huta |
 | Najdroższa dzielnica | Stare Miasto |
-| Nowych ofert wczoraj | 11 |
+| Nowych ofert wczoraj | 13 |
 
 ## Co to znaczy dla najemców
 
@@ -66,4 +152,4 @@ MIT — wolno cytować, forkować, remixować. Preferowana atrybucja:
 
 ---
 
-*Raport wygenerowany automatycznie 2026-04-24T03:01:42 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*
+*Raport wygenerowany automatycznie 2026-04-24T04:19:27 przez pipeline Jenkins `znajdznajem/marketing-weekly`.*

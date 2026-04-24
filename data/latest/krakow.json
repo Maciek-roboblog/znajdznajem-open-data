@@ -6,14 +6,14 @@
   "new_offers_url": "https://znajdznajem.pl/krakow/nowe-oferty",
   "students_url": "https://znajdznajem.pl/krakow/dla-studentow",
   "rooms_url": "https://znajdznajem.pl/krakow/pokoje",
-  "active_offers": 6027,
+  "active_offers": 6013,
   "median_price": 2500,
   "avg_price_per_m2": 68,
-  "avg_price": 2735,
+  "avg_price": 2734,
   "cheapest_district": "Nowa Huta",
   "expensive_district": "Stare Miasto",
   "top_source": "olx",
   "top_price_range": "2 500-2 999 zł",
-  "new_offers_last_day": 11,
-  "new_offers_last_7d": 1806
+  "new_offers_last_day": 13,
+  "new_offers_last_7d": 1807
 }
