@@ -1,0 +1,318 @@
+{
+  "city_slug": "krakow",
+  "overview": {
+    "total_offers": 18507,
+    "avg_price": 2861,
+    "median_price": 2700,
+    "min_price": 500,
+    "max_price": 15000,
+    "avg_price_per_m2": 69,
+    "avg_area": 46
+  },
+  "districts": [
+    {
+      "name": "Stare Miasto",
+      "offer_count": 1831,
+      "avg_price": 3644,
+      "min_price": 500,
+      "max_price": 14500
+    },
+    {
+      "name": "Kazimierz",
+      "offer_count": 278,
+      "avg_price": 3609,
+      "min_price": 800,
+      "max_price": 14500
+    },
+    {
+      "name": "Zwierzyniec",
+      "offer_count": 391,
+      "avg_price": 3596,
+      "min_price": 500,
+      "max_price": 11900
+    },
+    {
+      "name": "Grzegórzki",
+      "offer_count": 1600,
+      "avg_price": 3366,
+      "min_price": 500,
+      "max_price": 14800
+    },
+    {
+      "name": "Stare Podgórze",
+      "offer_count": 1856,
+      "avg_price": 3032,
+      "min_price": 510,
+      "max_price": 14500
+    },
+    {
+      "name": "Dębniki",
+      "offer_count": 1102,
+      "avg_price": 2966,
+      "min_price": 500,
+      "max_price": 10000
+    },
+    {
+      "name": "Bronowice",
+      "offer_count": 1008,
+      "avg_price": 2963,
+      "min_price": 550,
+      "max_price": 10000
+    },
+    {
+      "name": "Krowodrza",
+      "offer_count": 1652,
+      "avg_price": 2915,
+      "min_price": 500,
+      "max_price": 9300
+    },
+    {
+      "name": "Prądnik Biały",
+      "offer_count": 1309,
+      "avg_price": 2739,
+      "min_price": 500,
+      "max_price": 8900
+    },
+    {
+      "name": "Czyżyny",
+      "offer_count": 641,
+      "avg_price": 2730,
+      "min_price": 585,
+      "max_price": 7500
+    },
+    {
+      "name": "Prądnik Czerwony",
+      "offer_count": 1096,
+      "avg_price": 2718,
+      "min_price": 500,
+      "max_price": 14000
+    },
+    {
+      "name": "Bieżanów-Prokocim",
+      "offer_count": 690,
+      "avg_price": 2552,
+      "min_price": 500,
+      "max_price": 8000
+    },
+    {
+      "name": "Podgórze Duchackie",
+      "offer_count": 554,
+      "avg_price": 2543,
+      "min_price": 500,
+      "max_price": 9000
+    },
+    {
+      "name": "Nowa Huta",
+      "offer_count": 360,
+      "avg_price": 2424,
+      "min_price": 585,
+      "max_price": 5400
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 4156,
+      "avg_price": 2111,
+      "median_price": 2100,
+      "avg_area": 30,
+      "price_per_m2": 78
+    },
+    {
+      "rooms": 2,
+      "offer_count": 8964,
+      "avg_price": 2828,
+      "median_price": 2800,
+      "avg_area": 44,
+      "price_per_m2": 67
+    },
+    {
+      "rooms": 3,
+      "offer_count": 3877,
+      "avg_price": 3508,
+      "median_price": 3450,
+      "avg_area": 61,
+      "price_per_m2": 65
+    },
+    {
+      "rooms": 4,
+      "offer_count": 733,
+      "avg_price": 4254,
+      "median_price": 3999,
+      "avg_area": 81,
+      "price_per_m2": 67
+    },
+    {
+      "rooms": 5,
+      "offer_count": 164,
+      "avg_price": 4924,
+      "median_price": 1625,
+      "avg_area": 103,
+      "price_per_m2": 71
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 6439,
+      "pct": 34.8
+    },
+    {
+      "source": "otodom",
+      "offer_count": 3573,
+      "pct": 19.3
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 3468,
+      "pct": 18.7
+    },
+    {
+      "source": "gratka",
+      "offer_count": 1757,
+      "pct": 9.5
+    },
+    {
+      "source": "morizon",
+      "offer_count": 1529,
+      "pct": 8.3
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 902,
+      "pct": 4.9
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 667,
+      "pct": 3.6
+    },
+    {
+      "source": "krn",
+      "offer_count": 172,
+      "pct": 0.9
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 745
+    },
+    {
+      "price": 1000,
+      "count": 1360
+    },
+    {
+      "price": 1500,
+      "count": 1554
+    },
+    {
+      "price": 2000,
+      "count": 3284
+    },
+    {
+      "price": 2500,
+      "count": 4712
+    },
+    {
+      "price": 3000,
+      "count": 2980
+    },
+    {
+      "price": 3500,
+      "count": 1626
+    },
+    {
+      "price": 4000,
+      "count": 619
+    },
+    {
+      "price": 4500,
+      "count": 620
+    },
+    {
+      "price": 5000,
+      "count": 218
+    },
+    {
+      "price": 5500,
+      "count": 151
+    },
+    {
+      "price": 6000,
+      "count": 146
+    },
+    {
+      "price": 6500,
+      "count": 95
+    },
+    {
+      "price": 7000,
+      "count": 43
+    },
+    {
+      "price": 7500,
+      "count": 115
+    },
+    {
+      "price": 8000,
+      "count": 46
+    },
+    {
+      "price": 8500,
+      "count": 32
+    },
+    {
+      "price": 9000,
+      "count": 10
+    },
+    {
+      "price": 9500,
+      "count": 22
+    },
+    {
+      "price": 10000,
+      "count": 9
+    },
+    {
+      "price": 10500,
+      "count": 10
+    },
+    {
+      "price": 11000,
+      "count": 8
+    },
+    {
+      "price": 11500,
+      "count": 20
+    },
+    {
+      "price": 12000,
+      "count": 34
+    },
+    {
+      "price": 12500,
+      "count": 3
+    },
+    {
+      "price": 13000,
+      "count": 26
+    },
+    {
+      "price": 14000,
+      "count": 5
+    },
+    {
+      "price": 14500,
+      "count": 13
+    },
+    {
+      "price": 15000,
+      "count": 1
+    }
+  ],
+  "insights": [],
+  "generated_month": "2026-05",
+  "generated_at": "2026-06-01T03:00:00.999197+02:00",
+  "data_as_of": "2026-06-01T03:00:00.999197+02:00"
+}

@@ -1,0 +1,277 @@
+{
+  "city_slug": "poznan",
+  "overview": {
+    "total_offers": 9042,
+    "avg_price": 2207,
+    "median_price": 2190,
+    "min_price": 500,
+    "max_price": 14000,
+    "avg_price_per_m2": 59,
+    "avg_area": 44
+  },
+  "districts": [
+    {
+      "name": "Grunwald",
+      "offer_count": 1213,
+      "avg_price": 2531,
+      "min_price": 500,
+      "max_price": 14000
+    },
+    {
+      "name": "Stare Miasto",
+      "offer_count": 1282,
+      "avg_price": 2517,
+      "min_price": 500,
+      "max_price": 10000
+    },
+    {
+      "name": "Nowe Miasto",
+      "offer_count": 652,
+      "avg_price": 2401,
+      "min_price": 500,
+      "max_price": 9999
+    },
+    {
+      "name": "Jeżyce",
+      "offer_count": 1153,
+      "avg_price": 2381,
+      "min_price": 500,
+      "max_price": 8000
+    },
+    {
+      "name": "Naramowice",
+      "offer_count": 216,
+      "avg_price": 2314,
+      "min_price": 500,
+      "max_price": 9999
+    },
+    {
+      "name": "Wilda",
+      "offer_count": 671,
+      "avg_price": 2219,
+      "min_price": 500,
+      "max_price": 10000
+    },
+    {
+      "name": "Rataje",
+      "offer_count": 394,
+      "avg_price": 2213,
+      "min_price": 550,
+      "max_price": 6000
+    },
+    {
+      "name": "Łazarz",
+      "offer_count": 293,
+      "avg_price": 2101,
+      "min_price": 700,
+      "max_price": 5400
+    },
+    {
+      "name": "Piątkowo",
+      "offer_count": 334,
+      "avg_price": 2036,
+      "min_price": 514,
+      "max_price": 5000
+    },
+    {
+      "name": "Winogrady",
+      "offer_count": 347,
+      "avg_price": 2021,
+      "min_price": 500,
+      "max_price": 8400
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 2754,
+      "avg_price": 1742,
+      "median_price": 1800,
+      "avg_area": 30,
+      "price_per_m2": 66
+    },
+    {
+      "rooms": 2,
+      "offer_count": 3809,
+      "avg_price": 2427,
+      "median_price": 2400,
+      "avg_area": 45,
+      "price_per_m2": 57
+    },
+    {
+      "rooms": 3,
+      "offer_count": 1576,
+      "avg_price": 2634,
+      "median_price": 2600,
+      "avg_area": 58,
+      "price_per_m2": 54
+    },
+    {
+      "rooms": 4,
+      "offer_count": 456,
+      "avg_price": 2339,
+      "median_price": 1300,
+      "avg_area": 63,
+      "price_per_m2": 55
+    },
+    {
+      "rooms": 5,
+      "offer_count": 93,
+      "avg_price": 1861,
+      "median_price": 1010,
+      "avg_area": 70,
+      "price_per_m2": 48
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 3766,
+      "pct": 41.7
+    },
+    {
+      "source": "otodom",
+      "offer_count": 1977,
+      "pct": 21.9
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 1017,
+      "pct": 11.2
+    },
+    {
+      "source": "gratka",
+      "offer_count": 889,
+      "pct": 9.8
+    },
+    {
+      "source": "morizon",
+      "offer_count": 814,
+      "pct": 9.0
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 312,
+      "pct": 3.5
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 267,
+      "pct": 3.0
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 1007
+    },
+    {
+      "price": 1000,
+      "count": 999
+    },
+    {
+      "price": 1500,
+      "count": 1626
+    },
+    {
+      "price": 2000,
+      "count": 2199
+    },
+    {
+      "price": 2500,
+      "count": 1894
+    },
+    {
+      "price": 3000,
+      "count": 571
+    },
+    {
+      "price": 3500,
+      "count": 317
+    },
+    {
+      "price": 4000,
+      "count": 102
+    },
+    {
+      "price": 4500,
+      "count": 125
+    },
+    {
+      "price": 5000,
+      "count": 65
+    },
+    {
+      "price": 5500,
+      "count": 37
+    },
+    {
+      "price": 6000,
+      "count": 14
+    },
+    {
+      "price": 6500,
+      "count": 36
+    },
+    {
+      "price": 7000,
+      "count": 10
+    },
+    {
+      "price": 7500,
+      "count": 9
+    },
+    {
+      "price": 8000,
+      "count": 10
+    },
+    {
+      "price": 8500,
+      "count": 1
+    },
+    {
+      "price": 9000,
+      "count": 11
+    },
+    {
+      "price": 9500,
+      "count": 3
+    },
+    {
+      "price": 10000,
+      "count": 5
+    },
+    {
+      "price": 14000,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "freshness_signal",
+      "text": "628 nowych ofert w Poznaniu w ostatnich 7 dniach — 25% mniej niż średnia 4-tygodniowa.",
+      "magnitude": 25.193567599761764,
+      "evidence": {
+        "last_7d_new": 628,
+        "trailing_28d_new": 3358,
+        "weekly_avg_28d": 839.5,
+        "delta_pct": -25.19
+      }
+    },
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Poznaniu kawalerki to 32% aktywnych ofert — 8,4 pp. więcej niż średnia kraju (23%).",
+      "magnitude": 8.409279727265229,
+      "evidence": {
+        "city_studio_pct": 31.7,
+        "national_studio_pct": 23.29,
+        "delta_pp": 8.41,
+        "city_studio_count": 2754,
+        "city_total": 8688
+      }
+    }
+  ],
+  "generated_month": "2026-05",
+  "generated_at": "2026-06-01T03:00:04.499572+02:00",
+  "data_as_of": "2026-06-01T03:00:04.499572+02:00"
+}

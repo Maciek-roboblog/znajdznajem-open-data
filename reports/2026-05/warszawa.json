@@ -1,0 +1,357 @@
+{
+  "city_slug": "warszawa",
+  "overview": {
+    "total_offers": 25506,
+    "avg_price": 3971,
+    "median_price": 3400,
+    "min_price": 500,
+    "max_price": 15000,
+    "avg_price_per_m2": 83,
+    "avg_area": 52
+  },
+  "districts": [
+    {
+      "name": "Wilanów",
+      "offer_count": 715,
+      "avg_price": 5525,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 2878,
+      "avg_price": 5129,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "Mokotów",
+      "offer_count": 4071,
+      "avg_price": 4624,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "Wola",
+      "offer_count": 3192,
+      "avg_price": 4540,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "Żoliborz",
+      "offer_count": 769,
+      "avg_price": 4119,
+      "min_price": 500,
+      "max_price": 14500
+    },
+    {
+      "name": "Praga-Północ",
+      "offer_count": 853,
+      "avg_price": 3726,
+      "min_price": 500,
+      "max_price": 14000
+    },
+    {
+      "name": "Ochota",
+      "offer_count": 1107,
+      "avg_price": 3655,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "Ursynów",
+      "offer_count": 1220,
+      "avg_price": 3609,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "Włochy",
+      "offer_count": 924,
+      "avg_price": 3568,
+      "min_price": 500,
+      "max_price": 12000
+    },
+    {
+      "name": "Praga-Południe",
+      "offer_count": 1869,
+      "avg_price": 3551,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "Wawer",
+      "offer_count": 305,
+      "avg_price": 3535,
+      "min_price": 650,
+      "max_price": 12000
+    },
+    {
+      "name": "Wesoła",
+      "offer_count": 148,
+      "avg_price": 3442,
+      "min_price": 650,
+      "max_price": 9990
+    },
+    {
+      "name": "Bemowo",
+      "offer_count": 1043,
+      "avg_price": 3287,
+      "min_price": 600,
+      "max_price": 8300
+    },
+    {
+      "name": "Bielany",
+      "offer_count": 1088,
+      "avg_price": 3218,
+      "min_price": 500,
+      "max_price": 14000
+    },
+    {
+      "name": "Ursus",
+      "offer_count": 728,
+      "avg_price": 3168,
+      "min_price": 715,
+      "max_price": 15000
+    },
+    {
+      "name": "Białołęka",
+      "offer_count": 1004,
+      "avg_price": 3057,
+      "min_price": 500,
+      "max_price": 9000
+    },
+    {
+      "name": "Targówek",
+      "offer_count": 742,
+      "avg_price": 2992,
+      "min_price": 550,
+      "max_price": 10500
+    },
+    {
+      "name": "Rembertów",
+      "offer_count": 128,
+      "avg_price": 2700,
+      "min_price": 670,
+      "max_price": 6500
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 4973,
+      "avg_price": 2577,
+      "median_price": 2500,
+      "avg_area": 30,
+      "price_per_m2": 92
+    },
+    {
+      "rooms": 2,
+      "offer_count": 11428,
+      "avg_price": 3604,
+      "median_price": 3399,
+      "avg_area": 45,
+      "price_per_m2": 82
+    },
+    {
+      "rooms": 3,
+      "offer_count": 6375,
+      "avg_price": 5123,
+      "median_price": 4500,
+      "avg_area": 67,
+      "price_per_m2": 80
+    },
+    {
+      "rooms": 4,
+      "offer_count": 1576,
+      "avg_price": 6641,
+      "median_price": 6000,
+      "avg_area": 96,
+      "price_per_m2": 79
+    },
+    {
+      "rooms": 5,
+      "offer_count": 410,
+      "avg_price": 5505,
+      "median_price": 3000,
+      "avg_area": 107,
+      "price_per_m2": 89
+    }
+  ],
+  "sources": [
+    {
+      "source": "otodom",
+      "offer_count": 9627,
+      "pct": 37.7
+    },
+    {
+      "source": "olx",
+      "offer_count": 6060,
+      "pct": 23.8
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 3885,
+      "pct": 15.2
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 2177,
+      "pct": 8.5
+    },
+    {
+      "source": "gratka",
+      "offer_count": 1581,
+      "pct": 6.2
+    },
+    {
+      "source": "morizon",
+      "offer_count": 1259,
+      "pct": 4.9
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 917,
+      "pct": 3.6
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 752
+    },
+    {
+      "price": 1000,
+      "count": 1090
+    },
+    {
+      "price": 1500,
+      "count": 948
+    },
+    {
+      "price": 2000,
+      "count": 1965
+    },
+    {
+      "price": 2500,
+      "count": 4243
+    },
+    {
+      "price": 3000,
+      "count": 4151
+    },
+    {
+      "price": 3500,
+      "count": 3565
+    },
+    {
+      "price": 4000,
+      "count": 1920
+    },
+    {
+      "price": 4500,
+      "count": 1602
+    },
+    {
+      "price": 5000,
+      "count": 860
+    },
+    {
+      "price": 5500,
+      "count": 911
+    },
+    {
+      "price": 6000,
+      "count": 532
+    },
+    {
+      "price": 6500,
+      "count": 509
+    },
+    {
+      "price": 7000,
+      "count": 380
+    },
+    {
+      "price": 7500,
+      "count": 355
+    },
+    {
+      "price": 8000,
+      "count": 206
+    },
+    {
+      "price": 8500,
+      "count": 200
+    },
+    {
+      "price": 9000,
+      "count": 156
+    },
+    {
+      "price": 9500,
+      "count": 158
+    },
+    {
+      "price": 10000,
+      "count": 172
+    },
+    {
+      "price": 10500,
+      "count": 82
+    },
+    {
+      "price": 11000,
+      "count": 87
+    },
+    {
+      "price": 11500,
+      "count": 72
+    },
+    {
+      "price": 12000,
+      "count": 167
+    },
+    {
+      "price": 12500,
+      "count": 89
+    },
+    {
+      "price": 13000,
+      "count": 65
+    },
+    {
+      "price": 13500,
+      "count": 53
+    },
+    {
+      "price": 14000,
+      "count": 91
+    },
+    {
+      "price": 14500,
+      "count": 30
+    },
+    {
+      "price": 15000,
+      "count": 95
+    }
+  ],
+  "insights": [
+    {
+      "type": "freshness_signal",
+      "text": "1 544 nowych ofert w Warszawie w ostatnich 7 dniach — 47% mniej niż średnia 4-tygodniowa.",
+      "magnitude": 47.08704592186429,
+      "evidence": {
+        "last_7d_new": 1544,
+        "trailing_28d_new": 11672,
+        "weekly_avg_28d": 2918.0,
+        "delta_pct": -47.09
+      }
+    }
+  ],
+  "generated_month": "2026-05",
+  "generated_at": "2026-06-01T03:00:02.046500+02:00",
+  "data_as_of": "2026-06-01T03:00:02.046500+02:00"
+}
