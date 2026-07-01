@@ -1,0 +1,270 @@
+{
+  "city_slug": "szczecin",
+  "overview": {
+    "total_offers": 2191,
+    "avg_price": 2611,
+    "median_price": 2500,
+    "min_price": 500,
+    "max_price": 8500,
+    "avg_price_per_m2": 62,
+    "avg_area": 48
+  },
+  "districts": [
+    {
+      "name": "Stare Miasto",
+      "offer_count": 90,
+      "avg_price": 3432,
+      "min_price": 700,
+      "max_price": 5500
+    },
+    {
+      "name": "Pogodno",
+      "offer_count": 64,
+      "avg_price": 3000,
+      "min_price": 787,
+      "max_price": 7999
+    },
+    {
+      "name": "Warszewo",
+      "offer_count": 89,
+      "avg_price": 2996,
+      "min_price": 1500,
+      "max_price": 5200
+    },
+    {
+      "name": "Prawobrzeże",
+      "offer_count": 27,
+      "avg_price": 2921,
+      "min_price": 950,
+      "max_price": 6500
+    },
+    {
+      "name": "Północ",
+      "offer_count": 52,
+      "avg_price": 2845,
+      "min_price": 1900,
+      "max_price": 4800
+    },
+    {
+      "name": "Centrum",
+      "offer_count": 78,
+      "avg_price": 2811,
+      "min_price": 680,
+      "max_price": 7000
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 830,
+      "avg_price": 2798,
+      "min_price": 680,
+      "max_price": 8500
+    },
+    {
+      "name": "Gumieńce",
+      "offer_count": 166,
+      "avg_price": 2767,
+      "min_price": 1200,
+      "max_price": 5800
+    },
+    {
+      "name": "Dąbie",
+      "offer_count": 24,
+      "avg_price": 2647,
+      "min_price": 750,
+      "max_price": 5999
+    },
+    {
+      "name": "Zachód",
+      "offer_count": 160,
+      "avg_price": 2637,
+      "min_price": 850,
+      "max_price": 6900
+    },
+    {
+      "name": "Nowe Miasto",
+      "offer_count": 11,
+      "avg_price": 2499,
+      "min_price": 1900,
+      "max_price": 3500
+    },
+    {
+      "name": "Żelechowa",
+      "offer_count": 13,
+      "avg_price": 2488,
+      "min_price": 1800,
+      "max_price": 2999
+    },
+    {
+      "name": "Zdroje",
+      "offer_count": 14,
+      "avg_price": 2364,
+      "min_price": 1500,
+      "max_price": 4700
+    },
+    {
+      "name": "Świerczewo",
+      "offer_count": 16,
+      "avg_price": 2320,
+      "min_price": 1600,
+      "max_price": 3300
+    },
+    {
+      "name": "Niebuszewo",
+      "offer_count": 77,
+      "avg_price": 2290,
+      "min_price": 995,
+      "max_price": 4300
+    },
+    {
+      "name": "Pomorzany",
+      "offer_count": 110,
+      "avg_price": 2236,
+      "min_price": 580,
+      "max_price": 3300
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 543,
+      "avg_price": 1965,
+      "median_price": 1950,
+      "avg_area": 30,
+      "price_per_m2": 71
+    },
+    {
+      "rooms": 2,
+      "offer_count": 992,
+      "avg_price": 2556,
+      "median_price": 2500,
+      "avg_area": 44,
+      "price_per_m2": 61
+    },
+    {
+      "rooms": 3,
+      "offer_count": 388,
+      "avg_price": 3514,
+      "median_price": 3300,
+      "avg_area": 68,
+      "price_per_m2": 58
+    },
+    {
+      "rooms": 4,
+      "offer_count": 165,
+      "avg_price": 3625,
+      "median_price": 3800,
+      "avg_area": 88,
+      "price_per_m2": 50
+    },
+    {
+      "rooms": 5,
+      "offer_count": 20,
+      "avg_price": 3711,
+      "median_price": 4200,
+      "avg_area": 149,
+      "price_per_m2": 40
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 775,
+      "pct": 35.4
+    },
+    {
+      "source": "otodom",
+      "offer_count": 491,
+      "pct": 22.4
+    },
+    {
+      "source": "gratka",
+      "offer_count": 341,
+      "pct": 15.6
+    },
+    {
+      "source": "morizon",
+      "offer_count": 333,
+      "pct": 15.2
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 251,
+      "pct": 11.5
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 122
+    },
+    {
+      "price": 1000,
+      "count": 127
+    },
+    {
+      "price": 1500,
+      "count": 311
+    },
+    {
+      "price": 2000,
+      "count": 517
+    },
+    {
+      "price": 2500,
+      "count": 561
+    },
+    {
+      "price": 3000,
+      "count": 197
+    },
+    {
+      "price": 3500,
+      "count": 119
+    },
+    {
+      "price": 4000,
+      "count": 72
+    },
+    {
+      "price": 4500,
+      "count": 46
+    },
+    {
+      "price": 5000,
+      "count": 42
+    },
+    {
+      "price": 5500,
+      "count": 24
+    },
+    {
+      "price": 6000,
+      "count": 9
+    },
+    {
+      "price": 6500,
+      "count": 9
+    },
+    {
+      "price": 7000,
+      "count": 20
+    },
+    {
+      "price": 7500,
+      "count": 8
+    },
+    {
+      "price": 8000,
+      "count": 3
+    },
+    {
+      "price": 8500,
+      "count": 4
+    }
+  ],
+  "insights": [],
+  "generated_month": "2026-06",
+  "approximate_generated_at": "2026-07-05T00:14:27.847638",
+  "generated_at": "2026-07-05T00:14:29.540769+02:00",
+  "data_as_of": "2026-07-05T00:14:29.540769+02:00"
+}

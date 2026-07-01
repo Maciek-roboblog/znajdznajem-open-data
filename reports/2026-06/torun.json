@@ -1,0 +1,227 @@
+{
+  "city_slug": "torun",
+  "overview": {
+    "total_offers": 1076,
+    "avg_price": 1992,
+    "median_price": 1850,
+    "min_price": 500,
+    "max_price": 8900,
+    "avg_price_per_m2": 52,
+    "avg_area": 44
+  },
+  "districts": [
+    {
+      "name": "Rubinkowo",
+      "offer_count": 18,
+      "avg_price": 2711,
+      "min_price": 1300,
+      "max_price": 8000
+    },
+    {
+      "name": "Stare Miasto",
+      "offer_count": 77,
+      "avg_price": 2498,
+      "min_price": 600,
+      "max_price": 8900
+    },
+    {
+      "name": "Na Skarpie",
+      "offer_count": 14,
+      "avg_price": 2339,
+      "min_price": 1000,
+      "max_price": 3900
+    },
+    {
+      "name": "Jakubskie Przedmieście",
+      "offer_count": 33,
+      "avg_price": 2268,
+      "min_price": 1400,
+      "max_price": 4200
+    },
+    {
+      "name": "Bydgoskie Przedmieście",
+      "offer_count": 96,
+      "avg_price": 2148,
+      "min_price": 599,
+      "max_price": 4500
+    },
+    {
+      "name": "Wrzosy",
+      "offer_count": 46,
+      "avg_price": 2127,
+      "min_price": 700,
+      "max_price": 4500
+    },
+    {
+      "name": "Stawki",
+      "offer_count": 14,
+      "avg_price": 2057,
+      "min_price": 700,
+      "max_price": 3200
+    },
+    {
+      "name": "Bielany",
+      "offer_count": 10,
+      "avg_price": 2050,
+      "min_price": 900,
+      "max_price": 3500
+    },
+    {
+      "name": "Chełmińskie Przedmieście",
+      "offer_count": 43,
+      "avg_price": 1988,
+      "min_price": 1300,
+      "max_price": 5500
+    },
+    {
+      "name": "Koniuchy",
+      "offer_count": 29,
+      "avg_price": 1946,
+      "min_price": 750,
+      "max_price": 2600
+    },
+    {
+      "name": "Mokre",
+      "offer_count": 34,
+      "avg_price": 1822,
+      "min_price": 550,
+      "max_price": 3000
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 218,
+      "avg_price": 1625,
+      "median_price": 1600,
+      "avg_area": 29,
+      "price_per_m2": 62
+    },
+    {
+      "rooms": 2,
+      "offer_count": 550,
+      "avg_price": 2047,
+      "median_price": 2000,
+      "avg_area": 43,
+      "price_per_m2": 50
+    },
+    {
+      "rooms": 3,
+      "offer_count": 223,
+      "avg_price": 2354,
+      "median_price": 2200,
+      "avg_area": 61,
+      "price_per_m2": 46
+    },
+    {
+      "rooms": 4,
+      "offer_count": 41,
+      "avg_price": 2384,
+      "median_price": 1100,
+      "avg_area": 79,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 5,
+      "offer_count": 5,
+      "avg_price": 1120,
+      "median_price": 1000,
+      "avg_area": 15,
+      "price_per_m2": 79
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 515,
+      "pct": 47.9
+    },
+    {
+      "source": "otodom",
+      "offer_count": 250,
+      "pct": 23.2
+    },
+    {
+      "source": "gratka",
+      "offer_count": 117,
+      "pct": 10.9
+    },
+    {
+      "source": "morizon",
+      "offer_count": 108,
+      "pct": 10.0
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 86,
+      "pct": 8.0
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 139
+    },
+    {
+      "price": 1000,
+      "count": 132
+    },
+    {
+      "price": 1500,
+      "count": 316
+    },
+    {
+      "price": 2000,
+      "count": 264
+    },
+    {
+      "price": 2500,
+      "count": 103
+    },
+    {
+      "price": 3000,
+      "count": 49
+    },
+    {
+      "price": 3500,
+      "count": 23
+    },
+    {
+      "price": 4000,
+      "count": 21
+    },
+    {
+      "price": 4500,
+      "count": 9
+    },
+    {
+      "price": 5000,
+      "count": 3
+    },
+    {
+      "price": 5500,
+      "count": 4
+    },
+    {
+      "price": 6000,
+      "count": 5
+    },
+    {
+      "price": 7000,
+      "count": 3
+    },
+    {
+      "price": 8000,
+      "count": 4
+    },
+    {
+      "price": 8500,
+      "count": 1
+    }
+  ],
+  "insights": [],
+  "generated_month": "2026-06",
+  "approximate_generated_at": "2026-07-05T00:14:29.187544",
+  "generated_at": "2026-07-05T00:14:29.540773+02:00",
+  "data_as_of": "2026-07-05T00:14:29.540773+02:00"
+}

@@ -1,0 +1,142 @@
+{
+  "city_slug": "oswiecim",
+  "overview": {
+    "total_offers": 552,
+    "avg_price": 1621,
+    "median_price": 1500,
+    "min_price": 500,
+    "max_price": 4000,
+    "avg_price_per_m2": 41,
+    "avg_area": 47
+  },
+  "districts": [],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 126,
+      "avg_price": 1338,
+      "median_price": 1275,
+      "avg_area": 34,
+      "price_per_m2": 45
+    },
+    {
+      "rooms": 2,
+      "offer_count": 259,
+      "avg_price": 1737,
+      "median_price": 1700,
+      "avg_area": 45,
+      "price_per_m2": 40
+    },
+    {
+      "rooms": 3,
+      "offer_count": 91,
+      "avg_price": 2032,
+      "median_price": 2000,
+      "avg_area": 60,
+      "price_per_m2": 38
+    },
+    {
+      "rooms": 4,
+      "offer_count": 23,
+      "avg_price": 1448,
+      "median_price": 1300,
+      "avg_area": 92,
+      "price_per_m2": 23
+    },
+    {
+      "rooms": 5,
+      "offer_count": 1,
+      "avg_price": 1000,
+      "median_price": 1000,
+      "avg_area": null,
+      "price_per_m2": null
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 354,
+      "pct": 64.1
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 120,
+      "pct": 21.7
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 34,
+      "pct": 6.2
+    },
+    {
+      "source": "gratka",
+      "offer_count": 16,
+      "pct": 2.9
+    },
+    {
+      "source": "morizon",
+      "offer_count": 13,
+      "pct": 2.4
+    },
+    {
+      "source": "otodom",
+      "offer_count": 10,
+      "pct": 1.8
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 5,
+      "pct": 0.9
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 78
+    },
+    {
+      "price": 1000,
+      "count": 167
+    },
+    {
+      "price": 1500,
+      "count": 162
+    },
+    {
+      "price": 2000,
+      "count": 81
+    },
+    {
+      "price": 2500,
+      "count": 39
+    },
+    {
+      "price": 3000,
+      "count": 19
+    },
+    {
+      "price": 3500,
+      "count": 1
+    },
+    {
+      "price": 4000,
+      "count": 5
+    }
+  ],
+  "insights": [
+    {
+      "type": "freshness_signal",
+      "text": "24 nowych ofert w Oświęcimiu w ostatnich 7 dniach — 62% mniej niż średnia 4-tygodniowa.",
+      "magnitude": 62.5,
+      "evidence": {
+        "last_7d_new": 24,
+        "trailing_28d_new": 256,
+        "weekly_avg_28d": 64.0,
+        "delta_pct": -62.5
+      }
+    }
+  ],
+  "generated_month": "2026-06",
+  "generated_at": "2026-07-01T03:00:05.568685+02:00",
+  "data_as_of": "2026-07-01T03:00:05.568685+02:00"
+}

@@ -1,0 +1,308 @@
+{
+  "city_slug": "rzeszow",
+  "overview": {
+    "total_offers": 2616,
+    "avg_price": 2240,
+    "median_price": 2200,
+    "min_price": 500,
+    "max_price": 14500,
+    "avg_price_per_m2": 54,
+    "avg_area": 47
+  },
+  "districts": [
+    {
+      "name": "Budziwój",
+      "offer_count": 12,
+      "avg_price": 3275,
+      "min_price": 3000,
+      "max_price": 6000
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 154,
+      "avg_price": 2996,
+      "min_price": 900,
+      "max_price": 10900
+    },
+    {
+      "name": "Przybyszówka",
+      "offer_count": 36,
+      "avg_price": 2786,
+      "min_price": 2000,
+      "max_price": 4950
+    },
+    {
+      "name": "Mieszka I",
+      "offer_count": 62,
+      "avg_price": 2739,
+      "min_price": 800,
+      "max_price": 14500
+    },
+    {
+      "name": "Pobitno",
+      "offer_count": 36,
+      "avg_price": 2702,
+      "min_price": 1600,
+      "max_price": 5500
+    },
+    {
+      "name": "Staromieście",
+      "offer_count": 98,
+      "avg_price": 2636,
+      "min_price": 800,
+      "max_price": 5700
+    },
+    {
+      "name": "Drabinianka",
+      "offer_count": 228,
+      "avg_price": 2593,
+      "min_price": 700,
+      "max_price": 5800
+    },
+    {
+      "name": "Staroniwa",
+      "offer_count": 24,
+      "avg_price": 2551,
+      "min_price": 1800,
+      "max_price": 5000
+    },
+    {
+      "name": "Słocina",
+      "offer_count": 40,
+      "avg_price": 2542,
+      "min_price": 550,
+      "max_price": 4500
+    },
+    {
+      "name": "Nowe Miasto",
+      "offer_count": 81,
+      "avg_price": 2463,
+      "min_price": 800,
+      "max_price": 8000
+    },
+    {
+      "name": "Krakowska-Południe",
+      "offer_count": 25,
+      "avg_price": 2329,
+      "min_price": 1300,
+      "max_price": 3200
+    },
+    {
+      "name": "Paderewskiego",
+      "offer_count": 55,
+      "avg_price": 2256,
+      "min_price": 900,
+      "max_price": 4000
+    },
+    {
+      "name": "Zwięczyca",
+      "offer_count": 10,
+      "avg_price": 2250,
+      "min_price": 700,
+      "max_price": 4000
+    },
+    {
+      "name": "Zalesie",
+      "offer_count": 31,
+      "avg_price": 2237,
+      "min_price": 950,
+      "max_price": 4000
+    },
+    {
+      "name": "Pułaskiego",
+      "offer_count": 16,
+      "avg_price": 2188,
+      "min_price": 1000,
+      "max_price": 3600
+    },
+    {
+      "name": "1000-lecia",
+      "offer_count": 43,
+      "avg_price": 2083,
+      "min_price": 1300,
+      "max_price": 3500
+    },
+    {
+      "name": "Kmity",
+      "offer_count": 24,
+      "avg_price": 2020,
+      "min_price": 800,
+      "max_price": 3500
+    },
+    {
+      "name": "Baranówka",
+      "offer_count": 41,
+      "avg_price": 1951,
+      "min_price": 1200,
+      "max_price": 2900
+    },
+    {
+      "name": "Wilkowyja",
+      "offer_count": 28,
+      "avg_price": 1832,
+      "min_price": 550,
+      "max_price": 2800
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 369,
+      "avg_price": 1747,
+      "median_price": 1800,
+      "avg_area": 33,
+      "price_per_m2": 64
+    },
+    {
+      "rooms": 2,
+      "offer_count": 1221,
+      "avg_price": 2202,
+      "median_price": 2200,
+      "avg_area": 43,
+      "price_per_m2": 53
+    },
+    {
+      "rooms": 3,
+      "offer_count": 691,
+      "avg_price": 2617,
+      "median_price": 2550,
+      "avg_area": 59,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 4,
+      "offer_count": 181,
+      "avg_price": 3029,
+      "median_price": 3000,
+      "avg_area": 73,
+      "price_per_m2": 54
+    },
+    {
+      "rooms": 5,
+      "offer_count": 16,
+      "avg_price": 2030,
+      "median_price": 1050,
+      "avg_area": 63,
+      "price_per_m2": 53
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 1055,
+      "pct": 40.3
+    },
+    {
+      "source": "otodom",
+      "offer_count": 435,
+      "pct": 16.6
+    },
+    {
+      "source": "gratka",
+      "offer_count": 385,
+      "pct": 14.7
+    },
+    {
+      "source": "morizon",
+      "offer_count": 380,
+      "pct": 14.5
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 361,
+      "pct": 13.8
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 255
+    },
+    {
+      "price": 1000,
+      "count": 238
+    },
+    {
+      "price": 1500,
+      "count": 434
+    },
+    {
+      "price": 2000,
+      "count": 832
+    },
+    {
+      "price": 2500,
+      "count": 446
+    },
+    {
+      "price": 3000,
+      "count": 179
+    },
+    {
+      "price": 3500,
+      "count": 107
+    },
+    {
+      "price": 4000,
+      "count": 37
+    },
+    {
+      "price": 4500,
+      "count": 40
+    },
+    {
+      "price": 5000,
+      "count": 9
+    },
+    {
+      "price": 5500,
+      "count": 16
+    },
+    {
+      "price": 6000,
+      "count": 4
+    },
+    {
+      "price": 6500,
+      "count": 7
+    },
+    {
+      "price": 7000,
+      "count": 1
+    },
+    {
+      "price": 8000,
+      "count": 3
+    },
+    {
+      "price": 8500,
+      "count": 1
+    },
+    {
+      "price": 10500,
+      "count": 3
+    },
+    {
+      "price": 14500,
+      "count": 4
+    }
+  ],
+  "insights": [
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Rzeszowie kawalerki to 15% aktywnych ofert — 6,6 pp. mniej niż średnia kraju (21%).",
+      "magnitude": 6.579078541017582,
+      "evidence": {
+        "city_studio_pct": 14.89,
+        "national_studio_pct": 21.47,
+        "delta_pp": -6.58,
+        "city_studio_count": 369,
+        "city_total": 2478
+      }
+    }
+  ],
+  "generated_month": "2026-06",
+  "approximate_generated_at": "2026-07-05T00:14:27.517614",
+  "generated_at": "2026-07-05T00:14:29.540762+02:00",
+  "data_as_of": "2026-07-05T00:14:29.540762+02:00"
+}

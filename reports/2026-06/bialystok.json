@@ -1,0 +1,305 @@
+{
+  "city_slug": "bialystok",
+  "overview": {
+    "total_offers": 1395,
+    "avg_price": 1875,
+    "median_price": 1900,
+    "min_price": 500,
+    "max_price": 7800,
+    "avg_price_per_m2": 49,
+    "avg_area": 44
+  },
+  "districts": [
+    {
+      "name": "Bojary",
+      "offer_count": 67,
+      "avg_price": 2285,
+      "min_price": 900,
+      "max_price": 3500
+    },
+    {
+      "name": "Przydworcowe",
+      "offer_count": 69,
+      "avg_price": 2149,
+      "min_price": 500,
+      "max_price": 4000
+    },
+    {
+      "name": "Centrum",
+      "offer_count": 86,
+      "avg_price": 2126,
+      "min_price": 500,
+      "max_price": 7800
+    },
+    {
+      "name": "Leśna Dolina",
+      "offer_count": 20,
+      "avg_price": 2109,
+      "min_price": 1400,
+      "max_price": 3190
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 177,
+      "avg_price": 2101,
+      "min_price": 600,
+      "max_price": 3400
+    },
+    {
+      "name": "Kawaleryjskie",
+      "offer_count": 34,
+      "avg_price": 2058,
+      "min_price": 900,
+      "max_price": 3600
+    },
+    {
+      "name": "Piaski",
+      "offer_count": 66,
+      "avg_price": 2055,
+      "min_price": 700,
+      "max_price": 6500
+    },
+    {
+      "name": "Sienkiewicza",
+      "offer_count": 93,
+      "avg_price": 2053,
+      "min_price": 500,
+      "max_price": 6900
+    },
+    {
+      "name": "Wygoda",
+      "offer_count": 22,
+      "avg_price": 2051,
+      "min_price": 1300,
+      "max_price": 3300
+    },
+    {
+      "name": "Białostoczek",
+      "offer_count": 41,
+      "avg_price": 2039,
+      "min_price": 500,
+      "max_price": 4500
+    },
+    {
+      "name": "Nowe Miasto",
+      "offer_count": 95,
+      "avg_price": 2016,
+      "min_price": 600,
+      "max_price": 4800
+    },
+    {
+      "name": "Młodych",
+      "offer_count": 22,
+      "avg_price": 1990,
+      "min_price": 1450,
+      "max_price": 2300
+    },
+    {
+      "name": "Wysoki Stoczek",
+      "offer_count": 41,
+      "avg_price": 1952,
+      "min_price": 1000,
+      "max_price": 3000
+    },
+    {
+      "name": "Bacieczki",
+      "offer_count": 18,
+      "avg_price": 1921,
+      "min_price": 900,
+      "max_price": 3000
+    },
+    {
+      "name": "Dziesięciny",
+      "offer_count": 17,
+      "avg_price": 1914,
+      "min_price": 800,
+      "max_price": 3500
+    },
+    {
+      "name": "Mickiewicza",
+      "offer_count": 55,
+      "avg_price": 1905,
+      "min_price": 750,
+      "max_price": 4700
+    },
+    {
+      "name": "Zielone Wzgórza",
+      "offer_count": 19,
+      "avg_price": 1873,
+      "min_price": 1200,
+      "max_price": 2500
+    },
+    {
+      "name": "Piasta",
+      "offer_count": 76,
+      "avg_price": 1808,
+      "min_price": 770,
+      "max_price": 3200
+    },
+    {
+      "name": "Antoniuk",
+      "offer_count": 51,
+      "avg_price": 1792,
+      "min_price": 1200,
+      "max_price": 2600
+    },
+    {
+      "name": "Dojlidy",
+      "offer_count": 17,
+      "avg_price": 1776,
+      "min_price": 1150,
+      "max_price": 3000
+    },
+    {
+      "name": "Skorupy",
+      "offer_count": 15,
+      "avg_price": 1730,
+      "min_price": 950,
+      "max_price": 2600
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 209,
+      "avg_price": 1496,
+      "median_price": 1500,
+      "avg_area": 26,
+      "price_per_m2": 63
+    },
+    {
+      "rooms": 2,
+      "offer_count": 706,
+      "avg_price": 1967,
+      "median_price": 2000,
+      "avg_area": 43,
+      "price_per_m2": 48
+    },
+    {
+      "rooms": 3,
+      "offer_count": 356,
+      "avg_price": 2110,
+      "median_price": 2100,
+      "avg_area": 56,
+      "price_per_m2": 43
+    },
+    {
+      "rooms": 4,
+      "offer_count": 45,
+      "avg_price": 1892,
+      "median_price": 1100,
+      "avg_area": 68,
+      "price_per_m2": 35
+    },
+    {
+      "rooms": 5,
+      "offer_count": 13,
+      "avg_price": 1612,
+      "median_price": 840,
+      "avg_area": 72,
+      "price_per_m2": 38
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 666,
+      "pct": 47.7
+    },
+    {
+      "source": "otodom",
+      "offer_count": 207,
+      "pct": 14.8
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 176,
+      "pct": 12.6
+    },
+    {
+      "source": "gratka",
+      "offer_count": 175,
+      "pct": 12.5
+    },
+    {
+      "source": "morizon",
+      "offer_count": 171,
+      "pct": 12.3
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 169
+    },
+    {
+      "price": 1000,
+      "count": 177
+    },
+    {
+      "price": 1500,
+      "count": 393
+    },
+    {
+      "price": 2000,
+      "count": 431
+    },
+    {
+      "price": 2500,
+      "count": 133
+    },
+    {
+      "price": 3000,
+      "count": 65
+    },
+    {
+      "price": 3500,
+      "count": 12
+    },
+    {
+      "price": 4000,
+      "count": 6
+    },
+    {
+      "price": 4500,
+      "count": 4
+    },
+    {
+      "price": 6500,
+      "count": 4
+    },
+    {
+      "price": 7500,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "freshness_signal",
+      "text": "376 nowych ofert w Białymstoku w ostatnich 7 dniach — 63% więcej niż średnia 4-tygodniowa.",
+      "magnitude": 63.47826086956522,
+      "evidence": {
+        "last_7d_new": 376,
+        "trailing_28d_new": 920,
+        "weekly_avg_28d": 230.0,
+        "delta_pct": 63.48
+      }
+    },
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Białymstoku kawalerki to 16% aktywnych ofert — 5,7 pp. mniej niż średnia kraju (21%).",
+      "magnitude": 5.744009846209821,
+      "evidence": {
+        "city_studio_pct": 15.73,
+        "national_studio_pct": 21.47,
+        "delta_pp": -5.74,
+        "city_studio_count": 209,
+        "city_total": 1329
+      }
+    }
+  ],
+  "generated_month": "2026-06",
+  "approximate_generated_at": "2026-07-05T00:14:28.830696",
+  "generated_at": "2026-07-05T00:14:29.540772+02:00",
+  "data_as_of": "2026-07-05T00:14:29.540772+02:00"
+}

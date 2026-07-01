@@ -1,0 +1,298 @@
+{
+  "city_slug": "bydgoszcz",
+  "overview": {
+    "total_offers": 2308,
+    "avg_price": 2166,
+    "median_price": 2100,
+    "min_price": 500,
+    "max_price": 7500,
+    "avg_price_per_m2": 54,
+    "avg_area": 45
+  },
+  "districts": [
+    {
+      "name": "Śródmieście",
+      "offer_count": 341,
+      "avg_price": 2492,
+      "min_price": 700,
+      "max_price": 7500
+    },
+    {
+      "name": "Górzyskowo",
+      "offer_count": 82,
+      "avg_price": 2447,
+      "min_price": 900,
+      "max_price": 7200
+    },
+    {
+      "name": "Okole",
+      "offer_count": 84,
+      "avg_price": 2435,
+      "min_price": 1000,
+      "max_price": 6500
+    },
+    {
+      "name": "Bartodzieje",
+      "offer_count": 166,
+      "avg_price": 2381,
+      "min_price": 900,
+      "max_price": 7500
+    },
+    {
+      "name": "Czyżkówko",
+      "offer_count": 42,
+      "avg_price": 2358,
+      "min_price": 1100,
+      "max_price": 3100
+    },
+    {
+      "name": "Wilczak",
+      "offer_count": 27,
+      "avg_price": 2187,
+      "min_price": 790,
+      "max_price": 3900
+    },
+    {
+      "name": "Wzgórze Wolności",
+      "offer_count": 33,
+      "avg_price": 2179,
+      "min_price": 850,
+      "max_price": 3000
+    },
+    {
+      "name": "Stary Fordon",
+      "offer_count": 23,
+      "avg_price": 2166,
+      "min_price": 1200,
+      "max_price": 3200
+    },
+    {
+      "name": "Leśne",
+      "offer_count": 151,
+      "avg_price": 2151,
+      "min_price": 670,
+      "max_price": 3600
+    },
+    {
+      "name": "Szwederowo",
+      "offer_count": 114,
+      "avg_price": 2150,
+      "min_price": 1000,
+      "max_price": 3100
+    },
+    {
+      "name": "Skrzetusko",
+      "offer_count": 15,
+      "avg_price": 2126,
+      "min_price": 1500,
+      "max_price": 3000
+    },
+    {
+      "name": "Nowy Fordon",
+      "offer_count": 46,
+      "avg_price": 2125,
+      "min_price": 1200,
+      "max_price": 3200
+    },
+    {
+      "name": "Bielawy",
+      "offer_count": 74,
+      "avg_price": 2114,
+      "min_price": 700,
+      "max_price": 3800
+    },
+    {
+      "name": "Stare Miasto",
+      "offer_count": 41,
+      "avg_price": 2112,
+      "min_price": 700,
+      "max_price": 5000
+    },
+    {
+      "name": "Błonie",
+      "offer_count": 36,
+      "avg_price": 2101,
+      "min_price": 750,
+      "max_price": 3900
+    },
+    {
+      "name": "Wyżyny",
+      "offer_count": 63,
+      "avg_price": 2056,
+      "min_price": 650,
+      "max_price": 2950
+    },
+    {
+      "name": "Osowa Góra",
+      "offer_count": 15,
+      "avg_price": 1972,
+      "min_price": 1400,
+      "max_price": 2600
+    },
+    {
+      "name": "Glinki",
+      "offer_count": 17,
+      "avg_price": 1970,
+      "min_price": 900,
+      "max_price": 2200
+    },
+    {
+      "name": "Kapuściska",
+      "offer_count": 55,
+      "avg_price": 1920,
+      "min_price": 900,
+      "max_price": 2900
+    },
+    {
+      "name": "Bocianowo",
+      "offer_count": 77,
+      "avg_price": 1847,
+      "min_price": 545,
+      "max_price": 4500
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 537,
+      "avg_price": 1632,
+      "median_price": 1600,
+      "avg_area": 28,
+      "price_per_m2": 63
+    },
+    {
+      "rooms": 2,
+      "offer_count": 1143,
+      "avg_price": 2162,
+      "median_price": 2200,
+      "avg_area": 43,
+      "price_per_m2": 52
+    },
+    {
+      "rooms": 3,
+      "offer_count": 474,
+      "avg_price": 2739,
+      "median_price": 2600,
+      "avg_area": 62,
+      "price_per_m2": 48
+    },
+    {
+      "rooms": 4,
+      "offer_count": 80,
+      "avg_price": 3238,
+      "median_price": 3400,
+      "avg_area": 92,
+      "price_per_m2": 48
+    },
+    {
+      "rooms": 5,
+      "offer_count": 15,
+      "avg_price": 2266,
+      "median_price": 1600,
+      "avg_area": 100,
+      "price_per_m2": 46
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 581,
+      "pct": 25.2
+    },
+    {
+      "source": "gratka",
+      "offer_count": 459,
+      "pct": 19.9
+    },
+    {
+      "source": "morizon",
+      "offer_count": 454,
+      "pct": 19.7
+    },
+    {
+      "source": "otodom",
+      "offer_count": 419,
+      "pct": 18.2
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 395,
+      "pct": 17.1
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 157
+    },
+    {
+      "price": 1000,
+      "count": 221
+    },
+    {
+      "price": 1500,
+      "count": 550
+    },
+    {
+      "price": 2000,
+      "count": 717
+    },
+    {
+      "price": 2500,
+      "count": 381
+    },
+    {
+      "price": 3000,
+      "count": 111
+    },
+    {
+      "price": 3500,
+      "count": 92
+    },
+    {
+      "price": 4000,
+      "count": 18
+    },
+    {
+      "price": 4500,
+      "count": 26
+    },
+    {
+      "price": 5000,
+      "count": 14
+    },
+    {
+      "price": 6000,
+      "count": 2
+    },
+    {
+      "price": 6500,
+      "count": 10
+    },
+    {
+      "price": 7000,
+      "count": 7
+    },
+    {
+      "price": 7500,
+      "count": 2
+    }
+  ],
+  "insights": [
+    {
+      "type": "freshness_signal",
+      "text": "377 nowych ofert w Bydgoszczy w ostatnich 7 dniach — 27% więcej niż średnia 4-tygodniowa.",
+      "magnitude": 26.616288832913522,
+      "evidence": {
+        "last_7d_new": 377,
+        "trailing_28d_new": 1191,
+        "weekly_avg_28d": 297.8,
+        "delta_pct": 26.62
+      }
+    }
+  ],
+  "generated_month": "2026-06",
+  "approximate_generated_at": "2026-07-05T00:14:28.218618",
+  "generated_at": "2026-07-05T00:14:29.540770+02:00",
+  "data_as_of": "2026-07-05T00:14:29.540770+02:00"
+}
