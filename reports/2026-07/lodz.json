@@ -1,0 +1,275 @@
+{
+  "city_slug": "lodz",
+  "generated_at": "2026-08-01T03:00:15.171965+02:00",
+  "data_as_of": "2026-08-01T02:58:30.112326+02:00",
+  "overview": {
+    "total_offers": 5120,
+    "avg_price": 2005,
+    "median_price": 1850,
+    "min_price": 500,
+    "max_price": 12900,
+    "avg_price_per_m2": 54,
+    "avg_area": 42
+  },
+  "districts": [
+    {
+      "name": "Olechów",
+      "offer_count": 21,
+      "avg_price": 2645,
+      "min_price": 1370,
+      "max_price": 5000
+    },
+    {
+      "name": "Widzew",
+      "offer_count": 565,
+      "avg_price": 2286,
+      "min_price": 650,
+      "max_price": 9999
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 1501,
+      "avg_price": 2181,
+      "min_price": 570,
+      "max_price": 11500
+    },
+    {
+      "name": "Radogoszcz",
+      "offer_count": 22,
+      "avg_price": 2133,
+      "min_price": 700,
+      "max_price": 3900
+    },
+    {
+      "name": "Polesie",
+      "offer_count": 809,
+      "avg_price": 2035,
+      "min_price": 500,
+      "max_price": 8000
+    },
+    {
+      "name": "Chojny",
+      "offer_count": 43,
+      "avg_price": 2033,
+      "min_price": 620,
+      "max_price": 5000
+    },
+    {
+      "name": "Bałuty",
+      "offer_count": 745,
+      "avg_price": 1970,
+      "min_price": 500,
+      "max_price": 8900
+    },
+    {
+      "name": "Górna",
+      "offer_count": 507,
+      "avg_price": 1890,
+      "min_price": 600,
+      "max_price": 5400
+    },
+    {
+      "name": "Retkinia",
+      "offer_count": 50,
+      "avg_price": 1845,
+      "min_price": 950,
+      "max_price": 2999
+    },
+    {
+      "name": "Teofilów",
+      "offer_count": 29,
+      "avg_price": 1741,
+      "min_price": 1300,
+      "max_price": 3500
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 1714,
+      "avg_price": 1560,
+      "median_price": 1500,
+      "avg_area": 27,
+      "price_per_m2": 62
+    },
+    {
+      "rooms": 2,
+      "offer_count": 2064,
+      "avg_price": 2107,
+      "median_price": 2100,
+      "avg_area": 43,
+      "price_per_m2": 51
+    },
+    {
+      "rooms": 3,
+      "offer_count": 898,
+      "avg_price": 2595,
+      "median_price": 2600,
+      "avg_area": 63,
+      "price_per_m2": 46
+    },
+    {
+      "rooms": 4,
+      "offer_count": 184,
+      "avg_price": 2799,
+      "median_price": 2650,
+      "avg_area": 76,
+      "price_per_m2": 48
+    },
+    {
+      "rooms": 5,
+      "offer_count": 49,
+      "avg_price": 1523,
+      "median_price": 840,
+      "avg_area": 65,
+      "price_per_m2": 38
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 1905,
+      "pct": 37.2
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 809,
+      "pct": 15.8
+    },
+    {
+      "source": "otodom",
+      "offer_count": 782,
+      "pct": 15.3
+    },
+    {
+      "source": "gratka",
+      "offer_count": 574,
+      "pct": 11.2
+    },
+    {
+      "source": "morizon",
+      "offer_count": 573,
+      "pct": 11.2
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 239,
+      "pct": 4.7
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 200,
+      "pct": 3.9
+    },
+    {
+      "source": "krn",
+      "offer_count": 38,
+      "pct": 0.7
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 503
+    },
+    {
+      "price": 1000,
+      "count": 934
+    },
+    {
+      "price": 1500,
+      "count": 1420
+    },
+    {
+      "price": 2000,
+      "count": 1031
+    },
+    {
+      "price": 2500,
+      "count": 688
+    },
+    {
+      "price": 3000,
+      "count": 243
+    },
+    {
+      "price": 3500,
+      "count": 126
+    },
+    {
+      "price": 4000,
+      "count": 51
+    },
+    {
+      "price": 4500,
+      "count": 34
+    },
+    {
+      "price": 5000,
+      "count": 17
+    },
+    {
+      "price": 5500,
+      "count": 7
+    },
+    {
+      "price": 6000,
+      "count": 18
+    },
+    {
+      "price": 6500,
+      "count": 13
+    },
+    {
+      "price": 7000,
+      "count": 7
+    },
+    {
+      "price": 7500,
+      "count": 8
+    },
+    {
+      "price": 8000,
+      "count": 9
+    },
+    {
+      "price": 8500,
+      "count": 5
+    },
+    {
+      "price": 9500,
+      "count": 2
+    },
+    {
+      "price": 10000,
+      "count": 1
+    },
+    {
+      "price": 11000,
+      "count": 1
+    },
+    {
+      "price": 11500,
+      "count": 1
+    },
+    {
+      "price": 12500,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Łodzi kawalerki to 35% aktywnych ofert — 13,3 pp. więcej niż średnia kraju (22%).",
+      "magnitude": 13.307931646817696,
+      "evidence": {
+        "city_studio_pct": 34.92,
+        "national_studio_pct": 21.61,
+        "delta_pp": 13.31,
+        "city_studio_count": 1714,
+        "city_total": 4909
+      }
+    }
+  ],
+  "generated_month": "2026-07"
+}

@@ -7,6 +7,10 @@ All data MIT licensed — free to cite. See PRESS.md for attribution guidelines.
 
 ---
 
+## Raport 2026-07 — 2026-08-01
+
+Miesięczne raporty dla 21 miast → `reports/2026-07/`
+
 ## Raport 2026-06 — 2026-07-01
 
 Miesięczne raporty dla 15 miast → `reports/2026-06/`

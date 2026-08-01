@@ -1,0 +1,141 @@
+{
+  "city_slug": "kielce",
+  "generated_at": "2026-08-01T03:00:15.171963+02:00",
+  "data_as_of": "2026-08-01T02:15:59.094390+02:00",
+  "overview": {
+    "total_offers": 1041,
+    "avg_price": 1794,
+    "median_price": 1750,
+    "min_price": 550,
+    "max_price": 5500,
+    "avg_price_per_m2": 48,
+    "avg_area": 43
+  },
+  "districts": [],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 270,
+      "avg_price": 1571,
+      "median_price": 1500,
+      "avg_area": 30,
+      "price_per_m2": 55
+    },
+    {
+      "rooms": 2,
+      "offer_count": 496,
+      "avg_price": 1880,
+      "median_price": 1900,
+      "avg_area": 42,
+      "price_per_m2": 47
+    },
+    {
+      "rooms": 3,
+      "offer_count": 176,
+      "avg_price": 1992,
+      "median_price": 2100,
+      "avg_area": 58,
+      "price_per_m2": 40
+    },
+    {
+      "rooms": 4,
+      "offer_count": 43,
+      "avg_price": 2050,
+      "median_price": 1100,
+      "avg_area": 88,
+      "price_per_m2": 32
+    },
+    {
+      "rooms": 5,
+      "offer_count": 3,
+      "avg_price": 3667,
+      "median_price": 3700,
+      "avg_area": 115,
+      "price_per_m2": 31
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 605,
+      "pct": 58.1
+    },
+    {
+      "source": "otodom",
+      "offer_count": 149,
+      "pct": 14.3
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 118,
+      "pct": 11.3
+    },
+    {
+      "source": "morizon",
+      "offer_count": 86,
+      "pct": 8.3
+    },
+    {
+      "source": "gratka",
+      "offer_count": 83,
+      "pct": 8.0
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 115
+    },
+    {
+      "price": 1000,
+      "count": 225
+    },
+    {
+      "price": 1500,
+      "count": 318
+    },
+    {
+      "price": 2000,
+      "count": 220
+    },
+    {
+      "price": 2500,
+      "count": 117
+    },
+    {
+      "price": 3000,
+      "count": 26
+    },
+    {
+      "price": 3500,
+      "count": 6
+    },
+    {
+      "price": 4500,
+      "count": 9
+    },
+    {
+      "price": 5000,
+      "count": 1
+    },
+    {
+      "price": 5500,
+      "count": 4
+    }
+  ],
+  "insights": [
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Kielcach kawalerki to 27% aktywnych ofert — 5,7 pp. więcej niż średnia kraju (22%).",
+      "magnitude": 5.7204054720564805,
+      "evidence": {
+        "city_studio_pct": 27.33,
+        "national_studio_pct": 21.61,
+        "delta_pp": 5.72,
+        "city_studio_count": 270,
+        "city_total": 988
+      }
+    }
+  ],
+  "generated_month": "2026-07"
+}

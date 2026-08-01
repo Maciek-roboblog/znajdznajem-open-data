@@ -1,0 +1,140 @@
+{
+  "city_slug": "opole",
+  "generated_at": "2026-08-01T03:00:15.171967+02:00",
+  "data_as_of": "2026-08-01T02:03:44.285470+02:00",
+  "overview": {
+    "total_offers": 743,
+    "avg_price": 2030,
+    "median_price": 2000,
+    "min_price": 650,
+    "max_price": 8000,
+    "avg_price_per_m2": 55,
+    "avg_area": 46
+  },
+  "districts": [],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 148,
+      "avg_price": 1979,
+      "median_price": 1950,
+      "avg_area": 31,
+      "price_per_m2": 70
+    },
+    {
+      "rooms": 2,
+      "offer_count": 327,
+      "avg_price": 2202,
+      "median_price": 2200,
+      "avg_area": 45,
+      "price_per_m2": 52
+    },
+    {
+      "rooms": 3,
+      "offer_count": 140,
+      "avg_price": 2233,
+      "median_price": 2250,
+      "avg_area": 61,
+      "price_per_m2": 45
+    },
+    {
+      "rooms": 4,
+      "offer_count": 46,
+      "avg_price": 1939,
+      "median_price": 1300,
+      "avg_area": 71,
+      "price_per_m2": 47
+    },
+    {
+      "rooms": 5,
+      "offer_count": 14,
+      "avg_price": 1254,
+      "median_price": 1275,
+      "avg_area": 25,
+      "price_per_m2": 48
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 494,
+      "pct": 66.5
+    },
+    {
+      "source": "otodom",
+      "offer_count": 108,
+      "pct": 14.5
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 79,
+      "pct": 10.6
+    },
+    {
+      "source": "gratka",
+      "offer_count": 31,
+      "pct": 4.2
+    },
+    {
+      "source": "morizon",
+      "offer_count": 31,
+      "pct": 4.2
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 46
+    },
+    {
+      "price": 1000,
+      "count": 163
+    },
+    {
+      "price": 1500,
+      "count": 143
+    },
+    {
+      "price": 2000,
+      "count": 203
+    },
+    {
+      "price": 2500,
+      "count": 109
+    },
+    {
+      "price": 3000,
+      "count": 43
+    },
+    {
+      "price": 3500,
+      "count": 17
+    },
+    {
+      "price": 4000,
+      "count": 3
+    },
+    {
+      "price": 4500,
+      "count": 8
+    },
+    {
+      "price": 5000,
+      "count": 5
+    },
+    {
+      "price": 6000,
+      "count": 1
+    },
+    {
+      "price": 6500,
+      "count": 1
+    },
+    {
+      "price": 8000,
+      "count": 1
+    }
+  ],
+  "insights": [],
+  "generated_month": "2026-07"
+}

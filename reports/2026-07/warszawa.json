@@ -1,0 +1,345 @@
+{
+  "city_slug": "warszawa",
+  "generated_at": "2026-08-01T03:00:15.171975+02:00",
+  "data_as_of": "2026-08-01T02:54:49.631683+02:00",
+  "overview": {
+    "total_offers": 21971,
+    "avg_price": 3855,
+    "median_price": 3300,
+    "min_price": 500,
+    "max_price": 15000,
+    "avg_price_per_m2": 86,
+    "avg_area": 51
+  },
+  "districts": [
+    {
+      "name": "Wilanów",
+      "offer_count": 615,
+      "avg_price": 5587,
+      "min_price": 629,
+      "max_price": 15000
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 2560,
+      "avg_price": 5023,
+      "min_price": 600,
+      "max_price": 15000
+    },
+    {
+      "name": "Mokotów",
+      "offer_count": 3313,
+      "avg_price": 4564,
+      "min_price": 510,
+      "max_price": 15000
+    },
+    {
+      "name": "Wola",
+      "offer_count": 2555,
+      "avg_price": 4507,
+      "min_price": 500,
+      "max_price": 15000
+    },
+    {
+      "name": "Żoliborz",
+      "offer_count": 642,
+      "avg_price": 4010,
+      "min_price": 550,
+      "max_price": 14500
+    },
+    {
+      "name": "Wesoła",
+      "offer_count": 146,
+      "avg_price": 3944,
+      "min_price": 1000,
+      "max_price": 13000
+    },
+    {
+      "name": "Ursynów",
+      "offer_count": 1063,
+      "avg_price": 3743,
+      "min_price": 900,
+      "max_price": 15000
+    },
+    {
+      "name": "Ochota",
+      "offer_count": 974,
+      "avg_price": 3666,
+      "min_price": 750,
+      "max_price": 15000
+    },
+    {
+      "name": "Włochy",
+      "offer_count": 680,
+      "avg_price": 3616,
+      "min_price": 800,
+      "max_price": 12000
+    },
+    {
+      "name": "Praga-Północ",
+      "offer_count": 678,
+      "avg_price": 3590,
+      "min_price": 640,
+      "max_price": 14000
+    },
+    {
+      "name": "Wawer",
+      "offer_count": 253,
+      "avg_price": 3556,
+      "min_price": 900,
+      "max_price": 14000
+    },
+    {
+      "name": "Praga-Południe",
+      "offer_count": 1602,
+      "avg_price": 3527,
+      "min_price": 765,
+      "max_price": 15000
+    },
+    {
+      "name": "Bemowo",
+      "offer_count": 823,
+      "avg_price": 3316,
+      "min_price": 700,
+      "max_price": 11000
+    },
+    {
+      "name": "Bielany",
+      "offer_count": 926,
+      "avg_price": 3257,
+      "min_price": 700,
+      "max_price": 14000
+    },
+    {
+      "name": "Ursus",
+      "offer_count": 572,
+      "avg_price": 3253,
+      "min_price": 700,
+      "max_price": 14500
+    },
+    {
+      "name": "Białołęka",
+      "offer_count": 780,
+      "avg_price": 3045,
+      "min_price": 800,
+      "max_price": 8000
+    },
+    {
+      "name": "Targówek",
+      "offer_count": 646,
+      "avg_price": 3042,
+      "min_price": 880,
+      "max_price": 10500
+    },
+    {
+      "name": "Rembertów",
+      "offer_count": 104,
+      "avg_price": 2933,
+      "min_price": 900,
+      "max_price": 10000
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 4400,
+      "avg_price": 2653,
+      "median_price": 2600,
+      "avg_area": 30,
+      "price_per_m2": 95
+    },
+    {
+      "rooms": 2,
+      "offer_count": 9571,
+      "avg_price": 3633,
+      "median_price": 3400,
+      "avg_area": 45,
+      "price_per_m2": 83
+    },
+    {
+      "rooms": 3,
+      "offer_count": 5242,
+      "avg_price": 4897,
+      "median_price": 4500,
+      "avg_area": 66,
+      "price_per_m2": 81
+    },
+    {
+      "rooms": 4,
+      "offer_count": 1449,
+      "avg_price": 6342,
+      "median_price": 6000,
+      "avg_area": 94,
+      "price_per_m2": 84
+    },
+    {
+      "rooms": 5,
+      "offer_count": 481,
+      "avg_price": 4189,
+      "median_price": 1400,
+      "avg_area": 101,
+      "price_per_m2": 92
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 5630,
+      "pct": 25.6
+    },
+    {
+      "source": "otodom",
+      "offer_count": 5179,
+      "pct": 23.6
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 4569,
+      "pct": 20.8
+    },
+    {
+      "source": "gratka",
+      "offer_count": 2379,
+      "pct": 10.8
+    },
+    {
+      "source": "morizon",
+      "offer_count": 1859,
+      "pct": 8.5
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 1481,
+      "pct": 6.7
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 874,
+      "pct": 4.0
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 430
+    },
+    {
+      "price": 1000,
+      "count": 1459
+    },
+    {
+      "price": 1500,
+      "count": 1089
+    },
+    {
+      "price": 2000,
+      "count": 1627
+    },
+    {
+      "price": 2500,
+      "count": 3592
+    },
+    {
+      "price": 3000,
+      "count": 3514
+    },
+    {
+      "price": 3500,
+      "count": 3031
+    },
+    {
+      "price": 4000,
+      "count": 1652
+    },
+    {
+      "price": 4500,
+      "count": 1394
+    },
+    {
+      "price": 5000,
+      "count": 770
+    },
+    {
+      "price": 5500,
+      "count": 695
+    },
+    {
+      "price": 6000,
+      "count": 420
+    },
+    {
+      "price": 6500,
+      "count": 410
+    },
+    {
+      "price": 7000,
+      "count": 242
+    },
+    {
+      "price": 7500,
+      "count": 241
+    },
+    {
+      "price": 8000,
+      "count": 185
+    },
+    {
+      "price": 8500,
+      "count": 171
+    },
+    {
+      "price": 9000,
+      "count": 124
+    },
+    {
+      "price": 9500,
+      "count": 132
+    },
+    {
+      "price": 10000,
+      "count": 133
+    },
+    {
+      "price": 10500,
+      "count": 66
+    },
+    {
+      "price": 11000,
+      "count": 88
+    },
+    {
+      "price": 11500,
+      "count": 61
+    },
+    {
+      "price": 12000,
+      "count": 122
+    },
+    {
+      "price": 12500,
+      "count": 80
+    },
+    {
+      "price": 13000,
+      "count": 59
+    },
+    {
+      "price": 13500,
+      "count": 40
+    },
+    {
+      "price": 14000,
+      "count": 63
+    },
+    {
+      "price": 14500,
+      "count": 19
+    },
+    {
+      "price": 15000,
+      "count": 62
+    }
+  ],
+  "insights": [],
+  "generated_month": "2026-07"
+}

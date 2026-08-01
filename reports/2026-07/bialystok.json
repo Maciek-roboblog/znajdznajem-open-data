@@ -1,0 +1,317 @@
+{
+  "city_slug": "bialystok",
+  "generated_at": "2026-08-01T03:00:15.171944+02:00",
+  "data_as_of": "2026-08-01T01:59:48.326803+02:00",
+  "overview": {
+    "total_offers": 1514,
+    "avg_price": 1829,
+    "median_price": 1800,
+    "min_price": 550,
+    "max_price": 7800,
+    "avg_price_per_m2": 49,
+    "avg_area": 44
+  },
+  "districts": [
+    {
+      "name": "Przydworcowe",
+      "offer_count": 63,
+      "avg_price": 2303,
+      "min_price": 900,
+      "max_price": 5500
+    },
+    {
+      "name": "Leśna Dolina",
+      "offer_count": 16,
+      "avg_price": 2252,
+      "min_price": 1300,
+      "max_price": 3190
+    },
+    {
+      "name": "Bojary",
+      "offer_count": 87,
+      "avg_price": 2175,
+      "min_price": 900,
+      "max_price": 3500
+    },
+    {
+      "name": "Sienkiewicza",
+      "offer_count": 79,
+      "avg_price": 2151,
+      "min_price": 700,
+      "max_price": 6900
+    },
+    {
+      "name": "Białostoczek",
+      "offer_count": 37,
+      "avg_price": 2146,
+      "min_price": 750,
+      "max_price": 4500
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 87,
+      "avg_price": 2100,
+      "min_price": 600,
+      "max_price": 3500
+    },
+    {
+      "name": "Skorupy",
+      "offer_count": 18,
+      "avg_price": 2094,
+      "min_price": 1000,
+      "max_price": 3900
+    },
+    {
+      "name": "Wygoda",
+      "offer_count": 30,
+      "avg_price": 2045,
+      "min_price": 950,
+      "max_price": 3300
+    },
+    {
+      "name": "Centrum",
+      "offer_count": 182,
+      "avg_price": 2030,
+      "min_price": 700,
+      "max_price": 7800
+    },
+    {
+      "name": "Nowe Miasto",
+      "offer_count": 122,
+      "avg_price": 2017,
+      "min_price": 600,
+      "max_price": 4800
+    },
+    {
+      "name": "Dojlidy",
+      "offer_count": 11,
+      "avg_price": 2004,
+      "min_price": 1150,
+      "max_price": 3300
+    },
+    {
+      "name": "Wysoki Stoczek",
+      "offer_count": 40,
+      "avg_price": 1991,
+      "min_price": 950,
+      "max_price": 3000
+    },
+    {
+      "name": "Piaski",
+      "offer_count": 90,
+      "avg_price": 1979,
+      "min_price": 700,
+      "max_price": 6500
+    },
+    {
+      "name": "Kawaleryjskie",
+      "offer_count": 31,
+      "avg_price": 1972,
+      "min_price": 750,
+      "max_price": 3600
+    },
+    {
+      "name": "Zielone Wzgórza",
+      "offer_count": 15,
+      "avg_price": 1933,
+      "min_price": 800,
+      "max_price": 2500
+    },
+    {
+      "name": "Dziesięciny",
+      "offer_count": 21,
+      "avg_price": 1888,
+      "min_price": 800,
+      "max_price": 3500
+    },
+    {
+      "name": "Słoneczny Stok",
+      "offer_count": 18,
+      "avg_price": 1876,
+      "min_price": 800,
+      "max_price": 2700
+    },
+    {
+      "name": "Mickiewicza",
+      "offer_count": 60,
+      "avg_price": 1871,
+      "min_price": 600,
+      "max_price": 3700
+    },
+    {
+      "name": "Antoniuk",
+      "offer_count": 67,
+      "avg_price": 1849,
+      "min_price": 700,
+      "max_price": 3200
+    },
+    {
+      "name": "Bacieczki",
+      "offer_count": 21,
+      "avg_price": 1837,
+      "min_price": 900,
+      "max_price": 2900
+    },
+    {
+      "name": "Piasta",
+      "offer_count": 70,
+      "avg_price": 1749,
+      "min_price": 550,
+      "max_price": 3000
+    },
+    {
+      "name": "Młodych",
+      "offer_count": 17,
+      "avg_price": 1741,
+      "min_price": 700,
+      "max_price": 2300
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 223,
+      "avg_price": 1538,
+      "median_price": 1500,
+      "avg_area": 27,
+      "price_per_m2": 63
+    },
+    {
+      "rooms": 2,
+      "offer_count": 743,
+      "avg_price": 1925,
+      "median_price": 2000,
+      "avg_area": 42,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 3,
+      "offer_count": 363,
+      "avg_price": 2071,
+      "median_price": 2100,
+      "avg_area": 56,
+      "price_per_m2": 43
+    },
+    {
+      "rooms": 4,
+      "offer_count": 67,
+      "avg_price": 1913,
+      "median_price": 1500,
+      "avg_area": 70,
+      "price_per_m2": 40
+    },
+    {
+      "rooms": 5,
+      "offer_count": 13,
+      "avg_price": 1611,
+      "median_price": 900,
+      "avg_area": 67,
+      "price_per_m2": 44
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 963,
+      "pct": 63.6
+    },
+    {
+      "source": "otodom",
+      "offer_count": 247,
+      "pct": 16.3
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 126,
+      "pct": 8.3
+    },
+    {
+      "source": "morizon",
+      "offer_count": 121,
+      "pct": 8.0
+    },
+    {
+      "source": "gratka",
+      "offer_count": 57,
+      "pct": 3.8
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 235
+    },
+    {
+      "price": 1000,
+      "count": 194
+    },
+    {
+      "price": 1500,
+      "count": 429
+    },
+    {
+      "price": 2000,
+      "count": 420
+    },
+    {
+      "price": 2500,
+      "count": 142
+    },
+    {
+      "price": 3000,
+      "count": 55
+    },
+    {
+      "price": 3500,
+      "count": 21
+    },
+    {
+      "price": 4000,
+      "count": 7
+    },
+    {
+      "price": 4500,
+      "count": 6
+    },
+    {
+      "price": 5500,
+      "count": 1
+    },
+    {
+      "price": 6500,
+      "count": 3
+    },
+    {
+      "price": 7500,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "trend_reversal",
+      "text": "Mediana ceny w Białymstoku spadła o 5,3% mimo wzrostu liczby ofert o 8,5%.",
+      "magnitude": 13.79362384455763,
+      "evidence": {
+        "current_median": 1800,
+        "previous_median": 1900,
+        "current_total_offers": 1514,
+        "previous_total_offers": 1395,
+        "price_pct": -5.26,
+        "supply_pct": 8.53
+      }
+    },
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Białymstoku kawalerki to 16% aktywnych ofert — 5,8 pp. mniej niż średnia kraju (22%).",
+      "magnitude": 5.780702213355118,
+      "evidence": {
+        "city_studio_pct": 15.83,
+        "national_studio_pct": 21.61,
+        "delta_pp": -5.78,
+        "city_studio_count": 223,
+        "city_total": 1409
+      }
+    }
+  ],
+  "generated_month": "2026-07"
+}

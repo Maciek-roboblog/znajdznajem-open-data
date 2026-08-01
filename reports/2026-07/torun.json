@@ -1,0 +1,258 @@
+{
+  "city_slug": "torun",
+  "generated_at": "2026-08-01T03:00:15.171974+02:00",
+  "data_as_of": "2026-08-01T02:42:39.347608+02:00",
+  "overview": {
+    "total_offers": 1169,
+    "avg_price": 1789,
+    "median_price": 1700,
+    "min_price": 500,
+    "max_price": 8900,
+    "avg_price_per_m2": 53,
+    "avg_area": 42
+  },
+  "districts": [
+    {
+      "name": "Winnica",
+      "offer_count": 16,
+      "avg_price": 3205,
+      "min_price": 1200,
+      "max_price": 6800
+    },
+    {
+      "name": "Stare Miasto",
+      "offer_count": 86,
+      "avg_price": 2327,
+      "min_price": 800,
+      "max_price": 8900
+    },
+    {
+      "name": "Jakubskie Przedmieście",
+      "offer_count": 44,
+      "avg_price": 2282,
+      "min_price": 1400,
+      "max_price": 4500
+    },
+    {
+      "name": "Wrzosy",
+      "offer_count": 36,
+      "avg_price": 2104,
+      "min_price": 1000,
+      "max_price": 4200
+    },
+    {
+      "name": "Rubinkowo",
+      "offer_count": 31,
+      "avg_price": 2001,
+      "min_price": 1200,
+      "max_price": 8000
+    },
+    {
+      "name": "Chełmińskie Przedmieście",
+      "offer_count": 59,
+      "avg_price": 2000,
+      "min_price": 850,
+      "max_price": 5500
+    },
+    {
+      "name": "Bydgoskie Przedmieście",
+      "offer_count": 128,
+      "avg_price": 1953,
+      "min_price": 500,
+      "max_price": 4500
+    },
+    {
+      "name": "Bielany",
+      "offer_count": 27,
+      "avg_price": 1943,
+      "min_price": 800,
+      "max_price": 3600
+    },
+    {
+      "name": "Podgórz",
+      "offer_count": 12,
+      "avg_price": 1933,
+      "min_price": 1350,
+      "max_price": 2600
+    },
+    {
+      "name": "Mokre",
+      "offer_count": 55,
+      "avg_price": 1850,
+      "min_price": 800,
+      "max_price": 3000
+    },
+    {
+      "name": "Stawki",
+      "offer_count": 15,
+      "avg_price": 1840,
+      "min_price": 700,
+      "max_price": 3200
+    },
+    {
+      "name": "Bielawy",
+      "offer_count": 13,
+      "avg_price": 1776,
+      "min_price": 700,
+      "max_price": 3450
+    },
+    {
+      "name": "Koniuchy",
+      "offer_count": 36,
+      "avg_price": 1735,
+      "min_price": 800,
+      "max_price": 5000
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 224,
+      "avg_price": 1652,
+      "median_price": 1575,
+      "avg_area": 28,
+      "price_per_m2": 65
+    },
+    {
+      "rooms": 2,
+      "offer_count": 511,
+      "avg_price": 1920,
+      "median_price": 1900,
+      "avg_area": 42,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 3,
+      "offer_count": 275,
+      "avg_price": 1943,
+      "median_price": 1900,
+      "avg_area": 56,
+      "price_per_m2": 45
+    },
+    {
+      "rooms": 4,
+      "offer_count": 55,
+      "avg_price": 1827,
+      "median_price": 1000,
+      "avg_area": 65,
+      "price_per_m2": 54
+    },
+    {
+      "rooms": 5,
+      "offer_count": 5,
+      "avg_price": 1500,
+      "median_price": 1000,
+      "avg_area": 30,
+      "price_per_m2": 65
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 722,
+      "pct": 61.8
+    },
+    {
+      "source": "otodom",
+      "offer_count": 308,
+      "pct": 26.3
+    },
+    {
+      "source": "morizon",
+      "offer_count": 52,
+      "pct": 4.4
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 45,
+      "pct": 3.8
+    },
+    {
+      "source": "gratka",
+      "offer_count": 42,
+      "pct": 3.6
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 204
+    },
+    {
+      "price": 1000,
+      "count": 215
+    },
+    {
+      "price": 1500,
+      "count": 322
+    },
+    {
+      "price": 2000,
+      "count": 246
+    },
+    {
+      "price": 2500,
+      "count": 94
+    },
+    {
+      "price": 3000,
+      "count": 41
+    },
+    {
+      "price": 3500,
+      "count": 18
+    },
+    {
+      "price": 4000,
+      "count": 10
+    },
+    {
+      "price": 4500,
+      "count": 6
+    },
+    {
+      "price": 5000,
+      "count": 4
+    },
+    {
+      "price": 5500,
+      "count": 2
+    },
+    {
+      "price": 6000,
+      "count": 3
+    },
+    {
+      "price": 6500,
+      "count": 1
+    },
+    {
+      "price": 7000,
+      "count": 1
+    },
+    {
+      "price": 8000,
+      "count": 1
+    },
+    {
+      "price": 8500,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "trend_reversal",
+      "text": "Mediana ceny w Toruniu spadła o 8,1% mimo wzrostu liczby ofert o 8,6%.",
+      "magnitude": 16.751230784688033,
+      "evidence": {
+        "current_median": 1700,
+        "previous_median": 1850,
+        "current_total_offers": 1169,
+        "previous_total_offers": 1076,
+        "price_pct": -8.11,
+        "supply_pct": 8.64
+      }
+    }
+  ],
+  "generated_month": "2026-07"
+}

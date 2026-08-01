@@ -1,0 +1,329 @@
+{
+  "city_slug": "lublin",
+  "generated_at": "2026-08-01T03:00:15.171965+02:00",
+  "data_as_of": "2026-08-01T02:11:00.689138+02:00",
+  "overview": {
+    "total_offers": 3177,
+    "avg_price": 1962,
+    "median_price": 2000,
+    "min_price": 500,
+    "max_price": 11900,
+    "avg_price_per_m2": 58,
+    "avg_area": 44
+  },
+  "districts": [
+    {
+      "name": "Sławin",
+      "offer_count": 57,
+      "avg_price": 2639,
+      "min_price": 800,
+      "max_price": 6000
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 308,
+      "avg_price": 2570,
+      "min_price": 600,
+      "max_price": 8000
+    },
+    {
+      "name": "Za Cukrownią",
+      "offer_count": 16,
+      "avg_price": 2523,
+      "min_price": 700,
+      "max_price": 9000
+    },
+    {
+      "name": "Węglin Południowy",
+      "offer_count": 66,
+      "avg_price": 2505,
+      "min_price": 680,
+      "max_price": 3750
+    },
+    {
+      "name": "Stare Miasto",
+      "offer_count": 90,
+      "avg_price": 2503,
+      "min_price": 690,
+      "max_price": 8500
+    },
+    {
+      "name": "Bronowice",
+      "offer_count": 55,
+      "avg_price": 2461,
+      "min_price": 800,
+      "max_price": 6500
+    },
+    {
+      "name": "Czechów Południowy",
+      "offer_count": 107,
+      "avg_price": 2449,
+      "min_price": 600,
+      "max_price": 5000
+    },
+    {
+      "name": "Ponikwoda",
+      "offer_count": 57,
+      "avg_price": 2445,
+      "min_price": 750,
+      "max_price": 5000
+    },
+    {
+      "name": "Czechów Północny",
+      "offer_count": 52,
+      "avg_price": 2366,
+      "min_price": 750,
+      "max_price": 5500
+    },
+    {
+      "name": "Wieniawa",
+      "offer_count": 152,
+      "avg_price": 2346,
+      "min_price": 650,
+      "max_price": 5200
+    },
+    {
+      "name": "Felin",
+      "offer_count": 27,
+      "avg_price": 2316,
+      "min_price": 800,
+      "max_price": 3200
+    },
+    {
+      "name": "Dziesiąta",
+      "offer_count": 57,
+      "avg_price": 2286,
+      "min_price": 849,
+      "max_price": 5000
+    },
+    {
+      "name": "Konstantynów",
+      "offer_count": 28,
+      "avg_price": 2264,
+      "min_price": 800,
+      "max_price": 4500
+    },
+    {
+      "name": "Sławinek",
+      "offer_count": 42,
+      "avg_price": 2248,
+      "min_price": 850,
+      "max_price": 5900
+    },
+    {
+      "name": "Kośminek",
+      "offer_count": 34,
+      "avg_price": 2243,
+      "min_price": 600,
+      "max_price": 3500
+    },
+    {
+      "name": "Wrotków",
+      "offer_count": 57,
+      "avg_price": 2241,
+      "min_price": 700,
+      "max_price": 3800
+    },
+    {
+      "name": "Rury",
+      "offer_count": 136,
+      "avg_price": 2187,
+      "min_price": 600,
+      "max_price": 3900
+    },
+    {
+      "name": "Czuby Północne",
+      "offer_count": 57,
+      "avg_price": 2149,
+      "min_price": 837,
+      "max_price": 4200
+    },
+    {
+      "name": "Czuby Południowe",
+      "offer_count": 28,
+      "avg_price": 2125,
+      "min_price": 700,
+      "max_price": 3500
+    },
+    {
+      "name": "LSM",
+      "offer_count": 137,
+      "avg_price": 2122,
+      "min_price": 610,
+      "max_price": 4300
+    },
+    {
+      "name": "Tatary",
+      "offer_count": 15,
+      "avg_price": 1943,
+      "min_price": 1400,
+      "max_price": 3200
+    },
+    {
+      "name": "Kalinowszczyzna",
+      "offer_count": 57,
+      "avg_price": 1921,
+      "min_price": 850,
+      "max_price": 3500
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 530,
+      "avg_price": 1847,
+      "median_price": 1900,
+      "avg_area": 29,
+      "price_per_m2": 71
+    },
+    {
+      "rooms": 2,
+      "offer_count": 1230,
+      "avg_price": 2252,
+      "median_price": 2300,
+      "avg_area": 43,
+      "price_per_m2": 58
+    },
+    {
+      "rooms": 3,
+      "offer_count": 797,
+      "avg_price": 2111,
+      "median_price": 2100,
+      "avg_area": 54,
+      "price_per_m2": 50
+    },
+    {
+      "rooms": 4,
+      "offer_count": 237,
+      "avg_price": 1767,
+      "median_price": 1100,
+      "avg_area": 58,
+      "price_per_m2": 52
+    },
+    {
+      "rooms": 5,
+      "offer_count": 40,
+      "avg_price": 1148,
+      "median_price": 970,
+      "avg_area": 40,
+      "price_per_m2": 61
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 2180,
+      "pct": 68.6
+    },
+    {
+      "source": "otodom",
+      "offer_count": 462,
+      "pct": 14.5
+    },
+    {
+      "source": "gratka",
+      "offer_count": 214,
+      "pct": 6.7
+    },
+    {
+      "source": "morizon",
+      "offer_count": 204,
+      "pct": 6.4
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 117,
+      "pct": 3.7
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 607
+    },
+    {
+      "price": 1000,
+      "count": 520
+    },
+    {
+      "price": 1500,
+      "count": 427
+    },
+    {
+      "price": 2000,
+      "count": 653
+    },
+    {
+      "price": 2500,
+      "count": 571
+    },
+    {
+      "price": 3000,
+      "count": 232
+    },
+    {
+      "price": 3500,
+      "count": 98
+    },
+    {
+      "price": 4000,
+      "count": 26
+    },
+    {
+      "price": 4500,
+      "count": 16
+    },
+    {
+      "price": 5000,
+      "count": 8
+    },
+    {
+      "price": 5500,
+      "count": 8
+    },
+    {
+      "price": 6000,
+      "count": 3
+    },
+    {
+      "price": 6500,
+      "count": 1
+    },
+    {
+      "price": 7500,
+      "count": 2
+    },
+    {
+      "price": 8000,
+      "count": 1
+    },
+    {
+      "price": 8500,
+      "count": 2
+    },
+    {
+      "price": 9000,
+      "count": 1
+    },
+    {
+      "price": 11500,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "trend_reversal",
+      "text": "Mediana ceny w Lublinie spadła o 9,1% mimo wzrostu liczby ofert o 8,5%.",
+      "magnitude": 17.632077522750567,
+      "evidence": {
+        "current_median": 2000,
+        "previous_median": 2200,
+        "current_total_offers": 3177,
+        "previous_total_offers": 2927,
+        "price_pct": -9.09,
+        "supply_pct": 8.54
+      }
+    }
+  ],
+  "generated_month": "2026-07"
+}

@@ -1,0 +1,288 @@
+{
+  "city_slug": "katowice",
+  "generated_at": "2026-08-01T03:00:15.171962+02:00",
+  "data_as_of": "2026-08-01T02:45:47.166279+02:00",
+  "overview": {
+    "total_offers": 3725,
+    "avg_price": 2095,
+    "median_price": 1900,
+    "min_price": 500,
+    "max_price": 13000,
+    "avg_price_per_m2": 55,
+    "avg_area": 44
+  },
+  "districts": [
+    {
+      "name": "Brynów-Osiedle Zgrzebnioka",
+      "offer_count": 315,
+      "avg_price": 2589,
+      "min_price": 500,
+      "max_price": 7500
+    },
+    {
+      "name": "Bogucice",
+      "offer_count": 164,
+      "avg_price": 2460,
+      "min_price": 502,
+      "max_price": 10500
+    },
+    {
+      "name": "Dąb",
+      "offer_count": 162,
+      "avg_price": 2453,
+      "min_price": 600,
+      "max_price": 10500
+    },
+    {
+      "name": "Koszutka",
+      "offer_count": 219,
+      "avg_price": 2310,
+      "min_price": 600,
+      "max_price": 10500
+    },
+    {
+      "name": "Piotrowice-Ochojec",
+      "offer_count": 176,
+      "avg_price": 2202,
+      "min_price": 690,
+      "max_price": 5800
+    },
+    {
+      "name": "Wełnowiec-Józefowiec",
+      "offer_count": 136,
+      "avg_price": 2187,
+      "min_price": 900,
+      "max_price": 5300
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 904,
+      "avg_price": 2151,
+      "min_price": 510,
+      "max_price": 13000
+    },
+    {
+      "name": "Osiedle Tysiąclecia",
+      "offer_count": 147,
+      "avg_price": 2025,
+      "min_price": 800,
+      "max_price": 3300
+    },
+    {
+      "name": "Ligota-Panewniki",
+      "offer_count": 313,
+      "avg_price": 2024,
+      "min_price": 500,
+      "max_price": 11000
+    },
+    {
+      "name": "Szopienice-Burowiec",
+      "offer_count": 110,
+      "avg_price": 1891,
+      "min_price": 500,
+      "max_price": 3827
+    },
+    {
+      "name": "Janów-Nikiszowiec",
+      "offer_count": 81,
+      "avg_price": 1823,
+      "min_price": 523,
+      "max_price": 3600
+    },
+    {
+      "name": "Załęże",
+      "offer_count": 91,
+      "avg_price": 1467,
+      "min_price": 518,
+      "max_price": 4000
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 1106,
+      "avg_price": 1587,
+      "median_price": 1590,
+      "avg_area": 28,
+      "price_per_m2": 61
+    },
+    {
+      "rooms": 2,
+      "offer_count": 1525,
+      "avg_price": 2160,
+      "median_price": 2100,
+      "avg_area": 45,
+      "price_per_m2": 52
+    },
+    {
+      "rooms": 3,
+      "offer_count": 705,
+      "avg_price": 2642,
+      "median_price": 2600,
+      "avg_area": 60,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 4,
+      "offer_count": 219,
+      "avg_price": 3012,
+      "median_price": 2690,
+      "avg_area": 75,
+      "price_per_m2": 51
+    },
+    {
+      "rooms": 5,
+      "offer_count": 34,
+      "avg_price": 2064,
+      "median_price": 900,
+      "avg_area": 63,
+      "price_per_m2": 59
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 1249,
+      "pct": 33.5
+    },
+    {
+      "source": "otodom",
+      "offer_count": 758,
+      "pct": 20.3
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 659,
+      "pct": 17.7
+    },
+    {
+      "source": "morizon",
+      "offer_count": 392,
+      "pct": 10.5
+    },
+    {
+      "source": "gratka",
+      "offer_count": 344,
+      "pct": 9.2
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 190,
+      "pct": 5.1
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 133,
+      "pct": 3.6
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 398
+    },
+    {
+      "price": 1000,
+      "count": 596
+    },
+    {
+      "price": 1500,
+      "count": 951
+    },
+    {
+      "price": 2000,
+      "count": 779
+    },
+    {
+      "price": 2500,
+      "count": 451
+    },
+    {
+      "price": 3000,
+      "count": 241
+    },
+    {
+      "price": 3500,
+      "count": 121
+    },
+    {
+      "price": 4000,
+      "count": 52
+    },
+    {
+      "price": 4500,
+      "count": 45
+    },
+    {
+      "price": 5000,
+      "count": 25
+    },
+    {
+      "price": 5500,
+      "count": 20
+    },
+    {
+      "price": 6000,
+      "count": 13
+    },
+    {
+      "price": 6500,
+      "count": 3
+    },
+    {
+      "price": 7000,
+      "count": 5
+    },
+    {
+      "price": 7500,
+      "count": 11
+    },
+    {
+      "price": 8000,
+      "count": 1
+    },
+    {
+      "price": 8500,
+      "count": 1
+    },
+    {
+      "price": 9000,
+      "count": 1
+    },
+    {
+      "price": 9500,
+      "count": 1
+    },
+    {
+      "price": 10000,
+      "count": 1
+    },
+    {
+      "price": 10500,
+      "count": 6
+    },
+    {
+      "price": 11000,
+      "count": 1
+    },
+    {
+      "price": 13000,
+      "count": 2
+    }
+  ],
+  "insights": [
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Katowicach kawalerki to 31% aktywnych ofert — 9,2 pp. więcej niż średnia kraju (22%).",
+      "magnitude": 9.208853643087398,
+      "evidence": {
+        "city_studio_pct": 30.82,
+        "national_studio_pct": 21.61,
+        "delta_pp": 9.21,
+        "city_studio_count": 1106,
+        "city_total": 3589
+      }
+    }
+  ],
+  "generated_month": "2026-07"
+}
