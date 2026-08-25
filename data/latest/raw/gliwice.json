@@ -1,0 +1,249 @@
+{
+  "report": {
+    "city_slug": "gliwice",
+    "generated_at": "2026-08-25T16:51:56.664711+02:00",
+    "data_as_of": "2026-08-25T16:08:42.493885+02:00",
+    "overview": {
+      "total_offers": 1305,
+      "avg_price": 1969,
+      "median_price": 1850,
+      "min_price": 500,
+      "max_price": 12206,
+      "avg_price_per_m2": 51,
+      "avg_area": 45
+    },
+    "districts": [],
+    "by_rooms": [
+      {
+        "rooms": 1,
+        "offer_count": 377,
+        "avg_price": 1590,
+        "median_price": 1600,
+        "avg_area": 31,
+        "price_per_m2": 59
+      },
+      {
+        "rooms": 2,
+        "offer_count": 613,
+        "avg_price": 2055,
+        "median_price": 2000,
+        "avg_area": 44,
+        "price_per_m2": 48
+      },
+      {
+        "rooms": 3,
+        "offer_count": 215,
+        "avg_price": 2489,
+        "median_price": 2500,
+        "avg_area": 64,
+        "price_per_m2": 44
+      },
+      {
+        "rooms": 4,
+        "offer_count": 39,
+        "avg_price": 2839,
+        "median_price": 2800,
+        "avg_area": 90,
+        "price_per_m2": 40
+      },
+      {
+        "rooms": 5,
+        "offer_count": 17,
+        "avg_price": 1326,
+        "median_price": 750,
+        "avg_area": 71,
+        "price_per_m2": 31
+      }
+    ],
+    "sources": [
+      {
+        "source": "olx",
+        "offer_count": 738,
+        "pct": 56.6
+      },
+      {
+        "source": "otodom",
+        "offer_count": 293,
+        "pct": 22.5
+      },
+      {
+        "source": "gratka",
+        "offer_count": 147,
+        "pct": 11.3
+      },
+      {
+        "source": "morizon",
+        "offer_count": 78,
+        "pct": 6.0
+      },
+      {
+        "source": "domiporta",
+        "offer_count": 49,
+        "pct": 3.8
+      }
+    ],
+    "price_distribution": [
+      {
+        "price": 500,
+        "count": 121
+      },
+      {
+        "price": 1000,
+        "count": 194
+      },
+      {
+        "price": 1500,
+        "count": 416
+      },
+      {
+        "price": 2000,
+        "count": 280
+      },
+      {
+        "price": 2500,
+        "count": 172
+      },
+      {
+        "price": 3000,
+        "count": 63
+      },
+      {
+        "price": 3500,
+        "count": 31
+      },
+      {
+        "price": 4000,
+        "count": 11
+      },
+      {
+        "price": 4500,
+        "count": 5
+      },
+      {
+        "price": 5000,
+        "count": 4
+      },
+      {
+        "price": 5500,
+        "count": 2
+      },
+      {
+        "price": 6000,
+        "count": 1
+      },
+      {
+        "price": 6500,
+        "count": 1
+      },
+      {
+        "price": 7500,
+        "count": 1
+      },
+      {
+        "price": 8000,
+        "count": 2
+      },
+      {
+        "price": 12000,
+        "count": 1
+      }
+    ],
+    "insights": [
+      {
+        "type": "trend_reversal",
+        "text": "Mediana ceny w Gliwicach spadła o 2,1% mimo wzrostu liczby ofert o 49,0%.",
+        "magnitude": 51.08900485612814,
+        "evidence": {
+          "current_median": 1850,
+          "previous_median": 1890,
+          "current_total_offers": 1305,
+          "previous_total_offers": 876,
+          "price_pct": -2.12,
+          "supply_pct": 48.97
+        }
+      },
+      {
+        "type": "room_mix_anomaly",
+        "text": "W Gliwicach kawalerki to 30% aktywnych ofert — 8,1 pp. więcej niż średnia kraju (22%).",
+        "magnitude": 8.142748353434364,
+        "evidence": {
+          "city_studio_pct": 29.9,
+          "national_studio_pct": 21.75,
+          "delta_pp": 8.14,
+          "city_studio_count": 377,
+          "city_total": 1261
+        }
+      }
+    ]
+  },
+  "dynamics": {
+    "daily_new_offers": [
+      {
+        "date": "2026-08-19",
+        "day_name": "Sr",
+        "new_offers": 27
+      },
+      {
+        "date": "2026-08-20",
+        "day_name": "Cz",
+        "new_offers": 25
+      },
+      {
+        "date": "2026-08-21",
+        "day_name": "Pt",
+        "new_offers": 22
+      },
+      {
+        "date": "2026-08-22",
+        "day_name": "So",
+        "new_offers": 13
+      },
+      {
+        "date": "2026-08-23",
+        "day_name": "Nd",
+        "new_offers": 7
+      },
+      {
+        "date": "2026-08-24",
+        "day_name": "Pn",
+        "new_offers": 30
+      },
+      {
+        "date": "2026-08-25",
+        "day_name": "Wt",
+        "new_offers": 12
+      }
+    ],
+    "total_offers": 2597,
+    "active_offers": 1846,
+    "inactive_offers": 751,
+    "active_rate_pct": 71,
+    "source_activity_7d": [
+      {
+        "source": "otodom",
+        "count": 43,
+        "daily_avg": 6.1
+      },
+      {
+        "source": "olx",
+        "count": 103,
+        "daily_avg": 14.7
+      },
+      {
+        "source": "gratka",
+        "count": 14,
+        "daily_avg": 2.0
+      },
+      {
+        "source": "morizon",
+        "count": 14,
+        "daily_avg": 2.0
+      },
+      {
+        "source": "domiporta",
+        "count": 6,
+        "daily_avg": 0.9
+      }
+    ]
+  }
+}

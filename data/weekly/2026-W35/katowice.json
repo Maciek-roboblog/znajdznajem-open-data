@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "katowice",
+  "city_name": "Katowice",
+  "landing_url": "https://znajdznajem.pl/katowice",
+  "new_offers_url": "https://znajdznajem.pl/katowice/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/katowice/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/katowice/pokoje",
+  "active_offers": 4817,
+  "median_price": 1900,
+  "avg_price_per_m2": 55,
+  "avg_price": 2062,
+  "cheapest_district": "Załęże",
+  "expensive_district": "Brynów-Osiedle Zgrzebnioka",
+  "top_source": "olx",
+  "top_price_range": "1 500-1 999 zł",
+  "new_offers_last_day": 62,
+  "new_offers_last_7d": 528
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "poznan",
+  "city_name": "Poznań",
+  "landing_url": "https://znajdznajem.pl/poznan",
+  "new_offers_url": "https://znajdznajem.pl/poznan/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/poznan/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/poznan/pokoje",
+  "active_offers": 9441,
+  "median_price": 2200,
+  "avg_price_per_m2": 62,
+  "avg_price": 2195,
+  "cheapest_district": "Winogrady",
+  "expensive_district": "Stare Miasto",
+  "top_source": "olx",
+  "top_price_range": "2 000-2 499 zł",
+  "new_offers_last_day": 150,
+  "new_offers_last_7d": 1252
+}

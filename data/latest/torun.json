@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "torun",
+  "city_name": "Toruń",
+  "landing_url": "https://znajdznajem.pl/torun",
+  "new_offers_url": "https://znajdznajem.pl/torun/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/torun/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/torun/pokoje",
+  "active_offers": 1755,
+  "median_price": 1700,
+  "avg_price_per_m2": 51,
+  "avg_price": 1762,
+  "cheapest_district": "Koniuchy",
+  "expensive_district": "Winnica",
+  "top_source": "olx",
+  "top_price_range": "1 500-1 999 zł",
+  "new_offers_last_day": 48,
+  "new_offers_last_7d": 236
+}

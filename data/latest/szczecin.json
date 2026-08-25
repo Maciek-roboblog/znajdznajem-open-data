@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "szczecin",
+  "city_name": "Szczecin",
+  "landing_url": "https://znajdznajem.pl/szczecin",
+  "new_offers_url": "https://znajdznajem.pl/szczecin/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/szczecin/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/szczecin/pokoje",
+  "active_offers": 3440,
+  "median_price": 2300,
+  "avg_price_per_m2": 63,
+  "avg_price": 2380,
+  "cheapest_district": "Pomorzany",
+  "expensive_district": "Stare Miasto",
+  "top_source": "olx",
+  "top_price_range": "2 000-2 499 zł",
+  "new_offers_last_day": 69,
+  "new_offers_last_7d": 438
+}

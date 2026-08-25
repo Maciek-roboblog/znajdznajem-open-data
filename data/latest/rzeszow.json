@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "rzeszow",
+  "city_name": "Rzeszów",
+  "landing_url": "https://znajdznajem.pl/rzeszow",
+  "new_offers_url": "https://znajdznajem.pl/rzeszow/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/rzeszow/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/rzeszow/pokoje",
+  "active_offers": 3446,
+  "median_price": 2000,
+  "avg_price_per_m2": 53,
+  "avg_price": 1999,
+  "cheapest_district": "1000-lecia",
+  "expensive_district": "Śródmieście",
+  "top_source": "olx",
+  "top_price_range": "2 000-2 499 zł",
+  "new_offers_last_day": 36,
+  "new_offers_last_7d": 389
+}

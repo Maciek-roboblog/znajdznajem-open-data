@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "lodz",
+  "city_name": "Łódź",
+  "landing_url": "https://znajdznajem.pl/lodz",
+  "new_offers_url": "https://znajdznajem.pl/lodz/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/lodz/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/lodz/pokoje",
+  "active_offers": 7029,
+  "median_price": 1850,
+  "avg_price_per_m2": 55,
+  "avg_price": 1994,
+  "cheapest_district": "Teofilów",
+  "expensive_district": "Olechów",
+  "top_source": "olx",
+  "top_price_range": "1 500-1 999 zł",
+  "new_offers_last_day": 108,
+  "new_offers_last_7d": 883
+}

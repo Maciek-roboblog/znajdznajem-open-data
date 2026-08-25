@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "bialystok",
+  "city_name": "Białystok",
+  "landing_url": "https://znajdznajem.pl/bialystok",
+  "new_offers_url": "https://znajdznajem.pl/bialystok/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/bialystok/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/bialystok/pokoje",
+  "active_offers": 2351,
+  "median_price": 1800,
+  "avg_price_per_m2": 49,
+  "avg_price": 1811,
+  "cheapest_district": "Piasta",
+  "expensive_district": "Przydworcowe",
+  "top_source": "olx",
+  "top_price_range": "1 500-1 999 zł",
+  "new_offers_last_day": 27,
+  "new_offers_last_7d": 299
+}

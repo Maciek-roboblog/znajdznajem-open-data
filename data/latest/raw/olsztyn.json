@@ -1,0 +1,207 @@
+{
+  "report": {
+    "city_slug": "olsztyn",
+    "generated_at": "2026-08-25T16:56:08.209608+02:00",
+    "data_as_of": "2026-08-25T15:30:36.935433+02:00",
+    "overview": {
+      "total_offers": 1644,
+      "avg_price": 1939,
+      "median_price": 1995,
+      "min_price": 500,
+      "max_price": 7000,
+      "avg_price_per_m2": 56,
+      "avg_area": 42
+    },
+    "districts": [],
+    "by_rooms": [
+      {
+        "rooms": 1,
+        "offer_count": 274,
+        "avg_price": 1801,
+        "median_price": 1800,
+        "avg_area": 30,
+        "price_per_m2": 66
+      },
+      {
+        "rooms": 2,
+        "offer_count": 774,
+        "avg_price": 2136,
+        "median_price": 2200,
+        "avg_area": 42,
+        "price_per_m2": 55
+      },
+      {
+        "rooms": 3,
+        "offer_count": 363,
+        "avg_price": 2081,
+        "median_price": 2100,
+        "avg_area": 53,
+        "price_per_m2": 51
+      },
+      {
+        "rooms": 4,
+        "offer_count": 64,
+        "avg_price": 1734,
+        "median_price": 1138,
+        "avg_area": 66,
+        "price_per_m2": 47
+      },
+      {
+        "rooms": 5,
+        "offer_count": 17,
+        "avg_price": 1129,
+        "median_price": 900,
+        "avg_area": 67,
+        "price_per_m2": 37
+      }
+    ],
+    "sources": [
+      {
+        "source": "olx",
+        "offer_count": 1217,
+        "pct": 74.0
+      },
+      {
+        "source": "otodom",
+        "offer_count": 142,
+        "pct": 8.6
+      },
+      {
+        "source": "morizon",
+        "offer_count": 124,
+        "pct": 7.5
+      },
+      {
+        "source": "gratka",
+        "offer_count": 112,
+        "pct": 6.8
+      },
+      {
+        "source": "domiporta",
+        "offer_count": 49,
+        "pct": 3.0
+      }
+    ],
+    "price_distribution": [
+      {
+        "price": 500,
+        "count": 211
+      },
+      {
+        "price": 1000,
+        "count": 273
+      },
+      {
+        "price": 1500,
+        "count": 338
+      },
+      {
+        "price": 2000,
+        "count": 416
+      },
+      {
+        "price": 2500,
+        "count": 267
+      },
+      {
+        "price": 3000,
+        "count": 72
+      },
+      {
+        "price": 3500,
+        "count": 33
+      },
+      {
+        "price": 4000,
+        "count": 10
+      },
+      {
+        "price": 4500,
+        "count": 17
+      },
+      {
+        "price": 5000,
+        "count": 4
+      },
+      {
+        "price": 5500,
+        "count": 2
+      },
+      {
+        "price": 7000,
+        "count": 1
+      }
+    ],
+    "insights": []
+  },
+  "dynamics": {
+    "daily_new_offers": [
+      {
+        "date": "2026-08-19",
+        "day_name": "Sr",
+        "new_offers": 51
+      },
+      {
+        "date": "2026-08-20",
+        "day_name": "Cz",
+        "new_offers": 30
+      },
+      {
+        "date": "2026-08-21",
+        "day_name": "Pt",
+        "new_offers": 22
+      },
+      {
+        "date": "2026-08-22",
+        "day_name": "So",
+        "new_offers": 20
+      },
+      {
+        "date": "2026-08-23",
+        "day_name": "Nd",
+        "new_offers": 30
+      },
+      {
+        "date": "2026-08-24",
+        "day_name": "Pn",
+        "new_offers": 36
+      },
+      {
+        "date": "2026-08-25",
+        "day_name": "Wt",
+        "new_offers": 18
+      }
+    ],
+    "total_offers": 3143,
+    "active_offers": 2175,
+    "inactive_offers": 968,
+    "active_rate_pct": 69,
+    "source_activity_7d": [
+      {
+        "source": "otodom",
+        "count": 14,
+        "daily_avg": 2.0
+      },
+      {
+        "source": "olx",
+        "count": 180,
+        "daily_avg": 25.7
+      },
+      {
+        "source": "gratka",
+        "count": 11,
+        "daily_avg": 1.6
+      },
+      {
+        "source": "morizon",
+        "count": 11,
+        "daily_avg": 1.6
+      },
+      {
+        "source": "domiporta",
+        "count": 4,
+        "daily_avg": 0.6
+      }
+    ]
+  }
+}

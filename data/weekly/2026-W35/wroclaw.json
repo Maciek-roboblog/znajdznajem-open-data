@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "wroclaw",
+  "city_name": "Wrocław",
+  "landing_url": "https://znajdznajem.pl/wroclaw",
+  "new_offers_url": "https://znajdznajem.pl/wroclaw/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/wroclaw/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/wroclaw/pokoje",
+  "active_offers": 15612,
+  "median_price": 2600,
+  "avg_price_per_m2": 69,
+  "avg_price": 2682,
+  "cheapest_district": "Kozanów",
+  "expensive_district": "Ołtaszyn",
+  "top_source": "olx",
+  "top_price_range": "2 500-2 999 zł",
+  "new_offers_last_day": 343,
+  "new_offers_last_7d": 2146
+}

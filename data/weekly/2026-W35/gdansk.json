@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "gdansk",
+  "city_name": "Gdańsk",
+  "landing_url": "https://znajdznajem.pl/gdansk",
+  "new_offers_url": "https://znajdznajem.pl/gdansk/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/gdansk/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/gdansk/pokoje",
+  "active_offers": 7513,
+  "median_price": 2700,
+  "avg_price_per_m2": 72,
+  "avg_price": 2810,
+  "cheapest_district": "Suchanino",
+  "expensive_district": "Letnica",
+  "top_source": "olx",
+  "top_price_range": "2 500-2 999 zł",
+  "new_offers_last_day": 115,
+  "new_offers_last_7d": 1167
+}

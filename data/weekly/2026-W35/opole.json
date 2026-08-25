@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "opole",
+  "city_name": "Opole",
+  "landing_url": "https://znajdznajem.pl/opole",
+  "new_offers_url": "https://znajdznajem.pl/opole/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/opole/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/opole/pokoje",
+  "active_offers": 1327,
+  "median_price": 2000,
+  "avg_price_per_m2": 52,
+  "avg_price": 1995,
+  "cheapest_district": "—",
+  "expensive_district": "—",
+  "top_source": "olx",
+  "top_price_range": "2 000-2 499 zł",
+  "new_offers_last_day": 9,
+  "new_offers_last_7d": 225
+}

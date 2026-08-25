@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "olsztyn",
+  "city_name": "Olsztyn",
+  "landing_url": "https://znajdznajem.pl/olsztyn",
+  "new_offers_url": "https://znajdznajem.pl/olsztyn/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/olsztyn/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/olsztyn/pokoje",
+  "active_offers": 1644,
+  "median_price": 1995,
+  "avg_price_per_m2": 56,
+  "avg_price": 1939,
+  "cheapest_district": "—",
+  "expensive_district": "—",
+  "top_source": "olx",
+  "top_price_range": "2 000-2 499 zł",
+  "new_offers_last_day": 18,
+  "new_offers_last_7d": 207
+}

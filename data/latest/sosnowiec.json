@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "sosnowiec",
+  "city_name": "Sosnowiec",
+  "landing_url": "https://znajdznajem.pl/sosnowiec",
+  "new_offers_url": "https://znajdznajem.pl/sosnowiec/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/sosnowiec/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/sosnowiec/pokoje",
+  "active_offers": 771,
+  "median_price": 1600,
+  "avg_price_per_m2": 46,
+  "avg_price": 1683,
+  "cheapest_district": "—",
+  "expensive_district": "—",
+  "top_source": "olx",
+  "top_price_range": "1 500-1 999 zł",
+  "new_offers_last_day": 10,
+  "new_offers_last_7d": 85
+}

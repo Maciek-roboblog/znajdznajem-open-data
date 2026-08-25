@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "lublin",
+  "city_name": "Lublin",
+  "landing_url": "https://znajdznajem.pl/lublin",
+  "new_offers_url": "https://znajdznajem.pl/lublin/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/lublin/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/lublin/pokoje",
+  "active_offers": 4622,
+  "median_price": 2000,
+  "avg_price_per_m2": 58,
+  "avg_price": 1947,
+  "cheapest_district": "Tatary",
+  "expensive_district": "Stare Miasto",
+  "top_source": "olx",
+  "top_price_range": "2 000-2 499 zł",
+  "new_offers_last_day": 56,
+  "new_offers_last_7d": 546
+}

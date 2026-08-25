@@ -1,0 +1,200 @@
+{
+  "report": {
+    "city_slug": "sosnowiec",
+    "generated_at": "2026-08-25T16:52:05.244587+02:00",
+    "data_as_of": "2026-08-25T16:42:54.835260+02:00",
+    "overview": {
+      "total_offers": 771,
+      "avg_price": 1683,
+      "median_price": 1600,
+      "min_price": 500,
+      "max_price": 6000,
+      "avg_price_per_m2": 46,
+      "avg_area": 41
+    },
+    "districts": [],
+    "by_rooms": [
+      {
+        "rooms": 1,
+        "offer_count": 236,
+        "avg_price": 1429,
+        "median_price": 1400,
+        "avg_area": 29,
+        "price_per_m2": 52
+      },
+      {
+        "rooms": 2,
+        "offer_count": 374,
+        "avg_price": 1810,
+        "median_price": 1800,
+        "avg_area": 42,
+        "price_per_m2": 44
+      },
+      {
+        "rooms": 3,
+        "offer_count": 116,
+        "avg_price": 1947,
+        "median_price": 1800,
+        "avg_area": 58,
+        "price_per_m2": 39
+      },
+      {
+        "rooms": 4,
+        "offer_count": 20,
+        "avg_price": 1768,
+        "median_price": 1650,
+        "avg_area": 68,
+        "price_per_m2": 39
+      }
+    ],
+    "sources": [
+      {
+        "source": "olx",
+        "offer_count": 447,
+        "pct": 58.0
+      },
+      {
+        "source": "otodom",
+        "offer_count": 158,
+        "pct": 20.5
+      },
+      {
+        "source": "gratka",
+        "offer_count": 85,
+        "pct": 11.0
+      },
+      {
+        "source": "morizon",
+        "offer_count": 44,
+        "pct": 5.7
+      },
+      {
+        "source": "domiporta",
+        "offer_count": 37,
+        "pct": 4.8
+      }
+    ],
+    "price_distribution": [
+      {
+        "price": 500,
+        "count": 70
+      },
+      {
+        "price": 1000,
+        "count": 199
+      },
+      {
+        "price": 1500,
+        "count": 300
+      },
+      {
+        "price": 2000,
+        "count": 127
+      },
+      {
+        "price": 2500,
+        "count": 53
+      },
+      {
+        "price": 3000,
+        "count": 13
+      },
+      {
+        "price": 3500,
+        "count": 6
+      },
+      {
+        "price": 4000,
+        "count": 2
+      },
+      {
+        "price": 6000,
+        "count": 1
+      }
+    ],
+    "insights": [
+      {
+        "type": "room_mix_anomaly",
+        "text": "W Sosnowcu kawalerki to 32% aktywnych ofert — 9,9 pp. więcej niż średnia kraju (22%).",
+        "magnitude": 9.880870702223,
+        "evidence": {
+          "city_studio_pct": 31.64,
+          "national_studio_pct": 21.75,
+          "delta_pp": 9.88,
+          "city_studio_count": 236,
+          "city_total": 746
+        }
+      }
+    ]
+  },
+  "dynamics": {
+    "daily_new_offers": [
+      {
+        "date": "2026-08-19",
+        "day_name": "Sr",
+        "new_offers": 14
+      },
+      {
+        "date": "2026-08-20",
+        "day_name": "Cz",
+        "new_offers": 14
+      },
+      {
+        "date": "2026-08-21",
+        "day_name": "Pt",
+        "new_offers": 15
+      },
+      {
+        "date": "2026-08-22",
+        "day_name": "So",
+        "new_offers": 17
+      },
+      {
+        "date": "2026-08-23",
+        "day_name": "Nd",
+        "new_offers": 7
+      },
+      {
+        "date": "2026-08-24",
+        "day_name": "Pn",
+        "new_offers": 8
+      },
+      {
+        "date": "2026-08-25",
+        "day_name": "Wt",
+        "new_offers": 10
+      }
+    ],
+    "total_offers": 1531,
+    "active_offers": 1156,
+    "inactive_offers": 375,
+    "active_rate_pct": 76,
+    "source_activity_7d": [
+      {
+        "source": "domiporta",
+        "count": 6,
+        "daily_avg": 0.9
+      },
+      {
+        "source": "gratka",
+        "count": 10,
+        "daily_avg": 1.4
+      },
+      {
+        "source": "morizon",
+        "count": 10,
+        "daily_avg": 1.4
+      },
+      {
+        "source": "olx",
+        "count": 42,
+        "daily_avg": 6.0
+      },
+      {
+        "source": "otodom",
+        "count": 34,
+        "daily_avg": 4.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "report": {
+    "city_slug": "rzeszow",
+    "generated_at": "2026-08-25T16:52:04.335291+02:00",
+    "data_as_of": "2026-08-25T16:44:54.073216+02:00",
+    "overview": {
+      "total_offers": 3446,
+      "avg_price": 1999,
+      "median_price": 2000,
+      "min_price": 500,
+      "max_price": 12900,
+      "avg_price_per_m2": 53,
+      "avg_area": 46
+    },
+    "districts": [
+      {
+        "name": "Śródmieście",
+        "offer_count": 169,
+        "avg_price": 2705,
+        "min_price": 700,
+        "max_price": 10900
+      },
+      {
+        "name": "Przybyszówka",
+        "offer_count": 66,
+        "avg_price": 2681,
+        "min_price": 700,
+        "max_price": 8000
+      },
+      {
+        "name": "Drabinianka",
+        "offer_count": 263,
+        "avg_price": 2541,
+        "min_price": 700,
+        "max_price": 7000
+      },
+      {
+        "name": "Staroniwa",
+        "offer_count": 22,
+        "avg_price": 2506,
+        "min_price": 750,
+        "max_price": 5900
+      },
+      {
+        "name": "Mieszka I",
+        "offer_count": 140,
+        "avg_price": 2490,
+        "min_price": 700,
+        "max_price": 12900
+      },
+      {
+        "name": "Staromieście",
+        "offer_count": 90,
+        "avg_price": 2427,
+        "min_price": 700,
+        "max_price": 7000
+      },
+      {
+        "name": "Słocina",
+        "offer_count": 47,
+        "avg_price": 2415,
+        "min_price": 750,
+        "max_price": 4500
+      },
+      {
+        "name": "Pobitno",
+        "offer_count": 49,
+        "avg_price": 2326,
+        "min_price": 650,
+        "max_price": 5500
+      },
+      {
+        "name": "Pułaskiego",
+        "offer_count": 63,
+        "avg_price": 2168,
+        "min_price": 800,
+        "max_price": 3700
+      },
+      {
+        "name": "Zwięczyca",
+        "offer_count": 10,
+        "avg_price": 2160,
+        "min_price": 700,
+        "max_price": 4000
+      },
+      {
+        "name": "Zalesie",
+        "offer_count": 54,
+        "avg_price": 2149,
+        "min_price": 700,
+        "max_price": 4700
+      },
+      {
+        "name": "Nowe Miasto",
+        "offer_count": 158,
+        "avg_price": 2137,
+        "min_price": 600,
+        "max_price": 8000
+      },
+      {
+        "name": "Kmity",
+        "offer_count": 42,
+        "avg_price": 2132,
+        "min_price": 800,
+        "max_price": 3500
+      },
+      {
+        "name": "Paderewskiego",
+        "offer_count": 61,
+        "avg_price": 2130,
+        "min_price": 590,
+        "max_price": 4600
+      },
+      {
+        "name": "Wilkowyja",
+        "offer_count": 62,
+        "avg_price": 2100,
+        "min_price": 550,
+        "max_price": 4400
+      },
+      {
+        "name": "Krakowska-Południe",
+        "offer_count": 29,
+        "avg_price": 2042,
+        "min_price": 800,
+        "max_price": 3200
+      },
+      {
+        "name": "Baranówka",
+        "offer_count": 54,
+        "avg_price": 2002,
+        "min_price": 800,
+        "max_price": 3900
+      },
+      {
+        "name": "1000-lecia",
+        "offer_count": 82,
+        "avg_price": 1991,
+        "min_price": 700,
+        "max_price": 3900
+      }
+    ],
+    "by_rooms": [
+      {
+        "rooms": 1,
+        "offer_count": 537,
+        "avg_price": 1776,
+        "median_price": 1800,
+        "avg_area": 31,
+        "price_per_m2": 65
+      },
+      {
+        "rooms": 2,
+        "offer_count": 1393,
+        "avg_price": 2120,
+        "median_price": 2200,
+        "avg_area": 43,
+        "price_per_m2": 53
+      },
+      {
+        "rooms": 3,
+        "offer_count": 895,
+        "avg_price": 2251,
+        "median_price": 2400,
+        "avg_area": 57,
+        "price_per_m2": 47
+      },
+      {
+        "rooms": 4,
+        "offer_count": 262,
+        "avg_price": 2237,
+        "median_price": 1300,
+        "avg_area": 73,
+        "price_per_m2": 44
+      },
+      {
+        "rooms": 5,
+        "offer_count": 27,
+        "avg_price": 2099,
+        "median_price": 1049,
+        "avg_area": 70,
+        "price_per_m2": 44
+      }
+    ],
+    "sources": [
+      {
+        "source": "olx",
+        "offer_count": 2181,
+        "pct": 63.3
+      },
+      {
+        "source": "otodom",
+        "offer_count": 583,
+        "pct": 16.9
+      },
+      {
+        "source": "domiporta",
+        "offer_count": 318,
+        "pct": 9.2
+      },
+      {
+        "source": "morizon",
+        "offer_count": 191,
+        "pct": 5.5
+      },
+      {
+        "source": "gratka",
+        "offer_count": 173,
+        "pct": 5.0
+      }
+    ],
+    "price_distribution": [
+      {
+        "price": 500,
+        "count": 534
+      },
+      {
+        "price": 1000,
+        "count": 516
+      },
+      {
+        "price": 1500,
+        "count": 581
+      },
+      {
+        "price": 2000,
+        "count": 935
+      },
+      {
+        "price": 2500,
+        "count": 497
+      },
+      {
+        "price": 3000,
+        "count": 183
+      },
+      {
+        "price": 3500,
+        "count": 98
+      },
+      {
+        "price": 4000,
+        "count": 29
+      },
+      {
+        "price": 4500,
+        "count": 28
+      },
+      {
+        "price": 5000,
+        "count": 9
+      },
+      {
+        "price": 5500,
+        "count": 12
+      },
+      {
+        "price": 6000,
+        "count": 4
+      },
+      {
+        "price": 6500,
+        "count": 7
+      },
+      {
+        "price": 7000,
+        "count": 5
+      },
+      {
+        "price": 8000,
+        "count": 4
+      },
+      {
+        "price": 10500,
+        "count": 2
+      },
+      {
+        "price": 12500,
+        "count": 2
+      }
+    ],
+    "insights": []
+  },
+  "dynamics": {
+    "daily_new_offers": [
+      {
+        "date": "2026-08-19",
+        "day_name": "Sr",
+        "new_offers": 91
+      },
+      {
+        "date": "2026-08-20",
+        "day_name": "Cz",
+        "new_offers": 56
+      },
+      {
+        "date": "2026-08-21",
+        "day_name": "Pt",
+        "new_offers": 73
+      },
+      {
+        "date": "2026-08-22",
+        "day_name": "So",
+        "new_offers": 28
+      },
+      {
+        "date": "2026-08-23",
+        "day_name": "Nd",
+        "new_offers": 38
+      },
+      {
+        "date": "2026-08-24",
+        "day_name": "Pn",
+        "new_offers": 67
+      },
+      {
+        "date": "2026-08-25",
+        "day_name": "Wt",
+        "new_offers": 36
+      }
+    ],
+    "total_offers": 7375,
+    "active_offers": 5093,
+    "inactive_offers": 2282,
+    "active_rate_pct": 69,
+    "source_activity_7d": [
+      {
+        "source": "otodom",
+        "count": 84,
+        "daily_avg": 12.0
+      },
+      {
+        "source": "olx",
+        "count": 287,
+        "daily_avg": 41.0
+      },
+      {
+        "source": "gratka",
+        "count": 23,
+        "daily_avg": 3.3
+      },
+      {
+        "source": "morizon",
+        "count": 23,
+        "daily_avg": 3.3
+      },
+      {
+        "source": "domiporta",
+        "count": 36,
+        "daily_avg": 5.1
+      }
+    ]
+  }
+}

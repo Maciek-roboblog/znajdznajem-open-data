@@ -1,0 +1,243 @@
+{
+  "report": {
+    "city_slug": "oswiecim",
+    "generated_at": "2026-08-25T16:52:03.328153+02:00",
+    "data_as_of": "2026-08-25T16:42:51.435453+02:00",
+    "overview": {
+      "total_offers": 610,
+      "avg_price": 1631,
+      "median_price": 1600,
+      "min_price": 500,
+      "max_price": 5000,
+      "avg_price_per_m2": 42,
+      "avg_area": 46
+    },
+    "districts": [],
+    "by_rooms": [
+      {
+        "rooms": 1,
+        "offer_count": 156,
+        "avg_price": 1408,
+        "median_price": 1350,
+        "avg_area": 33,
+        "price_per_m2": 48
+      },
+      {
+        "rooms": 2,
+        "offer_count": 261,
+        "avg_price": 1721,
+        "median_price": 1700,
+        "avg_area": 44,
+        "price_per_m2": 41
+      },
+      {
+        "rooms": 3,
+        "offer_count": 112,
+        "avg_price": 1971,
+        "median_price": 2000,
+        "avg_area": 60,
+        "price_per_m2": 37
+      },
+      {
+        "rooms": 4,
+        "offer_count": 18,
+        "avg_price": 1792,
+        "median_price": 1275,
+        "avg_area": 95,
+        "price_per_m2": 23
+      },
+      {
+        "rooms": 5,
+        "offer_count": 2,
+        "avg_price": 750,
+        "median_price": 750,
+        "avg_area": null,
+        "price_per_m2": null
+      }
+    ],
+    "sources": [
+      {
+        "source": "olx",
+        "offer_count": 389,
+        "pct": 63.8
+      },
+      {
+        "source": "nieruchomosci-online",
+        "offer_count": 100,
+        "pct": 16.4
+      },
+      {
+        "source": "adresowo",
+        "offer_count": 56,
+        "pct": 9.2
+      },
+      {
+        "source": "domiporta",
+        "offer_count": 36,
+        "pct": 5.9
+      },
+      {
+        "source": "otodom",
+        "offer_count": 13,
+        "pct": 2.1
+      },
+      {
+        "source": "gratka",
+        "offer_count": 9,
+        "pct": 1.5
+      },
+      {
+        "source": "morizon",
+        "offer_count": 7,
+        "pct": 1.1
+      }
+    ],
+    "price_distribution": [
+      {
+        "price": 500,
+        "count": 89
+      },
+      {
+        "price": 1000,
+        "count": 166
+      },
+      {
+        "price": 1500,
+        "count": 182
+      },
+      {
+        "price": 2000,
+        "count": 106
+      },
+      {
+        "price": 2500,
+        "count": 43
+      },
+      {
+        "price": 3000,
+        "count": 18
+      },
+      {
+        "price": 3500,
+        "count": 2
+      },
+      {
+        "price": 4000,
+        "count": 2
+      },
+      {
+        "price": 4500,
+        "count": 1
+      },
+      {
+        "price": 5000,
+        "count": 1
+      }
+    ],
+    "insights": [
+      {
+        "type": "freshness_signal",
+        "text": "61 nowych ofert w Oświęcimiu w ostatnich 7 dniach — 39% więcej niż średnia 4-tygodniowa.",
+        "magnitude": 38.63636363636363,
+        "evidence": {
+          "last_7d_new": 61,
+          "trailing_28d_new": 176,
+          "weekly_avg_28d": 44.0,
+          "delta_pct": 38.64
+        }
+      },
+      {
+        "type": "room_mix_anomaly",
+        "text": "W Oświęcimiu kawalerki to 28% aktywnych ofert — 6,7 pp. więcej niż średnia kraju (22%).",
+        "magnitude": 6.660782508724708,
+        "evidence": {
+          "city_studio_pct": 28.42,
+          "national_studio_pct": 21.75,
+          "delta_pp": 6.66,
+          "city_studio_count": 156,
+          "city_total": 549
+        }
+      }
+    ]
+  },
+  "dynamics": {
+    "daily_new_offers": [
+      {
+        "date": "2026-08-19",
+        "day_name": "Sr",
+        "new_offers": 4
+      },
+      {
+        "date": "2026-08-20",
+        "day_name": "Cz",
+        "new_offers": 4
+      },
+      {
+        "date": "2026-08-21",
+        "day_name": "Pt",
+        "new_offers": 30
+      },
+      {
+        "date": "2026-08-22",
+        "day_name": "So",
+        "new_offers": 11
+      },
+      {
+        "date": "2026-08-23",
+        "day_name": "Nd",
+        "new_offers": 5
+      },
+      {
+        "date": "2026-08-24",
+        "day_name": "Pn",
+        "new_offers": 6
+      },
+      {
+        "date": "2026-08-25",
+        "day_name": "Wt",
+        "new_offers": 1
+      }
+    ],
+    "total_offers": 1556,
+    "active_offers": 724,
+    "inactive_offers": 832,
+    "active_rate_pct": 47,
+    "source_activity_7d": [
+      {
+        "source": "adresowo",
+        "count": 3,
+        "daily_avg": 0.4
+      },
+      {
+        "source": "domiporta",
+        "count": 1,
+        "daily_avg": 0.1
+      },
+      {
+        "source": "gratka",
+        "count": 1,
+        "daily_avg": 0.1
+      },
+      {
+        "source": "morizon",
+        "count": 1,
+        "daily_avg": 0.1
+      },
+      {
+        "source": "nieruchomosci-online",
+        "count": 1,
+        "daily_avg": 0.1
+      },
+      {
+        "source": "olx",
+        "count": 58,
+        "daily_avg": 8.3
+      },
+      {
+        "source": "otodom",
+        "count": 1,
+        "daily_avg": 0.1
+      }
+    ]
+  }
+}

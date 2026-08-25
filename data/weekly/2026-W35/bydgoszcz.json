@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "bydgoszcz",
+  "city_name": "Bydgoszcz",
+  "landing_url": "https://znajdznajem.pl/bydgoszcz",
+  "new_offers_url": "https://znajdznajem.pl/bydgoszcz/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/bydgoszcz/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/bydgoszcz/pokoje",
+  "active_offers": 2782,
+  "median_price": 1950,
+  "avg_price_per_m2": 54,
+  "avg_price": 1986,
+  "cheapest_district": "Miedzyń",
+  "expensive_district": "Górzyskowo",
+  "top_source": "olx",
+  "top_price_range": "1 500-1 999 zł",
+  "new_offers_last_day": 59,
+  "new_offers_last_7d": 334
+}

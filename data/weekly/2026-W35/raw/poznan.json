@@ -1,0 +1,347 @@
+{
+  "report": {
+    "city_slug": "poznan",
+    "generated_at": "2026-08-25T16:41:27.471894+02:00",
+    "data_as_of": "2026-08-25T16:35:56.819135+02:00",
+    "overview": {
+      "total_offers": 9441,
+      "avg_price": 2195,
+      "median_price": 2200,
+      "min_price": 500,
+      "max_price": 13000,
+      "avg_price_per_m2": 62,
+      "avg_area": 42
+    },
+    "districts": [
+      {
+        "name": "Stare Miasto",
+        "offer_count": 1506,
+        "avg_price": 2500,
+        "min_price": 500,
+        "max_price": 13000
+      },
+      {
+        "name": "Nowe Miasto",
+        "offer_count": 730,
+        "avg_price": 2494,
+        "min_price": 699,
+        "max_price": 9900
+      },
+      {
+        "name": "Grunwald",
+        "offer_count": 1170,
+        "avg_price": 2439,
+        "min_price": 521,
+        "max_price": 10000
+      },
+      {
+        "name": "Jeżyce",
+        "offer_count": 1237,
+        "avg_price": 2422,
+        "min_price": 500,
+        "max_price": 9900
+      },
+      {
+        "name": "Wilda",
+        "offer_count": 664,
+        "avg_price": 2338,
+        "min_price": 500,
+        "max_price": 10000
+      },
+      {
+        "name": "Naramowice",
+        "offer_count": 228,
+        "avg_price": 2313,
+        "min_price": 750,
+        "max_price": 9999
+      },
+      {
+        "name": "Łazarz",
+        "offer_count": 314,
+        "avg_price": 2271,
+        "min_price": 900,
+        "max_price": 6000
+      },
+      {
+        "name": "Rataje",
+        "offer_count": 411,
+        "avg_price": 2258,
+        "min_price": 670,
+        "max_price": 5400
+      },
+      {
+        "name": "Piątkowo",
+        "offer_count": 341,
+        "avg_price": 2126,
+        "min_price": 523,
+        "max_price": 5000
+      },
+      {
+        "name": "Winogrady",
+        "offer_count": 381,
+        "avg_price": 2112,
+        "min_price": 550,
+        "max_price": 10000
+      }
+    ],
+    "by_rooms": [
+      {
+        "rooms": 1,
+        "offer_count": 2646,
+        "avg_price": 1870,
+        "median_price": 1900,
+        "avg_area": 29,
+        "price_per_m2": 70
+      },
+      {
+        "rooms": 2,
+        "offer_count": 3704,
+        "avg_price": 2462,
+        "median_price": 2500,
+        "avg_area": 45,
+        "price_per_m2": 59
+      },
+      {
+        "rooms": 3,
+        "offer_count": 1820,
+        "avg_price": 2539,
+        "median_price": 2600,
+        "avg_area": 55,
+        "price_per_m2": 55
+      },
+      {
+        "rooms": 4,
+        "offer_count": 499,
+        "avg_price": 2228,
+        "median_price": 1299,
+        "avg_area": 63,
+        "price_per_m2": 54
+      },
+      {
+        "rooms": 5,
+        "offer_count": 116,
+        "avg_price": 1655,
+        "median_price": 1000,
+        "avg_area": 50,
+        "price_per_m2": 69
+      }
+    ],
+    "sources": [
+      {
+        "source": "olx",
+        "offer_count": 4005,
+        "pct": 42.4
+      },
+      {
+        "source": "otodom",
+        "offer_count": 2198,
+        "pct": 23.3
+      },
+      {
+        "source": "nieruchomosci-online",
+        "offer_count": 1322,
+        "pct": 14.0
+      },
+      {
+        "source": "gratka",
+        "offer_count": 742,
+        "pct": 7.9
+      },
+      {
+        "source": "morizon",
+        "offer_count": 611,
+        "pct": 6.5
+      },
+      {
+        "source": "adresowo",
+        "offer_count": 290,
+        "pct": 3.1
+      },
+      {
+        "source": "domiporta",
+        "offer_count": 273,
+        "pct": 2.9
+      }
+    ],
+    "price_distribution": [
+      {
+        "price": 500,
+        "count": 960
+      },
+      {
+        "price": 1000,
+        "count": 1281
+      },
+      {
+        "price": 1500,
+        "count": 1593
+      },
+      {
+        "price": 2000,
+        "count": 2108
+      },
+      {
+        "price": 2500,
+        "count": 1969
+      },
+      {
+        "price": 3000,
+        "count": 748
+      },
+      {
+        "price": 3500,
+        "count": 408
+      },
+      {
+        "price": 4000,
+        "count": 133
+      },
+      {
+        "price": 4500,
+        "count": 103
+      },
+      {
+        "price": 5000,
+        "count": 53
+      },
+      {
+        "price": 5500,
+        "count": 20
+      },
+      {
+        "price": 6000,
+        "count": 16
+      },
+      {
+        "price": 6500,
+        "count": 14
+      },
+      {
+        "price": 7000,
+        "count": 8
+      },
+      {
+        "price": 7500,
+        "count": 8
+      },
+      {
+        "price": 8000,
+        "count": 7
+      },
+      {
+        "price": 8500,
+        "count": 1
+      },
+      {
+        "price": 9000,
+        "count": 3
+      },
+      {
+        "price": 9500,
+        "count": 4
+      },
+      {
+        "price": 10000,
+        "count": 3
+      },
+      {
+        "price": 13000,
+        "count": 1
+      }
+    ],
+    "insights": [
+      {
+        "type": "room_mix_anomaly",
+        "text": "W Poznaniu kawalerki to 30% aktywnych ofert — 8,4 pp. więcej niż średnia kraju (22%).",
+        "magnitude": 8.366135000754731,
+        "evidence": {
+          "city_studio_pct": 30.12,
+          "national_studio_pct": 21.75,
+          "delta_pp": 8.37,
+          "city_studio_count": 2646,
+          "city_total": 8785
+        }
+      }
+    ]
+  },
+  "dynamics": {
+    "daily_new_offers": [
+      {
+        "date": "2026-08-19",
+        "day_name": "Sr",
+        "new_offers": 275
+      },
+      {
+        "date": "2026-08-20",
+        "day_name": "Cz",
+        "new_offers": 154
+      },
+      {
+        "date": "2026-08-21",
+        "day_name": "Pt",
+        "new_offers": 179
+      },
+      {
+        "date": "2026-08-22",
+        "day_name": "So",
+        "new_offers": 114
+      },
+      {
+        "date": "2026-08-23",
+        "day_name": "Nd",
+        "new_offers": 109
+      },
+      {
+        "date": "2026-08-24",
+        "day_name": "Pn",
+        "new_offers": 271
+      },
+      {
+        "date": "2026-08-25",
+        "day_name": "Wt",
+        "new_offers": 150
+      }
+    ],
+    "total_offers": 28428,
+    "active_offers": 15453,
+    "inactive_offers": 12975,
+    "active_rate_pct": 54,
+    "source_activity_7d": [
+      {
+        "source": "adresowo",
+        "count": 25,
+        "daily_avg": 3.6
+      },
+      {
+        "source": "olx",
+        "count": 649,
+        "daily_avg": 92.7
+      },
+      {
+        "source": "gratka",
+        "count": 127,
+        "daily_avg": 18.1
+      },
+      {
+        "source": "morizon",
+        "count": 124,
+        "daily_avg": 17.7
+      },
+      {
+        "source": "domiporta",
+        "count": 57,
+        "daily_avg": 8.1
+      },
+      {
+        "source": "nieruchomosci-online",
+        "count": 146,
+        "daily_avg": 20.9
+      },
+      {
+        "source": "otodom",
+        "count": 397,
+        "daily_avg": 56.7
+      }
+    ]
+  }
+}

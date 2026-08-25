@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "gdynia",
+  "city_name": "Gdynia",
+  "landing_url": "https://znajdznajem.pl/gdynia",
+  "new_offers_url": "https://znajdznajem.pl/gdynia/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/gdynia/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/gdynia/pokoje",
+  "active_offers": 2088,
+  "median_price": 2500,
+  "avg_price_per_m2": 67,
+  "avg_price": 2729,
+  "cheapest_district": "Leszczynki",
+  "expensive_district": "Orłowo",
+  "top_source": "olx",
+  "top_price_range": "2 500-2 999 zł",
+  "new_offers_last_day": 34,
+  "new_offers_last_7d": 305
+}

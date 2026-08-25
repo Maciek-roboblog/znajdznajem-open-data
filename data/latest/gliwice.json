@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-25",
+  "city_slug": "gliwice",
+  "city_name": "Gliwice",
+  "landing_url": "https://znajdznajem.pl/gliwice",
+  "new_offers_url": "https://znajdznajem.pl/gliwice/nowe-oferty",
+  "students_url": "https://znajdznajem.pl/gliwice/dla-studentow",
+  "rooms_url": "https://znajdznajem.pl/gliwice/pokoje",
+  "active_offers": 1305,
+  "median_price": 1850,
+  "avg_price_per_m2": 51,
+  "avg_price": 1969,
+  "cheapest_district": "—",
+  "expensive_district": "—",
+  "top_source": "olx",
+  "top_price_range": "1 500-1 999 zł",
+  "new_offers_last_day": 12,
+  "new_offers_last_7d": 136
+}
