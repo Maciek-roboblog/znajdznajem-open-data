@@ -6,7 +6,8 @@ Monthly: reports/YYYY-MM/<city>.md + .json for every month the API has an archiv
          snapshot for and this repo does not have yet (backfill + ongoing, one
          commit per month, dated 1st of the following month).
 
-Usage: publish.py [--date YYYY-MM-DD] [--dry-run]     # dry-run = write files, no git
+Usage: publish.py [--date YYYY-MM-DD] [--dry-run] [--api http://127.0.0.1:8001/api/v1]
+       dry-run = write files, no git; --api = bypass the public rate limiter when run on the server
 Stdlib only. Runs from cron on the znajdznajem server, see README.
 """
 from __future__ import annotations
@@ -27,6 +28,7 @@ from pathlib import Path
 
 API = "https://znajdznajem.pl/api/v1"  # overridden by --api (cron uses the local uvicorn port)
 SITE = "https://znajdznajem.pl"
+PUBLIC_API = f"{SITE}/api/v1"  # for links inside published reports
 REPO = Path(__file__).resolve().parents[1]
 MONTHS_PL = [
     "", "styczeń", "luty", "marzec", "kwiecień", "maj", "czerwiec",
@@ -243,7 +245,7 @@ def render_report(month: str, city: dict, r: dict) -> str:
         "",
         "Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. "
         "Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: "
-        f"<{API}/stats/definitions> · [methodology.md](../../methodology.md)",
+        f"<{PUBLIC_API}/stats/definitions> · [methodology.md](../../methodology.md)",
         "",
         "## Dane źródłowe",
         "",
@@ -324,7 +326,7 @@ def main() -> int:
     args = ap.parse_args()
     API = args.api.rstrip("/")
     run_date = date.fromisoformat(args.date) if args.date else date.today()
-    cities = get("/stats/cities/summary")["cities"]
+    cities = (get("/stats/cities/summary") or {}).get("cities") or []
     if not args.dry_run:
         git("pull", "-q", "--rebase")
     monthly(cities, args.dry_run)
