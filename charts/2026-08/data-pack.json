@@ -1,0 +1,1093 @@
+{
+ "as_of": "2026-08-30",
+ "barometr_week_start": "2026-08-24",
+ "barometr_prev_week_start": "2026-08-17",
+ "total_offers_aug": 136745,
+ "total_offers_jul": 91541,
+ "cities_count": 35,
+ "weighted_median_pl_aug": 2471,
+ "monthly_top10": [
+  {
+   "slug": "warszawa",
+   "name": "Warszawa",
+   "offers_aug": 32656,
+   "median_aug": 3200,
+   "median_jul": 3300,
+   "median_jun": 3500,
+   "mm_pct": -3.0,
+   "per_m2_aug": 85,
+   "per_m2_jul": 86
+  },
+  {
+   "slug": "krakow",
+   "name": "Kraków",
+   "offers_aug": 20295,
+   "median_aug": 2600,
+   "median_jul": 2600,
+   "median_jun": 2800,
+   "mm_pct": 0.0,
+   "per_m2_aug": 70,
+   "per_m2_jul": 70
+  },
+  {
+   "slug": "wroclaw",
+   "name": "Wrocław",
+   "offers_aug": 16405,
+   "median_aug": 2600,
+   "median_jul": 2600,
+   "median_jun": 2700,
+   "mm_pct": 0.0,
+   "per_m2_aug": 69,
+   "per_m2_jul": 69
+  },
+  {
+   "slug": "poznan",
+   "name": "Poznań",
+   "offers_aug": 9828,
+   "median_aug": 2200,
+   "median_jul": 2200,
+   "median_jun": 2300,
+   "mm_pct": 0.0,
+   "per_m2_aug": 62,
+   "per_m2_jul": 61
+  },
+  {
+   "slug": "gdansk",
+   "name": "Gdańsk",
+   "offers_aug": 7987,
+   "median_aug": 2700,
+   "median_jul": 2700,
+   "median_jun": 2800,
+   "mm_pct": 0.0,
+   "per_m2_aug": 72,
+   "per_m2_jul": 72
+  },
+  {
+   "slug": "lodz",
+   "name": "Łódź",
+   "offers_aug": 7317,
+   "median_aug": 1850,
+   "median_jul": 1850,
+   "median_jun": 2000,
+   "mm_pct": 0.0,
+   "per_m2_aug": 55,
+   "per_m2_jul": 54
+  },
+  {
+   "slug": "katowice",
+   "name": "Katowice",
+   "offers_aug": 4968,
+   "median_aug": 1900,
+   "median_jul": 1900,
+   "median_jun": 2100,
+   "mm_pct": 0.0,
+   "per_m2_aug": 55,
+   "per_m2_jul": 55
+  },
+  {
+   "slug": "lublin",
+   "name": "Lublin",
+   "offers_aug": 4825,
+   "median_aug": 2000,
+   "median_jul": 2000,
+   "median_jun": 2200,
+   "mm_pct": 0.0,
+   "per_m2_aug": 58,
+   "per_m2_jul": 58
+  },
+  {
+   "slug": "szczecin",
+   "name": "Szczecin",
+   "offers_aug": 3642,
+   "median_aug": 2300,
+   "median_jul": 2400,
+   "median_jun": 2500,
+   "mm_pct": -4.2,
+   "per_m2_aug": 62,
+   "per_m2_jul": 63
+  },
+  {
+   "slug": "rzeszow",
+   "name": "Rzeszów",
+   "offers_aug": 3608,
+   "median_aug": 2000,
+   "median_jul": 2000,
+   "median_jun": 2200,
+   "mm_pct": 0.0,
+   "per_m2_aug": 53,
+   "per_m2_jul": 53
+  }
+ ],
+ "barometr_top6": [
+  {
+   "slug": "warszawa",
+   "name": "Warszawa",
+   "kaw_active": 6261,
+   "kaw_median": 2600,
+   "kaw_wow_pct": 10.3,
+   "kaw_prev_week": 5676,
+   "kaw_2008": 5470,
+   "pok_active": 4523,
+   "pok_median": 1370,
+   "pok_wow_pct": 12.0,
+   "pok_prev_week": 4038,
+   "pok_2008": 3703
+  },
+  {
+   "slug": "krakow",
+   "name": "Kraków",
+   "kaw_active": 4898,
+   "kaw_median": 2200,
+   "kaw_wow_pct": 8.1,
+   "kaw_prev_week": 4532,
+   "kaw_2008": 4406,
+   "pok_active": 3165,
+   "pok_median": 1200,
+   "pok_wow_pct": 8.1,
+   "pok_prev_week": 2927,
+   "pok_2008": 2814
+  },
+  {
+   "slug": "wroclaw",
+   "name": "Wrocław",
+   "kaw_active": 3290,
+   "kaw_median": 2213,
+   "kaw_wow_pct": 9.4,
+   "kaw_prev_week": 3007,
+   "kaw_2008": 2919,
+   "pok_active": 2867,
+   "pok_median": 1250,
+   "pok_wow_pct": 10.1,
+   "pok_prev_week": 2604,
+   "pok_2008": 2486
+  },
+  {
+   "slug": "poznan",
+   "name": "Poznań",
+   "kaw_active": 2546,
+   "kaw_median": 1900,
+   "kaw_wow_pct": 7.2,
+   "kaw_prev_week": 2376,
+   "kaw_2008": 2280,
+   "pok_active": 2042,
+   "pok_median": 1000,
+   "pok_wow_pct": 7.5,
+   "pok_prev_week": 1900,
+   "pok_2008": 1844
+  },
+  {
+   "slug": "lodz",
+   "name": "Łódź",
+   "kaw_active": 2376,
+   "kaw_median": 1599,
+   "kaw_wow_pct": 6.4,
+   "kaw_prev_week": 2234,
+   "kaw_2008": 2169,
+   "pok_active": 865,
+   "pok_median": 900,
+   "pok_wow_pct": 6.4,
+   "pok_prev_week": 813,
+   "pok_2008": 773
+  },
+  {
+   "slug": "gdansk",
+   "name": "Gdańsk",
+   "kaw_active": 1491,
+   "kaw_median": 2300,
+   "kaw_wow_pct": 10.0,
+   "kaw_prev_week": 1356,
+   "kaw_2008": 1312,
+   "pok_active": 1331,
+   "pok_median": 1200,
+   "pok_wow_pct": 7.9,
+   "pok_prev_week": 1234,
+   "pok_2008": 1177
+  }
+ ],
+ "city_detail": {
+  "warszawa": {
+   "by_rooms": [
+    {
+     "rooms": 1,
+     "offer_count": 6601,
+     "avg_price": 2648,
+     "median_price": 2600,
+     "avg_area": 30,
+     "price_per_m2": 95
+    },
+    {
+     "rooms": 2,
+     "offer_count": 14008,
+     "avg_price": 3575,
+     "median_price": 3400,
+     "avg_area": 45,
+     "price_per_m2": 83
+    },
+    {
+     "rooms": 3,
+     "offer_count": 7577,
+     "avg_price": 4683,
+     "median_price": 4300,
+     "avg_area": 64,
+     "price_per_m2": 80
+    },
+    {
+     "rooms": 4,
+     "offer_count": 2101,
+     "avg_price": 5696,
+     "median_price": 5500,
+     "avg_area": 90,
+     "price_per_m2": 83
+    }
+   ],
+   "overview": {
+    "total_offers": 32678,
+    "avg_price": 3680,
+    "median_price": 3200,
+    "min_price": 500,
+    "max_price": 15000,
+    "avg_price_per_m2": 85,
+    "avg_area": 49
+   },
+   "districts_cheapest": [
+    {
+     "name": "Rembertów",
+     "offer_count": 149,
+     "avg_price": 2906,
+     "min_price": 900,
+     "max_price": 10000
+    },
+    {
+     "name": "Targówek",
+     "offer_count": 985,
+     "avg_price": 3012,
+     "min_price": 800,
+     "max_price": 10500
+    },
+    {
+     "name": "Białołęka",
+     "offer_count": 1168,
+     "avg_price": 3038,
+     "min_price": 750,
+     "max_price": 8000
+    }
+   ],
+   "districts_priciest": [
+    {
+     "name": "Wilanów",
+     "offer_count": 820,
+     "avg_price": 5482,
+     "min_price": 600,
+     "max_price": 15000
+    },
+    {
+     "name": "Śródmieście",
+     "offer_count": 3635,
+     "avg_price": 4778,
+     "min_price": 600,
+     "max_price": 15000
+    },
+    {
+     "name": "Wola",
+     "offer_count": 3820,
+     "avg_price": 4362,
+     "min_price": 576,
+     "max_price": 15000
+    }
+   ]
+  },
+  "krakow": {
+   "by_rooms": [
+    {
+     "rooms": 1,
+     "offer_count": 5155,
+     "avg_price": 2212,
+     "median_price": 2200,
+     "avg_area": 30,
+     "price_per_m2": 79
+    },
+    {
+     "rooms": 2,
+     "offer_count": 8580,
+     "avg_price": 2795,
+     "median_price": 2800,
+     "avg_area": 44,
+     "price_per_m2": 67
+    },
+    {
+     "rooms": 3,
+     "offer_count": 4208,
+     "avg_price": 3268,
+     "median_price": 3300,
+     "avg_area": 59,
+     "price_per_m2": 64
+    },
+    {
+     "rooms": 4,
+     "offer_count": 976,
+     "avg_price": 3608,
+     "median_price": 3000,
+     "avg_area": 77,
+     "price_per_m2": 68
+    }
+   ],
+   "overview": {
+    "total_offers": 20295,
+    "avg_price": 2707,
+    "median_price": 2600,
+    "min_price": 500,
+    "max_price": 14999,
+    "avg_price_per_m2": 70,
+    "avg_area": 45
+   },
+   "districts_cheapest": [
+    {
+     "name": "Nowa Huta",
+     "offer_count": 420,
+     "avg_price": 2462,
+     "min_price": 800,
+     "max_price": 13500
+    },
+    {
+     "name": "Bieżanów-Prokocim",
+     "offer_count": 607,
+     "avg_price": 2535,
+     "min_price": 600,
+     "max_price": 8000
+    },
+    {
+     "name": "Podgórze Duchackie",
+     "offer_count": 629,
+     "avg_price": 2553,
+     "min_price": 750,
+     "max_price": 8000
+    }
+   ],
+   "districts_priciest": [
+    {
+     "name": "Zwierzyniec",
+     "offer_count": 352,
+     "avg_price": 3482,
+     "min_price": 800,
+     "max_price": 12650
+    },
+    {
+     "name": "Kazimierz",
+     "offer_count": 418,
+     "avg_price": 3418,
+     "min_price": 768,
+     "max_price": 14500
+    },
+    {
+     "name": "Stare Miasto",
+     "offer_count": 1904,
+     "avg_price": 3222,
+     "min_price": 600,
+     "max_price": 13000
+    }
+   ]
+  },
+  "wroclaw": {
+   "by_rooms": [
+    {
+     "rooms": 1,
+     "offer_count": 3509,
+     "avg_price": 2200,
+     "median_price": 2200,
+     "avg_area": 29,
+     "price_per_m2": 83
+    },
+    {
+     "rooms": 2,
+     "offer_count": 7062,
+     "avg_price": 2769,
+     "median_price": 2800,
+     "avg_area": 44,
+     "price_per_m2": 66
+    },
+    {
+     "rooms": 3,
+     "offer_count": 3923,
+     "avg_price": 3081,
+     "median_price": 3200,
+     "avg_area": 57,
+     "price_per_m2": 62
+    },
+    {
+     "rooms": 4,
+     "offer_count": 919,
+     "avg_price": 3291,
+     "median_price": 3000,
+     "avg_area": 70,
+     "price_per_m2": 63
+    }
+   ],
+   "overview": {
+    "total_offers": 16405,
+    "avg_price": 2678,
+    "median_price": 2600,
+    "min_price": 500,
+    "max_price": 15000,
+    "avg_price_per_m2": 69,
+    "avg_area": 45
+   },
+   "districts_cheapest": [
+    {
+     "name": "Kozanów",
+     "offer_count": 30,
+     "avg_price": 2528,
+     "min_price": 1400,
+     "max_price": 6000
+    },
+    {
+     "name": "Brochów",
+     "offer_count": 32,
+     "avg_price": 2567,
+     "min_price": 1300,
+     "max_price": 5800
+    },
+    {
+     "name": "Gaj",
+     "offer_count": 124,
+     "avg_price": 2647,
+     "min_price": 600,
+     "max_price": 5500
+    }
+   ],
+   "districts_priciest": [
+    {
+     "name": "Ołtaszyn",
+     "offer_count": 69,
+     "avg_price": 3415,
+     "min_price": 1900,
+     "max_price": 7990
+    },
+    {
+     "name": "Nadodrze",
+     "offer_count": 264,
+     "avg_price": 3165,
+     "min_price": 650,
+     "max_price": 14000
+    },
+    {
+     "name": "Grabiszyn",
+     "offer_count": 149,
+     "avg_price": 3049,
+     "min_price": 1100,
+     "max_price": 11000
+    }
+   ]
+  },
+  "poznan": {
+   "by_rooms": [
+    {
+     "rooms": 1,
+     "offer_count": 2755,
+     "avg_price": 1877,
+     "median_price": 1900,
+     "avg_area": 29,
+     "price_per_m2": 70
+    },
+    {
+     "rooms": 2,
+     "offer_count": 3858,
+     "avg_price": 2461,
+     "median_price": 2500,
+     "avg_area": 45,
+     "price_per_m2": 59
+    },
+    {
+     "rooms": 3,
+     "offer_count": 1882,
+     "avg_price": 2548,
+     "median_price": 2600,
+     "avg_area": 55,
+     "price_per_m2": 55
+    },
+    {
+     "rooms": 4,
+     "offer_count": 515,
+     "avg_price": 2233,
+     "median_price": 1280,
+     "avg_area": 63,
+     "price_per_m2": 54
+    }
+   ],
+   "overview": {
+    "total_offers": 9828,
+    "avg_price": 2197,
+    "median_price": 2200,
+    "min_price": 500,
+    "max_price": 13000,
+    "avg_price_per_m2": 62,
+    "avg_area": 42
+   },
+   "districts_cheapest": [
+    {
+     "name": "Winogrady",
+     "offer_count": 390,
+     "avg_price": 2118,
+     "min_price": 550,
+     "max_price": 10000
+    },
+    {
+     "name": "Piątkowo",
+     "offer_count": 353,
+     "avg_price": 2125,
+     "min_price": 523,
+     "max_price": 5000
+    },
+    {
+     "name": "Rataje",
+     "offer_count": 428,
+     "avg_price": 2260,
+     "min_price": 550,
+     "max_price": 5400
+    }
+   ],
+   "districts_priciest": [
+    {
+     "name": "Stare Miasto",
+     "offer_count": 1578,
+     "avg_price": 2503,
+     "min_price": 500,
+     "max_price": 13000
+    },
+    {
+     "name": "Nowe Miasto",
+     "offer_count": 788,
+     "avg_price": 2498,
+     "min_price": 500,
+     "max_price": 9900
+    },
+    {
+     "name": "Grunwald",
+     "offer_count": 1219,
+     "avg_price": 2441,
+     "min_price": 521,
+     "max_price": 10000
+    }
+   ]
+  },
+  "lodz": {
+   "by_rooms": [
+    {
+     "rooms": 1,
+     "offer_count": 2463,
+     "avg_price": 1584,
+     "median_price": 1550,
+     "avg_area": 27,
+     "price_per_m2": 62
+    },
+    {
+     "rooms": 2,
+     "offer_count": 2965,
+     "avg_price": 2108,
+     "median_price": 2100,
+     "avg_area": 43,
+     "price_per_m2": 51
+    },
+    {
+     "rooms": 3,
+     "offer_count": 1275,
+     "avg_price": 2559,
+     "median_price": 2500,
+     "avg_area": 61,
+     "price_per_m2": 48
+    },
+    {
+     "rooms": 4,
+     "offer_count": 250,
+     "avg_price": 2577,
+     "median_price": 2350,
+     "avg_area": 71,
+     "price_per_m2": 51
+    }
+   ],
+   "overview": {
+    "total_offers": 7317,
+    "avg_price": 1990,
+    "median_price": 1850,
+    "min_price": 500,
+    "max_price": 12900,
+    "avg_price_per_m2": 55,
+    "avg_area": 41
+   },
+   "districts_cheapest": [
+    {
+     "name": "Teofilów",
+     "offer_count": 38,
+     "avg_price": 1789,
+     "min_price": 1300,
+     "max_price": 3500
+    },
+    {
+     "name": "Retkinia",
+     "offer_count": 72,
+     "avg_price": 1828,
+     "min_price": 950,
+     "max_price": 2999
+    },
+    {
+     "name": "Górna",
+     "offer_count": 762,
+     "avg_price": 1876,
+     "min_price": 530,
+     "max_price": 5400
+    }
+   ],
+   "districts_priciest": [
+    {
+     "name": "Olechów",
+     "offer_count": 28,
+     "avg_price": 2659,
+     "min_price": 1370,
+     "max_price": 5000
+    },
+    {
+     "name": "Widzew",
+     "offer_count": 809,
+     "avg_price": 2243,
+     "min_price": 650,
+     "max_price": 9999
+    },
+    {
+     "name": "Radogoszcz",
+     "offer_count": 26,
+     "avg_price": 2201,
+     "min_price": 700,
+     "max_price": 3900
+    }
+   ]
+  },
+  "gdansk": {
+   "by_rooms": [
+    {
+     "rooms": 1,
+     "offer_count": 1617,
+     "avg_price": 2314,
+     "median_price": 2300,
+     "avg_area": 29,
+     "price_per_m2": 86
+    },
+    {
+     "rooms": 2,
+     "offer_count": 3591,
+     "avg_price": 2884,
+     "median_price": 2800,
+     "avg_area": 43,
+     "price_per_m2": 70
+    },
+    {
+     "rooms": 3,
+     "offer_count": 1696,
+     "avg_price": 3480,
+     "median_price": 3500,
+     "avg_area": 59,
+     "price_per_m2": 66
+    },
+    {
+     "rooms": 4,
+     "offer_count": 437,
+     "avg_price": 3531,
+     "median_price": 2800,
+     "avg_area": 71,
+     "price_per_m2": 67
+    }
+   ],
+   "overview": {
+    "total_offers": 7997,
+    "avg_price": 2807,
+    "median_price": 2700,
+    "min_price": 555,
+    "max_price": 14760,
+    "avg_price_per_m2": 72,
+    "avg_area": 45
+   },
+   "districts_cheapest": [
+    {
+     "name": "Suchanino",
+     "offer_count": 85,
+     "avg_price": 2605,
+     "min_price": 800,
+     "max_price": 4500
+    },
+    {
+     "name": "Żabianka",
+     "offer_count": 193,
+     "avg_price": 2627,
+     "min_price": 950,
+     "max_price": 5200
+    },
+    {
+     "name": "Stogi",
+     "offer_count": 60,
+     "avg_price": 2641,
+     "min_price": 1300,
+     "max_price": 6350
+    }
+   ],
+   "districts_priciest": [
+    {
+     "name": "Letnica",
+     "offer_count": 277,
+     "avg_price": 3743,
+     "min_price": 750,
+     "max_price": 14760
+    },
+    {
+     "name": "Brzeźno",
+     "offer_count": 270,
+     "avg_price": 3328,
+     "min_price": 870,
+     "max_price": 13000
+    },
+    {
+     "name": "Śródmieście",
+     "offer_count": 1092,
+     "avg_price": 3243,
+     "min_price": 600,
+     "max_price": 12500
+    }
+   ]
+  }
+ },
+ "all_barometr": [
+  {
+   "city_slug": "warszawa",
+   "city_name": "Warszawa",
+   "kawalerki": {
+    "active_offers": 6261,
+    "median_price": 2600,
+    "wow_delta": 585,
+    "wow_delta_pct": 10.3
+   },
+   "pokoje": {
+    "active_offers": 4523,
+    "median_price": 1370,
+    "wow_delta": 485,
+    "wow_delta_pct": 12.0
+   }
+  },
+  {
+   "city_slug": "krakow",
+   "city_name": "Kraków",
+   "kawalerki": {
+    "active_offers": 4898,
+    "median_price": 2200,
+    "wow_delta": 366,
+    "wow_delta_pct": 8.1
+   },
+   "pokoje": {
+    "active_offers": 3165,
+    "median_price": 1200,
+    "wow_delta": 238,
+    "wow_delta_pct": 8.1
+   }
+  },
+  {
+   "city_slug": "wroclaw",
+   "city_name": "Wrocław",
+   "kawalerki": {
+    "active_offers": 3290,
+    "median_price": 2213,
+    "wow_delta": 283,
+    "wow_delta_pct": 9.4
+   },
+   "pokoje": {
+    "active_offers": 2867,
+    "median_price": 1250,
+    "wow_delta": 263,
+    "wow_delta_pct": 10.1
+   }
+  },
+  {
+   "city_slug": "poznan",
+   "city_name": "Poznań",
+   "kawalerki": {
+    "active_offers": 2546,
+    "median_price": 1900,
+    "wow_delta": 170,
+    "wow_delta_pct": 7.2
+   },
+   "pokoje": {
+    "active_offers": 2042,
+    "median_price": 1000,
+    "wow_delta": 142,
+    "wow_delta_pct": 7.5
+   }
+  },
+  {
+   "city_slug": "lodz",
+   "city_name": "Łódź",
+   "kawalerki": {
+    "active_offers": 2376,
+    "median_price": 1599,
+    "wow_delta": 142,
+    "wow_delta_pct": 6.4
+   },
+   "pokoje": {
+    "active_offers": 865,
+    "median_price": 900,
+    "wow_delta": 52,
+    "wow_delta_pct": 6.4
+   }
+  },
+  {
+   "city_slug": "gdansk",
+   "city_name": "Gdańsk",
+   "kawalerki": {
+    "active_offers": 1491,
+    "median_price": 2300,
+    "wow_delta": 135,
+    "wow_delta_pct": 10.0
+   },
+   "pokoje": {
+    "active_offers": 1331,
+    "median_price": 1200,
+    "wow_delta": 97,
+    "wow_delta_pct": 7.9
+   }
+  },
+  {
+   "city_slug": "lublin",
+   "city_name": "Lublin",
+   "kawalerki": {
+    "active_offers": 686,
+    "median_price": 2000,
+    "wow_delta": 35,
+    "wow_delta_pct": 5.4
+   },
+   "pokoje": {
+    "active_offers": 1569,
+    "median_price": 950,
+    "wow_delta": 102,
+    "wow_delta_pct": 7.0
+   }
+  },
+  {
+   "city_slug": "katowice",
+   "city_name": "Katowice",
+   "kawalerki": {
+    "active_offers": 1384,
+    "median_price": 1600,
+    "wow_delta": 68,
+    "wow_delta_pct": 5.2
+   },
+   "pokoje": {
+    "active_offers": 723,
+    "median_price": 950,
+    "wow_delta": 43,
+    "wow_delta_pct": 6.3
+   }
+  },
+  {
+   "city_slug": "szczecin",
+   "city_name": "Szczecin",
+   "kawalerki": {
+    "active_offers": 913,
+    "median_price": 2000,
+    "wow_delta": 87,
+    "wow_delta_pct": 10.5
+   },
+   "pokoje": {
+    "active_offers": 560,
+    "median_price": 1000,
+    "wow_delta": 55,
+    "wow_delta_pct": 10.9
+   }
+  },
+  {
+   "city_slug": "rzeszow",
+   "city_name": "Rzeszów",
+   "kawalerki": {
+    "active_offers": 496,
+    "median_price": 1850,
+    "wow_delta": 42,
+    "wow_delta_pct": 9.3
+   },
+   "pokoje": {
+    "active_offers": 937,
+    "median_price": 950,
+    "wow_delta": 70,
+    "wow_delta_pct": 8.1
+   }
+  },
+  {
+   "city_slug": "bydgoszcz",
+   "city_name": "Bydgoszcz",
+   "kawalerki": {
+    "active_offers": 695,
+    "median_price": 1600,
+    "wow_delta": 51,
+    "wow_delta_pct": 7.9
+   },
+   "pokoje": {
+    "active_offers": 454,
+    "median_price": 950,
+    "wow_delta": 37,
+    "wow_delta_pct": 8.9
+   }
+  },
+  {
+   "city_slug": "bialystok",
+   "city_name": "Białystok",
+   "kawalerki": {
+    "active_offers": 333,
+    "median_price": 1600,
+    "wow_delta": 46,
+    "wow_delta_pct": 16.0
+   },
+   "pokoje": {
+    "active_offers": 536,
+    "median_price": 890,
+    "wow_delta": 53,
+    "wow_delta_pct": 11.0
+   }
+  },
+  {
+   "city_slug": "torun",
+   "city_name": "Toruń",
+   "kawalerki": {
+    "active_offers": 305,
+    "median_price": 1700,
+    "wow_delta": 41,
+    "wow_delta_pct": 15.5
+   },
+   "pokoje": {
+    "active_offers": 506,
+    "median_price": 900,
+    "wow_delta": 36,
+    "wow_delta_pct": 7.7
+   }
+  },
+  {
+   "city_slug": "gdynia",
+   "city_name": "Gdynia",
+   "kawalerki": {
+    "active_offers": 414,
+    "median_price": 2100,
+    "wow_delta": 41,
+    "wow_delta_pct": 11.0
+   },
+   "pokoje": {
+    "active_offers": 343,
+    "median_price": 1100,
+    "wow_delta": 24,
+    "wow_delta_pct": 7.5
+   }
+  },
+  {
+   "city_slug": "olsztyn",
+   "city_name": "Olsztyn",
+   "kawalerki": {
+    "active_offers": 256,
+    "median_price": 1800,
+    "wow_delta": 19,
+    "wow_delta_pct": 8.0
+   },
+   "pokoje": {
+    "active_offers": 464,
+    "median_price": 1000,
+    "wow_delta": 41,
+    "wow_delta_pct": 9.7
+   }
+  },
+  {
+   "city_slug": "kielce",
+   "city_name": "Kielce",
+   "kawalerki": {
+    "active_offers": 402,
+    "median_price": 1500,
+    "wow_delta": 20,
+    "wow_delta_pct": 5.2
+   },
+   "pokoje": {
+    "active_offers": 241,
+    "median_price": 850,
+    "wow_delta": 12,
+    "wow_delta_pct": 5.2
+   }
+  },
+  {
+   "city_slug": "opole",
+   "city_name": "Opole",
+   "kawalerki": {
+    "active_offers": 280,
+    "median_price": 1900,
+    "wow_delta": 34,
+    "wow_delta_pct": 13.8
+   },
+   "pokoje": {
+    "active_offers": 241,
+    "median_price": 1150,
+    "wow_delta": 10,
+    "wow_delta_pct": 4.3
+   }
+  },
+  {
+   "city_slug": "gliwice",
+   "city_name": "Gliwice",
+   "kawalerki": {
+    "active_offers": 374,
+    "median_price": 1600,
+    "wow_delta": 20,
+    "wow_delta_pct": 5.6
+   },
+   "pokoje": {
+    "active_offers": 141,
+    "median_price": 850,
+    "wow_delta": 6,
+    "wow_delta_pct": 4.4
+   }
+  },
+  {
+   "city_slug": "czestochowa",
+   "city_name": "Częstochowa",
+   "kawalerki": {
+    "active_offers": 257,
+    "median_price": 1300,
+    "wow_delta": 23,
+    "wow_delta_pct": 9.8
+   },
+   "pokoje": {
+    "active_offers": 91,
+    "median_price": 940,
+    "wow_delta": 3,
+    "wow_delta_pct": 3.4
+   }
+  },
+  {
+   "city_slug": "sosnowiec",
+   "city_name": "Sosnowiec",
+   "kawalerki": {
+    "active_offers": 238,
+    "median_price": 1400,
+    "wow_delta": 18,
+    "wow_delta_pct": 8.2
+   },
+   "pokoje": {
+    "active_offers": 89,
+    "median_price": 920,
+    "wow_delta": 11,
+    "wow_delta_pct": 14.1
+   }
+  },
+  {
+   "city_slug": "oswiecim",
+   "city_name": "Oświęcim",
+   "kawalerki": {
+    "active_offers": 143,
+    "median_price": 1400,
+    "wow_delta": 6,
+    "wow_delta_pct": 4.4
+   },
+   "pokoje": {
+    "active_offers": 104,
+    "median_price": 1000,
+    "wow_delta": 5,
+    "wow_delta_pct": 5.1
+   }
+  }
+ ]
+}
