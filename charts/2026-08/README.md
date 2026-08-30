@@ -14,3 +14,15 @@ Dane: `/api/v1/stats/barometr` (tydzień 24–30.08 vs 17–23.08) + `/api/v1/st
 Reprodukcja: `uv run --no-project --with matplotlib --with pillow python render.py` (czyta `data-pack.json`; pierwsza sekcja skryptu opisuje, skąd biorą się pola).
 
 Cytowanie: „Źródło: Znajdź Najem, Indeks Najmu — sierpień 2026, https://znajdznajem.pl/raporty”.
+
+## Wersje ilustrowane (Codex image_gen, liczby zweryfikowane ręcznie)
+
+| Plik | Odpowiednik |
+|---|---|
+| `05-kawalerki-top6-illustrated.png` | 01 |
+| `06-indeks-mediany-illustrated.png` | 04 |
+| `07-kawalerki-20-08-vs-30-08-illustrated.png` | 03 |
+| `08-pokoje-top6-illustrated.png` | 02 |
+| `city-illustrated/<miasto>.png` | `city/<miasto>.png` |
+
+Do social (Wykop, FB, SkyscraperCity) używaj wersji ilustrowanych; do prasy/przedruku — matplotlibowych (belki w skali, czytelne w druku).
