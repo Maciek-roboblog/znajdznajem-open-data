@@ -1,0 +1,356 @@
+{
+  "city_slug": "gdynia",
+  "generated_at": "2026-09-01T03:00:16.591714+02:00",
+  "data_as_of": "2026-09-01T02:43:30.956873+02:00",
+  "overview": {
+    "total_offers": 2326,
+    "avg_price": 2700,
+    "median_price": 2500,
+    "min_price": 500,
+    "max_price": 14000,
+    "avg_price_per_m2": 66,
+    "avg_area": 46
+  },
+  "districts": [
+    {
+      "name": "Orłowo",
+      "offer_count": 136,
+      "avg_price": 4014,
+      "min_price": 900,
+      "max_price": 14000
+    },
+    {
+      "name": "Mały Kack",
+      "offer_count": 96,
+      "avg_price": 3412,
+      "min_price": 1000,
+      "max_price": 13000
+    },
+    {
+      "name": "Redłowo",
+      "offer_count": 113,
+      "avg_price": 3332,
+      "min_price": 850,
+      "max_price": 13500
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 367,
+      "avg_price": 3329,
+      "min_price": 550,
+      "max_price": 13900
+    },
+    {
+      "name": "Wzgórze Św. Maksymiliana",
+      "offer_count": 101,
+      "avg_price": 3189,
+      "min_price": 1300,
+      "max_price": 12000
+    },
+    {
+      "name": "Kamienna Góra",
+      "offer_count": 61,
+      "avg_price": 2976,
+      "min_price": 1000,
+      "max_price": 7500
+    },
+    {
+      "name": "Chwarzno-Wiczlino",
+      "offer_count": 88,
+      "avg_price": 2919,
+      "min_price": 1400,
+      "max_price": 5600
+    },
+    {
+      "name": "Pogórze",
+      "offer_count": 63,
+      "avg_price": 2727,
+      "min_price": 950,
+      "max_price": 5500
+    },
+    {
+      "name": "Dąbrowa",
+      "offer_count": 36,
+      "avg_price": 2661,
+      "min_price": 1000,
+      "max_price": 3600
+    },
+    {
+      "name": "Wielki Kack",
+      "offer_count": 69,
+      "avg_price": 2647,
+      "min_price": 1000,
+      "max_price": 4000
+    },
+    {
+      "name": "Działki Leśne",
+      "offer_count": 130,
+      "avg_price": 2621,
+      "min_price": 800,
+      "max_price": 7500
+    },
+    {
+      "name": "Karwiny",
+      "offer_count": 55,
+      "avg_price": 2582,
+      "min_price": 1300,
+      "max_price": 4400
+    },
+    {
+      "name": "Witomino",
+      "offer_count": 101,
+      "avg_price": 2553,
+      "min_price": 650,
+      "max_price": 5500
+    },
+    {
+      "name": "Obłuże",
+      "offer_count": 81,
+      "avg_price": 2530,
+      "min_price": 850,
+      "max_price": 10000
+    },
+    {
+      "name": "Oksywie",
+      "offer_count": 71,
+      "avg_price": 2468,
+      "min_price": 950,
+      "max_price": 3650
+    },
+    {
+      "name": "Grabówek",
+      "offer_count": 106,
+      "avg_price": 2391,
+      "min_price": 850,
+      "max_price": 3700
+    },
+    {
+      "name": "Pustki Cisowskie-Demptowo",
+      "offer_count": 27,
+      "avg_price": 2362,
+      "min_price": 900,
+      "max_price": 4900
+    },
+    {
+      "name": "Babie Doły",
+      "offer_count": 15,
+      "avg_price": 2340,
+      "min_price": 1650,
+      "max_price": 3200
+    },
+    {
+      "name": "Chylonia",
+      "offer_count": 124,
+      "avg_price": 2278,
+      "min_price": 600,
+      "max_price": 8500
+    },
+    {
+      "name": "Cisowa",
+      "offer_count": 50,
+      "avg_price": 2244,
+      "min_price": 900,
+      "max_price": 3500
+    },
+    {
+      "name": "Leszczynki",
+      "offer_count": 66,
+      "avg_price": 2203,
+      "min_price": 850,
+      "max_price": 4500
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 475,
+      "avg_price": 2045,
+      "median_price": 2000,
+      "avg_area": 27,
+      "price_per_m2": 80
+    },
+    {
+      "rooms": 2,
+      "offer_count": 1031,
+      "avg_price": 2734,
+      "median_price": 2600,
+      "avg_area": 45,
+      "price_per_m2": 64
+    },
+    {
+      "rooms": 3,
+      "offer_count": 520,
+      "avg_price": 3326,
+      "median_price": 3000,
+      "avg_area": 62,
+      "price_per_m2": 59
+    },
+    {
+      "rooms": 4,
+      "offer_count": 127,
+      "avg_price": 4134,
+      "median_price": 3600,
+      "avg_area": 78,
+      "price_per_m2": 65
+    },
+    {
+      "rooms": 5,
+      "offer_count": 20,
+      "avg_price": 2134,
+      "median_price": 1125,
+      "avg_area": 55,
+      "price_per_m2": 60
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 1172,
+      "pct": 50.4
+    },
+    {
+      "source": "otodom",
+      "offer_count": 593,
+      "pct": 25.5
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 205,
+      "pct": 8.8
+    },
+    {
+      "source": "gratka",
+      "offer_count": 204,
+      "pct": 8.8
+    },
+    {
+      "source": "morizon",
+      "offer_count": 152,
+      "pct": 6.5
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 132
+    },
+    {
+      "price": 1000,
+      "count": 228
+    },
+    {
+      "price": 1500,
+      "count": 247
+    },
+    {
+      "price": 2000,
+      "count": 482
+    },
+    {
+      "price": 2500,
+      "count": 543
+    },
+    {
+      "price": 3000,
+      "count": 270
+    },
+    {
+      "price": 3500,
+      "count": 175
+    },
+    {
+      "price": 4000,
+      "count": 74
+    },
+    {
+      "price": 4500,
+      "count": 41
+    },
+    {
+      "price": 5000,
+      "count": 28
+    },
+    {
+      "price": 5500,
+      "count": 22
+    },
+    {
+      "price": 6000,
+      "count": 9
+    },
+    {
+      "price": 6500,
+      "count": 17
+    },
+    {
+      "price": 7000,
+      "count": 6
+    },
+    {
+      "price": 7500,
+      "count": 16
+    },
+    {
+      "price": 8000,
+      "count": 2
+    },
+    {
+      "price": 8500,
+      "count": 7
+    },
+    {
+      "price": 9000,
+      "count": 4
+    },
+    {
+      "price": 9500,
+      "count": 2
+    },
+    {
+      "price": 10000,
+      "count": 5
+    },
+    {
+      "price": 11000,
+      "count": 2
+    },
+    {
+      "price": 11500,
+      "count": 3
+    },
+    {
+      "price": 12000,
+      "count": 3
+    },
+    {
+      "price": 12500,
+      "count": 1
+    },
+    {
+      "price": 13000,
+      "count": 1
+    },
+    {
+      "price": 13500,
+      "count": 4
+    },
+    {
+      "price": 14000,
+      "count": 2
+    }
+  ],
+  "insights": [
+    {
+      "type": "freshness_signal",
+      "text": "371 nowych ofert w Gdyni w ostatnich 7 dniach — 20% więcej niż średnia 4-tygodniowa.",
+      "magnitude": 20.16194331983806,
+      "evidence": {
+        "last_7d_new": 371,
+        "trailing_28d_new": 1235,
+        "weekly_avg_28d": 308.8,
+        "delta_pct": 20.16
+      }
+    }
+  ],
+  "generated_month": "2026-08"
+}

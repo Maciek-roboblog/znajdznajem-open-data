@@ -1,0 +1,178 @@
+{
+  "city_slug": "gliwice",
+  "generated_at": "2026-09-01T03:00:16.591715+02:00",
+  "data_as_of": "2026-09-01T02:57:48.177957+02:00",
+  "overview": {
+    "total_offers": 1415,
+    "avg_price": 1959,
+    "median_price": 1850,
+    "min_price": 500,
+    "max_price": 12206,
+    "avg_price_per_m2": 51,
+    "avg_area": 44
+  },
+  "districts": [],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 410,
+      "avg_price": 1591,
+      "median_price": 1600,
+      "avg_area": 31,
+      "price_per_m2": 59
+    },
+    {
+      "rooms": 2,
+      "offer_count": 664,
+      "avg_price": 2059,
+      "median_price": 2000,
+      "avg_area": 44,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 3,
+      "offer_count": 229,
+      "avg_price": 2456,
+      "median_price": 2500,
+      "avg_area": 63,
+      "price_per_m2": 44
+    },
+    {
+      "rooms": 4,
+      "offer_count": 41,
+      "avg_price": 2778,
+      "median_price": 2800,
+      "avg_area": 89,
+      "price_per_m2": 40
+    },
+    {
+      "rooms": 5,
+      "offer_count": 19,
+      "avg_price": 1443,
+      "median_price": 750,
+      "avg_area": 77,
+      "price_per_m2": 29
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 803,
+      "pct": 56.7
+    },
+    {
+      "source": "otodom",
+      "offer_count": 325,
+      "pct": 23.0
+    },
+    {
+      "source": "gratka",
+      "offer_count": 155,
+      "pct": 11.0
+    },
+    {
+      "source": "morizon",
+      "offer_count": 80,
+      "pct": 5.7
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 52,
+      "pct": 3.7
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 133
+    },
+    {
+      "price": 1000,
+      "count": 211
+    },
+    {
+      "price": 1500,
+      "count": 451
+    },
+    {
+      "price": 2000,
+      "count": 306
+    },
+    {
+      "price": 2500,
+      "count": 187
+    },
+    {
+      "price": 3000,
+      "count": 64
+    },
+    {
+      "price": 3500,
+      "count": 33
+    },
+    {
+      "price": 4000,
+      "count": 12
+    },
+    {
+      "price": 4500,
+      "count": 6
+    },
+    {
+      "price": 5000,
+      "count": 4
+    },
+    {
+      "price": 5500,
+      "count": 2
+    },
+    {
+      "price": 6000,
+      "count": 1
+    },
+    {
+      "price": 6500,
+      "count": 1
+    },
+    {
+      "price": 7500,
+      "count": 1
+    },
+    {
+      "price": 8000,
+      "count": 2
+    },
+    {
+      "price": 12000,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "trend_reversal",
+      "text": "Mediana ceny w Gliwicach spadła o 2,1% mimo wzrostu liczby ofert o 61,5%.",
+      "magnitude": 63.64608248169891,
+      "evidence": {
+        "current_median": 1850,
+        "previous_median": 1890,
+        "current_total_offers": 1415,
+        "previous_total_offers": 876,
+        "price_pct": -2.12,
+        "supply_pct": 61.53
+      }
+    },
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Gliwicach kawalerki to 30% aktywnych ofert — 8,2 pp. więcej niż średnia kraju (22%).",
+      "magnitude": 8.179634673126046,
+      "evidence": {
+        "city_studio_pct": 30.08,
+        "national_studio_pct": 21.9,
+        "delta_pp": 8.18,
+        "city_studio_count": 410,
+        "city_total": 1363
+      }
+    }
+  ],
+  "generated_month": "2026-08"
+}

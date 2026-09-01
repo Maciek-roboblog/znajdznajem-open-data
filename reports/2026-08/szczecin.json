@@ -1,0 +1,320 @@
+{
+  "city_slug": "szczecin",
+  "generated_at": "2026-09-01T03:00:16.591727+02:00",
+  "data_as_of": "2026-09-01T02:07:12.932338+02:00",
+  "overview": {
+    "total_offers": 3721,
+    "avg_price": 2373,
+    "median_price": 2300,
+    "min_price": 500,
+    "max_price": 9000,
+    "avg_price_per_m2": 62,
+    "avg_area": 45
+  },
+  "districts": [
+    {
+      "name": "Stare Miasto",
+      "offer_count": 85,
+      "avg_price": 2875,
+      "min_price": 750,
+      "max_price": 5500
+    },
+    {
+      "name": "Prawobrzeże",
+      "offer_count": 54,
+      "avg_price": 2770,
+      "min_price": 950,
+      "max_price": 6500
+    },
+    {
+      "name": "Dąbie",
+      "offer_count": 26,
+      "avg_price": 2751,
+      "min_price": 1200,
+      "max_price": 6999
+    },
+    {
+      "name": "Północ",
+      "offer_count": 98,
+      "avg_price": 2748,
+      "min_price": 1500,
+      "max_price": 4800
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 826,
+      "avg_price": 2740,
+      "min_price": 680,
+      "max_price": 9000
+    },
+    {
+      "name": "Warszewo",
+      "offer_count": 98,
+      "avg_price": 2719,
+      "min_price": 850,
+      "max_price": 5200
+    },
+    {
+      "name": "Zachód",
+      "offer_count": 318,
+      "avg_price": 2607,
+      "min_price": 600,
+      "max_price": 6900
+    },
+    {
+      "name": "Nowe Miasto",
+      "offer_count": 25,
+      "avg_price": 2605,
+      "min_price": 1900,
+      "max_price": 4000
+    },
+    {
+      "name": "Pogodno",
+      "offer_count": 134,
+      "avg_price": 2576,
+      "min_price": 750,
+      "max_price": 7999
+    },
+    {
+      "name": "Słoneczne",
+      "offer_count": 43,
+      "avg_price": 2508,
+      "min_price": 1200,
+      "max_price": 6800
+    },
+    {
+      "name": "Gumieńce",
+      "offer_count": 213,
+      "avg_price": 2506,
+      "min_price": 600,
+      "max_price": 5250
+    },
+    {
+      "name": "Zdroje",
+      "offer_count": 31,
+      "avg_price": 2475,
+      "min_price": 1500,
+      "max_price": 4000
+    },
+    {
+      "name": "Bukowe-Klęskowo",
+      "offer_count": 19,
+      "avg_price": 2465,
+      "min_price": 1800,
+      "max_price": 3300
+    },
+    {
+      "name": "Centrum",
+      "offer_count": 696,
+      "avg_price": 2418,
+      "min_price": 533,
+      "max_price": 8500
+    },
+    {
+      "name": "Turzyn",
+      "offer_count": 12,
+      "avg_price": 2361,
+      "min_price": 1100,
+      "max_price": 3700
+    },
+    {
+      "name": "Świerczewo",
+      "offer_count": 55,
+      "avg_price": 2274,
+      "min_price": 900,
+      "max_price": 3800
+    },
+    {
+      "name": "Niebuszewo",
+      "offer_count": 176,
+      "avg_price": 2228,
+      "min_price": 750,
+      "max_price": 5000
+    },
+    {
+      "name": "Żelechowa",
+      "offer_count": 12,
+      "avg_price": 2220,
+      "min_price": 1600,
+      "max_price": 2999
+    },
+    {
+      "name": "Pomorzany",
+      "offer_count": 211,
+      "avg_price": 2212,
+      "min_price": 580,
+      "max_price": 4100
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 962,
+      "avg_price": 1975,
+      "median_price": 1970,
+      "avg_area": 29,
+      "price_per_m2": 72
+    },
+    {
+      "rooms": 2,
+      "offer_count": 1608,
+      "avg_price": 2527,
+      "median_price": 2500,
+      "avg_area": 44,
+      "price_per_m2": 61
+    },
+    {
+      "rooms": 3,
+      "offer_count": 607,
+      "avg_price": 3012,
+      "median_price": 3000,
+      "avg_area": 63,
+      "price_per_m2": 54
+    },
+    {
+      "rooms": 4,
+      "offer_count": 231,
+      "avg_price": 2914,
+      "median_price": 3300,
+      "avg_area": 78,
+      "price_per_m2": 50
+    },
+    {
+      "rooms": 5,
+      "offer_count": 52,
+      "avg_price": 1813,
+      "median_price": 1040,
+      "avg_area": 97,
+      "price_per_m2": 42
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 2014,
+      "pct": 54.1
+    },
+    {
+      "source": "otodom",
+      "offer_count": 999,
+      "pct": 26.8
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 278,
+      "pct": 7.5
+    },
+    {
+      "source": "gratka",
+      "offer_count": 222,
+      "pct": 6.0
+    },
+    {
+      "source": "morizon",
+      "offer_count": 208,
+      "pct": 5.6
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 259
+    },
+    {
+      "price": 1000,
+      "count": 354
+    },
+    {
+      "price": 1500,
+      "count": 544
+    },
+    {
+      "price": 2000,
+      "count": 963
+    },
+    {
+      "price": 2500,
+      "count": 890
+    },
+    {
+      "price": 3000,
+      "count": 311
+    },
+    {
+      "price": 3500,
+      "count": 178
+    },
+    {
+      "price": 4000,
+      "count": 79
+    },
+    {
+      "price": 4500,
+      "count": 52
+    },
+    {
+      "price": 5000,
+      "count": 27
+    },
+    {
+      "price": 5500,
+      "count": 24
+    },
+    {
+      "price": 6000,
+      "count": 6
+    },
+    {
+      "price": 6500,
+      "count": 11
+    },
+    {
+      "price": 7000,
+      "count": 7
+    },
+    {
+      "price": 7500,
+      "count": 5
+    },
+    {
+      "price": 8000,
+      "count": 5
+    },
+    {
+      "price": 8500,
+      "count": 5
+    },
+    {
+      "price": 9000,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "trend_reversal",
+      "text": "Mediana ceny w Szczecinie spadła o 4,2% mimo wzrostu liczby ofert o 67,4%.",
+      "magnitude": 71.55308142150248,
+      "evidence": {
+        "current_median": 2300,
+        "previous_median": 2400,
+        "current_total_offers": 3721,
+        "previous_total_offers": 2223,
+        "price_pct": -4.17,
+        "supply_pct": 67.39
+      }
+    },
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Szczecinie kawalerki to 28% aktywnych ofert — 5,9 pp. więcej niż średnia kraju (22%).",
+      "magnitude": 5.902398552531814,
+      "evidence": {
+        "city_studio_pct": 27.8,
+        "national_studio_pct": 21.9,
+        "delta_pp": 5.9,
+        "city_studio_count": 962,
+        "city_total": 3460
+      }
+    }
+  ],
+  "generated_month": "2026-08"
+}

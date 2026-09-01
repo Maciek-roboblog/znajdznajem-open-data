@@ -1,0 +1,162 @@
+{
+  "city_slug": "oswiecim",
+  "generated_at": "2026-09-01T03:00:16.591723+02:00",
+  "data_as_of": "2026-09-01T02:58:13.816846+02:00",
+  "overview": {
+    "total_offers": 651,
+    "avg_price": 1635,
+    "median_price": 1600,
+    "min_price": 500,
+    "max_price": 5000,
+    "avg_price_per_m2": 42,
+    "avg_area": 46
+  },
+  "districts": [],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 168,
+      "avg_price": 1418,
+      "median_price": 1395,
+      "avg_area": 33,
+      "price_per_m2": 48
+    },
+    {
+      "rooms": 2,
+      "offer_count": 278,
+      "avg_price": 1728,
+      "median_price": 1700,
+      "avg_area": 44,
+      "price_per_m2": 41
+    },
+    {
+      "rooms": 3,
+      "offer_count": 116,
+      "avg_price": 2000,
+      "median_price": 2000,
+      "avg_area": 60,
+      "price_per_m2": 37
+    },
+    {
+      "rooms": 4,
+      "offer_count": 18,
+      "avg_price": 1792,
+      "median_price": 1275,
+      "avg_area": 95,
+      "price_per_m2": 23
+    },
+    {
+      "rooms": 5,
+      "offer_count": 3,
+      "avg_price": 733,
+      "median_price": 700,
+      "avg_area": 90,
+      "price_per_m2": 8
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 426,
+      "pct": 65.4
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 101,
+      "pct": 15.5
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 57,
+      "pct": 8.8
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 37,
+      "pct": 5.7
+    },
+    {
+      "source": "otodom",
+      "offer_count": 14,
+      "pct": 2.2
+    },
+    {
+      "source": "gratka",
+      "offer_count": 9,
+      "pct": 1.4
+    },
+    {
+      "source": "morizon",
+      "offer_count": 7,
+      "pct": 1.1
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 90
+    },
+    {
+      "price": 1000,
+      "count": 180
+    },
+    {
+      "price": 1500,
+      "count": 197
+    },
+    {
+      "price": 2000,
+      "count": 114
+    },
+    {
+      "price": 2500,
+      "count": 45
+    },
+    {
+      "price": 3000,
+      "count": 19
+    },
+    {
+      "price": 3500,
+      "count": 2
+    },
+    {
+      "price": 4000,
+      "count": 2
+    },
+    {
+      "price": 4500,
+      "count": 1
+    },
+    {
+      "price": 5000,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "freshness_signal",
+      "text": "36 nowych ofert w Oświęcimiu w ostatnich 7 dniach — 22% mniej niż średnia 4-tygodniowa.",
+      "magnitude": 21.73913043478261,
+      "evidence": {
+        "last_7d_new": 36,
+        "trailing_28d_new": 184,
+        "weekly_avg_28d": 46.0,
+        "delta_pct": -21.74
+      }
+    },
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Oświęcimiu kawalerki to 29% aktywnych ofert — 6,9 pp. więcej niż średnia kraju (22%).",
+      "magnitude": 6.915396896754938,
+      "evidence": {
+        "city_studio_pct": 28.82,
+        "national_studio_pct": 21.9,
+        "delta_pp": 6.92,
+        "city_studio_count": 168,
+        "city_total": 583
+      }
+    }
+  ],
+  "generated_month": "2026-08"
+}

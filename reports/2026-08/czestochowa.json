@@ -1,0 +1,136 @@
+{
+  "city_slug": "czestochowa",
+  "generated_at": "2026-09-01T03:00:16.591711+02:00",
+  "data_as_of": "2026-09-01T02:29:11.880085+02:00",
+  "overview": {
+    "total_offers": 1193,
+    "avg_price": 1780,
+    "median_price": 1600,
+    "min_price": 500,
+    "max_price": 6000,
+    "avg_price_per_m2": 42,
+    "avg_area": 46
+  },
+  "districts": [],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 279,
+      "avg_price": 1384,
+      "median_price": 1300,
+      "avg_area": 30,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 2,
+      "offer_count": 650,
+      "avg_price": 1764,
+      "median_price": 1700,
+      "avg_area": 45,
+      "price_per_m2": 40
+    },
+    {
+      "rooms": 3,
+      "offer_count": 183,
+      "avg_price": 2482,
+      "median_price": 2500,
+      "avg_area": 63,
+      "price_per_m2": 42
+    },
+    {
+      "rooms": 4,
+      "offer_count": 38,
+      "avg_price": 2201,
+      "median_price": 1750,
+      "avg_area": 90,
+      "price_per_m2": 31
+    },
+    {
+      "rooms": 5,
+      "offer_count": 9,
+      "avg_price": 1687,
+      "median_price": 1000,
+      "avg_area": 102,
+      "price_per_m2": 27
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 655,
+      "pct": 54.9
+    },
+    {
+      "source": "otodom",
+      "offer_count": 288,
+      "pct": 24.1
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 149,
+      "pct": 12.5
+    },
+    {
+      "source": "morizon",
+      "offer_count": 61,
+      "pct": 5.1
+    },
+    {
+      "source": "gratka",
+      "offer_count": 40,
+      "pct": 3.4
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 84
+    },
+    {
+      "price": 1000,
+      "count": 340
+    },
+    {
+      "price": 1500,
+      "count": 386
+    },
+    {
+      "price": 2000,
+      "count": 203
+    },
+    {
+      "price": 2500,
+      "count": 90
+    },
+    {
+      "price": 3000,
+      "count": 44
+    },
+    {
+      "price": 3500,
+      "count": 30
+    },
+    {
+      "price": 4000,
+      "count": 8
+    },
+    {
+      "price": 4500,
+      "count": 5
+    },
+    {
+      "price": 5000,
+      "count": 1
+    },
+    {
+      "price": 5500,
+      "count": 1
+    },
+    {
+      "price": 6000,
+      "count": 1
+    }
+  ],
+  "insights": [],
+  "generated_month": "2026-08"
+}

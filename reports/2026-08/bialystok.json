@@ -1,0 +1,311 @@
+{
+  "city_slug": "bialystok",
+  "generated_at": "2026-09-01T03:00:16.591700+02:00",
+  "data_as_of": "2026-09-01T01:29:36.495608+02:00",
+  "overview": {
+    "total_offers": 2607,
+    "avg_price": 1806,
+    "median_price": 1800,
+    "min_price": 500,
+    "max_price": 7800,
+    "avg_price_per_m2": 49,
+    "avg_area": 43
+  },
+  "districts": [
+    {
+      "name": "Przydworcowe",
+      "offer_count": 105,
+      "avg_price": 2250,
+      "min_price": 600,
+      "max_price": 5500
+    },
+    {
+      "name": "Białostoczek",
+      "offer_count": 73,
+      "avg_price": 2224,
+      "min_price": 650,
+      "max_price": 4500
+    },
+    {
+      "name": "Bojary",
+      "offer_count": 150,
+      "avg_price": 2190,
+      "min_price": 900,
+      "max_price": 4300
+    },
+    {
+      "name": "Sienkiewicza",
+      "offer_count": 138,
+      "avg_price": 2122,
+      "min_price": 700,
+      "max_price": 6900
+    },
+    {
+      "name": "Skorupy",
+      "offer_count": 35,
+      "avg_price": 2114,
+      "min_price": 1000,
+      "max_price": 3700
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 97,
+      "avg_price": 2079,
+      "min_price": 600,
+      "max_price": 3500
+    },
+    {
+      "name": "Leśna Dolina",
+      "offer_count": 30,
+      "avg_price": 2066,
+      "min_price": 850,
+      "max_price": 3190
+    },
+    {
+      "name": "Wygoda",
+      "offer_count": 50,
+      "avg_price": 2020,
+      "min_price": 950,
+      "max_price": 3300
+    },
+    {
+      "name": "Wysoki Stoczek",
+      "offer_count": 58,
+      "avg_price": 2011,
+      "min_price": 950,
+      "max_price": 3500
+    },
+    {
+      "name": "Centrum",
+      "offer_count": 344,
+      "avg_price": 1984,
+      "min_price": 600,
+      "max_price": 7800
+    },
+    {
+      "name": "Dojlidy",
+      "offer_count": 22,
+      "avg_price": 1968,
+      "min_price": 1150,
+      "max_price": 3300
+    },
+    {
+      "name": "Kawaleryjskie",
+      "offer_count": 62,
+      "avg_price": 1962,
+      "min_price": 700,
+      "max_price": 3600
+    },
+    {
+      "name": "Bacieczki",
+      "offer_count": 37,
+      "avg_price": 1953,
+      "min_price": 600,
+      "max_price": 3500
+    },
+    {
+      "name": "Mickiewicza",
+      "offer_count": 103,
+      "avg_price": 1946,
+      "min_price": 600,
+      "max_price": 5500
+    },
+    {
+      "name": "Nowe Miasto",
+      "offer_count": 194,
+      "avg_price": 1943,
+      "min_price": 600,
+      "max_price": 4800
+    },
+    {
+      "name": "Piaski",
+      "offer_count": 154,
+      "avg_price": 1927,
+      "min_price": 600,
+      "max_price": 6500
+    },
+    {
+      "name": "Starosielce",
+      "offer_count": 10,
+      "avg_price": 1885,
+      "min_price": 1300,
+      "max_price": 3700
+    },
+    {
+      "name": "Zielone Wzgórza",
+      "offer_count": 30,
+      "avg_price": 1850,
+      "min_price": 800,
+      "max_price": 2500
+    },
+    {
+      "name": "Antoniuk",
+      "offer_count": 124,
+      "avg_price": 1839,
+      "min_price": 700,
+      "max_price": 3200
+    },
+    {
+      "name": "Młodych",
+      "offer_count": 33,
+      "avg_price": 1837,
+      "min_price": 700,
+      "max_price": 2800
+    },
+    {
+      "name": "Piasta",
+      "offer_count": 115,
+      "avg_price": 1794,
+      "min_price": 550,
+      "max_price": 3000
+    },
+    {
+      "name": "Dziesięciny",
+      "offer_count": 35,
+      "avg_price": 1778,
+      "min_price": 600,
+      "max_price": 3500
+    },
+    {
+      "name": "Słoneczny Stok",
+      "offer_count": 33,
+      "avg_price": 1773,
+      "min_price": 800,
+      "max_price": 2700
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 380,
+      "avg_price": 1586,
+      "median_price": 1600,
+      "avg_area": 28,
+      "price_per_m2": 62
+    },
+    {
+      "rooms": 2,
+      "offer_count": 1244,
+      "avg_price": 1910,
+      "median_price": 2000,
+      "avg_area": 41,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 3,
+      "offer_count": 667,
+      "avg_price": 2014,
+      "median_price": 2000,
+      "avg_area": 55,
+      "price_per_m2": 43
+    },
+    {
+      "rooms": 4,
+      "offer_count": 117,
+      "avg_price": 1669,
+      "median_price": 1000,
+      "avg_area": 70,
+      "price_per_m2": 40
+    },
+    {
+      "rooms": 5,
+      "offer_count": 18,
+      "avg_price": 1565,
+      "median_price": 900,
+      "avg_area": 62,
+      "price_per_m2": 50
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 1814,
+      "pct": 69.6
+    },
+    {
+      "source": "otodom",
+      "offer_count": 397,
+      "pct": 15.2
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 166,
+      "pct": 6.4
+    },
+    {
+      "source": "morizon",
+      "offer_count": 142,
+      "pct": 5.4
+    },
+    {
+      "source": "gratka",
+      "offer_count": 88,
+      "pct": 3.4
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 419
+    },
+    {
+      "price": 1000,
+      "count": 351
+    },
+    {
+      "price": 1500,
+      "count": 729
+    },
+    {
+      "price": 2000,
+      "count": 708
+    },
+    {
+      "price": 2500,
+      "count": 262
+    },
+    {
+      "price": 3000,
+      "count": 79
+    },
+    {
+      "price": 3500,
+      "count": 36
+    },
+    {
+      "price": 4000,
+      "count": 11
+    },
+    {
+      "price": 4500,
+      "count": 6
+    },
+    {
+      "price": 5500,
+      "count": 2
+    },
+    {
+      "price": 6500,
+      "count": 3
+    },
+    {
+      "price": 7500,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Białymstoku kawalerki to 16% aktywnych ofert — 6,2 pp. mniej niż średnia kraju (22%).",
+      "magnitude": 6.237425797357869,
+      "evidence": {
+        "city_studio_pct": 15.66,
+        "national_studio_pct": 21.9,
+        "delta_pp": -6.24,
+        "city_studio_count": 380,
+        "city_total": 2426
+      }
+    }
+  ],
+  "generated_month": "2026-08"
+}

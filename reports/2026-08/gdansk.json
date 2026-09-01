@@ -1,0 +1,356 @@
+{
+  "city_slug": "gdansk",
+  "generated_at": "2026-09-01T03:00:16.591712+02:00",
+  "data_as_of": "2026-09-01T02:59:14.866200+02:00",
+  "overview": {
+    "total_offers": 8244,
+    "avg_price": 2791,
+    "median_price": 2700,
+    "min_price": 555,
+    "max_price": 14760,
+    "avg_price_per_m2": 72,
+    "avg_area": 45
+  },
+  "districts": [
+    {
+      "name": "Letnica",
+      "offer_count": 285,
+      "avg_price": 3747,
+      "min_price": 750,
+      "max_price": 14760
+    },
+    {
+      "name": "Brzeźno",
+      "offer_count": 274,
+      "avg_price": 3325,
+      "min_price": 870,
+      "max_price": 13000
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 1102,
+      "avg_price": 3234,
+      "min_price": 600,
+      "max_price": 12500
+    },
+    {
+      "name": "Oliwa",
+      "offer_count": 277,
+      "avg_price": 3171,
+      "min_price": 890,
+      "max_price": 12300
+    },
+    {
+      "name": "Aniołki",
+      "offer_count": 197,
+      "avg_price": 3084,
+      "min_price": 700,
+      "max_price": 8000
+    },
+    {
+      "name": "Przymorze",
+      "offer_count": 930,
+      "avg_price": 3028,
+      "min_price": 555,
+      "max_price": 12000
+    },
+    {
+      "name": "Wrzeszcz",
+      "offer_count": 792,
+      "avg_price": 2993,
+      "min_price": 565,
+      "max_price": 11900
+    },
+    {
+      "name": "Strzyża",
+      "offer_count": 83,
+      "avg_price": 2975,
+      "min_price": 1200,
+      "max_price": 5400
+    },
+    {
+      "name": "Siedlce",
+      "offer_count": 84,
+      "avg_price": 2971,
+      "min_price": 800,
+      "max_price": 7500
+    },
+    {
+      "name": "Zaspa",
+      "offer_count": 234,
+      "avg_price": 2966,
+      "min_price": 800,
+      "max_price": 5600
+    },
+    {
+      "name": "Piecki-Migowo",
+      "offer_count": 341,
+      "avg_price": 2929,
+      "min_price": 690,
+      "max_price": 9000
+    },
+    {
+      "name": "Nowy Port",
+      "offer_count": 42,
+      "avg_price": 2847,
+      "min_price": 965,
+      "max_price": 9000
+    },
+    {
+      "name": "Jasień",
+      "offer_count": 384,
+      "avg_price": 2839,
+      "min_price": 700,
+      "max_price": 6000
+    },
+    {
+      "name": "Morena",
+      "offer_count": 63,
+      "avg_price": 2813,
+      "min_price": 750,
+      "max_price": 4500
+    },
+    {
+      "name": "Ujeścisko-Łostowice",
+      "offer_count": 369,
+      "avg_price": 2697,
+      "min_price": 600,
+      "max_price": 7000
+    },
+    {
+      "name": "Orunia Górna",
+      "offer_count": 227,
+      "avg_price": 2654,
+      "min_price": 850,
+      "max_price": 4500
+    },
+    {
+      "name": "Stogi",
+      "offer_count": 60,
+      "avg_price": 2648,
+      "min_price": 1300,
+      "max_price": 6350
+    },
+    {
+      "name": "Chełm",
+      "offer_count": 298,
+      "avg_price": 2632,
+      "min_price": 800,
+      "max_price": 6500
+    },
+    {
+      "name": "Żabianka",
+      "offer_count": 196,
+      "avg_price": 2605,
+      "min_price": 950,
+      "max_price": 5200
+    },
+    {
+      "name": "Suchanino",
+      "offer_count": 89,
+      "avg_price": 2580,
+      "min_price": 800,
+      "max_price": 4500
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 1665,
+      "avg_price": 2306,
+      "median_price": 2300,
+      "avg_area": 29,
+      "price_per_m2": 86
+    },
+    {
+      "rooms": 2,
+      "offer_count": 3675,
+      "avg_price": 2879,
+      "median_price": 2800,
+      "avg_area": 43,
+      "price_per_m2": 70
+    },
+    {
+      "rooms": 3,
+      "offer_count": 1757,
+      "avg_price": 3438,
+      "median_price": 3500,
+      "avg_area": 59,
+      "price_per_m2": 66
+    },
+    {
+      "rooms": 4,
+      "offer_count": 455,
+      "avg_price": 3510,
+      "median_price": 2700,
+      "avg_area": 71,
+      "price_per_m2": 68
+    },
+    {
+      "rooms": 5,
+      "offer_count": 112,
+      "avg_price": 1872,
+      "median_price": 1200,
+      "avg_area": 58,
+      "price_per_m2": 70
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 3657,
+      "pct": 44.4
+    },
+    {
+      "source": "otodom",
+      "offer_count": 1509,
+      "pct": 18.3
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 1256,
+      "pct": 15.2
+    },
+    {
+      "source": "gratka",
+      "offer_count": 628,
+      "pct": 7.6
+    },
+    {
+      "source": "morizon",
+      "offer_count": 530,
+      "pct": 6.4
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 354,
+      "pct": 4.3
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 305,
+      "pct": 3.7
+    },
+    {
+      "source": "krn",
+      "offer_count": 5,
+      "pct": 0.1
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 277
+    },
+    {
+      "price": 1000,
+      "count": 1001
+    },
+    {
+      "price": 1500,
+      "count": 554
+    },
+    {
+      "price": 2000,
+      "count": 1212
+    },
+    {
+      "price": 2500,
+      "count": 2058
+    },
+    {
+      "price": 3000,
+      "count": 1331
+    },
+    {
+      "price": 3500,
+      "count": 806
+    },
+    {
+      "price": 4000,
+      "count": 362
+    },
+    {
+      "price": 4500,
+      "count": 257
+    },
+    {
+      "price": 5000,
+      "count": 103
+    },
+    {
+      "price": 5500,
+      "count": 90
+    },
+    {
+      "price": 6000,
+      "count": 42
+    },
+    {
+      "price": 6500,
+      "count": 36
+    },
+    {
+      "price": 7000,
+      "count": 19
+    },
+    {
+      "price": 7500,
+      "count": 18
+    },
+    {
+      "price": 8000,
+      "count": 19
+    },
+    {
+      "price": 8500,
+      "count": 12
+    },
+    {
+      "price": 9000,
+      "count": 12
+    },
+    {
+      "price": 9500,
+      "count": 12
+    },
+    {
+      "price": 10000,
+      "count": 5
+    },
+    {
+      "price": 10500,
+      "count": 2
+    },
+    {
+      "price": 11000,
+      "count": 1
+    },
+    {
+      "price": 11500,
+      "count": 1
+    },
+    {
+      "price": 12000,
+      "count": 5
+    },
+    {
+      "price": 12500,
+      "count": 4
+    },
+    {
+      "price": 13000,
+      "count": 3
+    },
+    {
+      "price": 13500,
+      "count": 1
+    },
+    {
+      "price": 14500,
+      "count": 1
+    }
+  ],
+  "insights": [],
+  "generated_month": "2026-08"
+}

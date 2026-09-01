@@ -1,0 +1,333 @@
+{
+  "city_slug": "lublin",
+  "generated_at": "2026-09-01T03:00:16.591720+02:00",
+  "data_as_of": "2026-09-01T02:59:14.105406+02:00",
+  "overview": {
+    "total_offers": 5016,
+    "avg_price": 1946,
+    "median_price": 2000,
+    "min_price": 500,
+    "max_price": 14500,
+    "avg_price_per_m2": 58,
+    "avg_area": 44
+  },
+  "districts": [
+    {
+      "name": "Stare Miasto",
+      "offer_count": 137,
+      "avg_price": 2539,
+      "min_price": 690,
+      "max_price": 8500
+    },
+    {
+      "name": "Sławin",
+      "offer_count": 85,
+      "avg_price": 2524,
+      "min_price": 600,
+      "max_price": 6000
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 449,
+      "avg_price": 2519,
+      "min_price": 600,
+      "max_price": 8000
+    },
+    {
+      "name": "Węglin Południowy",
+      "offer_count": 121,
+      "avg_price": 2512,
+      "min_price": 680,
+      "max_price": 4500
+    },
+    {
+      "name": "Czechów Południowy",
+      "offer_count": 192,
+      "avg_price": 2480,
+      "min_price": 600,
+      "max_price": 5000
+    },
+    {
+      "name": "Ponikwoda",
+      "offer_count": 95,
+      "avg_price": 2413,
+      "min_price": 695,
+      "max_price": 5000
+    },
+    {
+      "name": "Wieniawa",
+      "offer_count": 246,
+      "avg_price": 2368,
+      "min_price": 650,
+      "max_price": 6000
+    },
+    {
+      "name": "Węglin Północny",
+      "offer_count": 12,
+      "avg_price": 2366,
+      "min_price": 1100,
+      "max_price": 3000
+    },
+    {
+      "name": "Czechów Północny",
+      "offer_count": 96,
+      "avg_price": 2348,
+      "min_price": 750,
+      "max_price": 5500
+    },
+    {
+      "name": "Bronowice",
+      "offer_count": 93,
+      "avg_price": 2343,
+      "min_price": 710,
+      "max_price": 6500
+    },
+    {
+      "name": "Felin",
+      "offer_count": 35,
+      "avg_price": 2337,
+      "min_price": 800,
+      "max_price": 3600
+    },
+    {
+      "name": "Za Cukrownią",
+      "offer_count": 29,
+      "avg_price": 2310,
+      "min_price": 700,
+      "max_price": 9000
+    },
+    {
+      "name": "Wrotków",
+      "offer_count": 102,
+      "avg_price": 2266,
+      "min_price": 700,
+      "max_price": 3999
+    },
+    {
+      "name": "Sławinek",
+      "offer_count": 73,
+      "avg_price": 2248,
+      "min_price": 700,
+      "max_price": 5900
+    },
+    {
+      "name": "Czuby Północne",
+      "offer_count": 98,
+      "avg_price": 2232,
+      "min_price": 750,
+      "max_price": 4599
+    },
+    {
+      "name": "Szerokie",
+      "offer_count": 14,
+      "avg_price": 2228,
+      "min_price": 1400,
+      "max_price": 3000
+    },
+    {
+      "name": "Rury",
+      "offer_count": 220,
+      "avg_price": 2224,
+      "min_price": 600,
+      "max_price": 6000
+    },
+    {
+      "name": "Kośminek",
+      "offer_count": 62,
+      "avg_price": 2194,
+      "min_price": 600,
+      "max_price": 3500
+    },
+    {
+      "name": "Dziesiąta",
+      "offer_count": 98,
+      "avg_price": 2178,
+      "min_price": 700,
+      "max_price": 5000
+    },
+    {
+      "name": "Konstantynów",
+      "offer_count": 54,
+      "avg_price": 2177,
+      "min_price": 750,
+      "max_price": 5000
+    },
+    {
+      "name": "Czuby Południowe",
+      "offer_count": 66,
+      "avg_price": 2166,
+      "min_price": 700,
+      "max_price": 3700
+    },
+    {
+      "name": "LSM",
+      "offer_count": 223,
+      "avg_price": 2090,
+      "min_price": 610,
+      "max_price": 4300
+    },
+    {
+      "name": "Kalinowszczyzna",
+      "offer_count": 81,
+      "avg_price": 1992,
+      "min_price": 600,
+      "max_price": 3700
+    },
+    {
+      "name": "Tatary",
+      "offer_count": 26,
+      "avg_price": 1884,
+      "min_price": 950,
+      "max_price": 3200
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 823,
+      "avg_price": 1891,
+      "median_price": 1950,
+      "avg_area": 29,
+      "price_per_m2": 71
+    },
+    {
+      "rooms": 2,
+      "offer_count": 1956,
+      "avg_price": 2217,
+      "median_price": 2300,
+      "avg_area": 43,
+      "price_per_m2": 57
+    },
+    {
+      "rooms": 3,
+      "offer_count": 1267,
+      "avg_price": 2064,
+      "median_price": 2000,
+      "avg_area": 54,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 4,
+      "offer_count": 368,
+      "avg_price": 1779,
+      "median_price": 1100,
+      "avg_area": 60,
+      "price_per_m2": 50
+    },
+    {
+      "rooms": 5,
+      "offer_count": 65,
+      "avg_price": 1160,
+      "median_price": 950,
+      "avg_area": 36,
+      "price_per_m2": 69
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 3596,
+      "pct": 71.7
+    },
+    {
+      "source": "otodom",
+      "offer_count": 757,
+      "pct": 15.1
+    },
+    {
+      "source": "gratka",
+      "offer_count": 275,
+      "pct": 5.5
+    },
+    {
+      "source": "morizon",
+      "offer_count": 236,
+      "pct": 4.7
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 152,
+      "pct": 3.0
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 971
+    },
+    {
+      "price": 1000,
+      "count": 826
+    },
+    {
+      "price": 1500,
+      "count": 652
+    },
+    {
+      "price": 2000,
+      "count": 1068
+    },
+    {
+      "price": 2500,
+      "count": 896
+    },
+    {
+      "price": 3000,
+      "count": 359
+    },
+    {
+      "price": 3500,
+      "count": 141
+    },
+    {
+      "price": 4000,
+      "count": 35
+    },
+    {
+      "price": 4500,
+      "count": 33
+    },
+    {
+      "price": 5000,
+      "count": 11
+    },
+    {
+      "price": 5500,
+      "count": 8
+    },
+    {
+      "price": 6000,
+      "count": 7
+    },
+    {
+      "price": 6500,
+      "count": 1
+    },
+    {
+      "price": 7500,
+      "count": 2
+    },
+    {
+      "price": 8000,
+      "count": 1
+    },
+    {
+      "price": 8500,
+      "count": 2
+    },
+    {
+      "price": 9000,
+      "count": 1
+    },
+    {
+      "price": 11500,
+      "count": 1
+    },
+    {
+      "price": 14500,
+      "count": 1
+    }
+  ],
+  "insights": [],
+  "generated_month": "2026-08"
+}

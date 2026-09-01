@@ -1,0 +1,133 @@
+{
+  "city_slug": "sosnowiec",
+  "generated_at": "2026-09-01T03:00:16.591726+02:00",
+  "data_as_of": "2026-09-01T02:39:43.123258+02:00",
+  "overview": {
+    "total_offers": 831,
+    "avg_price": 1692,
+    "median_price": 1600,
+    "min_price": 500,
+    "max_price": 12000,
+    "avg_price_per_m2": 46,
+    "avg_area": 41
+  },
+  "districts": [],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 252,
+      "avg_price": 1428,
+      "median_price": 1400,
+      "avg_area": 29,
+      "price_per_m2": 52
+    },
+    {
+      "rooms": 2,
+      "offer_count": 400,
+      "avg_price": 1830,
+      "median_price": 1800,
+      "avg_area": 42,
+      "price_per_m2": 45
+    },
+    {
+      "rooms": 3,
+      "offer_count": 128,
+      "avg_price": 1932,
+      "median_price": 1800,
+      "avg_area": 58,
+      "price_per_m2": 39
+    },
+    {
+      "rooms": 4,
+      "offer_count": 23,
+      "avg_price": 1741,
+      "median_price": 1500,
+      "avg_area": 69,
+      "price_per_m2": 37
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 492,
+      "pct": 59.2
+    },
+    {
+      "source": "otodom",
+      "offer_count": 166,
+      "pct": 20.0
+    },
+    {
+      "source": "gratka",
+      "offer_count": 90,
+      "pct": 10.8
+    },
+    {
+      "source": "morizon",
+      "offer_count": 45,
+      "pct": 5.4
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 38,
+      "pct": 4.6
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 78
+    },
+    {
+      "price": 1000,
+      "count": 216
+    },
+    {
+      "price": 1500,
+      "count": 319
+    },
+    {
+      "price": 2000,
+      "count": 134
+    },
+    {
+      "price": 2500,
+      "count": 58
+    },
+    {
+      "price": 3000,
+      "count": 16
+    },
+    {
+      "price": 3500,
+      "count": 6
+    },
+    {
+      "price": 4000,
+      "count": 2
+    },
+    {
+      "price": 6000,
+      "count": 1
+    },
+    {
+      "price": 12000,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Sosnowcu kawalerki to 31% aktywnych ofert — 9,5 pp. więcej niż średnia kraju (22%).",
+      "magnitude": 9.481246658262489,
+      "evidence": {
+        "city_studio_pct": 31.38,
+        "national_studio_pct": 21.9,
+        "delta_pp": 9.48,
+        "city_studio_count": 252,
+        "city_total": 803
+      }
+    }
+  ],
+  "generated_month": "2026-08"
+}
