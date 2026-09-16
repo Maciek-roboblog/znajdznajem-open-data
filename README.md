@@ -1,7 +1,7 @@
 # znajdznajem-open-data
 
 **Open data rental market snapshots for Poland.**  
-Published weekly from 10 major rental portals by [znajdznajem.pl](https://znajdznajem.pl). 21 cities.
+Published weekly from 10 monitored rental sources and channels by [znajdznajem.pl](https://znajdznajem.pl). 21 cities.
 
 Released under MIT license — free to cite, fork, embed, analyze.
 
