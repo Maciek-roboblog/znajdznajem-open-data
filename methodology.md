@@ -2,8 +2,8 @@
 
 ## Sources
 
-ZnajdzNajem aggregates rental listings from 10 Polish real estate portals.
-The exact list is in [src/constants/sources.js](https://github.com/Maciek-roboblog/znajdz/blob/main/app/frontend/src/constants/sources.js).
+ZnajdzNajem aggregates rental listings from 10 monitored Polish sources and channels, including real estate portals and Facebook channels.
+The exact list is in [src/constants/sources.js](https://github.com/Maciek-roboblog/znajdznajem/blob/main/app/frontend/src/constants/sources.js).
 
 ## What is an "active offer"
 
