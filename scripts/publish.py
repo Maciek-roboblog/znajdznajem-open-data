@@ -38,6 +38,7 @@ CSV_FIELDS = [
     "date", "city_slug", "city_name", "landing_url", "new_offers_url", "students_url", "rooms_url",
     "active_offers", "median_price", "avg_price_per_m2", "avg_price", "cheapest_district",
     "expensive_district", "top_source", "top_price_range", "new_offers_last_day", "new_offers_last_7d",
+    "definition_version", "definition_sha256", "definition_json",
 ]
 
 
@@ -119,12 +120,23 @@ def commit(msg: str, when: datetime, dry_run: bool) -> None:
 
 # ---------------------------------------------------------------- weekly
 
+
+def report_definition(report: dict) -> dict:
+    # Only the rules pinned to these numbers are valid. Never fetch the current
+    # /stats/definitions to fill an older snapshot's missing provenance.
+    return report.get("definition") or {
+        "status": "unknown", "version": None, "sha256": None, "content": None,
+    }
+
+
 def city_row(run_date: date, city: dict) -> tuple[dict | None, dict | None]:
     slug = city["slug"]
     report = get("/stats/report", city=slug)
     dynamics = get("/stats/market/dynamics", city=slug) or {}
     if not report:
         return None, None
+    report = {**report, "definition": report_definition(report)}
+    definition = report["definition"]
     ov = report.get("overview") or {}
     daily = dynamics.get("daily_new_offers") or []
     cheap, expensive = cheapest_expensive(report.get("districts") or [])
@@ -137,6 +149,9 @@ def city_row(run_date: date, city: dict) -> tuple[dict | None, dict | None]:
         "new_offers_url": f"{SITE}/{slug}/nowe-oferty",
         "students_url": f"{SITE}/{slug}/dla-studentow",
         "rooms_url": f"{SITE}/{slug}/pokoje",
+        "definition_version": definition.get("version"),
+        "definition_sha256": definition.get("sha256"),
+        "definition_json": json.dumps(definition, ensure_ascii=False, sort_keys=True, separators=(",", ":")),
         "active_offers": int(ov.get("total_offers") or 0),
         "median_price": int(ov.get("median_price") or 0),
         "avg_price_per_m2": int(ov.get("avg_price_per_m2") or 0),
@@ -190,6 +205,7 @@ def render_report(month: str, city: dict, r: dict) -> str:
     label = f"{MONTHS_PL[int(mo)]} {yr}"
     name, slug = city["name"], city["slug"]
     ov = r.get("overview") or {}
+    definition = report_definition(r)
     districts = sorted([d for d in (r.get("districts") or []) if d.get("avg_price")], key=lambda d: d["avg_price"])
     cheap, expensive = cheapest_expensive(districts)
     sources = r.get("sources") or []
@@ -198,7 +214,7 @@ def render_report(month: str, city: dict, r: dict) -> str:
     parts = [
         f"# Rynek wynajmu: {name} — raport {label}",
         "",
-        "> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować",
+        "> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować",
         "",
         "## Headlines (tweetable)",
         "",
@@ -243,9 +259,11 @@ def render_report(month: str, city: dict, r: dict) -> str:
         "",
         "## Metodologia",
         "",
-        "Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. "
-        "Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: "
-        f"<{PUBLIC_API}/stats/definitions> · [methodology.md](../../methodology.md)",
+        "Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. "
+        "Ceny to ceny ofertowe (asking), nie transakcyjne.",
+        f"Wersja definicji: {definition.get('version') or 'nieznana'}. "
+        + (f"SHA256: `{definition['sha256']}`. Treść definicji jest zapisana w JSON tego raportu." if definition.get('status') == 'known' else "Archiwum nie zapisało zasad obliczenia; nie przypisujemy mu dzisiejszej definicji."),
+        f"Bieżące zasady (nie zastępują definicji archiwum): <{PUBLIC_API}/stats/definitions> · [methodology.md](../../methodology.md)",
         "",
         "## Dane źródłowe",
         "",
@@ -283,6 +301,7 @@ def monthly(cities: list[dict], dry_run: bool) -> None:
             r = get("/stats/report/archive", city=city["slug"], month=month)
             if not r:
                 continue
+            r = {**r, "definition": report_definition(r)}
             write(out / f"{city['slug']}.md", render_report(month, city, r))
             write_json(out / f"{city['slug']}.json", r)
             done.append((city, r))
@@ -292,7 +311,7 @@ def monthly(cities: list[dict], dry_run: bool) -> None:
         write(out / "README.md", "\n".join([
             f"# Rynek wynajmu w Polsce — raport {label}",
             "",
-            "> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować",
+            "> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować",
             "",
             f"## Miasta w tym raporcie ({len(done)})",
             "",

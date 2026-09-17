@@ -3,13 +3,13 @@
 ## Sources
 
 ZnajdzNajem aggregates rental listings from 10 monitored Polish sources and channels, including real estate portals and Facebook channels.
-The exact list is in [src/constants/sources.js](https://github.com/Maciek-roboblog/znajdznajem/blob/main/app/frontend/src/constants/sources.js).
+The exact list is in [public sources and definitions](https://znajdznajem.pl/metodologia#aktywne-zrodlo).
 
 ## What is an "active offer"
 
 Live report counts use the app's public active-offer filter: active rental listings that have not been deactivated and pass its visibility and data-quality checks, including duplicate exclusions. There is no general "discovered in the last 60 days" rule. Reports also apply the analysis price range described by `price_sample` in the JSON payload when present.
 
-The current definition lives in `app/src/mieszkania/services/stats_definitions.py` and the public endpoint `/api/v1/stats/definitions`. Older archived snapshots reflect the rules used when they were generated; they are not recalculated by this publisher.
+The current definition is available at the public endpoint [stats/definitions](https://znajdznajem.pl/api/v1/stats/definitions). Older archived snapshots reflect the rules used when they were generated; they are not recalculated by this publisher.
 
 ## Update cadence
 
@@ -30,10 +30,16 @@ The current definition lives in `app/src/mieszkania/services/stats_definitions.p
 Offers appearing on multiple portals are deduplicated by:
 - perceptual image hash (pHash distance ≤ 6)
 - normalized address + price + area match
-Counted once in `active_offers`.
+Recognized duplicates are excluded from `active_offers`; missed duplicates can remain.
 
 ## Caveats
 
 - Supply-side data only: we don't track actual rent agreements signed.
 - Sample skews toward portals that allow scraping (excludes private/closed listings).
 - Price is asking price, not transaction price.
+
+## Definition provenance
+
+New report JSON contains a `definition` object with `status`, `version`, `sha256` and the full `content` used when computing that report. The digest is SHA256 of UTF-8 JSON for `content`, with sorted keys, no extra whitespace and unescaped Unicode. Weekly CSV and per-city summary JSON carry `definition_version`, `definition_sha256` and the complete object serialized as `definition_json`; raw report JSON retains the original object.
+
+The publisher copies the definition from the fetched report. It never fills an old report from today's definitions endpoint. Missing historical definitions are explicitly `unknown`, with null version, hash and content. Already published directories are not rewritten, so old files may have no provenance fields at all. An archive month labels its saved snapshot, not the methodology version.
