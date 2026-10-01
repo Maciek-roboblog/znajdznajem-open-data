@@ -1,0 +1,371 @@
+{
+  "city_slug": "lublin",
+  "generated_at": "2026-09-19T23:37:00.771069+02:00",
+  "observation_mode": "snapshot",
+  "data_as_of_basis": "latest_source_change",
+  "data_as_of": "2026-09-19T22:02:20.625206+02:00",
+  "price_sample": {
+    "scope": "price_analysis_band",
+    "min_price": 500,
+    "max_price": 15000
+  },
+  "definition": {
+    "status": "known",
+    "version": "2026-09-18.1",
+    "sha256": "c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2",
+    "content": {
+      "active_offer": "Aktywna oferta to ogłoszenie najmu, które nadal spełnia warunki widoczności publicznej: ma flagę is_active=True, nie ma daty dezaktywacji (deactivated_at IS NULL), dotyczy najmu, ma co najmniej jedno zdjęcie i wiarygodną cenę miesięczną. Odrzucamy duplikaty, sprzedaż, podejrzane ceny, oszustwa, błędne przypisanie do miasta oraz rekordy spoza podaży: ogłoszenia popytowe, lokale niemieszkalne (biura, garaże), hostele, kwatery pracownicze i prywatne akademiki. Bieżący licznik aktywnych ofert, mediany cen i widoki aktualnej podaży korzystają z pełnego filtra. Historyczne szeregi napływu i archiwum zachowują także później wygasłe ogłoszenia; wykluczają ceny oznaczone jako podejrzane i rozpoznane lokale niemieszkalne, ale nie stosują wstecz wszystkich dzisiejszych kryteriów widoczności. Gdy źródło przestaje pokazywać ogłoszenie, właściciel je zamyka albo kolejny skan potwierdza brak oferty, wpis jest dezaktywowany i przestaje wpływać na statystyki aktywnego rynku. Aktywność nie jest jednak gwarancją, że właściciel odpowie, że cena nie zmieni się po kontakcie albo że portal nie usunie ogłoszenia chwilę później. To definicja liczenia danych, a nie obietnica dostępności konkretnego lokalu. Oferta wygasła może pozostać widoczna historycznie, ale nie zwiększa już aktywnej podaży.",
+      "report_statistics": "Raport cen jest odczytem próby aktywnych publicznych ofert najmu w chwili generowania, po wykluczeniu rozpoznanych duplikatów i z zakresem czynszu wskazanym w raporcie (obecnie 500–15 000 zł). Nie jest losową próbą całego rynku. Mediana miasta dotyczy cen jego ofert. Krajowa średnia median miejskich to suma median miast pomnożonych przez liczbę ofert miasta, podzielona przez sumę tych liczebności; nie jest medianą wszystkich ofert. Krajowa cena za m² to nieważona średnia miejskich średnich: każde uwzględnione miasto ma taką samą wagę. W mieście liczymy średnią z ilorazów czynszu i dodatniej powierzchni; oferty bez powierzchni nie wchodzą do tego wskaźnika, ale mogą wchodzić do liczebności i mediany. Wskaźniki miast publikujemy od 10 ofert. Miesiąc archiwum jest etykietą zapisanego odczytu, nie pełnym okresem obserwacji ani średnią miesięczną. Data generowania oznacza zapis próby, a najnowsza zmiana źródłowa nie potwierdza świeżości wszystkich ofert.",
+      "active_source": "Liczba źródeł oznacza liczbę źródeł ogłoszeniowych, które są włączone w produkcyjnym monitoringu i mogą zasilać publiczne dane Znajdź Najem. Liczymy portale i nazwane kanały źródłowe, a nie zadania techniczne, subdomenę, miasto ani typ zapytania. OLX to jedno źródło, Otodom to jedno źródło, Gratka, Morizon, KRN, Adresowo i Nieruchomości-Online liczą się osobno, a Facebook Groups i Facebook Marketplace liczymy jako dwa kanały tej samej platformy. Taka definicja zapobiega zawyżaniu trust-bara przez równoległe zadania, retry albo osobne kolejki dla tego samego portalu. Portal może być wliczony do zestawu źródeł nawet wtedy, gdy w danym mieście chwilowo nie zwrócił nowych ofert; odrębne raporty operacyjne pokazują ostatni scrape, błędy i liczbę pobranych ogłoszeń. Dla użytkownika ta liczba mówi, ile niezależnych miejsc rynku monitorujemy, a nie ile ogłoszeń pochodzi z każdego z nich. Nazwy źródeł są normalizowane, żeby ten sam portal nie występował pod kilkoma technicznymi etykietami.",
+      "new_last_7_days": "Nowa oferta w ostatnich 7 dniach to ogłoszenie, którego pierwsze pojawienie się w naszym systemie mieści się w rolującym oknie siedmiu dób liczonym od momentu generowania statystyki. Technicznie używamy daty pierwszego skanu (first_seen_at), a nie daty deklarowanej przez portal. Etykiety „Nowa oferta 7d” oraz „+X w ostatnich 7 dniach” odnoszą się do tego okna; populację bieżącą lub historyczną wskazuje dany widok. Jeśli ogłoszenie było widziane wcześniej, a potem zostało wznowione albo zmieniło cenę, nie staje się automatycznie nową ofertą; traktujemy je jako aktualizację istniejącego wpisu, o ile deduplikacja rozpozna ten sam lokal. Bieżący licznik świeżej podaży obejmuje wyłącznie oferty nadal przechodzące pełny filtr publiczny. Wykresy historycznego napływu i prędkości zachowują również oferty, które później wygasły; wykluczają ceny oznaczone jako podejrzane i rekordy spoza podaży mieszkaniowej, lecz nie stosują wszystkich filtrów bieżącego widoku. Dlatego wariant bieżący i historyczny mogą mieć różne wartości. Strony /nowe-oferty pokazują węższe okno ostatnich 48 godzin od pierwszego wykrycia; przy braku wyników mogą pokazać osobno oznaczoną listę z 7 dni.",
+      "price_sample": {
+        "scope": "price_analysis_band",
+        "min_price": 500,
+        "max_price": 15000
+      },
+      "offer_types": "All public rental housing types, including rooms and studios.",
+      "deduplication": "Recognized duplicates are excluded; undetected duplicates may remain."
+    }
+  },
+  "overview": {
+    "total_offers": 5598,
+    "avg_price": 1889,
+    "median_price": 1900,
+    "min_price": 500,
+    "max_price": 14500,
+    "avg_price_per_m2": 57,
+    "avg_area": 43
+  },
+  "districts": [
+    {
+      "name": "Sławin",
+      "offer_count": 85,
+      "avg_price": 2554,
+      "min_price": 600,
+      "max_price": 6000
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 402,
+      "avg_price": 2522,
+      "min_price": 650,
+      "max_price": 9000
+    },
+    {
+      "name": "Za Cukrownią",
+      "offer_count": 24,
+      "avg_price": 2452,
+      "min_price": 800,
+      "max_price": 9000
+    },
+    {
+      "name": "Węglin Południowy",
+      "offer_count": 109,
+      "avg_price": 2449,
+      "min_price": 900,
+      "max_price": 3750
+    },
+    {
+      "name": "Stare Miasto",
+      "offer_count": 121,
+      "avg_price": 2420,
+      "min_price": 690,
+      "max_price": 8500
+    },
+    {
+      "name": "Czechów Południowy",
+      "offer_count": 183,
+      "avg_price": 2379,
+      "min_price": 600,
+      "max_price": 5000
+    },
+    {
+      "name": "Ponikwoda",
+      "offer_count": 98,
+      "avg_price": 2363,
+      "min_price": 700,
+      "max_price": 5000
+    },
+    {
+      "name": "Wieniawa",
+      "offer_count": 239,
+      "avg_price": 2360,
+      "min_price": 650,
+      "max_price": 7900
+    },
+    {
+      "name": "Felin",
+      "offer_count": 35,
+      "avg_price": 2345,
+      "min_price": 800,
+      "max_price": 3000
+    },
+    {
+      "name": "Konstantynów",
+      "offer_count": 56,
+      "avg_price": 2344,
+      "min_price": 750,
+      "max_price": 6000
+    },
+    {
+      "name": "Czechów Północny",
+      "offer_count": 89,
+      "avg_price": 2303,
+      "min_price": 750,
+      "max_price": 5500
+    },
+    {
+      "name": "Sławinek",
+      "offer_count": 73,
+      "avg_price": 2289,
+      "min_price": 600,
+      "max_price": 5900
+    },
+    {
+      "name": "Węglin Północny",
+      "offer_count": 12,
+      "avg_price": 2279,
+      "min_price": 700,
+      "max_price": 3300
+    },
+    {
+      "name": "Czuby Północne",
+      "offer_count": 97,
+      "avg_price": 2274,
+      "min_price": 850,
+      "max_price": 4200
+    },
+    {
+      "name": "Wrotków",
+      "offer_count": 88,
+      "avg_price": 2267,
+      "min_price": 800,
+      "max_price": 3800
+    },
+    {
+      "name": "Kośminek",
+      "offer_count": 61,
+      "avg_price": 2224,
+      "min_price": 700,
+      "max_price": 3500
+    },
+    {
+      "name": "Czuby Południowe",
+      "offer_count": 60,
+      "avg_price": 2201,
+      "min_price": 1200,
+      "max_price": 3700
+    },
+    {
+      "name": "Dziesiąta",
+      "offer_count": 92,
+      "avg_price": 2178,
+      "min_price": 700,
+      "max_price": 5000
+    },
+    {
+      "name": "Szerokie",
+      "offer_count": 13,
+      "avg_price": 2169,
+      "min_price": 1400,
+      "max_price": 2600
+    },
+    {
+      "name": "Rury",
+      "offer_count": 212,
+      "avg_price": 2159,
+      "min_price": 600,
+      "max_price": 4500
+    },
+    {
+      "name": "Bronowice",
+      "offer_count": 87,
+      "avg_price": 2117,
+      "min_price": 710,
+      "max_price": 4500
+    },
+    {
+      "name": "LSM",
+      "offer_count": 249,
+      "avg_price": 2075,
+      "min_price": 600,
+      "max_price": 4300
+    },
+    {
+      "name": "Kalinowszczyzna",
+      "offer_count": 95,
+      "avg_price": 2056,
+      "min_price": 600,
+      "max_price": 4499
+    },
+    {
+      "name": "Tatary",
+      "offer_count": 21,
+      "avg_price": 1857,
+      "min_price": 1300,
+      "max_price": 2650
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 935,
+      "avg_price": 1890,
+      "median_price": 1950,
+      "avg_area": 29,
+      "price_per_m2": 71
+    },
+    {
+      "rooms": 2,
+      "offer_count": 2137,
+      "avg_price": 2172,
+      "median_price": 2299,
+      "avg_area": 43,
+      "price_per_m2": 57
+    },
+    {
+      "rooms": 3,
+      "offer_count": 1405,
+      "avg_price": 1982,
+      "median_price": 1900,
+      "avg_area": 54,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 4,
+      "offer_count": 397,
+      "avg_price": 1676,
+      "median_price": 1000,
+      "avg_area": 61,
+      "price_per_m2": 49
+    },
+    {
+      "rooms": 5,
+      "offer_count": 71,
+      "avg_price": 1178,
+      "median_price": 950,
+      "avg_area": 33,
+      "price_per_m2": 71
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 4302,
+      "pct": 76.8
+    },
+    {
+      "source": "otodom",
+      "offer_count": 671,
+      "pct": 12.0
+    },
+    {
+      "source": "gratka",
+      "offer_count": 280,
+      "pct": 5.0
+    },
+    {
+      "source": "morizon",
+      "offer_count": 231,
+      "pct": 4.1
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 114,
+      "pct": 2.0
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 1171
+    },
+    {
+      "price": 1000,
+      "count": 939
+    },
+    {
+      "price": 1500,
+      "count": 765
+    },
+    {
+      "price": 2000,
+      "count": 1166
+    },
+    {
+      "price": 2500,
+      "count": 980
+    },
+    {
+      "price": 3000,
+      "count": 357
+    },
+    {
+      "price": 3500,
+      "count": 124
+    },
+    {
+      "price": 4000,
+      "count": 38
+    },
+    {
+      "price": 4500,
+      "count": 27
+    },
+    {
+      "price": 5000,
+      "count": 8
+    },
+    {
+      "price": 5500,
+      "count": 8
+    },
+    {
+      "price": 6000,
+      "count": 3
+    },
+    {
+      "price": 7000,
+      "count": 1
+    },
+    {
+      "price": 7500,
+      "count": 4
+    },
+    {
+      "price": 8000,
+      "count": 1
+    },
+    {
+      "price": 8500,
+      "count": 2
+    },
+    {
+      "price": 9000,
+      "count": 2
+    },
+    {
+      "price": 11500,
+      "count": 1
+    },
+    {
+      "price": 14500,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "room_mix_anomaly",
+      "text": "W Lublinie kawalerki to 19% aktywnych ofert — 5,2 pp. mniej niż średnia kraju (24%).",
+      "magnitude": 5.170009788736028,
+      "evidence": {
+        "city_studio_pct": 18.91,
+        "national_studio_pct": 24.08,
+        "delta_pp": -5.17,
+        "city_studio_count": 935,
+        "city_total": 4945
+      }
+    }
+  ],
+  "generated_month": "2026-09"
+}

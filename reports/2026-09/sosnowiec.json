@@ -1,0 +1,161 @@
+{
+  "city_slug": "sosnowiec",
+  "generated_at": "2026-09-19T23:37:10.417574+02:00",
+  "observation_mode": "snapshot",
+  "data_as_of_basis": "latest_source_change",
+  "data_as_of": "2026-09-19T22:58:30.004807+02:00",
+  "price_sample": {
+    "scope": "price_analysis_band",
+    "min_price": 500,
+    "max_price": 15000
+  },
+  "definition": {
+    "status": "known",
+    "version": "2026-09-18.1",
+    "sha256": "c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2",
+    "content": {
+      "active_offer": "Aktywna oferta to ogłoszenie najmu, które nadal spełnia warunki widoczności publicznej: ma flagę is_active=True, nie ma daty dezaktywacji (deactivated_at IS NULL), dotyczy najmu, ma co najmniej jedno zdjęcie i wiarygodną cenę miesięczną. Odrzucamy duplikaty, sprzedaż, podejrzane ceny, oszustwa, błędne przypisanie do miasta oraz rekordy spoza podaży: ogłoszenia popytowe, lokale niemieszkalne (biura, garaże), hostele, kwatery pracownicze i prywatne akademiki. Bieżący licznik aktywnych ofert, mediany cen i widoki aktualnej podaży korzystają z pełnego filtra. Historyczne szeregi napływu i archiwum zachowują także później wygasłe ogłoszenia; wykluczają ceny oznaczone jako podejrzane i rozpoznane lokale niemieszkalne, ale nie stosują wstecz wszystkich dzisiejszych kryteriów widoczności. Gdy źródło przestaje pokazywać ogłoszenie, właściciel je zamyka albo kolejny skan potwierdza brak oferty, wpis jest dezaktywowany i przestaje wpływać na statystyki aktywnego rynku. Aktywność nie jest jednak gwarancją, że właściciel odpowie, że cena nie zmieni się po kontakcie albo że portal nie usunie ogłoszenia chwilę później. To definicja liczenia danych, a nie obietnica dostępności konkretnego lokalu. Oferta wygasła może pozostać widoczna historycznie, ale nie zwiększa już aktywnej podaży.",
+      "report_statistics": "Raport cen jest odczytem próby aktywnych publicznych ofert najmu w chwili generowania, po wykluczeniu rozpoznanych duplikatów i z zakresem czynszu wskazanym w raporcie (obecnie 500–15 000 zł). Nie jest losową próbą całego rynku. Mediana miasta dotyczy cen jego ofert. Krajowa średnia median miejskich to suma median miast pomnożonych przez liczbę ofert miasta, podzielona przez sumę tych liczebności; nie jest medianą wszystkich ofert. Krajowa cena za m² to nieważona średnia miejskich średnich: każde uwzględnione miasto ma taką samą wagę. W mieście liczymy średnią z ilorazów czynszu i dodatniej powierzchni; oferty bez powierzchni nie wchodzą do tego wskaźnika, ale mogą wchodzić do liczebności i mediany. Wskaźniki miast publikujemy od 10 ofert. Miesiąc archiwum jest etykietą zapisanego odczytu, nie pełnym okresem obserwacji ani średnią miesięczną. Data generowania oznacza zapis próby, a najnowsza zmiana źródłowa nie potwierdza świeżości wszystkich ofert.",
+      "active_source": "Liczba źródeł oznacza liczbę źródeł ogłoszeniowych, które są włączone w produkcyjnym monitoringu i mogą zasilać publiczne dane Znajdź Najem. Liczymy portale i nazwane kanały źródłowe, a nie zadania techniczne, subdomenę, miasto ani typ zapytania. OLX to jedno źródło, Otodom to jedno źródło, Gratka, Morizon, KRN, Adresowo i Nieruchomości-Online liczą się osobno, a Facebook Groups i Facebook Marketplace liczymy jako dwa kanały tej samej platformy. Taka definicja zapobiega zawyżaniu trust-bara przez równoległe zadania, retry albo osobne kolejki dla tego samego portalu. Portal może być wliczony do zestawu źródeł nawet wtedy, gdy w danym mieście chwilowo nie zwrócił nowych ofert; odrębne raporty operacyjne pokazują ostatni scrape, błędy i liczbę pobranych ogłoszeń. Dla użytkownika ta liczba mówi, ile niezależnych miejsc rynku monitorujemy, a nie ile ogłoszeń pochodzi z każdego z nich. Nazwy źródeł są normalizowane, żeby ten sam portal nie występował pod kilkoma technicznymi etykietami.",
+      "new_last_7_days": "Nowa oferta w ostatnich 7 dniach to ogłoszenie, którego pierwsze pojawienie się w naszym systemie mieści się w rolującym oknie siedmiu dób liczonym od momentu generowania statystyki. Technicznie używamy daty pierwszego skanu (first_seen_at), a nie daty deklarowanej przez portal. Etykiety „Nowa oferta 7d” oraz „+X w ostatnich 7 dniach” odnoszą się do tego okna; populację bieżącą lub historyczną wskazuje dany widok. Jeśli ogłoszenie było widziane wcześniej, a potem zostało wznowione albo zmieniło cenę, nie staje się automatycznie nową ofertą; traktujemy je jako aktualizację istniejącego wpisu, o ile deduplikacja rozpozna ten sam lokal. Bieżący licznik świeżej podaży obejmuje wyłącznie oferty nadal przechodzące pełny filtr publiczny. Wykresy historycznego napływu i prędkości zachowują również oferty, które później wygasły; wykluczają ceny oznaczone jako podejrzane i rekordy spoza podaży mieszkaniowej, lecz nie stosują wszystkich filtrów bieżącego widoku. Dlatego wariant bieżący i historyczny mogą mieć różne wartości. Strony /nowe-oferty pokazują węższe okno ostatnich 48 godzin od pierwszego wykrycia; przy braku wyników mogą pokazać osobno oznaczoną listę z 7 dni.",
+      "price_sample": {
+        "scope": "price_analysis_band",
+        "min_price": 500,
+        "max_price": 15000
+      },
+      "offer_types": "All public rental housing types, including rooms and studios.",
+      "deduplication": "Recognized duplicates are excluded; undetected duplicates may remain."
+    }
+  },
+  "overview": {
+    "total_offers": 785,
+    "avg_price": 1704,
+    "median_price": 1600,
+    "min_price": 500,
+    "max_price": 12000,
+    "avg_price_per_m2": 46,
+    "avg_area": 42
+  },
+  "districts": [],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 220,
+      "avg_price": 1468,
+      "median_price": 1495,
+      "avg_area": 30,
+      "price_per_m2": 52
+    },
+    {
+      "rooms": 2,
+      "offer_count": 382,
+      "avg_price": 1804,
+      "median_price": 1710,
+      "avg_area": 42,
+      "price_per_m2": 45
+    },
+    {
+      "rooms": 3,
+      "offer_count": 133,
+      "avg_price": 1966,
+      "median_price": 1800,
+      "avg_area": 59,
+      "price_per_m2": 39
+    },
+    {
+      "rooms": 4,
+      "offer_count": 24,
+      "avg_price": 1688,
+      "median_price": 1250,
+      "avg_area": 66,
+      "price_per_m2": 39
+    },
+    {
+      "rooms": 5,
+      "offer_count": 1,
+      "avg_price": 800,
+      "median_price": 800,
+      "avg_area": 17,
+      "price_per_m2": 47
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 516,
+      "pct": 65.7
+    },
+    {
+      "source": "otodom",
+      "offer_count": 127,
+      "pct": 16.2
+    },
+    {
+      "source": "gratka",
+      "offer_count": 82,
+      "pct": 10.4
+    },
+    {
+      "source": "morizon",
+      "offer_count": 38,
+      "pct": 4.8
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 22,
+      "pct": 2.8
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 68
+    },
+    {
+      "price": 1000,
+      "count": 200
+    },
+    {
+      "price": 1500,
+      "count": 308
+    },
+    {
+      "price": 2000,
+      "count": 134
+    },
+    {
+      "price": 2500,
+      "count": 46
+    },
+    {
+      "price": 3000,
+      "count": 19
+    },
+    {
+      "price": 3500,
+      "count": 7
+    },
+    {
+      "price": 4000,
+      "count": 2
+    },
+    {
+      "price": 12000,
+      "count": 1
+    }
+  ],
+  "insights": [
+    {
+      "type": "freshness_signal",
+      "text": "75 nowych ofert w Sosnowcu w ostatnich 7 dniach — 34% więcej niż średnia 4-tygodniowa.",
+      "magnitude": 33.92857142857143,
+      "evidence": {
+        "last_7d_new": 75,
+        "trailing_28d_new": 224,
+        "weekly_avg_28d": 56.0,
+        "delta_pct": 33.93
+      }
+    }
+  ],
+  "generated_month": "2026-09"
+}

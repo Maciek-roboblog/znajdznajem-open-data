@@ -1,0 +1,372 @@
+{
+  "city_slug": "gdansk",
+  "generated_at": "2026-09-19T23:36:39.055742+02:00",
+  "observation_mode": "snapshot",
+  "data_as_of_basis": "latest_source_change",
+  "data_as_of": "2026-09-19T22:54:07.271571+02:00",
+  "price_sample": {
+    "scope": "price_analysis_band",
+    "min_price": 500,
+    "max_price": 15000
+  },
+  "definition": {
+    "status": "known",
+    "version": "2026-09-18.1",
+    "sha256": "c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2",
+    "content": {
+      "active_offer": "Aktywna oferta to ogłoszenie najmu, które nadal spełnia warunki widoczności publicznej: ma flagę is_active=True, nie ma daty dezaktywacji (deactivated_at IS NULL), dotyczy najmu, ma co najmniej jedno zdjęcie i wiarygodną cenę miesięczną. Odrzucamy duplikaty, sprzedaż, podejrzane ceny, oszustwa, błędne przypisanie do miasta oraz rekordy spoza podaży: ogłoszenia popytowe, lokale niemieszkalne (biura, garaże), hostele, kwatery pracownicze i prywatne akademiki. Bieżący licznik aktywnych ofert, mediany cen i widoki aktualnej podaży korzystają z pełnego filtra. Historyczne szeregi napływu i archiwum zachowują także później wygasłe ogłoszenia; wykluczają ceny oznaczone jako podejrzane i rozpoznane lokale niemieszkalne, ale nie stosują wstecz wszystkich dzisiejszych kryteriów widoczności. Gdy źródło przestaje pokazywać ogłoszenie, właściciel je zamyka albo kolejny skan potwierdza brak oferty, wpis jest dezaktywowany i przestaje wpływać na statystyki aktywnego rynku. Aktywność nie jest jednak gwarancją, że właściciel odpowie, że cena nie zmieni się po kontakcie albo że portal nie usunie ogłoszenia chwilę później. To definicja liczenia danych, a nie obietnica dostępności konkretnego lokalu. Oferta wygasła może pozostać widoczna historycznie, ale nie zwiększa już aktywnej podaży.",
+      "report_statistics": "Raport cen jest odczytem próby aktywnych publicznych ofert najmu w chwili generowania, po wykluczeniu rozpoznanych duplikatów i z zakresem czynszu wskazanym w raporcie (obecnie 500–15 000 zł). Nie jest losową próbą całego rynku. Mediana miasta dotyczy cen jego ofert. Krajowa średnia median miejskich to suma median miast pomnożonych przez liczbę ofert miasta, podzielona przez sumę tych liczebności; nie jest medianą wszystkich ofert. Krajowa cena za m² to nieważona średnia miejskich średnich: każde uwzględnione miasto ma taką samą wagę. W mieście liczymy średnią z ilorazów czynszu i dodatniej powierzchni; oferty bez powierzchni nie wchodzą do tego wskaźnika, ale mogą wchodzić do liczebności i mediany. Wskaźniki miast publikujemy od 10 ofert. Miesiąc archiwum jest etykietą zapisanego odczytu, nie pełnym okresem obserwacji ani średnią miesięczną. Data generowania oznacza zapis próby, a najnowsza zmiana źródłowa nie potwierdza świeżości wszystkich ofert.",
+      "active_source": "Liczba źródeł oznacza liczbę źródeł ogłoszeniowych, które są włączone w produkcyjnym monitoringu i mogą zasilać publiczne dane Znajdź Najem. Liczymy portale i nazwane kanały źródłowe, a nie zadania techniczne, subdomenę, miasto ani typ zapytania. OLX to jedno źródło, Otodom to jedno źródło, Gratka, Morizon, KRN, Adresowo i Nieruchomości-Online liczą się osobno, a Facebook Groups i Facebook Marketplace liczymy jako dwa kanały tej samej platformy. Taka definicja zapobiega zawyżaniu trust-bara przez równoległe zadania, retry albo osobne kolejki dla tego samego portalu. Portal może być wliczony do zestawu źródeł nawet wtedy, gdy w danym mieście chwilowo nie zwrócił nowych ofert; odrębne raporty operacyjne pokazują ostatni scrape, błędy i liczbę pobranych ogłoszeń. Dla użytkownika ta liczba mówi, ile niezależnych miejsc rynku monitorujemy, a nie ile ogłoszeń pochodzi z każdego z nich. Nazwy źródeł są normalizowane, żeby ten sam portal nie występował pod kilkoma technicznymi etykietami.",
+      "new_last_7_days": "Nowa oferta w ostatnich 7 dniach to ogłoszenie, którego pierwsze pojawienie się w naszym systemie mieści się w rolującym oknie siedmiu dób liczonym od momentu generowania statystyki. Technicznie używamy daty pierwszego skanu (first_seen_at), a nie daty deklarowanej przez portal. Etykiety „Nowa oferta 7d” oraz „+X w ostatnich 7 dniach” odnoszą się do tego okna; populację bieżącą lub historyczną wskazuje dany widok. Jeśli ogłoszenie było widziane wcześniej, a potem zostało wznowione albo zmieniło cenę, nie staje się automatycznie nową ofertą; traktujemy je jako aktualizację istniejącego wpisu, o ile deduplikacja rozpozna ten sam lokal. Bieżący licznik świeżej podaży obejmuje wyłącznie oferty nadal przechodzące pełny filtr publiczny. Wykresy historycznego napływu i prędkości zachowują również oferty, które później wygasły; wykluczają ceny oznaczone jako podejrzane i rekordy spoza podaży mieszkaniowej, lecz nie stosują wszystkich filtrów bieżącego widoku. Dlatego wariant bieżący i historyczny mogą mieć różne wartości. Strony /nowe-oferty pokazują węższe okno ostatnich 48 godzin od pierwszego wykrycia; przy braku wyników mogą pokazać osobno oznaczoną listę z 7 dni.",
+      "price_sample": {
+        "scope": "price_analysis_band",
+        "min_price": 500,
+        "max_price": 15000
+      },
+      "offer_types": "All public rental housing types, including rooms and studios.",
+      "deduplication": "Recognized duplicates are excluded; undetected duplicates may remain."
+    }
+  },
+  "overview": {
+    "total_offers": 8839,
+    "avg_price": 2778,
+    "median_price": 2700,
+    "min_price": 550,
+    "max_price": 14760,
+    "avg_price_per_m2": 72,
+    "avg_area": 44
+  },
+  "districts": [
+    {
+      "name": "Letnica",
+      "offer_count": 293,
+      "avg_price": 3608,
+      "min_price": 800,
+      "max_price": 14760
+    },
+    {
+      "name": "Brzeźno",
+      "offer_count": 305,
+      "avg_price": 3351,
+      "min_price": 870,
+      "max_price": 13000
+    },
+    {
+      "name": "Śródmieście",
+      "offer_count": 1105,
+      "avg_price": 3223,
+      "min_price": 600,
+      "max_price": 12500
+    },
+    {
+      "name": "Oliwa",
+      "offer_count": 297,
+      "avg_price": 3114,
+      "min_price": 890,
+      "max_price": 12300
+    },
+    {
+      "name": "Aniołki",
+      "offer_count": 233,
+      "avg_price": 3011,
+      "min_price": 890,
+      "max_price": 7500
+    },
+    {
+      "name": "Morena",
+      "offer_count": 47,
+      "avg_price": 3008,
+      "min_price": 750,
+      "max_price": 4500
+    },
+    {
+      "name": "Przymorze",
+      "offer_count": 974,
+      "avg_price": 2992,
+      "min_price": 555,
+      "max_price": 12000
+    },
+    {
+      "name": "Wrzeszcz",
+      "offer_count": 808,
+      "avg_price": 2966,
+      "min_price": 550,
+      "max_price": 10000
+    },
+    {
+      "name": "Zaspa",
+      "offer_count": 247,
+      "avg_price": 2956,
+      "min_price": 1100,
+      "max_price": 5600
+    },
+    {
+      "name": "Piecki-Migowo",
+      "offer_count": 361,
+      "avg_price": 2940,
+      "min_price": 880,
+      "max_price": 9000
+    },
+    {
+      "name": "Siedlce",
+      "offer_count": 83,
+      "avg_price": 2937,
+      "min_price": 800,
+      "max_price": 7500
+    },
+    {
+      "name": "Strzyża",
+      "offer_count": 96,
+      "avg_price": 2904,
+      "min_price": 1200,
+      "max_price": 5400
+    },
+    {
+      "name": "Jasień",
+      "offer_count": 365,
+      "avg_price": 2870,
+      "min_price": 955,
+      "max_price": 6500
+    },
+    {
+      "name": "Ujeścisko-Łostowice",
+      "offer_count": 370,
+      "avg_price": 2715,
+      "min_price": 600,
+      "max_price": 7000
+    },
+    {
+      "name": "Nowy Port",
+      "offer_count": 44,
+      "avg_price": 2698,
+      "min_price": 965,
+      "max_price": 5500
+    },
+    {
+      "name": "Stogi",
+      "offer_count": 66,
+      "avg_price": 2675,
+      "min_price": 1300,
+      "max_price": 6500
+    },
+    {
+      "name": "Orunia Górna",
+      "offer_count": 212,
+      "avg_price": 2671,
+      "min_price": 850,
+      "max_price": 4500
+    },
+    {
+      "name": "Żabianka",
+      "offer_count": 224,
+      "avg_price": 2663,
+      "min_price": 950,
+      "max_price": 5500
+    },
+    {
+      "name": "Chełm",
+      "offer_count": 313,
+      "avg_price": 2622,
+      "min_price": 850,
+      "max_price": 6500
+    },
+    {
+      "name": "Suchanino",
+      "offer_count": 92,
+      "avg_price": 2555,
+      "min_price": 800,
+      "max_price": 5900
+    }
+  ],
+  "by_rooms": [
+    {
+      "rooms": 1,
+      "offer_count": 1769,
+      "avg_price": 2315,
+      "median_price": 2300,
+      "avg_area": 29,
+      "price_per_m2": 85
+    },
+    {
+      "rooms": 2,
+      "offer_count": 3974,
+      "avg_price": 2871,
+      "median_price": 2800,
+      "avg_area": 43,
+      "price_per_m2": 70
+    },
+    {
+      "rooms": 3,
+      "offer_count": 1908,
+      "avg_price": 3353,
+      "median_price": 3500,
+      "avg_area": 59,
+      "price_per_m2": 66
+    },
+    {
+      "rooms": 4,
+      "offer_count": 485,
+      "avg_price": 3475,
+      "median_price": 2200,
+      "avg_area": 71,
+      "price_per_m2": 70
+    },
+    {
+      "rooms": 5,
+      "offer_count": 109,
+      "avg_price": 2023,
+      "median_price": 1200,
+      "avg_area": 58,
+      "price_per_m2": 76
+    }
+  ],
+  "sources": [
+    {
+      "source": "olx",
+      "offer_count": 4183,
+      "pct": 47.3
+    },
+    {
+      "source": "otodom",
+      "offer_count": 1643,
+      "pct": 18.6
+    },
+    {
+      "source": "nieruchomosci-online",
+      "offer_count": 1294,
+      "pct": 14.6
+    },
+    {
+      "source": "gratka",
+      "offer_count": 679,
+      "pct": 7.7
+    },
+    {
+      "source": "morizon",
+      "offer_count": 512,
+      "pct": 5.8
+    },
+    {
+      "source": "adresowo",
+      "offer_count": 308,
+      "pct": 3.5
+    },
+    {
+      "source": "domiporta",
+      "offer_count": 220,
+      "pct": 2.5
+    }
+  ],
+  "price_distribution": [
+    {
+      "price": 500,
+      "count": 314
+    },
+    {
+      "price": 1000,
+      "count": 1014
+    },
+    {
+      "price": 1500,
+      "count": 591
+    },
+    {
+      "price": 2000,
+      "count": 1314
+    },
+    {
+      "price": 2500,
+      "count": 2273
+    },
+    {
+      "price": 3000,
+      "count": 1453
+    },
+    {
+      "price": 3500,
+      "count": 853
+    },
+    {
+      "price": 4000,
+      "count": 370
+    },
+    {
+      "price": 4500,
+      "count": 267
+    },
+    {
+      "price": 5000,
+      "count": 93
+    },
+    {
+      "price": 5500,
+      "count": 99
+    },
+    {
+      "price": 6000,
+      "count": 46
+    },
+    {
+      "price": 6500,
+      "count": 36
+    },
+    {
+      "price": 7000,
+      "count": 19
+    },
+    {
+      "price": 7500,
+      "count": 19
+    },
+    {
+      "price": 8000,
+      "count": 21
+    },
+    {
+      "price": 8500,
+      "count": 15
+    },
+    {
+      "price": 9000,
+      "count": 11
+    },
+    {
+      "price": 9500,
+      "count": 11
+    },
+    {
+      "price": 10000,
+      "count": 6
+    },
+    {
+      "price": 10500,
+      "count": 2
+    },
+    {
+      "price": 11000,
+      "count": 1
+    },
+    {
+      "price": 12000,
+      "count": 3
+    },
+    {
+      "price": 12500,
+      "count": 3
+    },
+    {
+      "price": 13000,
+      "count": 3
+    },
+    {
+      "price": 13500,
+      "count": 1
+    },
+    {
+      "price": 14500,
+      "count": 1
+    }
+  ],
+  "insights": [],
+  "generated_month": "2026-09"
+}
