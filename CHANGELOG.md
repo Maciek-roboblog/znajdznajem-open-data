@@ -7,6 +7,32 @@ All data MIT licensed — free to cite. See PRESS.md for attribution guidelines.
 
 ---
 
+## 2026-W41 — 2026-10-05
+
+Weekly snapshot, 21 cities → `data/weekly/2026-W41/`
+
+- **Białystok**: 3 153 aktywne · mediana 1 800 zł · 49 zł/m²
+- **Bydgoszcz**: 3 522 aktywne · mediana 1 950 zł · 54 zł/m²
+- **Częstochowa**: 1 337 aktywne · mediana 1 550 zł · 42 zł/m²
+- **Gdańsk**: 10 079 aktywne · mediana 2 700 zł · 72 zł/m²
+- **Gdynia**: 2 868 aktywne · mediana 2 400 zł · 65 zł/m²
+- **Gliwice**: 1 594 aktywne · mediana 1 900 zł · 51 zł/m²
+- **Katowice**: 5 566 aktywne · mediana 1 900 zł · 54 zł/m²
+- **Kielce**: 2 107 aktywne · mediana 1 650 zł · 47 zł/m²
+- **Kraków**: 24 930 aktywne · mediana 2 600 zł · 69 zł/m²
+- **Łódź**: 7 948 aktywne · mediana 1 900 zł · 54 zł/m²
+- **Lublin**: 6 340 aktywne · mediana 1 900 zł · 57 zł/m²
+- **Olsztyn**: 2 293 aktywne · mediana 2 000 zł · 56 zł/m²
+- **Opole**: 1 845 aktywne · mediana 2 000 zł · 53 zł/m²
+- **Oświęcim**: 582 aktywne · mediana 1 600 zł · 43 zł/m²
+- **Poznań**: 12 486 aktywne · mediana 2 200 zł · 61 zł/m²
+- **Rzeszów**: 4 269 aktywne · mediana 2 000 zł · 52 zł/m²
+- **Sosnowiec**: 884 aktywne · mediana 1 600 zł · 45 zł/m²
+- **Szczecin**: 4 372 aktywne · mediana 2 300 zł · 62 zł/m²
+- **Toruń**: 2 298 aktywne · mediana 1 700 zł · 50 zł/m²
+- **Warszawa**: 42 657 aktywne · mediana 3 200 zł · 85 zł/m²
+- **Wrocław**: 19 729 aktywne · mediana 2 600 zł · 69 zł/m²
+
 ## 2026-W40 — 2026-09-28
 
 Weekly snapshot, 21 cities → `data/weekly/2026-W40/`
