@@ -1,9 +1,9 @@
 {
   "city_slug": "gliwice",
-  "generated_at": "2026-09-19T23:36:47.768773+02:00",
+  "generated_at": "2026-10-01T03:00:19.751138+02:00",
   "observation_mode": "snapshot",
   "data_as_of_basis": "latest_source_change",
-  "data_as_of": "2026-09-19T23:34:49.233891+02:00",
+  "data_as_of": "2026-10-01T02:57:34.096624+02:00",
   "price_sample": {
     "scope": "price_analysis_band",
     "min_price": 500,
@@ -28,9 +28,9 @@
     }
   },
   "overview": {
-    "total_offers": 1456,
-    "avg_price": 1944,
-    "median_price": 1890,
+    "total_offers": 1549,
+    "avg_price": 1949,
+    "median_price": 1900,
     "min_price": 500,
     "max_price": 7790,
     "avg_price_per_m2": 51,
@@ -40,41 +40,41 @@
   "by_rooms": [
     {
       "rooms": 1,
-      "offer_count": 413,
-      "avg_price": 1630,
+      "offer_count": 427,
+      "avg_price": 1615,
       "median_price": 1600,
       "avg_area": 31,
-      "price_per_m2": 60
+      "price_per_m2": 61
     },
     {
       "rooms": 2,
-      "offer_count": 674,
-      "avg_price": 2045,
+      "offer_count": 744,
+      "avg_price": 2054,
       "median_price": 2000,
       "avg_area": 44,
-      "price_per_m2": 48
+      "price_per_m2": 49
     },
     {
       "rooms": 3,
-      "offer_count": 244,
-      "avg_price": 2447,
+      "offer_count": 252,
+      "avg_price": 2436,
       "median_price": 2500,
-      "avg_area": 63,
+      "avg_area": 62,
       "price_per_m2": 44
     },
     {
       "rooms": 4,
-      "offer_count": 44,
-      "avg_price": 2126,
-      "median_price": 1900,
-      "avg_area": 86,
-      "price_per_m2": 34
+      "offer_count": 48,
+      "avg_price": 2118,
+      "median_price": 1950,
+      "avg_area": 82,
+      "price_per_m2": 35
     },
     {
       "rooms": 5,
-      "offer_count": 19,
-      "avg_price": 1500,
-      "median_price": 750,
+      "offer_count": 18,
+      "avg_price": 1527,
+      "median_price": 715,
       "avg_area": 90,
       "price_per_m2": 29
     }
@@ -82,50 +82,50 @@
   "sources": [
     {
       "source": "olx",
-      "offer_count": 863,
-      "pct": 59.3
+      "offer_count": 917,
+      "pct": 59.2
     },
     {
       "source": "otodom",
-      "offer_count": 299,
-      "pct": 20.5
+      "offer_count": 315,
+      "pct": 20.3
     },
     {
       "source": "gratka",
-      "offer_count": 163,
-      "pct": 11.2
+      "offer_count": 177,
+      "pct": 11.4
     },
     {
       "source": "morizon",
-      "offer_count": 89,
-      "pct": 6.1
+      "offer_count": 97,
+      "pct": 6.3
     },
     {
       "source": "domiporta",
-      "offer_count": 42,
-      "pct": 2.9
+      "offer_count": 43,
+      "pct": 2.8
     }
   ],
   "price_distribution": [
     {
       "price": 500,
-      "count": 134
+      "count": 137
     },
     {
       "price": 1000,
-      "count": 202
+      "count": 212
     },
     {
       "price": 1500,
-      "count": 468
+      "count": 496
     },
     {
       "price": 2000,
-      "count": 346
+      "count": 375
     },
     {
       "price": 2500,
-      "count": 178
+      "count": 201
     },
     {
       "price": 3000,
@@ -133,7 +133,7 @@
     },
     {
       "price": 3500,
-      "count": 33
+      "count": 35
     },
     {
       "price": 4000,
@@ -141,11 +141,11 @@
     },
     {
       "price": 4500,
-      "count": 4
+      "count": 3
     },
     {
       "price": 5000,
-      "count": 4
+      "count": 3
     },
     {
       "price": 5500,
@@ -153,41 +153,17 @@
     },
     {
       "price": 6000,
-      "count": 1
+      "count": 2
     },
     {
       "price": 6500,
-      "count": 2
+      "count": 1
     },
     {
       "price": 7500,
       "count": 1
     }
   ],
-  "insights": [
-    {
-      "type": "freshness_signal",
-      "text": "111 nowych ofert w Gliwicach w ostatnich 7 dniach — 24% więcej niż średnia 4-tygodniowa.",
-      "magnitude": 23.676880222841227,
-      "evidence": {
-        "last_7d_new": 111,
-        "trailing_28d_new": 359,
-        "weekly_avg_28d": 89.8,
-        "delta_pct": 23.68
-      }
-    },
-    {
-      "type": "room_mix_anomaly",
-      "text": "W Gliwicach kawalerki to 30% aktywnych ofert — 5,5 pp. więcej niż średnia kraju (24%).",
-      "magnitude": 5.548975085047758,
-      "evidence": {
-        "city_studio_pct": 29.63,
-        "national_studio_pct": 24.08,
-        "delta_pp": 5.55,
-        "city_studio_count": 413,
-        "city_total": 1394
-      }
-    }
-  ],
+  "insights": [],
   "generated_month": "2026-09"
 }

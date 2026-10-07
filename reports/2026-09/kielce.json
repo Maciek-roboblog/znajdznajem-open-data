@@ -1,9 +1,9 @@
 {
   "city_slug": "kielce",
-  "generated_at": "2026-09-19T23:36:52.352761+02:00",
+  "generated_at": "2026-10-01T03:00:26.794685+02:00",
   "observation_mode": "snapshot",
   "data_as_of_basis": "latest_source_change",
-  "data_as_of": "2026-09-19T23:28:39.364862+02:00",
+  "data_as_of": "2026-10-01T02:23:21.116934+02:00",
   "price_sample": {
     "scope": "price_analysis_band",
     "min_price": 500,
@@ -28,9 +28,9 @@
     }
   },
   "overview": {
-    "total_offers": 1853,
-    "avg_price": 1742,
-    "median_price": 1700,
+    "total_offers": 2067,
+    "avg_price": 1727,
+    "median_price": 1650,
     "min_price": 500,
     "max_price": 7500,
     "avg_price_per_m2": 47,
@@ -40,96 +40,96 @@
   "by_rooms": [
     {
       "rooms": 1,
-      "offer_count": 499,
-      "avg_price": 1570,
+      "offer_count": 561,
+      "avg_price": 1566,
       "median_price": 1500,
       "avg_area": 30,
       "price_per_m2": 55
     },
     {
       "rooms": 2,
-      "offer_count": 879,
-      "avg_price": 1848,
+      "offer_count": 987,
+      "avg_price": 1833,
       "median_price": 1800,
       "avg_area": 43,
       "price_per_m2": 45
     },
     {
       "rooms": 3,
-      "offer_count": 316,
-      "avg_price": 1917,
+      "offer_count": 344,
+      "avg_price": 1916,
       "median_price": 2000,
       "avg_area": 58,
-      "price_per_m2": 40
+      "price_per_m2": 39
     },
     {
       "rooms": 4,
-      "offer_count": 60,
-      "avg_price": 1740,
-      "median_price": 1100,
-      "avg_area": 76,
-      "price_per_m2": 35
+      "offer_count": 63,
+      "avg_price": 1647,
+      "median_price": 1050,
+      "avg_area": 74,
+      "price_per_m2": 36
     },
     {
       "rooms": 5,
-      "offer_count": 5,
-      "avg_price": 2586,
-      "median_price": 2500,
-      "avg_area": 115,
+      "offer_count": 4,
+      "avg_price": 2308,
+      "median_price": 1800,
+      "avg_area": 116,
       "price_per_m2": 31
     }
   ],
   "sources": [
     {
       "source": "olx",
-      "offer_count": 1294,
-      "pct": 69.8
+      "offer_count": 1454,
+      "pct": 70.3
     },
     {
       "source": "otodom",
-      "offer_count": 183,
-      "pct": 9.9
+      "offer_count": 201,
+      "pct": 9.7
     },
     {
       "source": "domiporta",
-      "offer_count": 141,
-      "pct": 7.6
+      "offer_count": 152,
+      "pct": 7.4
     },
     {
       "source": "gratka",
-      "offer_count": 136,
-      "pct": 7.3
+      "offer_count": 152,
+      "pct": 7.4
     },
     {
       "source": "morizon",
-      "offer_count": 99,
-      "pct": 5.3
+      "offer_count": 108,
+      "pct": 5.2
     }
   ],
   "price_distribution": [
     {
       "price": 500,
-      "count": 220
+      "count": 242
     },
     {
       "price": 1000,
-      "count": 422
+      "count": 474
     },
     {
       "price": 1500,
-      "count": 594
+      "count": 681
     },
     {
       "price": 2000,
-      "count": 352
+      "count": 391
     },
     {
       "price": 2500,
-      "count": 196
+      "count": 213
     },
     {
       "price": 3000,
-      "count": 42
+      "count": 41
     },
     {
       "price": 3500,
@@ -137,11 +137,11 @@
     },
     {
       "price": 4000,
-      "count": 3
+      "count": 2
     },
     {
       "price": 4500,
-      "count": 8
+      "count": 7
     },
     {
       "price": 5000,
@@ -160,6 +160,20 @@
       "count": 1
     }
   ],
-  "insights": [],
+  "insights": [
+    {
+      "type": "trend_reversal",
+      "text": "Mediana ceny w Kielcach spadła o 2,9% mimo wzrostu liczby ofert o 11,5%.",
+      "magnitude": 14.490016189962223,
+      "evidence": {
+        "current_median": 1650,
+        "previous_median": 1700,
+        "current_total_offers": 2067,
+        "previous_total_offers": 1853,
+        "price_pct": -2.94,
+        "supply_pct": 11.55
+      }
+    }
+  ],
   "generated_month": "2026-09"
 }

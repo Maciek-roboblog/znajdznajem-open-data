@@ -1,21 +1,22 @@
 # Rynek wynajmu: Szczecin — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **3 941** aktywnych ofert wynajmu — Szczecin, wrzesień 2026
+- **4 260** aktywnych ofert wynajmu — Szczecin, wrzesień 2026
 - Mediana: **2 300 zł/mies.** · cena za m²: **62 zł**
 - Najwięcej ofert w widełkach **2 000-2 499 zł**
 - Najtańsza dzielnica: **Niebuszewo** · najdroższa: **Stare Miasto**
+- W Szczecinie kawalerki to 29% aktywnych ofert — 5,3 pp. więcej niż średnia kraju (24%).
 
 ## Szczegółowe statystyki
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 3 941 |
+| Aktywne oferty | 4 260 |
 | Mediana ceny miesięcznej | 2 300 zł |
-| Średnia cena miesięczna | 2 344 zł |
+| Średnia cena miesięczna | 2 340 zł |
 | Średnia cena za m² | 62 zł |
 | Średni metraż | 44 m² |
 | Najczęstsze widełki cenowe | 2 000-2 499 zł |
@@ -27,48 +28,50 @@
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 1 040 | 1 950 zł | 29 m² | 72 |
-| 2 | 1 719 | 2 500 zł | 44 m² | 60 |
-| 3 | 633 | 2 900 zł | 62 m² | 53 |
-| 4 | 222 | 3 300 zł | 78 m² | 51 |
-| 5 | 40 | 1 050 zł | 95 m² | 43 |
+| 1 | 1 163 | 1 950 zł | 29 m² | 71 |
+| 2 | 1 872 | 2 500 zł | 44 m² | 60 |
+| 3 | 674 | 2 900 zł | 62 m² | 52 |
+| 4 | 215 | 3 300 zł | 78 m² | 51 |
+| 5 | 44 | 1 040 zł | 100 m² | 40 |
 
 ## Dzielnice (od najtańszej)
 
 | Dzielnica | Oferty | Średnia cena |
 |---|---|---|
-| Niebuszewo | 194 | 2 172 zł |
-| Pomorzany | 244 | 2 231 zł |
-| Żelechowa | 13 | 2 238 zł |
-| Świerczewo | 59 | 2 287 zł |
-| Bukowe-Klęskowo | 17 | 2 358 zł |
-| Centrum | 850 | 2 393 zł |
-| Zdroje | 41 | 2 398 zł |
-| Pogodno | 151 | 2 485 zł |
-| Gumieńce | 242 | 2 489 zł |
-| Słoneczne | 44 | 2 494 zł |
-| Zachód | 301 | 2 571 zł |
-| Nowe Miasto | 28 | 2 573 zł |
-| Dąbie | 27 | 2 574 zł |
-| Prawobrzeże | 53 | 2 681 zł |
-| Warszewo | 114 | 2 695 zł |
-| Śródmieście | 747 | 2 706 zł |
-| Północ | 88 | 2 722 zł |
-| Stare Miasto | 77 | 2 962 zł |
+| Niebuszewo | 221 | 2 137 zł |
+| Pomorzany | 268 | 2 191 zł |
+| Żelechowa | 14 | 2 271 zł |
+| Świerczewo | 65 | 2 302 zł |
+| Zdroje | 44 | 2 346 zł |
+| Bukowe-Klęskowo | 19 | 2 352 zł |
+| Centrum | 985 | 2 382 zł |
+| Słoneczne | 47 | 2 399 zł |
+| Dąbie | 28 | 2 455 zł |
+| Gumieńce | 269 | 2 479 zł |
+| Pogodno | 167 | 2 507 zł |
+| Prawobrzeże | 59 | 2 557 zł |
+| Zachód | 308 | 2 585 zł |
+| Nowe Miasto | 26 | 2 592 zł |
+| Warszewo | 127 | 2 683 zł |
+| Północ | 92 | 2 684 zł |
+| Śródmieście | 753 | 2 712 zł |
+| Stare Miasto | 80 | 2 954 zł |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 2 310 | 58.6% |
-| otodom | 923 | 23.4% |
-| gratka | 254 | 6.4% |
-| domiporta | 237 | 6.0% |
-| morizon | 217 | 5.5% |
+| olx | 2 548 | 59.8% |
+| otodom | 953 | 22.4% |
+| gratka | 293 | 6.9% |
+| domiporta | 238 | 5.6% |
+| morizon | 228 | 5.4% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 

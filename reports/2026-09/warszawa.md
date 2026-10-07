@@ -1,10 +1,10 @@
 # Rynek wynajmu: Warszawa — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **36 714** aktywnych ofert wynajmu — Warszawa, wrzesień 2026
+- **41 543** aktywnych ofert wynajmu — Warszawa, wrzesień 2026
 - Mediana: **3 200 zł/mies.** · cena za m²: **85 zł**
 - Najwięcej ofert w widełkach **3 000-3 499 zł**
 - Najtańsza dzielnica: **Rembertów** · najdroższa: **Wilanów**
@@ -13,9 +13,9 @@
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 36 714 |
+| Aktywne oferty | 41 543 |
 | Mediana ceny miesięcznej | 3 200 zł |
-| Średnia cena miesięczna | 3 612 zł |
+| Średnia cena miesięczna | 3 596 zł |
 | Średnia cena za m² | 85 zł |
 | Średni metraż | 48 m² |
 | Najczęstsze widełki cenowe | 3 000-3 499 zł |
@@ -27,50 +27,52 @@
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 7 406 | 2 600 zł | 29 m² | 95 |
-| 2 | 16 029 | 3 400 zł | 44 m² | 83 |
-| 3 | 8 426 | 4 200 zł | 63 m² | 79 |
-| 4 | 2 234 | 5 165 zł | 87 m² | 83 |
-| 5 | 782 | 1 390 zł | 83 m² | 98 |
+| 1 | 8 419 | 2 600 zł | 29 m² | 95 |
+| 2 | 18 395 | 3 400 zł | 44 m² | 83 |
+| 3 | 9 455 | 4 200 zł | 63 m² | 79 |
+| 4 | 2 417 | 5 000 zł | 87 m² | 83 |
+| 5 | 816 | 1 390 zł | 84 m² | 97 |
 
 ## Dzielnice (od najtańszej)
 
 | Dzielnica | Oferty | Średnia cena |
 |---|---|---|
-| Rembertów | 172 | 2 957 zł |
-| Białołęka | 1 379 | 3 015 zł |
-| Targówek | 1 159 | 3 050 zł |
-| Bielany | 1 625 | 3 134 zł |
-| Ursus | 932 | 3 262 zł |
-| Bemowo | 1 474 | 3 276 zł |
-| Praga-Południe | 2 814 | 3 422 zł |
-| Wawer | 397 | 3 431 zł |
-| Praga-Północ | 1 155 | 3 446 zł |
-| Włochy | 1 062 | 3 525 zł |
-| Ursynów | 1 799 | 3 530 zł |
-| Ochota | 1 625 | 3 548 zł |
-| Wesoła | 195 | 3 671 zł |
-| Żoliborz | 1 007 | 3 784 zł |
-| Mokotów | 5 379 | 4 232 zł |
-| Wola | 4 121 | 4 245 zł |
-| Śródmieście | 3 861 | 4 709 zł |
-| Wilanów | 836 | 5 492 zł |
+| Rembertów | 195 | 2 899 zł |
+| Białołęka | 1 588 | 2 998 zł |
+| Targówek | 1 333 | 3 035 zł |
+| Bielany | 1 853 | 3 104 zł |
+| Ursus | 1 044 | 3 253 zł |
+| Bemowo | 1 679 | 3 285 zł |
+| Wawer | 423 | 3 380 zł |
+| Praga-Południe | 3 172 | 3 411 zł |
+| Praga-Północ | 1 271 | 3 431 zł |
+| Ochota | 1 808 | 3 495 zł |
+| Ursynów | 1 998 | 3 513 zł |
+| Włochy | 1 196 | 3 517 zł |
+| Wesoła | 199 | 3 658 zł |
+| Żoliborz | 1 111 | 3 725 zł |
+| Mokotów | 6 023 | 4 191 zł |
+| Wola | 4 714 | 4 244 zł |
+| Śródmieście | 4 263 | 4 637 zł |
+| Wilanów | 943 | 5 405 zł |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 12 899 | 35.1% |
-| otodom | 10 447 | 28.5% |
-| nieruchomosci-online | 5 140 | 14.0% |
-| gratka | 3 599 | 9.8% |
-| morizon | 2 381 | 6.5% |
-| adresowo | 1 723 | 4.7% |
-| domiporta | 525 | 1.4% |
+| olx | 14 854 | 35.8% |
+| otodom | 12 045 | 29.0% |
+| nieruchomosci-online | 5 654 | 13.6% |
+| gratka | 3 982 | 9.6% |
+| morizon | 2 553 | 6.1% |
+| adresowo | 1 901 | 4.6% |
+| domiporta | 554 | 1.3% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 

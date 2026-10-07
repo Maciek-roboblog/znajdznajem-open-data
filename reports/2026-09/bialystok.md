@@ -1,26 +1,26 @@
 # Rynek wynajmu: Białystok — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **2 787** aktywnych ofert wynajmu — Białystok, wrzesień 2026
+- **3 067** aktywnych ofert wynajmu — Białystok, wrzesień 2026
 - Mediana: **1 800 zł/mies.** · cena za m²: **49 zł**
 - Najwięcej ofert w widełkach **1 500-1 999 zł**
-- Najtańsza dzielnica: **Dziesięciny** · najdroższa: **Przydworcowe**
-- W Białymstoku kawalerki to 16% aktywnych ofert — 7,7 pp. mniej niż średnia kraju (24%).
+- Najtańsza dzielnica: **Słoneczny Stok** · najdroższa: **Przydworcowe**
+- W Białymstoku kawalerki to 17% aktywnych ofert — 7,5 pp. mniej niż średnia kraju (24%).
 
 ## Szczegółowe statystyki
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 2 787 |
+| Aktywne oferty | 3 067 |
 | Mediana ceny miesięcznej | 1 800 zł |
-| Średnia cena miesięczna | 1 770 zł |
+| Średnia cena miesięczna | 1 769 zł |
 | Średnia cena za m² | 49 zł |
 | Średni metraż | 43 m² |
 | Najczęstsze widełki cenowe | 1 500-1 999 zł |
-| Najtańsza dzielnica | Dziesięciny |
+| Najtańsza dzielnica | Słoneczny Stok |
 | Najdroższa dzielnica | Przydworcowe |
 | Największe źródło ofert | olx |
 
@@ -28,53 +28,55 @@
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 420 | 1 600 zł | 28 m² | 60 |
-| 2 | 1 324 | 1 950 zł | 41 m² | 49 |
-| 3 | 705 | 2 000 zł | 54 m² | 43 |
-| 4 | 107 | 970 zł | 69 m² | 38 |
-| 5 | 16 | 900 zł | 72 m² | 48 |
+| 1 | 469 | 1 600 zł | 28 m² | 60 |
+| 2 | 1 476 | 1 900 zł | 41 m² | 48 |
+| 3 | 761 | 2 000 zł | 55 m² | 43 |
+| 4 | 118 | 900 zł | 69 m² | 38 |
+| 5 | 18 | 870 zł | 72 m² | 48 |
 
 ## Dzielnice (od najtańszej)
 
 | Dzielnica | Oferty | Średnia cena |
 |---|---|---|
-| Dziesięciny | 41 | 1 757 zł |
-| Słoneczny Stok | 31 | 1 767 zł |
-| Antoniuk | 135 | 1 814 zł |
-| Zielone Wzgórza | 30 | 1 820 zł |
-| Piasta | 130 | 1 828 zł |
-| Młodych | 31 | 1 872 zł |
-| Piaski | 161 | 1 875 zł |
-| Wysoki Stoczek | 69 | 1 907 zł |
-| Mickiewicza | 93 | 1 909 zł |
-| Dojlidy | 26 | 1 911 zł |
-| Nowe Miasto | 219 | 1 930 zł |
-| Kawaleryjskie | 62 | 1 952 zł |
-| Starosielce | 12 | 1 962 zł |
-| Bacieczki | 40 | 1 971 zł |
-| Centrum | 385 | 1 997 zł |
-| Białostoczek | 79 | 2 008 zł |
-| Leśna Dolina | 31 | 2 012 zł |
-| Wygoda | 52 | 2 041 zł |
+| Słoneczny Stok | 35 | 1 739 zł |
+| Zielone Wzgórza | 31 | 1 761 zł |
+| Dziesięciny | 45 | 1 763 zł |
+| Antoniuk | 161 | 1 812 zł |
+| Piasta | 142 | 1 827 zł |
+| Młodych | 35 | 1 850 zł |
+| Piaski | 183 | 1 864 zł |
+| Dojlidy | 32 | 1 907 zł |
+| Mickiewicza | 104 | 1 910 zł |
+| Starosielce | 12 | 1 925 zł |
+| Nowe Miasto | 240 | 1 931 zł |
+| Wysoki Stoczek | 76 | 1 936 zł |
+| Kawaleryjskie | 63 | 1 941 zł |
+| Bacieczki | 41 | 1 962 zł |
+| Centrum | 442 | 1 987 zł |
+| Białostoczek | 88 | 2 006 zł |
+| Leśna Dolina | 42 | 2 010 zł |
+| Wygoda | 57 | 2 026 zł |
 | Śródmieście | 80 | 2 079 zł |
-| Skorupy | 35 | 2 127 zł |
-| Bojary | 146 | 2 131 zł |
-| Sienkiewicza | 123 | 2 153 zł |
-| Przydworcowe | 107 | 2 219 zł |
+| Skorupy | 38 | 2 093 zł |
+| Bojary | 160 | 2 111 zł |
+| Sienkiewicza | 134 | 2 126 zł |
+| Przydworcowe | 117 | 2 197 zł |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 2 075 | 74.5% |
-| otodom | 317 | 11.4% |
-| morizon | 144 | 5.2% |
-| domiporta | 143 | 5.1% |
-| gratka | 108 | 3.9% |
+| olx | 2 313 | 75.4% |
+| otodom | 330 | 10.8% |
+| domiporta | 153 | 5.0% |
+| morizon | 141 | 4.6% |
+| gratka | 130 | 4.2% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 

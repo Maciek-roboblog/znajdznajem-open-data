@@ -7,6 +7,14 @@ All data MIT licensed — free to cite. See PRESS.md for attribution guidelines.
 
 ---
 
+## Korekta raportu 2026-09 — 2026-10-07
+
+Raport `reports/2026-09/` opublikowany 21.09 zawierał migawkę z 19.09, czyli sprzed końca miesiąca, choć commit nosił datę 01.10.
+Został podmieniony na finalną migawkę z 01.10 03:00. Suma aktywnych ofert w 21 miastach: 141 126 → 157 107.
+Mediana zmieniła się w 6 miastach: Częstochowa 1 600 → 1 550 zł, Gdynia 2 500 → 2 400 zł, Gliwice 1 890 → 1 900 zł,
+Kielce 1 700 → 1 650 zł, Olsztyn 1 950 → 2 000 zł, Opole 1 999 → 2 000 zł. Poprzednia wersja plików: commit `ab6df35`.
+`scripts/publish.py` publikuje odtąd tylko migawki wygenerowane po zakończeniu miesiąca.
+
 ## 2026-W41 — 2026-10-05
 
 Weekly snapshot, 21 cities → `data/weekly/2026-W41/`

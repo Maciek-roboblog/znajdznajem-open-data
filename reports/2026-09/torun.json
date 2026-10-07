@@ -1,9 +1,9 @@
 {
   "city_slug": "torun",
-  "generated_at": "2026-09-19T23:37:12.751082+02:00",
+  "generated_at": "2026-10-01T03:01:05.824591+02:00",
   "observation_mode": "snapshot",
   "data_as_of_basis": "latest_source_change",
-  "data_as_of": "2026-09-19T22:58:02.503372+02:00",
+  "data_as_of": "2026-10-01T02:19:50.573304+02:00",
   "price_sample": {
     "scope": "price_analysis_band",
     "min_price": 500,
@@ -28,215 +28,215 @@
     }
   },
   "overview": {
-    "total_offers": 2148,
-    "avg_price": 1717,
+    "total_offers": 2230,
+    "avg_price": 1736,
     "median_price": 1700,
     "min_price": 500,
     "max_price": 8900,
-    "avg_price_per_m2": 51,
-    "avg_area": 41
+    "avg_price_per_m2": 50,
+    "avg_area": 42
   },
   "districts": [
     {
       "name": "Winnica",
-      "offer_count": 23,
-      "avg_price": 2736,
+      "offer_count": 27,
+      "avg_price": 3103,
       "min_price": 1500,
-      "max_price": 6800
+      "max_price": 8000
     },
     {
       "name": "Jakubskie Przedmieście",
-      "offer_count": 77,
-      "avg_price": 2173,
+      "offer_count": 76,
+      "avg_price": 2226,
       "min_price": 1100,
       "max_price": 4200
     },
     {
       "name": "Stare Miasto",
-      "offer_count": 136,
-      "avg_price": 2141,
-      "min_price": 800,
+      "offer_count": 134,
+      "avg_price": 2168,
+      "min_price": 600,
       "max_price": 8900
     },
     {
       "name": "Wrzosy",
-      "offer_count": 63,
-      "avg_price": 2111,
+      "offer_count": 62,
+      "avg_price": 2094,
       "min_price": 1000,
-      "max_price": 3500
-    },
-    {
-      "name": "Podgórz",
-      "offer_count": 22,
-      "avg_price": 1950,
-      "min_price": 1350,
-      "max_price": 2700
+      "max_price": 3300
     },
     {
       "name": "Stawki",
-      "offer_count": 31,
-      "avg_price": 1941,
+      "offer_count": 34,
+      "avg_price": 2025,
       "min_price": 700,
       "max_price": 3200
     },
     {
       "name": "Rubinkowo",
-      "offer_count": 43,
-      "avg_price": 1860,
-      "min_price": 1200,
-      "max_price": 3200
+      "offer_count": 49,
+      "avg_price": 1970,
+      "min_price": 1100,
+      "max_price": 7500
     },
     {
-      "name": "Mokre",
-      "offer_count": 87,
-      "avg_price": 1858,
-      "min_price": 720,
-      "max_price": 3000
+      "name": "Podgórz",
+      "offer_count": 22,
+      "avg_price": 1918,
+      "min_price": 1200,
+      "max_price": 2700
     },
     {
       "name": "Chełmińskie Przedmieście",
-      "offer_count": 100,
-      "avg_price": 1823,
+      "offer_count": 94,
+      "avg_price": 1850,
       "min_price": 600,
       "max_price": 3300
     },
     {
+      "name": "Mokre",
+      "offer_count": 104,
+      "avg_price": 1850,
+      "min_price": 600,
+      "max_price": 3500
+    },
+    {
       "name": "Bydgoskie Przedmieście",
-      "offer_count": 199,
-      "avg_price": 1798,
+      "offer_count": 206,
+      "avg_price": 1819,
       "min_price": 500,
-      "max_price": 3800
+      "max_price": 4000
+    },
+    {
+      "name": "Na Skarpie",
+      "offer_count": 33,
+      "avg_price": 1798,
+      "min_price": 1000,
+      "max_price": 3000
     },
     {
       "name": "Bielawy",
-      "offer_count": 20,
-      "avg_price": 1775,
+      "offer_count": 21,
+      "avg_price": 1795,
       "min_price": 700,
       "max_price": 3450
     },
     {
       "name": "Bielany",
-      "offer_count": 49,
-      "avg_price": 1757,
+      "offer_count": 50,
+      "avg_price": 1743,
       "min_price": 560,
       "max_price": 3600
     },
     {
-      "name": "Na Skarpie",
-      "offer_count": 27,
-      "avg_price": 1738,
-      "min_price": 1000,
-      "max_price": 3000
-    },
-    {
       "name": "Koniuchy",
-      "offer_count": 59,
-      "avg_price": 1668,
+      "offer_count": 71,
+      "avg_price": 1698,
       "min_price": 550,
-      "max_price": 2500
+      "max_price": 2600
     }
   ],
   "by_rooms": [
     {
       "rooms": 1,
-      "offer_count": 410,
-      "avg_price": 1622,
+      "offer_count": 402,
+      "avg_price": 1636,
       "median_price": 1600,
-      "avg_area": 29,
-      "price_per_m2": 61
+      "avg_area": 30,
+      "price_per_m2": 60
     },
     {
       "rooms": 2,
-      "offer_count": 993,
-      "avg_price": 1867,
+      "offer_count": 1054,
+      "avg_price": 1873,
       "median_price": 1900,
       "avg_area": 41,
-      "price_per_m2": 49
+      "price_per_m2": 48
     },
     {
       "rooms": 3,
-      "offer_count": 498,
-      "avg_price": 1763,
+      "offer_count": 519,
+      "avg_price": 1791,
       "median_price": 1700,
       "avg_area": 53,
       "price_per_m2": 44
     },
     {
       "rooms": 4,
-      "offer_count": 72,
-      "avg_price": 1746,
-      "median_price": 1070,
-      "avg_area": 65,
-      "price_per_m2": 51
+      "offer_count": 75,
+      "avg_price": 1756,
+      "median_price": 1100,
+      "avg_area": 62,
+      "price_per_m2": 52
     },
     {
       "rooms": 5,
-      "offer_count": 5,
-      "avg_price": 880,
-      "median_price": 750,
-      "avg_area": 16,
-      "price_per_m2": 80
+      "offer_count": 6,
+      "avg_price": 1900,
+      "median_price": 875,
+      "avg_area": 52,
+      "price_per_m2": 72
     }
   ],
   "sources": [
     {
       "source": "olx",
-      "offer_count": 1496,
-      "pct": 69.6
+      "offer_count": 1554,
+      "pct": 69.7
     },
     {
       "source": "otodom",
-      "offer_count": 471,
-      "pct": 21.9
+      "offer_count": 485,
+      "pct": 21.7
     },
     {
       "source": "gratka",
       "offer_count": 69,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "source": "morizon",
-      "offer_count": 57,
-      "pct": 2.7
+      "offer_count": 67,
+      "pct": 3.0
     },
     {
       "source": "domiporta",
       "offer_count": 55,
-      "pct": 2.6
+      "pct": 2.5
     }
   ],
   "price_distribution": [
     {
       "price": 500,
-      "count": 382
+      "count": 375
     },
     {
       "price": 1000,
-      "count": 380
+      "count": 400
     },
     {
       "price": 1500,
-      "count": 634
+      "count": 666
     },
     {
       "price": 2000,
-      "count": 470
+      "count": 493
     },
     {
       "price": 2500,
-      "count": 186
+      "count": 193
     },
     {
       "price": 3000,
-      "count": 55
+      "count": 57
     },
     {
       "price": 3500,
-      "count": 20
+      "count": 21
     },
     {
       "price": 4000,
-      "count": 7
+      "count": 6
     },
     {
       "price": 4500,
@@ -244,7 +244,7 @@
     },
     {
       "price": 5000,
-      "count": 2
+      "count": 3
     },
     {
       "price": 5500,
@@ -256,6 +256,18 @@
     },
     {
       "price": 6500,
+      "count": 1
+    },
+    {
+      "price": 7000,
+      "count": 1
+    },
+    {
+      "price": 7500,
+      "count": 2
+    },
+    {
+      "price": 8000,
       "count": 1
     },
     {

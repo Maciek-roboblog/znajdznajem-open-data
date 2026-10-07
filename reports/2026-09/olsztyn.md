@@ -1,22 +1,23 @@
 # Rynek wynajmu: Olsztyn — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **2 103** aktywnych ofert wynajmu — Olsztyn, wrzesień 2026
-- Mediana: **1 950 zł/mies.** · cena za m²: **56 zł**
+- **2 256** aktywnych ofert wynajmu — Olsztyn, wrzesień 2026
+- Mediana: **2 000 zł/mies.** · cena za m²: **56 zł**
 - Najwięcej ofert w widełkach **2 000-2 499 zł**
 - Najtańsza dzielnica: **—** · najdroższa: **—**
-- W Olsztynie kawalerki to 18% aktywnych ofert — 5,7 pp. mniej niż średnia kraju (24%).
+- 113 nowych ofert w Olsztynie w ostatnich 7 dniach — 21% mniej niż średnia 4-tygodniowa.
+- W Olsztynie kawalerki to 18% aktywnych ofert — 6,2 pp. mniej niż średnia kraju (24%).
 
 ## Szczegółowe statystyki
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 2 103 |
-| Mediana ceny miesięcznej | 1 950 zł |
-| Średnia cena miesięczna | 1 922 zł |
+| Aktywne oferty | 2 256 |
+| Mediana ceny miesięcznej | 2 000 zł |
+| Średnia cena miesięczna | 1 940 zł |
 | Średnia cena za m² | 56 zł |
 | Średni metraż | 42 m² |
 | Najczęstsze widełki cenowe | 2 000-2 499 zł |
@@ -28,25 +29,27 @@
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 349 | 1 800 zł | 30 m² | 66 |
-| 2 | 972 | 2 200 zł | 41 m² | 55 |
-| 3 | 463 | 2 100 zł | 54 m² | 50 |
-| 4 | 90 | 1 125 zł | 66 m² | 46 |
-| 5 | 29 | 950 zł | 64 m² | 31 |
+| 1 | 366 | 1 800 zł | 29 m² | 67 |
+| 2 | 1 078 | 2 200 zł | 41 m² | 55 |
+| 3 | 492 | 2 100 zł | 54 m² | 50 |
+| 4 | 94 | 1 125 zł | 66 m² | 44 |
+| 5 | 25 | 1 000 zł | 64 m² | 31 |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 1 624 | 77.2% |
-| otodom | 153 | 7.3% |
-| gratka | 143 | 6.8% |
-| morizon | 143 | 6.8% |
-| domiporta | 40 | 1.9% |
+| olx | 1 745 | 77.3% |
+| otodom | 166 | 7.4% |
+| gratka | 163 | 7.2% |
+| morizon | 141 | 6.3% |
+| domiporta | 41 | 1.8% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 

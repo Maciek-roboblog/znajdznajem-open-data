@@ -1,11 +1,11 @@
 # Rynek wynajmu: Toruń — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **2 148** aktywnych ofert wynajmu — Toruń, wrzesień 2026
-- Mediana: **1 700 zł/mies.** · cena za m²: **51 zł**
+- **2 230** aktywnych ofert wynajmu — Toruń, wrzesień 2026
+- Mediana: **1 700 zł/mies.** · cena za m²: **50 zł**
 - Najwięcej ofert w widełkach **1 500-1 999 zł**
 - Najtańsza dzielnica: **Koniuchy** · najdroższa: **Winnica**
 
@@ -13,11 +13,11 @@
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 2 148 |
+| Aktywne oferty | 2 230 |
 | Mediana ceny miesięcznej | 1 700 zł |
-| Średnia cena miesięczna | 1 717 zł |
-| Średnia cena za m² | 51 zł |
-| Średni metraż | 41 m² |
+| Średnia cena miesięczna | 1 736 zł |
+| Średnia cena za m² | 50 zł |
+| Średni metraż | 42 m² |
 | Najczęstsze widełki cenowe | 1 500-1 999 zł |
 | Najtańsza dzielnica | Koniuchy |
 | Najdroższa dzielnica | Winnica |
@@ -27,44 +27,46 @@
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 410 | 1 600 zł | 29 m² | 61 |
-| 2 | 993 | 1 900 zł | 41 m² | 49 |
-| 3 | 498 | 1 700 zł | 53 m² | 44 |
-| 4 | 72 | 1 070 zł | 65 m² | 51 |
-| 5 | 5 | 750 zł | 16 m² | 80 |
+| 1 | 402 | 1 600 zł | 30 m² | 60 |
+| 2 | 1 054 | 1 900 zł | 41 m² | 48 |
+| 3 | 519 | 1 700 zł | 53 m² | 44 |
+| 4 | 75 | 1 100 zł | 62 m² | 52 |
+| 5 | 6 | 875 zł | 52 m² | 72 |
 
 ## Dzielnice (od najtańszej)
 
 | Dzielnica | Oferty | Średnia cena |
 |---|---|---|
-| Koniuchy | 59 | 1 668 zł |
-| Na Skarpie | 27 | 1 738 zł |
-| Bielany | 49 | 1 757 zł |
-| Bielawy | 20 | 1 775 zł |
-| Bydgoskie Przedmieście | 199 | 1 798 zł |
-| Chełmińskie Przedmieście | 100 | 1 823 zł |
-| Mokre | 87 | 1 858 zł |
-| Rubinkowo | 43 | 1 860 zł |
-| Stawki | 31 | 1 941 zł |
-| Podgórz | 22 | 1 950 zł |
-| Wrzosy | 63 | 2 111 zł |
-| Stare Miasto | 136 | 2 141 zł |
-| Jakubskie Przedmieście | 77 | 2 173 zł |
-| Winnica | 23 | 2 736 zł |
+| Koniuchy | 71 | 1 698 zł |
+| Bielany | 50 | 1 743 zł |
+| Bielawy | 21 | 1 795 zł |
+| Na Skarpie | 33 | 1 798 zł |
+| Bydgoskie Przedmieście | 206 | 1 819 zł |
+| Chełmińskie Przedmieście | 94 | 1 850 zł |
+| Mokre | 104 | 1 850 zł |
+| Podgórz | 22 | 1 918 zł |
+| Rubinkowo | 49 | 1 970 zł |
+| Stawki | 34 | 2 025 zł |
+| Wrzosy | 62 | 2 094 zł |
+| Stare Miasto | 134 | 2 168 zł |
+| Jakubskie Przedmieście | 76 | 2 226 zł |
+| Winnica | 27 | 3 103 zł |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 1 496 | 69.6% |
-| otodom | 471 | 21.9% |
-| gratka | 69 | 3.2% |
-| morizon | 57 | 2.7% |
-| domiporta | 55 | 2.6% |
+| olx | 1 554 | 69.7% |
+| otodom | 485 | 21.7% |
+| gratka | 69 | 3.1% |
+| morizon | 67 | 3.0% |
+| domiporta | 55 | 2.5% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 

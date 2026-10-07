@@ -50,7 +50,7 @@ class DefinitionSnapshotsTest(unittest.TestCase):
         self.assertNotIn('po deduplikacji', rendered)
 
     def test_monthly_json_preserves_definition_and_does_not_rewrite_old_files(self):
-        original = {'overview': {'total_offers': 12}, 'definition': DEFINITION}
+        original = {'overview': {'total_offers': 12}, 'definition': DEFINITION, 'generated_at': '2026-10-01T03:00:31+02:00'}
         with tempfile.TemporaryDirectory() as directory:
             base = Path(directory)
             old = base / 'reports' / '2025-01'
