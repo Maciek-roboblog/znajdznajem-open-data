@@ -1,22 +1,22 @@
 # Rynek wynajmu: Lublin — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **5 598** aktywnych ofert wynajmu — Lublin, wrzesień 2026
+- **6 261** aktywnych ofert wynajmu — Lublin, wrzesień 2026
 - Mediana: **1 900 zł/mies.** · cena za m²: **57 zł**
 - Najwięcej ofert w widełkach **500-999 zł**
 - Najtańsza dzielnica: **Tatary** · najdroższa: **Sławin**
-- W Lublinie kawalerki to 19% aktywnych ofert — 5,2 pp. mniej niż średnia kraju (24%).
+- W Lublinie kawalerki to 19% aktywnych ofert — 5,1 pp. mniej niż średnia kraju (24%).
 
 ## Szczegółowe statystyki
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 5 598 |
+| Aktywne oferty | 6 261 |
 | Mediana ceny miesięcznej | 1 900 zł |
-| Średnia cena miesięczna | 1 889 zł |
+| Średnia cena miesięczna | 1 883 zł |
 | Średnia cena za m² | 57 zł |
 | Średni metraż | 43 m² |
 | Najczęstsze widełki cenowe | 500-999 zł |
@@ -28,54 +28,56 @@
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 935 | 1 950 zł | 29 m² | 71 |
-| 2 | 2 137 | 2 299 zł | 43 m² | 57 |
-| 3 | 1 405 | 1 900 zł | 54 m² | 49 |
-| 4 | 397 | 1 000 zł | 61 m² | 49 |
-| 5 | 71 | 950 zł | 33 m² | 71 |
+| 1 | 1 049 | 1 900 zł | 30 m² | 70 |
+| 2 | 2 407 | 2 200 zł | 43 m² | 57 |
+| 3 | 1 545 | 1 900 zł | 54 m² | 48 |
+| 4 | 445 | 1 000 zł | 62 m² | 49 |
+| 5 | 82 | 950 zł | 34 m² | 70 |
 
 ## Dzielnice (od najtańszej)
 
 | Dzielnica | Oferty | Średnia cena |
 |---|---|---|
-| Tatary | 21 | 1 857 zł |
-| Kalinowszczyzna | 95 | 2 056 zł |
-| LSM | 249 | 2 075 zł |
-| Bronowice | 87 | 2 117 zł |
-| Rury | 212 | 2 159 zł |
-| Szerokie | 13 | 2 169 zł |
-| Dziesiąta | 92 | 2 178 zł |
-| Czuby Południowe | 60 | 2 201 zł |
-| Kośminek | 61 | 2 224 zł |
-| Wrotków | 88 | 2 267 zł |
-| Czuby Północne | 97 | 2 274 zł |
+| Tatary | 22 | 1 850 zł |
+| Kalinowszczyzna | 98 | 2 025 zł |
+| LSM | 282 | 2 065 zł |
+| Bronowice | 94 | 2 080 zł |
+| Rury | 212 | 2 152 zł |
+| Szerokie | 15 | 2 186 zł |
+| Dziesiąta | 98 | 2 202 zł |
+| Czuby Południowe | 59 | 2 220 zł |
+| Czuby Północne | 98 | 2 245 zł |
+| Kośminek | 61 | 2 264 zł |
+| Czechów Północny | 92 | 2 269 zł |
 | Węglin Północny | 12 | 2 279 zł |
-| Sławinek | 73 | 2 289 zł |
-| Czechów Północny | 89 | 2 303 zł |
-| Konstantynów | 56 | 2 344 zł |
-| Felin | 35 | 2 345 zł |
-| Wieniawa | 239 | 2 360 zł |
-| Ponikwoda | 98 | 2 363 zł |
-| Czechów Południowy | 183 | 2 379 zł |
-| Stare Miasto | 121 | 2 420 zł |
-| Węglin Południowy | 109 | 2 449 zł |
-| Za Cukrownią | 24 | 2 452 zł |
-| Śródmieście | 402 | 2 522 zł |
-| Sławin | 85 | 2 554 zł |
+| Sławinek | 80 | 2 302 zł |
+| Wrotków | 106 | 2 303 zł |
+| Ponikwoda | 103 | 2 317 zł |
+| Felin | 37 | 2 336 zł |
+| Konstantynów | 59 | 2 347 zł |
+| Czechów Południowy | 195 | 2 356 zł |
+| Wieniawa | 247 | 2 357 zł |
+| Węglin Południowy | 115 | 2 417 zł |
+| Za Cukrownią | 25 | 2 423 zł |
+| Stare Miasto | 131 | 2 435 zł |
+| Śródmieście | 427 | 2 554 zł |
+| Sławin | 88 | 2 555 zł |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 4 302 | 76.8% |
-| otodom | 671 | 12.0% |
-| gratka | 280 | 5.0% |
-| morizon | 231 | 4.1% |
-| domiporta | 114 | 2.0% |
+| olx | 4 847 | 77.4% |
+| otodom | 751 | 12.0% |
+| gratka | 295 | 4.7% |
+| morizon | 247 | 3.9% |
+| domiporta | 121 | 1.9% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 

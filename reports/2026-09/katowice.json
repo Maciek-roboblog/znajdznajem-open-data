@@ -1,9 +1,9 @@
 {
   "city_slug": "katowice",
-  "generated_at": "2026-09-19T23:36:51.245921+02:00",
+  "generated_at": "2026-10-01T03:00:23.555350+02:00",
   "observation_mode": "snapshot",
   "data_as_of_basis": "latest_source_change",
-  "data_as_of": "2026-09-19T23:09:24.685191+02:00",
+  "data_as_of": "2026-10-01T02:39:46.912422+02:00",
   "price_sample": {
     "scope": "price_analysis_band",
     "min_price": 500,
@@ -28,8 +28,8 @@
     }
   },
   "overview": {
-    "total_offers": 5003,
-    "avg_price": 2049,
+    "total_offers": 5437,
+    "avg_price": 2044,
     "median_price": 1900,
     "min_price": 500,
     "max_price": 14000,
@@ -38,93 +38,93 @@
   },
   "districts": [
     {
-      "name": "Brynów-Osiedle Zgrzebnioka",
-      "offer_count": 359,
-      "avg_price": 2430,
-      "min_price": 500,
-      "max_price": 7500
-    },
-    {
       "name": "Bogucice",
-      "offer_count": 266,
-      "avg_price": 2423,
+      "offer_count": 290,
+      "avg_price": 2438,
       "min_price": 502,
       "max_price": 14000
     },
     {
+      "name": "Brynów-Osiedle Zgrzebnioka",
+      "offer_count": 392,
+      "avg_price": 2426,
+      "min_price": 500,
+      "max_price": 7500
+    },
+    {
       "name": "Dąb",
-      "offer_count": 207,
-      "avg_price": 2330,
+      "offer_count": 234,
+      "avg_price": 2347,
       "min_price": 600,
       "max_price": 10500
     },
     {
       "name": "Piotrowice-Ochojec",
-      "offer_count": 252,
-      "avg_price": 2256,
+      "offer_count": 278,
+      "avg_price": 2237,
       "min_price": 690,
       "max_price": 6500
     },
     {
       "name": "Koszutka",
-      "offer_count": 311,
-      "avg_price": 2186,
+      "offer_count": 332,
+      "avg_price": 2148,
       "min_price": 600,
       "max_price": 10500
     },
     {
       "name": "Wełnowiec-Józefowiec",
-      "offer_count": 169,
-      "avg_price": 2099,
+      "offer_count": 188,
+      "avg_price": 2098,
       "min_price": 900,
       "max_price": 5300
     },
     {
       "name": "Śródmieście",
-      "offer_count": 1136,
-      "avg_price": 2099,
+      "offer_count": 1229,
+      "avg_price": 2087,
       "min_price": 500,
       "max_price": 10500
     },
     {
       "name": "Osiedle Tysiąclecia",
-      "offer_count": 179,
-      "avg_price": 2022,
+      "offer_count": 198,
+      "avg_price": 2017,
       "min_price": 590,
       "max_price": 4000
     },
     {
       "name": "Ligota-Panewniki",
-      "offer_count": 436,
-      "avg_price": 2011,
+      "offer_count": 475,
+      "avg_price": 2000,
       "min_price": 500,
       "max_price": 11000
     },
     {
       "name": "Janów-Nikiszowiec",
-      "offer_count": 83,
-      "avg_price": 1935,
+      "offer_count": 88,
+      "avg_price": 1983,
       "min_price": 589,
       "max_price": 3600
     },
     {
       "name": "Szopienice-Burowiec",
-      "offer_count": 134,
-      "avg_price": 1917,
+      "offer_count": 129,
+      "avg_price": 1879,
       "min_price": 500,
       "max_price": 3827
     },
     {
       "name": "Murcki",
-      "offer_count": 11,
-      "avg_price": 1859,
+      "offer_count": 13,
+      "avg_price": 1787,
       "min_price": 1100,
       "max_price": 3800
     },
     {
       "name": "Załęże",
-      "offer_count": 82,
-      "avg_price": 1561,
+      "offer_count": 87,
+      "avg_price": 1530,
       "min_price": 518,
       "max_price": 4000
     }
@@ -132,114 +132,114 @@
   "by_rooms": [
     {
       "rooms": 1,
-      "offer_count": 1409,
-      "avg_price": 1635,
+      "offer_count": 1476,
+      "avg_price": 1650,
       "median_price": 1600,
       "avg_area": 29,
       "price_per_m2": 62
     },
     {
       "rooms": 2,
-      "offer_count": 2057,
-      "avg_price": 2135,
+      "offer_count": 2284,
+      "avg_price": 2132,
       "median_price": 2100,
       "avg_area": 44,
       "price_per_m2": 52
     },
     {
       "rooms": 3,
-      "offer_count": 965,
-      "avg_price": 2530,
+      "offer_count": 1061,
+      "avg_price": 2507,
       "median_price": 2500,
       "avg_area": 59,
-      "price_per_m2": 49
+      "price_per_m2": 48
     },
     {
       "rooms": 4,
-      "offer_count": 295,
-      "avg_price": 2689,
-      "median_price": 2000,
+      "offer_count": 319,
+      "avg_price": 2554,
+      "median_price": 1750,
       "avg_area": 72,
-      "price_per_m2": 49
+      "price_per_m2": 48
     },
     {
       "rooms": 5,
-      "offer_count": 49,
-      "avg_price": 1449,
+      "offer_count": 57,
+      "avg_price": 1447,
       "median_price": 800,
-      "avg_area": 52,
+      "avg_area": 53,
       "price_per_m2": 52
     }
   ],
   "sources": [
     {
       "source": "olx",
-      "offer_count": 2122,
-      "pct": 42.4
+      "offer_count": 2321,
+      "pct": 42.7
     },
     {
       "source": "otodom",
-      "offer_count": 1017,
-      "pct": 20.3
+      "offer_count": 1120,
+      "pct": 20.6
     },
     {
       "source": "nieruchomosci-online",
-      "offer_count": 715,
-      "pct": 14.3
+      "offer_count": 749,
+      "pct": 13.8
     },
     {
       "source": "gratka",
-      "offer_count": 411,
-      "pct": 8.2
+      "offer_count": 462,
+      "pct": 8.5
     },
     {
       "source": "morizon",
-      "offer_count": 397,
-      "pct": 7.9
+      "offer_count": 417,
+      "pct": 7.7
     },
     {
       "source": "domiporta",
-      "offer_count": 175,
-      "pct": 3.5
+      "offer_count": 195,
+      "pct": 3.6
     },
     {
       "source": "adresowo",
-      "offer_count": 166,
-      "pct": 3.3
+      "offer_count": 173,
+      "pct": 3.2
     }
   ],
   "price_distribution": [
     {
       "price": 500,
-      "count": 530
+      "count": 578
     },
     {
       "price": 1000,
-      "count": 798
+      "count": 846
     },
     {
       "price": 1500,
-      "count": 1322
+      "count": 1429
     },
     {
       "price": 2000,
-      "count": 1071
+      "count": 1177
     },
     {
       "price": 2500,
-      "count": 638
+      "count": 730
     },
     {
       "price": 3000,
-      "count": 304
+      "count": 317
     },
     {
       "price": 3500,
-      "count": 134
+      "count": 147
     },
     {
       "price": 4000,
-      "count": 57
+      "count": 63
     },
     {
       "price": 4500,
@@ -247,11 +247,11 @@
     },
     {
       "price": 5000,
-      "count": 32
+      "count": 30
     },
     {
       "price": 5500,
-      "count": 19
+      "count": 25
     },
     {
       "price": 6000,
@@ -283,7 +283,7 @@
     },
     {
       "price": 10500,
-      "count": 6
+      "count": 4
     },
     {
       "price": 11000,
@@ -291,26 +291,13 @@
     },
     {
       "price": 13000,
-      "count": 2
+      "count": 1
     },
     {
       "price": 14000,
       "count": 1
     }
   ],
-  "insights": [
-    {
-      "type": "room_mix_anomaly",
-      "text": "W Katowicach kawalerki to 30% aktywnych ofert — 5,4 pp. więcej niż średnia kraju (24%).",
-      "magnitude": 5.429855747873482,
-      "evidence": {
-        "city_studio_pct": 29.51,
-        "national_studio_pct": 24.08,
-        "delta_pp": 5.43,
-        "city_studio_count": 1409,
-        "city_total": 4775
-      }
-    }
-  ],
+  "insights": [],
   "generated_month": "2026-09"
 }

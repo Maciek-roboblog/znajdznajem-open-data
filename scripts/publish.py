@@ -2,9 +2,9 @@
 """Publish znajdznajem open data.
 
 Weekly:  data/weekly/YYYY-WNN/ + data/latest/  (from live /stats/report + /stats/market/dynamics)
-Monthly: reports/YYYY-MM/<city>.md + .json for every month the API has an archive
-         snapshot for and this repo does not have yet (backfill + ongoing, one
-         commit per month, dated 1st of the following month).
+Monthly: reports/YYYY-MM/<city>.md + .json for every month the API has a final archive
+         snapshot for (generated after the month ended) and this repo does not have yet
+         (backfill + ongoing, one commit per month, dated 1st of the following month).
 
 Usage: publish.py [--date YYYY-MM-DD] [--dry-run] [--api http://127.0.0.1:8001/api/v1]
        dry-run = write files, no git; --api = bypass the public rate limiter when run on the server
@@ -301,12 +301,18 @@ def monthly(cities: list[dict], dry_run: bool) -> None:
             r = get("/stats/report/archive", city=city["slug"], month=month)
             if not r:
                 continue
-            r = {**r, "definition": report_definition(r)}
-            write(out / f"{city['slug']}.md", render_report(month, city, r))
-            write_json(out / f"{city['slug']}.json", r)
-            done.append((city, r))
+            done.append((city, {**r, "definition": report_definition(r)}))
         if not done:
             continue
+        # The app keeps overwriting a month's archive until the month ends, so only a snapshot generated
+        # after it is final. 2026-09 went out on 09-21 with data from 09-19 because this was not checked.
+        early = [c["slug"] for c, r in done if str(r.get("generated_at") or "")[:7] <= month]
+        if early:
+            print(f"monthly {month}: not final yet ({len(early)}/{len(done)} cities, e.g. {early[0]}), skipping")
+            continue
+        for city, r in done:
+            write(out / f"{city['slug']}.md", render_report(month, city, r))
+            write_json(out / f"{city['slug']}.json", r)
         label = f"{MONTHS_PL[mo]} {yr}"
         write(out / "README.md", "\n".join([
             f"# Rynek wynajmu w Polsce — raport {label}",

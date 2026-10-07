@@ -1,23 +1,23 @@
 # Rynek wynajmu: Rzeszów — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **3 828** aktywnych ofert wynajmu — Rzeszów, wrzesień 2026
-- Mediana: **2 000 zł/mies.** · cena za m²: **53 zł**
+- **4 184** aktywnych ofert wynajmu — Rzeszów, wrzesień 2026
+- Mediana: **2 000 zł/mies.** · cena za m²: **52 zł**
 - Najwięcej ofert w widełkach **2 000-2 499 zł**
 - Najtańsza dzielnica: **Baranówka** · najdroższa: **Przybyszówka**
-- W Rzeszowie kawalerki to 17% aktywnych ofert — 7,2 pp. mniej niż średnia kraju (24%).
+- W Rzeszowie kawalerki to 17% aktywnych ofert — 7,5 pp. mniej niż średnia kraju (24%).
 
 ## Szczegółowe statystyki
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 3 828 |
+| Aktywne oferty | 4 184 |
 | Mediana ceny miesięcznej | 2 000 zł |
-| Średnia cena miesięczna | 1 953 zł |
-| Średnia cena za m² | 53 zł |
+| Średnia cena miesięczna | 1 954 zł |
+| Średnia cena za m² | 52 zł |
 | Średni metraż | 46 m² |
 | Najczęstsze widełki cenowe | 2 000-2 499 zł |
 | Najtańsza dzielnica | Baranówka |
@@ -28,48 +28,50 @@
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 578 | 1 800 zł | 31 m² | 65 |
-| 2 | 1 565 | 2 200 zł | 43 m² | 52 |
-| 3 | 984 | 2 300 zł | 56 m² | 46 |
-| 4 | 279 | 1 300 zł | 72 m² | 46 |
-| 5 | 26 | 1 000 zł | 91 m² | 37 |
+| 1 | 622 | 1 800 zł | 31 m² | 65 |
+| 2 | 1 765 | 2 150 zł | 43 m² | 52 |
+| 3 | 1 067 | 2 300 zł | 56 m² | 46 |
+| 4 | 283 | 1 300 zł | 72 m² | 45 |
+| 5 | 25 | 999 zł | 79 m² | 42 |
 
 ## Dzielnice (od najtańszej)
 
 | Dzielnica | Oferty | Średnia cena |
 |---|---|---|
-| Baranówka | 68 | 1 902 zł |
-| 1000-lecia | 84 | 1 964 zł |
-| Kmity | 41 | 2 064 zł |
-| Zalesie | 56 | 2 089 zł |
-| Pułaskiego | 64 | 2 123 zł |
-| Wilkowyja | 56 | 2 123 zł |
-| Paderewskiego | 60 | 2 155 zł |
-| Krakowska-Południe | 27 | 2 179 zł |
-| Pobitno | 49 | 2 199 zł |
-| Nowe Miasto | 149 | 2 207 zł |
-| Zwięczyca | 12 | 2 208 zł |
-| Mieszka I | 121 | 2 361 zł |
-| Staromieście | 88 | 2 468 zł |
-| Drabinianka | 251 | 2 475 zł |
-| Słocina | 44 | 2 475 zł |
-| Staroniwa | 25 | 2 496 zł |
-| Śródmieście | 146 | 2 596 zł |
-| Przybyszówka | 60 | 2 680 zł |
+| Baranówka | 72 | 1 902 zł |
+| 1000-lecia | 80 | 1 928 zł |
+| Kmity | 41 | 2 015 zł |
+| Zalesie | 62 | 2 054 zł |
+| Paderewskiego | 62 | 2 124 zł |
+| Wilkowyja | 54 | 2 125 zł |
+| Pułaskiego | 61 | 2 159 zł |
+| Krakowska-Południe | 31 | 2 175 zł |
+| Nowe Miasto | 155 | 2 201 zł |
+| Zwięczyca | 15 | 2 270 zł |
+| Pobitno | 52 | 2 296 zł |
+| Mieszka I | 125 | 2 345 zł |
+| Staromieście | 96 | 2 391 zł |
+| Drabinianka | 274 | 2 441 zł |
+| Słocina | 50 | 2 455 zł |
+| Staroniwa | 25 | 2 557 zł |
+| Śródmieście | 146 | 2 557 zł |
+| Przybyszówka | 62 | 2 599 zł |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 2 664 | 69.6% |
-| otodom | 521 | 13.6% |
-| domiporta | 270 | 7.1% |
-| gratka | 192 | 5.0% |
-| morizon | 181 | 4.7% |
+| olx | 2 933 | 70.1% |
+| otodom | 540 | 12.9% |
+| domiporta | 291 | 7.0% |
+| gratka | 211 | 5.0% |
+| morizon | 209 | 5.0% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 

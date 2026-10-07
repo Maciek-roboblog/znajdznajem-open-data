@@ -1,10 +1,10 @@
 # Rynek wynajmu: Oświęcim — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **642** aktywnych ofert wynajmu — Oświęcim, wrzesień 2026
+- **575** aktywnych ofert wynajmu — Oświęcim, wrzesień 2026
 - Mediana: **1 600 zł/mies.** · cena za m²: **43 zł**
 - Najwięcej ofert w widełkach **1 500-1 999 zł**
 - Najtańsza dzielnica: **—** · najdroższa: **—**
@@ -13,9 +13,9 @@
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 642 |
+| Aktywne oferty | 575 |
 | Mediana ceny miesięcznej | 1 600 zł |
-| Średnia cena miesięczna | 1 686 zł |
+| Średnia cena miesięczna | 1 697 zł |
 | Średnia cena za m² | 43 zł |
 | Średni metraż | 44 m² |
 | Najczęstsze widełki cenowe | 1 500-1 999 zł |
@@ -27,27 +27,29 @@
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 169 | 1 450 zł | 32 m² | 50 |
-| 2 | 283 | 1 700 zł | 43 m² | 42 |
-| 3 | 117 | 2 100 zł | 58 m² | 38 |
-| 4 | 14 | 1 950 zł | 81 m² | 27 |
-| 5 | 3 | 1 000 zł | — m² | — |
+| 1 | 149 | 1 400 zł | 32 m² | 49 |
+| 2 | 256 | 1 700 zł | 43 m² | 41 |
+| 3 | 114 | 2 150 zł | 58 m² | 39 |
+| 4 | 8 | 1 800 zł | 78 m² | 28 |
+| 5 | 2 | 825 zł | — m² | — |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 450 | 70.1% |
-| nieruchomosci-online | 78 | 12.1% |
-| adresowo | 55 | 8.6% |
-| domiporta | 32 | 5.0% |
-| otodom | 11 | 1.7% |
-| gratka | 9 | 1.4% |
-| morizon | 7 | 1.1% |
+| olx | 388 | 67.5% |
+| nieruchomosci-online | 77 | 13.4% |
+| adresowo | 57 | 9.9% |
+| domiporta | 23 | 4.0% |
+| otodom | 12 | 2.1% |
+| gratka | 10 | 1.7% |
+| morizon | 8 | 1.4% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 

@@ -1,23 +1,22 @@
 # Rynek wynajmu: Częstochowa — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **1 241** aktywnych ofert wynajmu — Częstochowa, wrzesień 2026
-- Mediana: **1 600 zł/mies.** · cena za m²: **43 zł**
+- **1 293** aktywnych ofert wynajmu — Częstochowa, wrzesień 2026
+- Mediana: **1 550 zł/mies.** · cena za m²: **42 zł**
 - Najwięcej ofert w widełkach **1 500-1 999 zł**
 - Najtańsza dzielnica: **—** · najdroższa: **—**
-- 122 nowych ofert w Częstochowie w ostatnich 7 dniach — 48% więcej niż średnia 4-tygodniowa.
 
 ## Szczegółowe statystyki
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 1 241 |
-| Mediana ceny miesięcznej | 1 600 zł |
-| Średnia cena miesięczna | 1 758 zł |
-| Średnia cena za m² | 43 zł |
+| Aktywne oferty | 1 293 |
+| Mediana ceny miesięcznej | 1 550 zł |
+| Średnia cena miesięczna | 1 739 zł |
+| Średnia cena za m² | 42 zł |
 | Średni metraż | 45 m² |
 | Najczęstsze widełki cenowe | 1 500-1 999 zł |
 | Najtańsza dzielnica | — |
@@ -28,25 +27,27 @@
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 314 | 1 350 zł | 30 m² | 49 |
-| 2 | 659 | 1 650 zł | 45 m² | 40 |
-| 3 | 184 | 2 500 zł | 63 m² | 41 |
-| 4 | 37 | 1 800 zł | 82 m² | 39 |
-| 5 | 12 | 950 zł | 90 m² | 35 |
+| 1 | 344 | 1 400 zł | 30 m² | 49 |
+| 2 | 669 | 1 650 zł | 45 m² | 40 |
+| 3 | 196 | 2 300 zł | 63 m² | 40 |
+| 4 | 41 | 1 900 zł | 87 m² | 39 |
+| 5 | 11 | 900 zł | 102 m² | 27 |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 730 | 58.8% |
-| otodom | 262 | 21.1% |
-| domiporta | 145 | 11.7% |
-| morizon | 59 | 4.8% |
-| gratka | 45 | 3.6% |
+| olx | 776 | 60.0% |
+| otodom | 276 | 21.3% |
+| domiporta | 134 | 10.4% |
+| morizon | 62 | 4.8% |
+| gratka | 45 | 3.5% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 

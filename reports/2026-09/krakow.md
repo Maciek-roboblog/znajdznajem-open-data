@@ -1,73 +1,75 @@
 # Rynek wynajmu: Kraków — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **21 468** aktywnych ofert wynajmu — Kraków, wrzesień 2026
-- Mediana: **2 600 zł/mies.** · cena za m²: **70 zł**
+- **24 338** aktywnych ofert wynajmu — Kraków, wrzesień 2026
+- Mediana: **2 600 zł/mies.** · cena za m²: **69 zł**
 - Najwięcej ofert w widełkach **2 500-2 999 zł**
-- Najtańsza dzielnica: **Nowa Huta** · najdroższa: **Zwierzyniec**
+- Najtańsza dzielnica: **Nowa Huta** · najdroższa: **Kazimierz**
 
 ## Szczegółowe statystyki
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 21 468 |
+| Aktywne oferty | 24 338 |
 | Mediana ceny miesięcznej | 2 600 zł |
-| Średnia cena miesięczna | 2 709 zł |
-| Średnia cena za m² | 70 zł |
-| Średni metraż | 45 m² |
+| Średnia cena miesięczna | 2 703 zł |
+| Średnia cena za m² | 69 zł |
+| Średni metraż | 44 m² |
 | Najczęstsze widełki cenowe | 2 500-2 999 zł |
 | Najtańsza dzielnica | Nowa Huta |
-| Najdroższa dzielnica | Zwierzyniec |
+| Najdroższa dzielnica | Kazimierz |
 | Największe źródło ofert | olx |
 
 ## Według liczby pokoi
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 5 358 | 2 200 zł | 30 m² | 79 |
-| 2 | 9 206 | 2 800 zł | 44 m² | 67 |
-| 3 | 4 626 | 3 300 zł | 59 m² | 64 |
-| 4 | 919 | 3 500 zł | 78 m² | 68 |
-| 5 | 183 | 1 350 zł | 100 m² | 66 |
+| 1 | 6 064 | 2 200 zł | 30 m² | 79 |
+| 2 | 10 484 | 2 800 zł | 44 m² | 67 |
+| 3 | 5 212 | 3 300 zł | 59 m² | 62 |
+| 4 | 1 027 | 3 450 zł | 77 m² | 68 |
+| 5 | 213 | 1 330 zł | 98 m² | 65 |
 
 ## Dzielnice (od najtańszej)
 
 | Dzielnica | Oferty | Średnia cena |
 |---|---|---|
-| Nowa Huta | 480 | 2 421 zł |
-| Bieżanów-Prokocim | 685 | 2 518 zł |
-| Podgórze Duchackie | 694 | 2 567 zł |
-| Prądnik Czerwony | 1 412 | 2 693 zł |
-| Prądnik Biały | 1 606 | 2 797 zł |
-| Krowodrza | 2 187 | 2 799 zł |
-| Czyżyny | 739 | 2 816 zł |
-| Bronowice | 1 093 | 2 894 zł |
-| Dębniki | 1 321 | 2 898 zł |
-| Stare Podgórze | 1 889 | 3 018 zł |
-| Grzegórzki | 1 528 | 3 175 zł |
-| Stare Miasto | 1 909 | 3 193 zł |
-| Kazimierz | 409 | 3 446 zł |
-| Zwierzyniec | 371 | 3 490 zł |
+| Nowa Huta | 537 | 2 429 zł |
+| Bieżanów-Prokocim | 778 | 2 514 zł |
+| Podgórze Duchackie | 789 | 2 556 zł |
+| Prądnik Czerwony | 1 588 | 2 675 zł |
+| Krowodrza | 2 457 | 2 781 zł |
+| Prądnik Biały | 1 841 | 2 793 zł |
+| Czyżyny | 865 | 2 798 zł |
+| Bronowice | 1 264 | 2 872 zł |
+| Dębniki | 1 475 | 2 874 zł |
+| Stare Podgórze | 2 126 | 3 025 zł |
+| Grzegórzki | 1 746 | 3 176 zł |
+| Stare Miasto | 2 123 | 3 192 zł |
+| Zwierzyniec | 402 | 3 467 zł |
+| Kazimierz | 442 | 3 480 zł |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 8 807 | 41.0% |
-| otodom | 3 861 | 18.0% |
-| nieruchomosci-online | 3 662 | 17.1% |
-| gratka | 2 284 | 10.6% |
-| morizon | 1 571 | 7.3% |
-| adresowo | 666 | 3.1% |
-| domiporta | 572 | 2.7% |
-| krn | 45 | 0.2% |
+| olx | 10 176 | 41.8% |
+| otodom | 4 505 | 18.5% |
+| nieruchomosci-online | 3 955 | 16.3% |
+| gratka | 2 535 | 10.4% |
+| morizon | 1 750 | 7.2% |
+| adresowo | 730 | 3.0% |
+| domiporta | 658 | 2.7% |
+| krn | 29 | 0.1% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 

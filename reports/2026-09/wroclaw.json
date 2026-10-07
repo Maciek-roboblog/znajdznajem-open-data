@@ -1,9 +1,9 @@
 {
   "city_slug": "wroclaw",
-  "generated_at": "2026-09-19T23:37:18.918025+02:00",
+  "generated_at": "2026-10-01T03:01:33.390053+02:00",
   "observation_mode": "snapshot",
   "data_as_of_basis": "latest_source_change",
-  "data_as_of": "2026-09-19T23:37:17.468632+02:00",
+  "data_as_of": "2026-10-01T03:01:17.371170+02:00",
   "price_sample": {
     "scope": "price_analysis_band",
     "min_price": 500,
@@ -28,8 +28,8 @@
     }
   },
   "overview": {
-    "total_offers": 17243,
-    "avg_price": 2634,
+    "total_offers": 19343,
+    "avg_price": 2632,
     "median_price": 2600,
     "min_price": 530,
     "max_price": 15000,
@@ -39,64 +39,64 @@
   "districts": [
     {
       "name": "Ołtaszyn",
-      "offer_count": 60,
-      "avg_price": 3562,
+      "offer_count": 64,
+      "avg_price": 3464,
       "min_price": 1900,
       "max_price": 7990
     },
     {
       "name": "Nadodrze",
-      "offer_count": 199,
-      "avg_price": 3082,
+      "offer_count": 203,
+      "avg_price": 3078,
       "min_price": 1100,
-      "max_price": 8900
-    },
-    {
-      "name": "Stare Miasto",
-      "offer_count": 3025,
-      "avg_price": 2884,
-      "min_price": 550,
-      "max_price": 15000
+      "max_price": 9700
     },
     {
       "name": "Grabiszyn",
-      "offer_count": 133,
-      "avg_price": 2875,
+      "offer_count": 141,
+      "avg_price": 2929,
       "min_price": 1100,
       "max_price": 11000
     },
     {
+      "name": "Stare Miasto",
+      "offer_count": 3382,
+      "avg_price": 2860,
+      "min_price": 550,
+      "max_price": 15000
+    },
+    {
       "name": "Krzyki",
-      "offer_count": 3456,
-      "avg_price": 2848,
+      "offer_count": 3913,
+      "avg_price": 2840,
       "min_price": 600,
       "max_price": 14000
     },
     {
       "name": "Biskupin",
-      "offer_count": 55,
-      "avg_price": 2791,
+      "offer_count": 56,
+      "avg_price": 2830,
       "min_price": 800,
       "max_price": 6200
     },
     {
       "name": "Popowice",
-      "offer_count": 117,
-      "avg_price": 2791,
+      "offer_count": 123,
+      "avg_price": 2776,
       "min_price": 550,
-      "max_price": 4800
+      "max_price": 5600
     },
     {
       "name": "Fabryczna",
-      "offer_count": 1917,
-      "avg_price": 2738,
+      "offer_count": 2170,
+      "avg_price": 2713,
       "min_price": 530,
       "max_price": 12000
     },
     {
       "name": "Śródmieście",
-      "offer_count": 2251,
-      "avg_price": 2721,
+      "offer_count": 2510,
+      "avg_price": 2713,
       "min_price": 600,
       "max_price": 14999
     },
@@ -109,36 +109,36 @@
     },
     {
       "name": "Karłowice",
-      "offer_count": 78,
-      "avg_price": 2698,
+      "offer_count": 79,
+      "avg_price": 2694,
       "min_price": 1400,
       "max_price": 4500
     },
     {
       "name": "Psie Pole",
-      "offer_count": 1176,
-      "avg_price": 2697,
+      "offer_count": 1293,
+      "avg_price": 2686,
       "min_price": 600,
       "max_price": 7500
     },
     {
       "name": "Gaj",
-      "offer_count": 114,
-      "avg_price": 2660,
+      "offer_count": 127,
+      "avg_price": 2678,
       "min_price": 600,
       "max_price": 5500
     },
     {
       "name": "Jagodno",
-      "offer_count": 107,
-      "avg_price": 2659,
+      "offer_count": 114,
+      "avg_price": 2667,
       "min_price": 680,
       "max_price": 4500
     },
     {
       "name": "Kozanów",
-      "offer_count": 32,
-      "avg_price": 2519,
+      "offer_count": 34,
+      "avg_price": 2545,
       "min_price": 1000,
       "max_price": 6000
     }
@@ -146,40 +146,40 @@
   "by_rooms": [
     {
       "rooms": 1,
-      "offer_count": 3727,
-      "avg_price": 2218,
+      "offer_count": 4187,
+      "avg_price": 2214,
       "median_price": 2200,
       "avg_area": 29,
       "price_per_m2": 83
     },
     {
       "rooms": 2,
-      "offer_count": 7292,
-      "avg_price": 2758,
-      "median_price": 2800,
+      "offer_count": 8327,
+      "avg_price": 2748,
+      "median_price": 2799,
       "avg_area": 44,
       "price_per_m2": 66
     },
     {
       "rooms": 3,
-      "offer_count": 4088,
-      "avg_price": 2990,
+      "offer_count": 4531,
+      "avg_price": 2992,
       "median_price": 3100,
       "avg_area": 56,
       "price_per_m2": 62
     },
     {
       "rooms": 4,
-      "offer_count": 971,
-      "avg_price": 3202,
-      "median_price": 2000,
-      "avg_area": 69,
+      "offer_count": 1041,
+      "avg_price": 3237,
+      "median_price": 3000,
+      "avg_area": 70,
       "price_per_m2": 64
     },
     {
       "rooms": 5,
-      "offer_count": 195,
-      "avg_price": 2401,
+      "offer_count": 205,
+      "avg_price": 2440,
       "median_price": 1290,
       "avg_area": 71,
       "price_per_m2": 65
@@ -188,88 +188,88 @@
   "sources": [
     {
       "source": "olx",
-      "offer_count": 6742,
-      "pct": 39.1
+      "offer_count": 7644,
+      "pct": 39.5
     },
     {
       "source": "otodom",
-      "offer_count": 4389,
-      "pct": 25.5
+      "offer_count": 4837,
+      "pct": 25.0
     },
     {
       "source": "nieruchomosci-online",
-      "offer_count": 2754,
-      "pct": 16.0
+      "offer_count": 3047,
+      "pct": 15.8
     },
     {
       "source": "gratka",
-      "offer_count": 1125,
-      "pct": 6.5
+      "offer_count": 1295,
+      "pct": 6.7
     },
     {
       "source": "morizon",
-      "offer_count": 1058,
-      "pct": 6.1
+      "offer_count": 1117,
+      "pct": 5.8
     },
     {
       "source": "adresowo",
-      "offer_count": 657,
-      "pct": 3.8
+      "offer_count": 755,
+      "pct": 3.9
     },
     {
       "source": "domiporta",
-      "offer_count": 518,
-      "pct": 3.0
+      "offer_count": 648,
+      "pct": 3.4
     }
   ],
   "price_distribution": [
     {
       "price": 500,
-      "count": 715
+      "count": 763
     },
     {
       "price": 1000,
-      "count": 2128
+      "count": 2301
     },
     {
       "price": 1500,
-      "count": 1515
+      "count": 1691
     },
     {
       "price": 2000,
-      "count": 3011
+      "count": 3473
     },
     {
       "price": 2500,
-      "count": 4366
+      "count": 4996
     },
     {
       "price": 3000,
-      "count": 2659
+      "count": 2977
     },
     {
       "price": 3500,
-      "count": 1459
+      "count": 1627
     },
     {
       "price": 4000,
-      "count": 493
+      "count": 556
     },
     {
       "price": 4500,
-      "count": 332
+      "count": 362
     },
     {
       "price": 5000,
-      "count": 155
+      "count": 166
     },
     {
       "price": 5500,
-      "count": 102
+      "count": 115
     },
     {
       "price": 6000,
-      "count": 66
+      "count": 62
     },
     {
       "price": 6500,
@@ -277,7 +277,7 @@
     },
     {
       "price": 7000,
-      "count": 25
+      "count": 32
     },
     {
       "price": 7500,
@@ -289,7 +289,7 @@
     },
     {
       "price": 8500,
-      "count": 16
+      "count": 17
     },
     {
       "price": 9000,
@@ -297,11 +297,11 @@
     },
     {
       "price": 9500,
-      "count": 11
+      "count": 14
     },
     {
       "price": 10000,
-      "count": 14
+      "count": 15
     },
     {
       "price": 10500,
@@ -313,7 +313,7 @@
     },
     {
       "price": 11500,
-      "count": 10
+      "count": 9
     },
     {
       "price": 12000,
@@ -321,7 +321,7 @@
     },
     {
       "price": 12500,
-      "count": 2
+      "count": 3
     },
     {
       "price": 13000,

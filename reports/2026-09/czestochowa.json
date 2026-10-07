@@ -1,9 +1,9 @@
 {
   "city_slug": "czestochowa",
-  "generated_at": "2026-09-19T23:36:32.439304+02:00",
+  "generated_at": "2026-10-01T03:00:09.818997+02:00",
   "observation_mode": "snapshot",
   "data_as_of_basis": "latest_source_change",
-  "data_as_of": "2026-09-19T22:57:09.030903+02:00",
+  "data_as_of": "2026-10-01T02:22:02.639145+02:00",
   "price_sample": {
     "scope": "price_analysis_band",
     "min_price": 500,
@@ -28,120 +28,120 @@
     }
   },
   "overview": {
-    "total_offers": 1241,
-    "avg_price": 1758,
-    "median_price": 1600,
+    "total_offers": 1293,
+    "avg_price": 1739,
+    "median_price": 1550,
     "min_price": 500,
-    "max_price": 6000,
-    "avg_price_per_m2": 43,
+    "max_price": 14900,
+    "avg_price_per_m2": 42,
     "avg_area": 45
   },
   "districts": [],
   "by_rooms": [
     {
       "rooms": 1,
-      "offer_count": 314,
+      "offer_count": 344,
       "avg_price": 1402,
-      "median_price": 1350,
+      "median_price": 1400,
       "avg_area": 30,
       "price_per_m2": 49
     },
     {
       "rooms": 2,
-      "offer_count": 659,
-      "avg_price": 1752,
+      "offer_count": 669,
+      "avg_price": 1750,
       "median_price": 1650,
       "avg_area": 45,
       "price_per_m2": 40
     },
     {
       "rooms": 3,
-      "offer_count": 184,
-      "avg_price": 2423,
-      "median_price": 2500,
+      "offer_count": 196,
+      "avg_price": 2301,
+      "median_price": 2300,
       "avg_area": 63,
-      "price_per_m2": 41
+      "price_per_m2": 40
     },
     {
       "rooms": 4,
-      "offer_count": 37,
-      "avg_price": 2241,
-      "median_price": 1800,
-      "avg_area": 82,
+      "offer_count": 41,
+      "avg_price": 2272,
+      "median_price": 1900,
+      "avg_area": 87,
       "price_per_m2": 39
     },
     {
       "rooms": 5,
-      "offer_count": 12,
-      "avg_price": 1507,
-      "median_price": 950,
-      "avg_area": 90,
-      "price_per_m2": 35
+      "offer_count": 11,
+      "avg_price": 1534,
+      "median_price": 900,
+      "avg_area": 102,
+      "price_per_m2": 27
     }
   ],
   "sources": [
     {
       "source": "olx",
-      "offer_count": 730,
-      "pct": 58.8
+      "offer_count": 776,
+      "pct": 60.0
     },
     {
       "source": "otodom",
-      "offer_count": 262,
-      "pct": 21.1
+      "offer_count": 276,
+      "pct": 21.3
     },
     {
       "source": "domiporta",
-      "offer_count": 145,
-      "pct": 11.7
+      "offer_count": 134,
+      "pct": 10.4
     },
     {
       "source": "morizon",
-      "offer_count": 59,
+      "offer_count": 62,
       "pct": 4.8
     },
     {
       "source": "gratka",
       "offer_count": 45,
-      "pct": 3.6
+      "pct": 3.5
     }
   ],
   "price_distribution": [
     {
       "price": 500,
-      "count": 83
-    },
-    {
-      "price": 1000,
-      "count": 369
-    },
-    {
-      "price": 1500,
-      "count": 424
-    },
-    {
-      "price": 2000,
-      "count": 189
-    },
-    {
-      "price": 2500,
       "count": 90
     },
     {
+      "price": 1000,
+      "count": 399
+    },
+    {
+      "price": 1500,
+      "count": 448
+    },
+    {
+      "price": 2000,
+      "count": 187
+    },
+    {
+      "price": 2500,
+      "count": 88
+    },
+    {
       "price": 3000,
-      "count": 41
+      "count": 40
     },
     {
       "price": 3500,
-      "count": 27
+      "count": 24
     },
     {
       "price": 4000,
-      "count": 9
+      "count": 8
     },
     {
       "price": 4500,
-      "count": 6
+      "count": 5
     },
     {
       "price": 5000,
@@ -154,20 +154,12 @@
     {
       "price": 6000,
       "count": 1
-    }
-  ],
-  "insights": [
+    },
     {
-      "type": "freshness_signal",
-      "text": "122 nowych ofert w Częstochowie w ostatnich 7 dniach — 48% więcej niż średnia 4-tygodniowa.",
-      "magnitude": 47.878787878787875,
-      "evidence": {
-        "last_7d_new": 122,
-        "trailing_28d_new": 330,
-        "weekly_avg_28d": 82.5,
-        "delta_pct": 47.88
-      }
+      "price": 14500,
+      "count": 1
     }
   ],
+  "insights": [],
   "generated_month": "2026-09"
 }

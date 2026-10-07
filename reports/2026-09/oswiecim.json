@@ -1,9 +1,9 @@
 {
   "city_slug": "oswiecim",
-  "generated_at": "2026-09-19T23:37:04.381263+02:00",
+  "generated_at": "2026-10-01T03:00:47.332712+02:00",
   "observation_mode": "snapshot",
   "data_as_of_basis": "latest_source_change",
-  "data_as_of": "2026-09-19T23:28:24.723479+02:00",
+  "data_as_of": "2026-10-01T01:50:18.500331+02:00",
   "price_sample": {
     "scope": "price_analysis_band",
     "min_price": 500,
@@ -28,11 +28,11 @@
     }
   },
   "overview": {
-    "total_offers": 642,
-    "avg_price": 1686,
+    "total_offers": 575,
+    "avg_price": 1697,
     "median_price": 1600,
     "min_price": 500,
-    "max_price": 5000,
+    "max_price": 4999,
     "avg_price_per_m2": 43,
     "avg_area": 44
   },
@@ -40,41 +40,41 @@
   "by_rooms": [
     {
       "rooms": 1,
-      "offer_count": 169,
-      "avg_price": 1475,
-      "median_price": 1450,
+      "offer_count": 149,
+      "avg_price": 1476,
+      "median_price": 1400,
       "avg_area": 32,
-      "price_per_m2": 50
+      "price_per_m2": 49
     },
     {
       "rooms": 2,
-      "offer_count": 283,
-      "avg_price": 1740,
+      "offer_count": 256,
+      "avg_price": 1705,
       "median_price": 1700,
       "avg_area": 43,
-      "price_per_m2": 42
+      "price_per_m2": 41
     },
     {
       "rooms": 3,
-      "offer_count": 117,
-      "avg_price": 2046,
-      "median_price": 2100,
+      "offer_count": 114,
+      "avg_price": 2148,
+      "median_price": 2150,
       "avg_area": 58,
-      "price_per_m2": 38
+      "price_per_m2": 39
     },
     {
       "rooms": 4,
-      "offer_count": 14,
-      "avg_price": 2107,
-      "median_price": 1950,
-      "avg_area": 81,
-      "price_per_m2": 27
+      "offer_count": 8,
+      "avg_price": 2087,
+      "median_price": 1800,
+      "avg_area": 78,
+      "price_per_m2": 28
     },
     {
       "rooms": 5,
-      "offer_count": 3,
-      "avg_price": 883,
-      "median_price": 1000,
+      "offer_count": 2,
+      "avg_price": 825,
+      "median_price": 825,
       "avg_area": null,
       "price_per_m2": null
     }
@@ -82,75 +82,75 @@
   "sources": [
     {
       "source": "olx",
-      "offer_count": 450,
-      "pct": 70.1
+      "offer_count": 388,
+      "pct": 67.5
     },
     {
       "source": "nieruchomosci-online",
-      "offer_count": 78,
-      "pct": 12.1
+      "offer_count": 77,
+      "pct": 13.4
     },
     {
       "source": "adresowo",
-      "offer_count": 55,
-      "pct": 8.6
+      "offer_count": 57,
+      "pct": 9.9
     },
     {
       "source": "domiporta",
-      "offer_count": 32,
-      "pct": 5.0
+      "offer_count": 23,
+      "pct": 4.0
     },
     {
       "source": "otodom",
-      "offer_count": 11,
-      "pct": 1.7
+      "offer_count": 12,
+      "pct": 2.1
     },
     {
       "source": "gratka",
-      "offer_count": 9,
-      "pct": 1.4
+      "offer_count": 10,
+      "pct": 1.7
     },
     {
       "source": "morizon",
-      "offer_count": 7,
-      "pct": 1.1
+      "offer_count": 8,
+      "pct": 1.4
     }
   ],
   "price_distribution": [
     {
       "price": 500,
-      "count": 61
+      "count": 52
     },
     {
       "price": 1000,
-      "count": 175
+      "count": 155
     },
     {
       "price": 1500,
-      "count": 221
+      "count": 202
     },
     {
       "price": 2000,
-      "count": 115
+      "count": 104
     },
     {
       "price": 2500,
-      "count": 47
+      "count": 41
     },
     {
       "price": 3000,
-      "count": 19
+      "count": 15
     },
     {
       "price": 3500,
       "count": 2
     },
     {
-      "price": 4500,
-      "count": 1
+      "price": 4000,
+      "count": 3
     },
     {
-      "price": 5000,
+      "price": 4500,
       "count": 1
     }
   ],

@@ -1,23 +1,24 @@
 # Rynek wynajmu: Gdynia — raport wrzesień 2026
 
-> **Open data z 10 portali rental** · ZnajdzNajem · MIT license · wolno cytować
+> **Open data z monitorowanych źródeł najmu** · ZnajdzNajem · MIT license · wolno cytować
 
 ## Headlines (tweetable)
 
-- **2 514** aktywnych ofert wynajmu — Gdynia, wrzesień 2026
-- Mediana: **2 500 zł/mies.** · cena za m²: **66 zł**
+- **2 759** aktywnych ofert wynajmu — Gdynia, wrzesień 2026
+- Mediana: **2 400 zł/mies.** · cena za m²: **65 zł**
 - Najwięcej ofert w widełkach **2 500-2 999 zł**
 - Najtańsza dzielnica: **Leszczynki** · najdroższa: **Orłowo**
+- Mediana ceny w Gdyni spadła o 4,0% mimo wzrostu liczby ofert o 9,7%.
 
 ## Szczegółowe statystyki
 
 | Wskaźnik | Wartość |
 |---|---|
-| Aktywne oferty | 2 514 |
-| Mediana ceny miesięcznej | 2 500 zł |
-| Średnia cena miesięczna | 2 614 zł |
-| Średnia cena za m² | 66 zł |
-| Średni metraż | 46 m² |
+| Aktywne oferty | 2 759 |
+| Mediana ceny miesięcznej | 2 400 zł |
+| Średnia cena miesięczna | 2 573 zł |
+| Średnia cena za m² | 65 zł |
+| Średni metraż | 45 m² |
 | Najczęstsze widełki cenowe | 2 500-2 999 zł |
 | Najtańsza dzielnica | Leszczynki |
 | Najdroższa dzielnica | Orłowo |
@@ -27,51 +28,53 @@
 
 | Pokoje | Oferty | Mediana | Średni metraż | zł/m² |
 |---|---|---|---|---|
-| 1 | 531 | 2 000 zł | 28 m² | 79 |
-| 2 | 1 111 | 2 600 zł | 45 m² | 63 |
-| 3 | 540 | 3 000 zł | 61 m² | 58 |
-| 4 | 130 | 2 950 zł | 77 m² | 62 |
-| 5 | 22 | 1 125 zł | 60 m² | 74 |
+| 1 | 598 | 2 000 zł | 28 m² | 78 |
+| 2 | 1 226 | 2 600 zł | 45 m² | 63 |
+| 3 | 582 | 3 000 zł | 61 m² | 58 |
+| 4 | 143 | 2 400 zł | 76 m² | 61 |
+| 5 | 20 | 1 125 zł | 52 m² | 76 |
 
 ## Dzielnice (od najtańszej)
 
 | Dzielnica | Oferty | Średnia cena |
 |---|---|---|
-| Leszczynki | 75 | 2 190 zł |
-| Chylonia | 129 | 2 218 zł |
-| Babie Doły | 13 | 2 288 zł |
-| Grabówek | 121 | 2 341 zł |
-| Cisowa | 50 | 2 380 zł |
-| Pustki Cisowskie-Demptowo | 29 | 2 403 zł |
-| Obłuże | 89 | 2 472 zł |
-| Oksywie | 79 | 2 479 zł |
-| Dąbrowa | 36 | 2 523 zł |
-| Karwiny | 61 | 2 537 zł |
-| Działki Leśne | 145 | 2 545 zł |
-| Witomino | 100 | 2 545 zł |
-| Pogórze | 69 | 2 573 zł |
-| Wielki Kack | 65 | 2 596 zł |
-| Kamienna Góra | 70 | 2 816 zł |
-| Chwarzno-Wiczlino | 84 | 2 897 zł |
-| Wzgórze Św. Maksymiliana | 96 | 2 897 zł |
-| Redłowo | 126 | 3 245 zł |
-| Mały Kack | 108 | 3 269 zł |
-| Śródmieście | 374 | 3 331 zł |
-| Orłowo | 137 | 3 702 zł |
+| Leszczynki | 79 | 2 166 zł |
+| Chylonia | 145 | 2 247 zł |
+| Cisowa | 55 | 2 264 zł |
+| Grabówek | 133 | 2 323 zł |
+| Babie Doły | 16 | 2 359 zł |
+| Pustki Cisowskie-Demptowo | 31 | 2 390 zł |
+| Obłuże | 93 | 2 453 zł |
+| Karwiny | 66 | 2 475 zł |
+| Witomino | 124 | 2 497 zł |
+| Oksywie | 90 | 2 506 zł |
+| Pogórze | 78 | 2 528 zł |
+| Działki Leśne | 156 | 2 577 zł |
+| Dąbrowa | 45 | 2 587 zł |
+| Wielki Kack | 67 | 2 617 zł |
+| Kamienna Góra | 78 | 2 635 zł |
+| Chwarzno-Wiczlino | 83 | 2 874 zł |
+| Wzgórze Św. Maksymiliana | 98 | 3 006 zł |
+| Mały Kack | 118 | 3 123 zł |
+| Redłowo | 152 | 3 154 zł |
+| Śródmieście | 421 | 3 194 zł |
+| Orłowo | 137 | 3 691 zł |
 
 ## Źródła ofert
 
 | Portal | Oferty | Udział |
 |---|---|---|
-| olx | 1 406 | 55.9% |
-| otodom | 525 | 20.9% |
-| gratka | 234 | 9.3% |
-| morizon | 187 | 7.4% |
-| domiporta | 162 | 6.4% |
+| olx | 1 569 | 56.9% |
+| otodom | 573 | 20.8% |
+| gratka | 260 | 9.4% |
+| morizon | 194 | 7.0% |
+| domiporta | 163 | 5.9% |
 
 ## Metodologia
 
-Miesięczny snapshot aktywnych ofert z 10 polskich portali ogłoszeniowych, po deduplikacji. Ceny to ceny ofertowe (asking), nie transakcyjne. Pełna definicja „aktywnej oferty”: <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
+Snapshot próby ofert najmu z monitorowanych źródeł. Rozpoznane duplikaty są wykluczane; niewykryte powtórzenia mogą pozostać. Ceny to ceny ofertowe (asking), nie transakcyjne.
+Wersja definicji: 2026-09-18.1. SHA256: `c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2`. Treść definicji jest zapisana w JSON tego raportu.
+Bieżące zasady (nie zastępują definicji archiwum): <https://znajdznajem.pl/api/v1/stats/definitions> · [methodology.md](../../methodology.md)
 
 ## Dane źródłowe
 
