@@ -1,0 +1,245 @@
+{
+  "report": {
+    "city_slug": "olsztyn",
+    "generated_at": "2026-10-12T05:11:59.265804+02:00",
+    "observation_mode": "snapshot",
+    "data_as_of_basis": "latest_source_change",
+    "data_as_of": "2026-10-12T05:11:21.270333+02:00",
+    "price_sample": {
+      "scope": "price_analysis_band",
+      "min_price": 500,
+      "max_price": 15000
+    },
+    "definition": {
+      "status": "known",
+      "version": "2026-09-18.1",
+      "sha256": "c46587440ba7c7e77b1c83327cf5dff01cb613d98c8e6e226d4d13f8d80301d2",
+      "content": {
+        "active_offer": "Aktywna oferta to ogłoszenie najmu, które nadal spełnia warunki widoczności publicznej: ma flagę is_active=True, nie ma daty dezaktywacji (deactivated_at IS NULL), dotyczy najmu, ma co najmniej jedno zdjęcie i wiarygodną cenę miesięczną. Odrzucamy duplikaty, sprzedaż, podejrzane ceny, oszustwa, błędne przypisanie do miasta oraz rekordy spoza podaży: ogłoszenia popytowe, lokale niemieszkalne (biura, garaże), hostele, kwatery pracownicze i prywatne akademiki. Bieżący licznik aktywnych ofert, mediany cen i widoki aktualnej podaży korzystają z pełnego filtra. Historyczne szeregi napływu i archiwum zachowują także później wygasłe ogłoszenia; wykluczają ceny oznaczone jako podejrzane i rozpoznane lokale niemieszkalne, ale nie stosują wstecz wszystkich dzisiejszych kryteriów widoczności. Gdy źródło przestaje pokazywać ogłoszenie, właściciel je zamyka albo kolejny skan potwierdza brak oferty, wpis jest dezaktywowany i przestaje wpływać na statystyki aktywnego rynku. Aktywność nie jest jednak gwarancją, że właściciel odpowie, że cena nie zmieni się po kontakcie albo że portal nie usunie ogłoszenia chwilę później. To definicja liczenia danych, a nie obietnica dostępności konkretnego lokalu. Oferta wygasła może pozostać widoczna historycznie, ale nie zwiększa już aktywnej podaży.",
+        "report_statistics": "Raport cen jest odczytem próby aktywnych publicznych ofert najmu w chwili generowania, po wykluczeniu rozpoznanych duplikatów i z zakresem czynszu wskazanym w raporcie (obecnie 500–15 000 zł). Nie jest losową próbą całego rynku. Mediana miasta dotyczy cen jego ofert. Krajowa średnia median miejskich to suma median miast pomnożonych przez liczbę ofert miasta, podzielona przez sumę tych liczebności; nie jest medianą wszystkich ofert. Krajowa cena za m² to nieważona średnia miejskich średnich: każde uwzględnione miasto ma taką samą wagę. W mieście liczymy średnią z ilorazów czynszu i dodatniej powierzchni; oferty bez powierzchni nie wchodzą do tego wskaźnika, ale mogą wchodzić do liczebności i mediany. Wskaźniki miast publikujemy od 10 ofert. Miesiąc archiwum jest etykietą zapisanego odczytu, nie pełnym okresem obserwacji ani średnią miesięczną. Data generowania oznacza zapis próby, a najnowsza zmiana źródłowa nie potwierdza świeżości wszystkich ofert.",
+        "active_source": "Liczba źródeł oznacza liczbę źródeł ogłoszeniowych, które są włączone w produkcyjnym monitoringu i mogą zasilać publiczne dane Znajdź Najem. Liczymy portale i nazwane kanały źródłowe, a nie zadania techniczne, subdomenę, miasto ani typ zapytania. OLX to jedno źródło, Otodom to jedno źródło, Gratka, Morizon, KRN, Adresowo i Nieruchomości-Online liczą się osobno, a Facebook Groups i Facebook Marketplace liczymy jako dwa kanały tej samej platformy. Taka definicja zapobiega zawyżaniu trust-bara przez równoległe zadania, retry albo osobne kolejki dla tego samego portalu. Portal może być wliczony do zestawu źródeł nawet wtedy, gdy w danym mieście chwilowo nie zwrócił nowych ofert; odrębne raporty operacyjne pokazują ostatni scrape, błędy i liczbę pobranych ogłoszeń. Dla użytkownika ta liczba mówi, ile niezależnych miejsc rynku monitorujemy, a nie ile ogłoszeń pochodzi z każdego z nich. Nazwy źródeł są normalizowane, żeby ten sam portal nie występował pod kilkoma technicznymi etykietami.",
+        "new_last_7_days": "Nowa oferta w ostatnich 7 dniach to ogłoszenie, którego pierwsze pojawienie się w naszym systemie mieści się w rolującym oknie siedmiu dób liczonym od momentu generowania statystyki. Technicznie używamy daty pierwszego skanu (first_seen_at), a nie daty deklarowanej przez portal. Etykiety „Nowa oferta 7d” oraz „+X w ostatnich 7 dniach” odnoszą się do tego okna; populację bieżącą lub historyczną wskazuje dany widok. Jeśli ogłoszenie było widziane wcześniej, a potem zostało wznowione albo zmieniło cenę, nie staje się automatycznie nową ofertą; traktujemy je jako aktualizację istniejącego wpisu, o ile deduplikacja rozpozna ten sam lokal. Bieżący licznik świeżej podaży obejmuje wyłącznie oferty nadal przechodzące pełny filtr publiczny. Wykresy historycznego napływu i prędkości zachowują również oferty, które później wygasły; wykluczają ceny oznaczone jako podejrzane i rekordy spoza podaży mieszkaniowej, lecz nie stosują wszystkich filtrów bieżącego widoku. Dlatego wariant bieżący i historyczny mogą mieć różne wartości. Strony /nowe-oferty pokazują węższe okno ostatnich 48 godzin od pierwszego wykrycia; przy braku wyników mogą pokazać osobno oznaczoną listę z 7 dni.",
+        "price_sample": {
+          "scope": "price_analysis_band",
+          "min_price": 500,
+          "max_price": 15000
+        },
+        "offer_types": "All public rental housing types, including rooms and studios.",
+        "deduplication": "Recognized duplicates are excluded; undetected duplicates may remain."
+      }
+    },
+    "overview": {
+      "total_offers": 2388,
+      "avg_price": 1937,
+      "median_price": 2000,
+      "min_price": 500,
+      "max_price": 7000,
+      "avg_price_per_m2": 56,
+      "avg_area": 42
+    },
+    "districts": [],
+    "by_rooms": [
+      {
+        "rooms": 1,
+        "offer_count": 388,
+        "avg_price": 1816,
+        "median_price": 1800,
+        "avg_area": 29,
+        "price_per_m2": 67
+      },
+      {
+        "rooms": 2,
+        "offer_count": 1151,
+        "avg_price": 2127,
+        "median_price": 2200,
+        "avg_area": 41,
+        "price_per_m2": 55
+      },
+      {
+        "rooms": 3,
+        "offer_count": 508,
+        "avg_price": 2052,
+        "median_price": 2100,
+        "avg_area": 54,
+        "price_per_m2": 49
+      },
+      {
+        "rooms": 4,
+        "offer_count": 99,
+        "avg_price": 1719,
+        "median_price": 1100,
+        "avg_area": 65,
+        "price_per_m2": 44
+      },
+      {
+        "rooms": 5,
+        "offer_count": 26,
+        "avg_price": 1325,
+        "median_price": 1000,
+        "avg_area": 69,
+        "price_per_m2": 33
+      }
+    ],
+    "sources": [
+      {
+        "source": "olx",
+        "offer_count": 1854,
+        "pct": 77.6
+      },
+      {
+        "source": "otodom",
+        "offer_count": 179,
+        "pct": 7.5
+      },
+      {
+        "source": "gratka",
+        "offer_count": 167,
+        "pct": 7.0
+      },
+      {
+        "source": "morizon",
+        "offer_count": 143,
+        "pct": 6.0
+      },
+      {
+        "source": "domiporta",
+        "offer_count": 45,
+        "pct": 1.9
+      }
+    ],
+    "price_distribution": [
+      {
+        "price": 500,
+        "count": 293
+      },
+      {
+        "price": 1000,
+        "count": 391
+      },
+      {
+        "price": 1500,
+        "count": 493
+      },
+      {
+        "price": 2000,
+        "count": 607
+      },
+      {
+        "price": 2500,
+        "count": 427
+      },
+      {
+        "price": 3000,
+        "count": 101
+      },
+      {
+        "price": 3500,
+        "count": 38
+      },
+      {
+        "price": 4000,
+        "count": 18
+      },
+      {
+        "price": 4500,
+        "count": 12
+      },
+      {
+        "price": 5000,
+        "count": 6
+      },
+      {
+        "price": 5500,
+        "count": 1
+      },
+      {
+        "price": 7000,
+        "count": 1
+      }
+    ],
+    "insights": [
+      {
+        "type": "room_mix_anomaly",
+        "text": "W Olsztynie kawalerki to 18% aktywnych ofert — 6,1 pp. mniej niż średnia kraju (24%).",
+        "magnitude": 6.084198324701244,
+        "evidence": {
+          "city_studio_pct": 17.86,
+          "national_studio_pct": 23.95,
+          "delta_pp": -6.08,
+          "city_studio_count": 388,
+          "city_total": 2172
+        }
+      }
+    ]
+  },
+  "dynamics": {
+    "daily_new_offers": [
+      {
+        "date": "2026-10-06",
+        "day_name": "Wt",
+        "new_offers": 29
+      },
+      {
+        "date": "2026-10-07",
+        "day_name": "Sr",
+        "new_offers": 26
+      },
+      {
+        "date": "2026-10-08",
+        "day_name": "Cz",
+        "new_offers": 7
+      },
+      {
+        "date": "2026-10-09",
+        "day_name": "Pt",
+        "new_offers": 9
+      },
+      {
+        "date": "2026-10-10",
+        "day_name": "So",
+        "new_offers": 16
+      },
+      {
+        "date": "2026-10-11",
+        "day_name": "Nd",
+        "new_offers": 14
+      },
+      {
+        "date": "2026-10-12",
+        "day_name": "Pn",
+        "new_offers": 0
+      }
+    ],
+    "total_offers": 4337,
+    "active_offers": 2392,
+    "inactive_offers": 1070,
+    "active_rate_pct": 75,
+    "source_activity_7d": [
+      {
+        "source": "otodom",
+        "count": 13,
+        "daily_avg": 1.9
+      },
+      {
+        "source": "olx",
+        "count": 95,
+        "daily_avg": 13.6
+      },
+      {
+        "source": "gratka",
+        "count": 15,
+        "daily_avg": 2.1
+      },
+      {
+        "source": "morizon",
+        "count": 15,
+        "daily_avg": 2.1
+      },
+      {
+        "source": "domiporta",
+        "count": 8,
+        "daily_avg": 1.1
+      }
+    ]
+  }
+}

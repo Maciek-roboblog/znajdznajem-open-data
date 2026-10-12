@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "lublin",
-    "generated_at": "2026-10-05T06:00:46.150277+02:00",
+    "generated_at": "2026-10-12T05:10:54.917176+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-05T05:37:29.399392+02:00",
+    "data_as_of": "2026-10-12T05:07:42.016748+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,8 +29,8 @@
       }
     },
     "overview": {
-      "total_offers": 6340,
-      "avg_price": 1885,
+      "total_offers": 6583,
+      "avg_price": 1880,
       "median_price": 1900,
       "min_price": 500,
       "max_price": 14500,
@@ -40,94 +40,94 @@
     "districts": [
       {
         "name": "Śródmieście",
-        "offer_count": 428,
-        "avg_price": 2586,
+        "offer_count": 439,
+        "avg_price": 2578,
         "min_price": 650,
         "max_price": 11792
       },
       {
         "name": "Sławin",
-        "offer_count": 90,
-        "avg_price": 2558,
+        "offer_count": 89,
+        "avg_price": 2577,
         "min_price": 600,
         "max_price": 6000
       },
       {
-        "name": "Za Cukrownią",
-        "offer_count": 26,
-        "avg_price": 2440,
-        "min_price": 800,
-        "max_price": 9000
-      },
-      {
         "name": "Stare Miasto",
-        "offer_count": 133,
-        "avg_price": 2432,
+        "offer_count": 138,
+        "avg_price": 2410,
         "min_price": 690,
         "max_price": 8500
       },
       {
         "name": "Węglin Południowy",
-        "offer_count": 114,
-        "avg_price": 2403,
+        "offer_count": 115,
+        "avg_price": 2402,
         "min_price": 800,
         "max_price": 3750
       },
       {
-        "name": "Konstantynów",
-        "offer_count": 64,
-        "avg_price": 2378,
-        "min_price": 750,
-        "max_price": 5500
+        "name": "Za Cukrownią",
+        "offer_count": 28,
+        "avg_price": 2398,
+        "min_price": 800,
+        "max_price": 9000
       },
       {
         "name": "Czechów Południowy",
-        "offer_count": 193,
-        "avg_price": 2370,
+        "offer_count": 195,
+        "avg_price": 2371,
         "min_price": 600,
         "max_price": 5000
       },
       {
+        "name": "Konstantynów",
+        "offer_count": 67,
+        "avg_price": 2342,
+        "min_price": 750,
+        "max_price": 5500
+      },
+      {
         "name": "Wieniawa",
-        "offer_count": 248,
-        "avg_price": 2351,
-        "min_price": 650,
+        "offer_count": 253,
+        "avg_price": 2326,
+        "min_price": 700,
         "max_price": 7900
       },
       {
         "name": "Felin",
-        "offer_count": 39,
-        "avg_price": 2339,
+        "offer_count": 41,
+        "avg_price": 2323,
         "min_price": 800,
         "max_price": 3000
       },
       {
-        "name": "Ponikwoda",
-        "offer_count": 101,
-        "avg_price": 2310,
-        "min_price": 700,
-        "max_price": 5000
-      },
-      {
         "name": "Wrotków",
-        "offer_count": 107,
-        "avg_price": 2304,
+        "offer_count": 108,
+        "avg_price": 2314,
         "min_price": 800,
         "max_price": 3900
       },
       {
-        "name": "Sławinek",
-        "offer_count": 79,
-        "avg_price": 2296,
-        "min_price": 600,
-        "max_price": 5900
-      },
-      {
         "name": "Czechów Północny",
-        "offer_count": 94,
-        "avg_price": 2285,
+        "offer_count": 93,
+        "avg_price": 2302,
         "min_price": 750,
         "max_price": 5500
+      },
+      {
+        "name": "Ponikwoda",
+        "offer_count": 106,
+        "avg_price": 2294,
+        "min_price": 700,
+        "max_price": 5000
+      },
+      {
+        "name": "Sławinek",
+        "offer_count": 82,
+        "avg_price": 2293,
+        "min_price": 600,
+        "max_price": 5900
       },
       {
         "name": "Szerokie",
@@ -137,13 +137,6 @@
         "max_price": 4500
       },
       {
-        "name": "Węglin Północny",
-        "offer_count": 12,
-        "avg_price": 2279,
-        "min_price": 700,
-        "max_price": 3300
-      },
-      {
         "name": "Kośminek",
         "offer_count": 61,
         "avg_price": 2264,
@@ -151,58 +144,65 @@
         "max_price": 3500
       },
       {
+        "name": "Węglin Północny",
+        "offer_count": 12,
+        "avg_price": 2262,
+        "min_price": 700,
+        "max_price": 3300
+      },
+      {
         "name": "Czuby Północne",
-        "offer_count": 97,
-        "avg_price": 2250,
+        "offer_count": 96,
+        "avg_price": 2247,
         "min_price": 850,
         "max_price": 4200
       },
       {
         "name": "Dziesiąta",
         "offer_count": 98,
-        "avg_price": 2213,
+        "avg_price": 2208,
         "min_price": 700,
         "max_price": 5000
       },
       {
         "name": "Czuby Południowe",
-        "offer_count": 60,
-        "avg_price": 2205,
-        "min_price": 1000,
+        "offer_count": 64,
+        "avg_price": 2159,
+        "min_price": 850,
         "max_price": 3700
       },
       {
         "name": "Rury",
-        "offer_count": 214,
-        "avg_price": 2153,
+        "offer_count": 223,
+        "avg_price": 2134,
         "min_price": 600,
         "max_price": 4500
       },
       {
-        "name": "LSM",
-        "offer_count": 287,
-        "avg_price": 2065,
-        "min_price": 600,
-        "max_price": 4300
-      },
-      {
         "name": "Bronowice",
-        "offer_count": 97,
-        "avg_price": 2058,
+        "offer_count": 99,
+        "avg_price": 2069,
         "min_price": 710,
         "max_price": 4500
       },
       {
+        "name": "LSM",
+        "offer_count": 299,
+        "avg_price": 2052,
+        "min_price": 600,
+        "max_price": 4300
+      },
+      {
         "name": "Kalinowszczyzna",
         "offer_count": 98,
-        "avg_price": 2025,
+        "avg_price": 2015,
         "min_price": 800,
         "max_price": 3700
       },
       {
         "name": "Tatary",
-        "offer_count": 20,
-        "avg_price": 1850,
+        "offer_count": 21,
+        "avg_price": 1847,
         "min_price": 1300,
         "max_price": 2650
       }
@@ -210,31 +210,31 @@
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 1059,
-        "avg_price": 1877,
+        "offer_count": 1099,
+        "avg_price": 1866,
         "median_price": 1900,
-        "avg_area": 29,
-        "price_per_m2": 70
+        "avg_area": 30,
+        "price_per_m2": 69
       },
       {
         "rooms": 2,
-        "offer_count": 2427,
-        "avg_price": 2172,
+        "offer_count": 2516,
+        "avg_price": 2165,
         "median_price": 2200,
         "avg_area": 43,
         "price_per_m2": 56
       },
       {
         "rooms": 3,
-        "offer_count": 1575,
-        "avg_price": 1988,
+        "offer_count": 1638,
+        "avg_price": 1991,
         "median_price": 1900,
         "avg_area": 54,
         "price_per_m2": 48
       },
       {
         "rooms": 4,
-        "offer_count": 455,
+        "offer_count": 470,
         "avg_price": 1647,
         "median_price": 1000,
         "avg_area": 62,
@@ -242,80 +242,80 @@
       },
       {
         "rooms": 5,
-        "offer_count": 84,
-        "avg_price": 1125,
-        "median_price": 950,
-        "avg_area": 34,
-        "price_per_m2": 67
+        "offer_count": 91,
+        "avg_price": 1088,
+        "median_price": 900,
+        "avg_area": 33,
+        "price_per_m2": 65
       }
     ],
     "sources": [
       {
         "source": "olx",
-        "offer_count": 4906,
+        "offer_count": 5097,
         "pct": 77.4
       },
       {
         "source": "otodom",
-        "offer_count": 769,
-        "pct": 12.1
+        "offer_count": 805,
+        "pct": 12.2
       },
       {
         "source": "gratka",
-        "offer_count": 296,
-        "pct": 4.7
+        "offer_count": 305,
+        "pct": 4.6
       },
       {
         "source": "morizon",
-        "offer_count": 246,
-        "pct": 3.9
+        "offer_count": 249,
+        "pct": 3.8
       },
       {
         "source": "domiporta",
-        "offer_count": 123,
+        "offer_count": 127,
         "pct": 1.9
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 1319
+        "count": 1375
       },
       {
         "price": 1000,
-        "count": 1043
+        "count": 1073
       },
       {
         "price": 1500,
-        "count": 929
+        "count": 987
       },
       {
         "price": 2000,
-        "count": 1304
+        "count": 1358
       },
       {
         "price": 2500,
-        "count": 1097
+        "count": 1128
       },
       {
         "price": 3000,
-        "count": 401
+        "count": 410
       },
       {
         "price": 3500,
-        "count": 142
+        "count": 145
       },
       {
         "price": 4000,
-        "count": 42
+        "count": 41
       },
       {
         "price": 4500,
-        "count": 28
+        "count": 30
       },
       {
         "price": 5000,
-        "count": 11
+        "count": 12
       },
       {
         "price": 5500,
@@ -357,25 +357,25 @@
     "insights": [
       {
         "type": "freshness_signal",
-        "text": "268 nowych ofert w Lublinie w ostatnich 7 dniach — 27% mniej niż średnia 4-tygodniowa.",
-        "magnitude": 27.02518720217835,
+        "text": "247 nowych ofert w Lublinie w ostatnich 7 dniach — 24% mniej niż średnia 4-tygodniowa.",
+        "magnitude": 24.349157733537517,
         "evidence": {
-          "last_7d_new": 268,
-          "trailing_28d_new": 1469,
-          "weekly_avg_28d": 367.2,
-          "delta_pct": -27.03
+          "last_7d_new": 247,
+          "trailing_28d_new": 1306,
+          "weekly_avg_28d": 326.5,
+          "delta_pct": -24.35
         }
       },
       {
         "type": "room_mix_anomaly",
-        "text": "W Lublinie kawalerki to 19% aktywnych ofert — 5,1 pp. mniej niż średnia kraju (24%).",
-        "magnitude": 5.139549262658793,
+        "text": "W Lublinie kawalerki to 19% aktywnych ofert — 5,0 pp. mniej niż średnia kraju (24%).",
+        "magnitude": 5.044675894047476,
         "evidence": {
-          "city_studio_pct": 18.91,
-          "national_studio_pct": 24.05,
-          "delta_pp": -5.14,
-          "city_studio_count": 1059,
-          "city_total": 5600
+          "city_studio_pct": 18.9,
+          "national_studio_pct": 23.95,
+          "delta_pp": -5.04,
+          "city_studio_count": 1099,
+          "city_total": 5814
         }
       }
     ]
@@ -383,70 +383,70 @@
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-09-29",
+        "date": "2026-10-06",
         "day_name": "Wt",
-        "new_offers": 118
+        "new_offers": 54
       },
       {
-        "date": "2026-09-30",
+        "date": "2026-10-07",
         "day_name": "Sr",
-        "new_offers": 55
+        "new_offers": 40
       },
       {
-        "date": "2026-10-01",
+        "date": "2026-10-08",
         "day_name": "Cz",
-        "new_offers": 92
-      },
-      {
-        "date": "2026-10-02",
-        "day_name": "Pt",
         "new_offers": 64
       },
       {
-        "date": "2026-10-03",
-        "day_name": "So",
+        "date": "2026-10-09",
+        "day_name": "Pt",
         "new_offers": 15
       },
       {
-        "date": "2026-10-04",
-        "day_name": "Nd",
-        "new_offers": 0
+        "date": "2026-10-10",
+        "day_name": "So",
+        "new_offers": 42
       },
       {
-        "date": "2026-10-05",
+        "date": "2026-10-11",
+        "day_name": "Nd",
+        "new_offers": 41
+      },
+      {
+        "date": "2026-10-12",
         "day_name": "Pn",
-        "new_offers": 12
+        "new_offers": 3
       }
     ],
-    "total_offers": 12023,
-    "active_offers": 6344,
-    "inactive_offers": 2913,
-    "active_rate_pct": 76,
+    "total_offers": 12376,
+    "active_offers": 6582,
+    "inactive_offers": 2904,
+    "active_rate_pct": 77,
     "source_activity_7d": [
       {
-        "source": "otodom",
-        "count": 82,
-        "daily_avg": 11.7
+        "source": "olx",
+        "count": 241,
+        "daily_avg": 34.4
       },
       {
-        "source": "olx",
-        "count": 264,
-        "daily_avg": 37.7
+        "source": "otodom",
+        "count": 72,
+        "daily_avg": 10.3
       },
       {
         "source": "gratka",
-        "count": 30,
-        "daily_avg": 4.3
+        "count": 20,
+        "daily_avg": 2.9
       },
       {
         "source": "morizon",
-        "count": 30,
-        "daily_avg": 4.3
+        "count": 20,
+        "daily_avg": 2.9
       },
       {
         "source": "domiporta",
-        "count": 22,
-        "daily_avg": 3.1
+        "count": 12,
+        "daily_avg": 1.7
       }
     ]
   }

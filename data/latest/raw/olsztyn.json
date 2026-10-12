@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "olsztyn",
-    "generated_at": "2026-10-05T05:12:00.758240+02:00",
+    "generated_at": "2026-10-12T05:11:59.265804+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-05T04:21:55.413194+02:00",
+    "data_as_of": "2026-10-12T05:11:21.270333+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,8 +29,8 @@
       }
     },
     "overview": {
-      "total_offers": 2293,
-      "avg_price": 1942,
+      "total_offers": 2388,
+      "avg_price": 1937,
       "median_price": 2000,
       "min_price": 500,
       "max_price": 7000,
@@ -41,34 +41,34 @@
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 375,
-        "avg_price": 1817,
+        "offer_count": 388,
+        "avg_price": 1816,
         "median_price": 1800,
         "avg_area": 29,
         "price_per_m2": 67
       },
       {
         "rooms": 2,
-        "offer_count": 1095,
-        "avg_price": 2126,
+        "offer_count": 1151,
+        "avg_price": 2127,
         "median_price": 2200,
         "avg_area": 41,
         "price_per_m2": 55
       },
       {
         "rooms": 3,
-        "offer_count": 500,
-        "avg_price": 2067,
-        "median_price": 2125,
+        "offer_count": 508,
+        "avg_price": 2052,
+        "median_price": 2100,
         "avg_area": 54,
-        "price_per_m2": 50
+        "price_per_m2": 49
       },
       {
         "rooms": 4,
-        "offer_count": 94,
-        "avg_price": 1742,
-        "median_price": 1125,
-        "avg_area": 66,
+        "offer_count": 99,
+        "avg_price": 1719,
+        "median_price": 1100,
+        "avg_area": 65,
         "price_per_m2": 44
       },
       {
@@ -83,62 +83,62 @@
     "sources": [
       {
         "source": "olx",
-        "offer_count": 1769,
-        "pct": 77.1
+        "offer_count": 1854,
+        "pct": 77.6
       },
       {
         "source": "otodom",
-        "offer_count": 171,
+        "offer_count": 179,
         "pct": 7.5
       },
       {
         "source": "gratka",
-        "offer_count": 169,
-        "pct": 7.4
+        "offer_count": 167,
+        "pct": 7.0
       },
       {
         "source": "morizon",
-        "offer_count": 141,
-        "pct": 6.1
+        "offer_count": 143,
+        "pct": 6.0
       },
       {
         "source": "domiporta",
-        "offer_count": 43,
+        "offer_count": 45,
         "pct": 1.9
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 284
+        "count": 293
       },
       {
         "price": 1000,
-        "count": 367
+        "count": 391
       },
       {
         "price": 1500,
-        "count": 477
+        "count": 493
       },
       {
         "price": 2000,
-        "count": 580
+        "count": 607
       },
       {
         "price": 2500,
-        "count": 405
+        "count": 427
       },
       {
         "price": 3000,
-        "count": 103
+        "count": 101
       },
       {
         "price": 3500,
-        "count": 40
+        "count": 38
       },
       {
         "price": 4000,
-        "count": 17
+        "count": 18
       },
       {
         "price": 4500,
@@ -159,26 +159,15 @@
     ],
     "insights": [
       {
-        "type": "freshness_signal",
-        "text": "85 nowych ofert w Olsztynie w ostatnich 7 dniach — 36% mniej niż średnia 4-tygodniowa.",
-        "magnitude": 36.329588014981276,
-        "evidence": {
-          "last_7d_new": 85,
-          "trailing_28d_new": 534,
-          "weekly_avg_28d": 133.5,
-          "delta_pct": -36.33
-        }
-      },
-      {
         "type": "room_mix_anomaly",
         "text": "W Olsztynie kawalerki to 18% aktywnych ofert — 6,1 pp. mniej niż średnia kraju (24%).",
-        "magnitude": 6.112994598108177,
+        "magnitude": 6.084198324701244,
         "evidence": {
-          "city_studio_pct": 17.94,
-          "national_studio_pct": 24.06,
-          "delta_pp": -6.11,
-          "city_studio_count": 375,
-          "city_total": 2090
+          "city_studio_pct": 17.86,
+          "national_studio_pct": 23.95,
+          "delta_pp": -6.08,
+          "city_studio_count": 388,
+          "city_total": 2172
         }
       }
     ]
@@ -186,70 +175,70 @@
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-09-29",
+        "date": "2026-10-06",
         "day_name": "Wt",
-        "new_offers": 22
+        "new_offers": 29
       },
       {
-        "date": "2026-09-30",
+        "date": "2026-10-07",
         "day_name": "Sr",
-        "new_offers": 18
-      },
-      {
-        "date": "2026-10-01",
-        "day_name": "Cz",
         "new_offers": 26
       },
       {
-        "date": "2026-10-02",
+        "date": "2026-10-08",
+        "day_name": "Cz",
+        "new_offers": 7
+      },
+      {
+        "date": "2026-10-09",
         "day_name": "Pt",
+        "new_offers": 9
+      },
+      {
+        "date": "2026-10-10",
+        "day_name": "So",
         "new_offers": 16
       },
       {
-        "date": "2026-10-03",
-        "day_name": "So",
-        "new_offers": 2
-      },
-      {
-        "date": "2026-10-04",
+        "date": "2026-10-11",
         "day_name": "Nd",
-        "new_offers": 0
+        "new_offers": 14
       },
       {
-        "date": "2026-10-05",
+        "date": "2026-10-12",
         "day_name": "Pn",
-        "new_offers": 9
+        "new_offers": 0
       }
     ],
-    "total_offers": 4200,
-    "active_offers": 2295,
-    "inactive_offers": 1079,
-    "active_rate_pct": 74,
+    "total_offers": 4337,
+    "active_offers": 2392,
+    "inactive_offers": 1070,
+    "active_rate_pct": 75,
     "source_activity_7d": [
       {
-        "source": "olx",
-        "count": 75,
-        "daily_avg": 10.7
+        "source": "otodom",
+        "count": 13,
+        "daily_avg": 1.9
       },
       {
-        "source": "otodom",
-        "count": 12,
-        "daily_avg": 1.7
+        "source": "olx",
+        "count": 95,
+        "daily_avg": 13.6
       },
       {
         "source": "gratka",
-        "count": 14,
-        "daily_avg": 2.0
+        "count": 15,
+        "daily_avg": 2.1
       },
       {
         "source": "morizon",
-        "count": 9,
-        "daily_avg": 1.3
+        "count": 15,
+        "daily_avg": 2.1
       },
       {
         "source": "domiporta",
-        "count": 2,
-        "daily_avg": 0.3
+        "count": 8,
+        "daily_avg": 1.1
       }
     ]
   }

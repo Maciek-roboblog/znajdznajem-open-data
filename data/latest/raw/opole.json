@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "opole",
-    "generated_at": "2026-10-05T05:12:25.416944+02:00",
+    "generated_at": "2026-10-12T05:40:16.697482+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-05T03:39:38.584713+02:00",
+    "data_as_of": "2026-10-12T05:21:37.392161+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,8 +29,8 @@
       }
     },
     "overview": {
-      "total_offers": 1845,
-      "avg_price": 1987,
+      "total_offers": 1923,
+      "avg_price": 1991,
       "median_price": 2000,
       "min_price": 500,
       "max_price": 8000,
@@ -41,41 +41,41 @@
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 393,
-        "avg_price": 1844,
-        "median_price": 1890,
+        "offer_count": 407,
+        "avg_price": 1843,
+        "median_price": 1900,
         "avg_area": 30,
         "price_per_m2": 66
       },
       {
         "rooms": 2,
-        "offer_count": 846,
-        "avg_price": 2098,
+        "offer_count": 887,
+        "avg_price": 2100,
         "median_price": 2100,
         "avg_area": 44,
         "price_per_m2": 50
       },
       {
         "rooms": 3,
-        "offer_count": 369,
-        "avg_price": 2217,
+        "offer_count": 388,
+        "avg_price": 2232,
         "median_price": 2300,
-        "avg_area": 58,
+        "avg_area": 59,
         "price_per_m2": 45
       },
       {
         "rooms": 4,
-        "offer_count": 77,
-        "avg_price": 2096,
+        "offer_count": 75,
+        "avg_price": 2079,
         "median_price": 1400,
-        "avg_area": 70,
+        "avg_area": 71,
         "price_per_m2": 48
       },
       {
         "rooms": 5,
-        "offer_count": 23,
-        "avg_price": 1393,
-        "median_price": 1200,
+        "offer_count": 24,
+        "avg_price": 1367,
+        "median_price": 1150,
         "avg_area": 82,
         "price_per_m2": 30
       }
@@ -83,62 +83,62 @@
     "sources": [
       {
         "source": "olx",
-        "offer_count": 1449,
-        "pct": 78.5
+        "offer_count": 1502,
+        "pct": 78.1
       },
       {
         "source": "otodom",
-        "offer_count": 199,
-        "pct": 10.8
+        "offer_count": 210,
+        "pct": 10.9
       },
       {
         "source": "domiporta",
-        "offer_count": 101,
-        "pct": 5.5
+        "offer_count": 110,
+        "pct": 5.7
       },
       {
         "source": "gratka",
-        "offer_count": 53,
+        "offer_count": 56,
         "pct": 2.9
       },
       {
         "source": "morizon",
-        "offer_count": 43,
+        "offer_count": 45,
         "pct": 2.3
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 133
+        "count": 134
       },
       {
         "price": 1000,
-        "count": 344
+        "count": 358
       },
       {
         "price": 1500,
-        "count": 437
+        "count": 452
       },
       {
         "price": 2000,
-        "count": 477
+        "count": 502
       },
       {
         "price": 2500,
-        "count": 296
+        "count": 315
       },
       {
         "price": 3000,
-        "count": 86
+        "count": 87
       },
       {
         "price": 3500,
-        "count": 43
+        "count": 45
       },
       {
         "price": 4000,
-        "count": 8
+        "count": 9
       },
       {
         "price": 4500,
@@ -169,87 +169,75 @@
         "count": 1
       }
     ],
-    "insights": [
-      {
-        "type": "freshness_signal",
-        "text": "73 nowych ofert w Opolu w ostatnich 7 dniach — 29% mniej niż średnia 4-tygodniowa.",
-        "magnitude": 29.297820823244553,
-        "evidence": {
-          "last_7d_new": 73,
-          "trailing_28d_new": 413,
-          "weekly_avg_28d": 103.2,
-          "delta_pct": -29.3
-        }
-      }
-    ]
+    "insights": []
   },
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-09-29",
+        "date": "2026-10-06",
         "day_name": "Wt",
-        "new_offers": 30
+        "new_offers": 27
       },
       {
-        "date": "2026-09-30",
+        "date": "2026-10-07",
         "day_name": "Sr",
-        "new_offers": 22
+        "new_offers": 24
       },
       {
-        "date": "2026-10-01",
+        "date": "2026-10-08",
         "day_name": "Cz",
-        "new_offers": 35
+        "new_offers": 25
       },
       {
-        "date": "2026-10-02",
+        "date": "2026-10-09",
         "day_name": "Pt",
         "new_offers": 14
       },
       {
-        "date": "2026-10-03",
+        "date": "2026-10-10",
         "day_name": "So",
-        "new_offers": 6
+        "new_offers": 7
       },
       {
-        "date": "2026-10-04",
+        "date": "2026-10-11",
         "day_name": "Nd",
-        "new_offers": 0
+        "new_offers": 23
       },
       {
-        "date": "2026-10-05",
+        "date": "2026-10-12",
         "day_name": "Pn",
-        "new_offers": 2
+        "new_offers": 1
       }
     ],
-    "total_offers": 3463,
-    "active_offers": 1848,
-    "inactive_offers": 917,
-    "active_rate_pct": 74,
+    "total_offers": 3626,
+    "active_offers": 1925,
+    "inactive_offers": 911,
+    "active_rate_pct": 75,
     "source_activity_7d": [
       {
         "source": "otodom",
-        "count": 17,
-        "daily_avg": 2.4
+        "count": 19,
+        "daily_avg": 2.7
       },
       {
         "source": "olx",
-        "count": 98,
-        "daily_avg": 14.0
+        "count": 119,
+        "daily_avg": 17.0
       },
       {
         "source": "gratka",
-        "count": 3,
-        "daily_avg": 0.4
+        "count": 8,
+        "daily_avg": 1.1
       },
       {
         "source": "morizon",
-        "count": 3,
-        "daily_avg": 0.4
+        "count": 8,
+        "daily_avg": 1.1
       },
       {
         "source": "domiporta",
-        "count": 6,
-        "daily_avg": 0.9
+        "count": 13,
+        "daily_avg": 1.9
       }
     ]
   }

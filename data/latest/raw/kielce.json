@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "kielce",
-    "generated_at": "2026-10-05T06:00:29.633266+02:00",
+    "generated_at": "2026-10-12T05:12:21.202769+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-05T05:15:03.874488+02:00",
+    "data_as_of": "2026-10-12T05:04:13.687491+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,11 +29,11 @@
       }
     },
     "overview": {
-      "total_offers": 2107,
-      "avg_price": 1736,
-      "median_price": 1650,
+      "total_offers": 2187,
+      "avg_price": 1733,
+      "median_price": 1699,
       "min_price": 500,
-      "max_price": 14000,
+      "max_price": 9000,
       "avg_price_per_m2": 47,
       "avg_area": 42
     },
@@ -41,35 +41,35 @@
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 575,
-        "avg_price": 1584,
+        "offer_count": 590,
+        "avg_price": 1558,
         "median_price": 1500,
         "avg_area": 30,
-        "price_per_m2": 56
+        "price_per_m2": 54
       },
       {
         "rooms": 2,
-        "offer_count": 1006,
-        "avg_price": 1834,
+        "offer_count": 1057,
+        "avg_price": 1837,
         "median_price": 1800,
         "avg_area": 43,
         "price_per_m2": 45
       },
       {
         "rooms": 3,
-        "offer_count": 350,
-        "avg_price": 1916,
+        "offer_count": 360,
+        "avg_price": 1918,
         "median_price": 2000,
         "avg_area": 58,
         "price_per_m2": 39
       },
       {
         "rooms": 4,
-        "offer_count": 63,
-        "avg_price": 1647,
-        "median_price": 1050,
-        "avg_area": 74,
-        "price_per_m2": 36
+        "offer_count": 64,
+        "avg_price": 1668,
+        "median_price": 1075,
+        "avg_area": 75,
+        "price_per_m2": 37
       },
       {
         "rooms": 5,
@@ -83,70 +83,70 @@
     "sources": [
       {
         "source": "olx",
-        "offer_count": 1479,
+        "offer_count": 1535,
         "pct": 70.2
       },
       {
         "source": "otodom",
-        "offer_count": 205,
-        "pct": 9.7
+        "offer_count": 220,
+        "pct": 10.1
+      },
+      {
+        "source": "gratka",
+        "offer_count": 161,
+        "pct": 7.4
       },
       {
         "source": "domiporta",
         "offer_count": 159,
-        "pct": 7.5
-      },
-      {
-        "source": "gratka",
-        "offer_count": 155,
-        "pct": 7.4
+        "pct": 7.3
       },
       {
         "source": "morizon",
-        "offer_count": 109,
-        "pct": 5.2
+        "offer_count": 112,
+        "pct": 5.1
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 246
+        "count": 251
       },
       {
         "price": 1000,
-        "count": 481
+        "count": 494
       },
       {
         "price": 1500,
-        "count": 694
+        "count": 731
       },
       {
         "price": 2000,
-        "count": 403
+        "count": 419
       },
       {
         "price": 2500,
-        "count": 218
+        "count": 224
       },
       {
         "price": 3000,
-        "count": 38
+        "count": 40
       },
       {
         "price": 3500,
-        "count": 10
+        "count": 11
       },
       {
         "price": 4000,
-        "count": 2
+        "count": 3
       },
       {
         "price": 4500,
-        "count": 7
+        "count": 8
       },
       {
         "price": 5000,
-        "count": 3
+        "count": 2
       },
       {
         "price": 5500,
@@ -163,22 +163,18 @@
       {
         "price": 9000,
         "count": 1
-      },
-      {
-        "price": 14000,
-        "count": 1
       }
     ],
     "insights": [
       {
         "type": "freshness_signal",
-        "text": "98 nowych ofert w Kielcach w ostatnich 7 dniach — 26% mniej niż średnia 4-tygodniowa.",
-        "magnitude": 26.037735849056602,
+        "text": "82 nowych ofert w Kielcach w ostatnich 7 dniach — 32% mniej niż średnia 4-tygodniowa.",
+        "magnitude": 31.524008350730686,
         "evidence": {
-          "last_7d_new": 98,
-          "trailing_28d_new": 530,
-          "weekly_avg_28d": 132.5,
-          "delta_pct": -26.04
+          "last_7d_new": 82,
+          "trailing_28d_new": 479,
+          "weekly_avg_28d": 119.8,
+          "delta_pct": -31.52
         }
       }
     ]
@@ -186,70 +182,70 @@
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-09-29",
+        "date": "2026-10-06",
         "day_name": "Wt",
-        "new_offers": 28
+        "new_offers": 10
       },
       {
-        "date": "2026-09-30",
+        "date": "2026-10-07",
         "day_name": "Sr",
-        "new_offers": 26
+        "new_offers": 31
       },
       {
-        "date": "2026-10-01",
+        "date": "2026-10-08",
         "day_name": "Cz",
-        "new_offers": 32
+        "new_offers": 23
       },
       {
-        "date": "2026-10-02",
+        "date": "2026-10-09",
         "day_name": "Pt",
-        "new_offers": 27
+        "new_offers": 20
       },
       {
-        "date": "2026-10-03",
+        "date": "2026-10-10",
         "day_name": "So",
-        "new_offers": 3
+        "new_offers": 18
       },
       {
-        "date": "2026-10-04",
+        "date": "2026-10-11",
         "day_name": "Nd",
-        "new_offers": 0
+        "new_offers": 14
       },
       {
-        "date": "2026-10-05",
+        "date": "2026-10-12",
         "day_name": "Pn",
-        "new_offers": 9
+        "new_offers": 5
       }
     ],
-    "total_offers": 4073,
-    "active_offers": 2112,
-    "inactive_offers": 888,
-    "active_rate_pct": 78,
+    "total_offers": 4223,
+    "active_offers": 2193,
+    "inactive_offers": 884,
+    "active_rate_pct": 79,
     "source_activity_7d": [
       {
         "source": "otodom",
-        "count": 29,
-        "daily_avg": 4.1
+        "count": 27,
+        "daily_avg": 3.9
       },
       {
         "source": "olx",
-        "count": 90,
-        "daily_avg": 12.9
+        "count": 82,
+        "daily_avg": 11.7
       },
       {
         "source": "gratka",
-        "count": 16,
-        "daily_avg": 2.3
+        "count": 19,
+        "daily_avg": 2.7
       },
       {
         "source": "morizon",
-        "count": 13,
-        "daily_avg": 1.9
+        "count": 19,
+        "daily_avg": 2.7
       },
       {
         "source": "domiporta",
-        "count": 11,
-        "daily_avg": 1.6
+        "count": 13,
+        "daily_avg": 1.9
       }
     ]
   }

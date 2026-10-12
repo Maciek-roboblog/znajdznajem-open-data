@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "katowice",
-    "generated_at": "2026-10-05T05:10:56.663274+02:00",
+    "generated_at": "2026-10-12T05:11:05.546288+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-05T05:10:12.899550+02:00",
+    "data_as_of": "2026-10-12T05:02:34.558952+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,8 +29,8 @@
       }
     },
     "overview": {
-      "total_offers": 5566,
-      "avg_price": 2043,
+      "total_offers": 5736,
+      "avg_price": 2042,
       "median_price": 1900,
       "min_price": 500,
       "max_price": 14000,
@@ -39,79 +39,79 @@
     },
     "districts": [
       {
-        "name": "Bogucice",
-        "offer_count": 305,
-        "avg_price": 2439,
-        "min_price": 502,
-        "max_price": 14000
-      },
-      {
         "name": "Brynów-Osiedle Zgrzebnioka",
-        "offer_count": 404,
+        "offer_count": 414,
         "avg_price": 2435,
         "min_price": 500,
         "max_price": 7500
       },
       {
+        "name": "Bogucice",
+        "offer_count": 319,
+        "avg_price": 2423,
+        "min_price": 502,
+        "max_price": 14000
+      },
+      {
         "name": "Dąb",
-        "offer_count": 242,
-        "avg_price": 2334,
+        "offer_count": 245,
+        "avg_price": 2330,
         "min_price": 600,
         "max_price": 10500
       },
       {
         "name": "Piotrowice-Ochojec",
-        "offer_count": 287,
-        "avg_price": 2232,
+        "offer_count": 294,
+        "avg_price": 2211,
         "min_price": 690,
         "max_price": 6500
       },
       {
         "name": "Koszutka",
-        "offer_count": 332,
-        "avg_price": 2162,
+        "offer_count": 336,
+        "avg_price": 2164,
         "min_price": 600,
         "max_price": 10500
       },
       {
         "name": "Wełnowiec-Józefowiec",
-        "offer_count": 196,
-        "avg_price": 2106,
+        "offer_count": 198,
+        "avg_price": 2112,
         "min_price": 900,
         "max_price": 5300
       },
       {
         "name": "Śródmieście",
-        "offer_count": 1245,
-        "avg_price": 2082,
+        "offer_count": 1281,
+        "avg_price": 2091,
         "min_price": 500,
         "max_price": 10500
       },
       {
-        "name": "Ligota-Panewniki",
-        "offer_count": 480,
-        "avg_price": 2010,
-        "min_price": 500,
-        "max_price": 11000
-      },
-      {
         "name": "Osiedle Tysiąclecia",
-        "offer_count": 203,
-        "avg_price": 2006,
+        "offer_count": 205,
+        "avg_price": 2012,
         "min_price": 590,
         "max_price": 4000
       },
       {
+        "name": "Ligota-Panewniki",
+        "offer_count": 497,
+        "avg_price": 2008,
+        "min_price": 500,
+        "max_price": 11000
+      },
+      {
         "name": "Janów-Nikiszowiec",
-        "offer_count": 88,
-        "avg_price": 1984,
+        "offer_count": 91,
+        "avg_price": 1979,
         "min_price": 589,
         "max_price": 3600
       },
       {
         "name": "Szopienice-Burowiec",
-        "offer_count": 134,
-        "avg_price": 1882,
+        "offer_count": 135,
+        "avg_price": 1876,
         "min_price": 500,
         "max_price": 3827
       },
@@ -124,8 +124,8 @@
       },
       {
         "name": "Załęże",
-        "offer_count": 89,
-        "avg_price": 1523,
+        "offer_count": 91,
+        "avg_price": 1535,
         "min_price": 518,
         "max_price": 3700
       }
@@ -133,15 +133,15 @@
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 1518,
-        "avg_price": 1646,
+        "offer_count": 1549,
+        "avg_price": 1647,
         "median_price": 1600,
-        "avg_area": 29,
+        "avg_area": 28,
         "price_per_m2": 62
       },
       {
         "rooms": 2,
-        "offer_count": 2336,
+        "offer_count": 2424,
         "avg_price": 2134,
         "median_price": 2100,
         "avg_area": 44,
@@ -149,106 +149,106 @@
       },
       {
         "rooms": 3,
-        "offer_count": 1079,
-        "avg_price": 2510,
+        "offer_count": 1112,
+        "avg_price": 2505,
         "median_price": 2500,
         "avg_area": 59,
         "price_per_m2": 48
       },
       {
         "rooms": 4,
-        "offer_count": 327,
-        "avg_price": 2602,
-        "median_price": 1950,
-        "avg_area": 73,
+        "offer_count": 334,
+        "avg_price": 2554,
+        "median_price": 1925,
+        "avg_area": 72,
         "price_per_m2": 49
       },
       {
         "rooms": 5,
-        "offer_count": 57,
-        "avg_price": 1233,
+        "offer_count": 60,
+        "avg_price": 1414,
         "median_price": 800,
-        "avg_area": 46,
+        "avg_area": 52,
         "price_per_m2": 53
       }
     ],
     "sources": [
       {
         "source": "olx",
-        "offer_count": 2398,
-        "pct": 43.1
+        "offer_count": 2469,
+        "pct": 43.0
       },
       {
         "source": "otodom",
-        "offer_count": 1147,
-        "pct": 20.6
+        "offer_count": 1209,
+        "pct": 21.1
       },
       {
         "source": "nieruchomosci-online",
-        "offer_count": 759,
-        "pct": 13.6
+        "offer_count": 773,
+        "pct": 13.5
       },
       {
         "source": "gratka",
-        "offer_count": 468,
+        "offer_count": 479,
         "pct": 8.4
       },
       {
         "source": "morizon",
-        "offer_count": 422,
-        "pct": 7.6
+        "offer_count": 426,
+        "pct": 7.4
       },
       {
         "source": "domiporta",
-        "offer_count": 196,
+        "offer_count": 201,
         "pct": 3.5
       },
       {
         "source": "adresowo",
-        "offer_count": 176,
-        "pct": 3.2
+        "offer_count": 179,
+        "pct": 3.1
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 593
+        "count": 609
       },
       {
         "price": 1000,
-        "count": 864
+        "count": 886
       },
       {
         "price": 1500,
-        "count": 1471
+        "count": 1512
       },
       {
         "price": 2000,
-        "count": 1203
+        "count": 1250
       },
       {
         "price": 2500,
-        "count": 742
+        "count": 767
       },
       {
         "price": 3000,
-        "count": 323
+        "count": 338
       },
       {
         "price": 3500,
-        "count": 152
+        "count": 155
       },
       {
         "price": 4000,
-        "count": 62
+        "count": 63
       },
       {
         "price": 4500,
-        "count": 52
+        "count": 53
       },
       {
         "price": 5000,
-        "count": 32
+        "count": 31
       },
       {
         "price": 5500,
@@ -279,8 +279,12 @@
         "count": 1
       },
       {
+        "price": 9500,
+        "count": 1
+      },
+      {
         "price": 10000,
-        "count": 2
+        "count": 1
       },
       {
         "price": 10500,
@@ -299,65 +303,77 @@
         "count": 1
       }
     ],
-    "insights": []
+    "insights": [
+      {
+        "type": "freshness_signal",
+        "text": "207 nowych ofert w Katowicach w ostatnich 7 dniach — 22% mniej niż średnia 4-tygodniowa.",
+        "magnitude": 21.88679245283019,
+        "evidence": {
+          "last_7d_new": 207,
+          "trailing_28d_new": 1060,
+          "weekly_avg_28d": 265.0,
+          "delta_pct": -21.89
+        }
+      }
+    ]
   },
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-09-29",
+        "date": "2026-10-06",
         "day_name": "Wt",
+        "new_offers": 66
+      },
+      {
+        "date": "2026-10-07",
+        "day_name": "Sr",
+        "new_offers": 51
+      },
+      {
+        "date": "2026-10-08",
+        "day_name": "Cz",
         "new_offers": 81
       },
       {
-        "date": "2026-09-30",
-        "day_name": "Sr",
-        "new_offers": 83
-      },
-      {
-        "date": "2026-10-01",
-        "day_name": "Cz",
-        "new_offers": 93
-      },
-      {
-        "date": "2026-10-02",
+        "date": "2026-10-09",
         "day_name": "Pt",
-        "new_offers": 91
+        "new_offers": 110
       },
       {
-        "date": "2026-10-03",
+        "date": "2026-10-10",
         "day_name": "So",
-        "new_offers": 4
+        "new_offers": 28
       },
       {
-        "date": "2026-10-04",
+        "date": "2026-10-11",
         "day_name": "Nd",
-        "new_offers": 0
+        "new_offers": 23
       },
       {
-        "date": "2026-10-05",
+        "date": "2026-10-12",
         "day_name": "Pn",
-        "new_offers": 78
+        "new_offers": 5
       }
     ],
-    "total_offers": 19331,
-    "active_offers": 5591,
-    "inactive_offers": 7846,
-    "active_rate_pct": 59,
+    "total_offers": 19766,
+    "active_offers": 5762,
+    "inactive_offers": 7849,
+    "active_rate_pct": 60,
     "source_activity_7d": [
       {
         "source": "adresowo",
-        "count": 11,
-        "daily_avg": 1.6
+        "count": 5,
+        "daily_avg": 0.7
       },
       {
         "source": "olx",
-        "count": 201,
-        "daily_avg": 28.7
+        "count": 181,
+        "daily_avg": 25.9
       },
       {
         "source": "gratka",
-        "count": 50,
-        "daily_avg": 7.1
+        "count": 51,
+        "daily_avg": 7.3
       },
       {
         "source": "morizon",
@@ -365,19 +381,19 @@
         "daily_avg": 7.3
       },
       {
-        "source": "domiporta",
-        "count": 21,
-        "daily_avg": 3.0
+        "source": "nieruchomosci-online",
+        "count": 60,
+        "daily_avg": 8.6
       },
       {
-        "source": "nieruchomosci-online",
-        "count": 55,
-        "daily_avg": 7.9
+        "source": "domiporta",
+        "count": 33,
+        "daily_avg": 4.7
       },
       {
         "source": "otodom",
-        "count": 130,
-        "daily_avg": 18.6
+        "count": 134,
+        "daily_avg": 19.1
       }
     ]
   }

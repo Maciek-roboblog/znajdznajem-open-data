@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "gliwice",
-    "generated_at": "2026-10-05T06:00:24.005341+02:00",
+    "generated_at": "2026-10-12T05:12:40.360305+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-05T05:29:51.239365+02:00",
+    "data_as_of": "2026-10-12T05:03:00.415037+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,8 +29,8 @@
       }
     },
     "overview": {
-      "total_offers": 1594,
-      "avg_price": 1945,
+      "total_offers": 1662,
+      "avg_price": 1948,
       "median_price": 1900,
       "min_price": 500,
       "max_price": 7790,
@@ -41,33 +41,33 @@
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 444,
-        "avg_price": 1619,
+        "offer_count": 458,
+        "avg_price": 1625,
         "median_price": 1600,
         "avg_area": 31,
-        "price_per_m2": 61
+        "price_per_m2": 60
       },
       {
         "rooms": 2,
-        "offer_count": 764,
-        "avg_price": 2049,
+        "offer_count": 803,
+        "avg_price": 2047,
         "median_price": 2000,
         "avg_area": 44,
-        "price_per_m2": 49
+        "price_per_m2": 48
       },
       {
         "rooms": 3,
-        "offer_count": 255,
-        "avg_price": 2445,
+        "offer_count": 269,
+        "avg_price": 2441,
         "median_price": 2500,
-        "avg_area": 62,
+        "avg_area": 63,
         "price_per_m2": 44
       },
       {
         "rooms": 4,
-        "offer_count": 50,
-        "avg_price": 2093,
-        "median_price": 1900,
+        "offer_count": 51,
+        "avg_price": 2084,
+        "median_price": 2000,
         "avg_area": 83,
         "price_per_m2": 34
       },
@@ -83,66 +83,66 @@
     "sources": [
       {
         "source": "olx",
-        "offer_count": 948,
+        "offer_count": 989,
         "pct": 59.5
       },
       {
         "source": "otodom",
-        "offer_count": 325,
-        "pct": 20.4
+        "offer_count": 346,
+        "pct": 20.8
       },
       {
         "source": "gratka",
-        "offer_count": 178,
-        "pct": 11.2
+        "offer_count": 183,
+        "pct": 11.0
       },
       {
         "source": "morizon",
-        "offer_count": 98,
-        "pct": 6.1
+        "offer_count": 97,
+        "pct": 5.8
       },
       {
         "source": "domiporta",
-        "offer_count": 45,
+        "offer_count": 47,
         "pct": 2.8
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 139
+        "count": 141
       },
       {
         "price": 1000,
-        "count": 220
+        "count": 223
       },
       {
         "price": 1500,
-        "count": 516
+        "count": 541
       },
       {
         "price": 2000,
-        "count": 385
+        "count": 413
       },
       {
         "price": 2500,
-        "count": 203
+        "count": 210
       },
       {
         "price": 3000,
-        "count": 70
+        "count": 73
       },
       {
         "price": 3500,
-        "count": 37
+        "count": 36
       },
       {
         "price": 4000,
-        "count": 13
+        "count": 14
       },
       {
         "price": 4500,
-        "count": 3
+        "count": 2
       },
       {
         "price": 5000,
@@ -150,11 +150,11 @@
       },
       {
         "price": 5500,
-        "count": 1
+        "count": 3
       },
       {
         "price": 6000,
-        "count": 2
+        "count": 1
       },
       {
         "price": 6500,
@@ -170,70 +170,70 @@
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-09-29",
+        "date": "2026-10-06",
         "day_name": "Wt",
+        "new_offers": 13
+      },
+      {
+        "date": "2026-10-07",
+        "day_name": "Sr",
+        "new_offers": 18
+      },
+      {
+        "date": "2026-10-08",
+        "day_name": "Cz",
+        "new_offers": 27
+      },
+      {
+        "date": "2026-10-09",
+        "day_name": "Pt",
+        "new_offers": 22
+      },
+      {
+        "date": "2026-10-10",
+        "day_name": "So",
+        "new_offers": 9
+      },
+      {
+        "date": "2026-10-11",
+        "day_name": "Nd",
         "new_offers": 32
       },
       {
-        "date": "2026-09-30",
-        "day_name": "Sr",
-        "new_offers": 30
-      },
-      {
-        "date": "2026-10-01",
-        "day_name": "Cz",
-        "new_offers": 20
-      },
-      {
-        "date": "2026-10-02",
-        "day_name": "Pt",
-        "new_offers": 35
-      },
-      {
-        "date": "2026-10-03",
-        "day_name": "So",
-        "new_offers": 0
-      },
-      {
-        "date": "2026-10-04",
-        "day_name": "Nd",
-        "new_offers": 0
-      },
-      {
-        "date": "2026-10-05",
+        "date": "2026-10-12",
         "day_name": "Pn",
-        "new_offers": 18
+        "new_offers": 2
       }
     ],
-    "total_offers": 3365,
-    "active_offers": 1595,
-    "inactive_offers": 842,
-    "active_rate_pct": 75,
+    "total_offers": 3511,
+    "active_offers": 1664,
+    "inactive_offers": 838,
+    "active_rate_pct": 76,
     "source_activity_7d": [
+      {
+        "source": "otodom",
+        "count": 34,
+        "daily_avg": 4.9
+      },
+      {
+        "source": "olx",
+        "count": 87,
+        "daily_avg": 12.4
+      },
+      {
+        "source": "gratka",
+        "count": 20,
+        "daily_avg": 2.9
+      },
+      {
+        "source": "morizon",
+        "count": 20,
+        "daily_avg": 2.9
+      },
       {
         "source": "domiporta",
         "count": 7,
         "daily_avg": 1.0
-      },
-      {
-        "source": "gratka",
-        "count": 24,
-        "daily_avg": 3.4
-      },
-      {
-        "source": "morizon",
-        "count": 24,
-        "daily_avg": 3.4
-      },
-      {
-        "source": "olx",
-        "count": 73,
-        "daily_avg": 10.4
-      },
-      {
-        "source": "otodom",
-        "count": 42,
-        "daily_avg": 6.0
       }
     ]
   }

@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "bialystok",
-    "generated_at": "2026-10-05T05:11:35.539472+02:00",
+    "generated_at": "2026-10-12T05:11:37.715258+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-05T04:20:45.305172+02:00",
+    "data_as_of": "2026-10-12T04:01:30.073491+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,8 +29,8 @@
       }
     },
     "overview": {
-      "total_offers": 3153,
-      "avg_price": 1771,
+      "total_offers": 3276,
+      "avg_price": 1770,
       "median_price": 1800,
       "min_price": 500,
       "max_price": 7800,
@@ -40,120 +40,120 @@
     "districts": [
       {
         "name": "Przydworcowe",
-        "offer_count": 122,
+        "offer_count": 124,
         "avg_price": 2185,
         "min_price": 800,
         "max_price": 5500
       },
       {
-        "name": "Bojary",
-        "offer_count": 162,
-        "avg_price": 2113,
-        "min_price": 600,
-        "max_price": 3500
-      },
-      {
         "name": "Sienkiewicza",
-        "offer_count": 141,
-        "avg_price": 2113,
+        "offer_count": 148,
+        "avg_price": 2124,
         "min_price": 725,
         "max_price": 6900
       },
       {
+        "name": "Bojary",
+        "offer_count": 167,
+        "avg_price": 2107,
+        "min_price": 600,
+        "max_price": 3500
+      },
+      {
         "name": "Skorupy",
-        "offer_count": 39,
-        "avg_price": 2096,
-        "min_price": 1000,
+        "offer_count": 44,
+        "avg_price": 2079,
+        "min_price": 950,
         "max_price": 3700
       },
       {
         "name": "Śródmieście",
-        "offer_count": 80,
-        "avg_price": 2079,
+        "offer_count": 79,
+        "avg_price": 2078,
         "min_price": 1000,
         "max_price": 3500
       },
       {
         "name": "Wygoda",
         "offer_count": 61,
-        "avg_price": 2050,
+        "avg_price": 2029,
         "min_price": 900,
         "max_price": 3500
       },
       {
         "name": "Białostoczek",
-        "offer_count": 91,
-        "avg_price": 2002,
+        "offer_count": 94,
+        "avg_price": 2001,
         "min_price": 650,
         "max_price": 4500
       },
       {
         "name": "Centrum",
-        "offer_count": 454,
-        "avg_price": 1994,
+        "offer_count": 472,
+        "avg_price": 1981,
         "min_price": 600,
         "max_price": 7800
       },
       {
         "name": "Leśna Dolina",
-        "offer_count": 44,
-        "avg_price": 1985,
+        "offer_count": 48,
+        "avg_price": 1958,
         "min_price": 1200,
         "max_price": 3100
       },
       {
-        "name": "Bacieczki",
-        "offer_count": 46,
-        "avg_price": 1951,
-        "min_price": 750,
-        "max_price": 3500
-      },
-      {
         "name": "Wysoki Stoczek",
-        "offer_count": 78,
-        "avg_price": 1944,
+        "offer_count": 80,
+        "avg_price": 1955,
         "min_price": 1000,
         "max_price": 3500
       },
       {
-        "name": "Kawaleryjskie",
-        "offer_count": 65,
-        "avg_price": 1940,
-        "min_price": 700,
-        "max_price": 3600
+        "name": "Bacieczki",
+        "offer_count": 46,
+        "avg_price": 1946,
+        "min_price": 750,
+        "max_price": 3500
       },
       {
         "name": "Nowe Miasto",
-        "offer_count": 245,
-        "avg_price": 1931,
+        "offer_count": 255,
+        "avg_price": 1926,
         "min_price": 600,
         "max_price": 4800
       },
       {
-        "name": "Mickiewicza",
-        "offer_count": 107,
-        "avg_price": 1901,
-        "min_price": 600,
-        "max_price": 4700
+        "name": "Kawaleryjskie",
+        "offer_count": 67,
+        "avg_price": 1919,
+        "min_price": 700,
+        "max_price": 3600
       },
       {
         "name": "Dojlidy",
-        "offer_count": 34,
-        "avg_price": 1894,
+        "offer_count": 33,
+        "avg_price": 1916,
         "min_price": 800,
         "max_price": 3300
       },
       {
+        "name": "Mickiewicza",
+        "offer_count": 112,
+        "avg_price": 1893,
+        "min_price": 600,
+        "max_price": 4700
+      },
+      {
         "name": "Piaski",
-        "offer_count": 185,
-        "avg_price": 1857,
+        "offer_count": 188,
+        "avg_price": 1856,
         "min_price": 500,
         "max_price": 6500
       },
       {
         "name": "Młodych",
-        "offer_count": 36,
-        "avg_price": 1854,
+        "offer_count": 40,
+        "avg_price": 1850,
         "min_price": 950,
         "max_price": 2900
       },
@@ -165,37 +165,37 @@
         "max_price": 3700
       },
       {
-        "name": "Antoniuk",
-        "offer_count": 172,
-        "avg_price": 1819,
-        "min_price": 700,
-        "max_price": 3200
-      },
-      {
         "name": "Piasta",
-        "offer_count": 145,
-        "avg_price": 1817,
+        "offer_count": 150,
+        "avg_price": 1821,
         "min_price": 550,
         "max_price": 3200
       },
       {
-        "name": "Dziesięciny",
-        "offer_count": 45,
-        "avg_price": 1763,
+        "name": "Antoniuk",
+        "offer_count": 178,
+        "avg_price": 1815,
         "min_price": 700,
-        "max_price": 3000
+        "max_price": 3200
       },
       {
         "name": "Zielone Wzgórza",
-        "offer_count": 31,
-        "avg_price": 1761,
+        "offer_count": 33,
+        "avg_price": 1766,
         "min_price": 700,
         "max_price": 2500
       },
       {
+        "name": "Dziesięciny",
+        "offer_count": 50,
+        "avg_price": 1755,
+        "min_price": 550,
+        "max_price": 2900
+      },
+      {
         "name": "Słoneczny Stok",
-        "offer_count": 35,
-        "avg_price": 1739,
+        "offer_count": 41,
+        "avg_price": 1750,
         "min_price": 950,
         "max_price": 2700
       }
@@ -203,41 +203,41 @@
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 483,
-        "avg_price": 1578,
-        "median_price": 1600,
+        "offer_count": 495,
+        "avg_price": 1570,
+        "median_price": 1550,
         "avg_area": 29,
-        "price_per_m2": 60
+        "price_per_m2": 59
       },
       {
         "rooms": 2,
-        "offer_count": 1531,
-        "avg_price": 1891,
+        "offer_count": 1599,
+        "avg_price": 1887,
         "median_price": 1900,
         "avg_area": 41,
         "price_per_m2": 48
       },
       {
         "rooms": 3,
-        "offer_count": 774,
-        "avg_price": 1942,
+        "offer_count": 806,
+        "avg_price": 1941,
         "median_price": 2000,
         "avg_area": 55,
         "price_per_m2": 43
       },
       {
         "rooms": 4,
-        "offer_count": 119,
-        "avg_price": 1657,
-        "median_price": 950,
-        "avg_area": 69,
+        "offer_count": 126,
+        "avg_price": 1648,
+        "median_price": 960,
+        "avg_area": 68,
         "price_per_m2": 38
       },
       {
         "rooms": 5,
-        "offer_count": 19,
-        "avg_price": 1496,
-        "median_price": 850,
+        "offer_count": 18,
+        "avg_price": 1531,
+        "median_price": 875,
         "avg_area": 66,
         "price_per_m2": 49
       }
@@ -245,54 +245,54 @@
     "sources": [
       {
         "source": "olx",
-        "offer_count": 2377,
-        "pct": 75.4
+        "offer_count": 2465,
+        "pct": 75.2
       },
       {
         "source": "otodom",
-        "offer_count": 347,
-        "pct": 11.0
+        "offer_count": 364,
+        "pct": 11.1
       },
       {
         "source": "domiporta",
-        "offer_count": 155,
-        "pct": 4.9
+        "offer_count": 157,
+        "pct": 4.8
       },
       {
         "source": "morizon",
-        "offer_count": 142,
+        "offer_count": 147,
         "pct": 4.5
       },
       {
         "source": "gratka",
-        "offer_count": 132,
-        "pct": 4.2
+        "offer_count": 143,
+        "pct": 4.4
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 510
+        "count": 524
       },
       {
         "price": 1000,
-        "count": 439
+        "count": 462
       },
       {
         "price": 1500,
-        "count": 935
+        "count": 974
       },
       {
         "price": 2000,
-        "count": 821
+        "count": 857
       },
       {
         "price": 2500,
-        "count": 321
+        "count": 331
       },
       {
         "price": 3000,
-        "count": 79
+        "count": 78
       },
       {
         "price": 3500,
@@ -300,11 +300,11 @@
       },
       {
         "price": 4000,
-        "count": 10
+        "count": 11
       },
       {
         "price": 4500,
-        "count": 5
+        "count": 6
       },
       {
         "price": 5500,
@@ -321,15 +321,26 @@
     ],
     "insights": [
       {
-        "type": "room_mix_anomaly",
-        "text": "W Białymstoku kawalerki to 17% aktywnych ofert — 7,5 pp. mniej niż średnia kraju (24%).",
-        "magnitude": 7.547780170944499,
+        "type": "freshness_signal",
+        "text": "125 nowych ofert w Białymstoku w ostatnich 7 dniach — 27% mniej niż średnia 4-tygodniowa.",
+        "magnitude": 27.325581395348834,
         "evidence": {
-          "city_studio_pct": 16.51,
-          "national_studio_pct": 24.05,
-          "delta_pp": -7.55,
-          "city_studio_count": 483,
-          "city_total": 2926
+          "last_7d_new": 125,
+          "trailing_28d_new": 688,
+          "weekly_avg_28d": 172.0,
+          "delta_pct": -27.33
+        }
+      },
+      {
+        "type": "room_mix_anomaly",
+        "text": "W Białymstoku kawalerki to 16% aktywnych ofert — 7,7 pp. mniej niż średnia kraju (24%).",
+        "magnitude": 7.686420369456737,
+        "evidence": {
+          "city_studio_pct": 16.26,
+          "national_studio_pct": 23.95,
+          "delta_pp": -7.69,
+          "city_studio_count": 495,
+          "city_total": 3044
         }
       }
     ]
@@ -337,70 +348,70 @@
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-09-29",
+        "date": "2026-10-06",
         "day_name": "Wt",
-        "new_offers": 32
+        "new_offers": 39
       },
       {
-        "date": "2026-09-30",
+        "date": "2026-10-07",
         "day_name": "Sr",
-        "new_offers": 39
+        "new_offers": 27
       },
       {
-        "date": "2026-10-01",
+        "date": "2026-10-08",
         "day_name": "Cz",
-        "new_offers": 39
+        "new_offers": 25
       },
       {
-        "date": "2026-10-02",
+        "date": "2026-10-09",
         "day_name": "Pt",
-        "new_offers": 34
+        "new_offers": 27
       },
       {
-        "date": "2026-10-03",
+        "date": "2026-10-10",
         "day_name": "So",
-        "new_offers": 1
+        "new_offers": 28
       },
       {
-        "date": "2026-10-04",
+        "date": "2026-10-11",
         "day_name": "Nd",
-        "new_offers": 0
+        "new_offers": 20
       },
       {
-        "date": "2026-10-05",
+        "date": "2026-10-12",
         "day_name": "Pn",
-        "new_offers": 41
+        "new_offers": 3
       }
     ],
-    "total_offers": 6172,
-    "active_offers": 3158,
-    "inactive_offers": 1640,
-    "active_rate_pct": 73,
+    "total_offers": 6369,
+    "active_offers": 3280,
+    "inactive_offers": 1632,
+    "active_rate_pct": 74,
     "source_activity_7d": [
       {
         "source": "otodom",
-        "count": 43,
-        "daily_avg": 6.1
+        "count": 35,
+        "daily_avg": 5.0
       },
       {
         "source": "olx",
-        "count": 155,
-        "daily_avg": 22.1
+        "count": 144,
+        "daily_avg": 20.6
       },
       {
         "source": "gratka",
-        "count": 14,
-        "daily_avg": 2.0
+        "count": 24,
+        "daily_avg": 3.4
       },
       {
         "source": "morizon",
-        "count": 13,
-        "daily_avg": 1.9
+        "count": 24,
+        "daily_avg": 3.4
       },
       {
         "source": "domiporta",
-        "count": 9,
-        "daily_avg": 1.3
+        "count": 12,
+        "daily_avg": 1.7
       }
     ]
   }

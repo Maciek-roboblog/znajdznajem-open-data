@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "szczecin",
-    "generated_at": "2026-10-05T05:11:05.763005+02:00",
+    "generated_at": "2026-10-12T06:00:30.708031+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-05T04:47:41.989582+02:00",
+    "data_as_of": "2026-10-12T05:49:59.106978+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,138 +29,138 @@
       }
     },
     "overview": {
-      "total_offers": 4372,
-      "avg_price": 2336,
+      "total_offers": 4579,
+      "avg_price": 2337,
       "median_price": 2300,
       "min_price": 500,
       "max_price": 8500,
-      "avg_price_per_m2": 62,
+      "avg_price_per_m2": 61,
       "avg_area": 44
     },
     "districts": [
       {
         "name": "Stare Miasto",
         "offer_count": 81,
-        "avg_price": 2951,
+        "avg_price": 2937,
         "min_price": 1600,
         "max_price": 5500
       },
       {
         "name": "Śródmieście",
-        "offer_count": 770,
-        "avg_price": 2717,
+        "offer_count": 796,
+        "avg_price": 2716,
         "min_price": 680,
         "max_price": 8500
       },
       {
         "name": "Północ",
-        "offer_count": 95,
-        "avg_price": 2676,
+        "offer_count": 104,
+        "avg_price": 2678,
         "min_price": 1500,
         "max_price": 4800
       },
       {
         "name": "Warszewo",
-        "offer_count": 134,
-        "avg_price": 2663,
+        "offer_count": 137,
+        "avg_price": 2669,
         "min_price": 850,
         "max_price": 5200
       },
       {
-        "name": "Nowe Miasto",
-        "offer_count": 26,
-        "avg_price": 2584,
-        "min_price": 1800,
-        "max_price": 4000
-      },
-      {
         "name": "Zachód",
-        "offer_count": 317,
+        "offer_count": 338,
         "avg_price": 2581,
         "min_price": 750,
         "max_price": 7500
       },
       {
         "name": "Prawobrzeże",
-        "offer_count": 59,
-        "avg_price": 2557,
+        "offer_count": 65,
+        "avg_price": 2573,
         "min_price": 800,
         "max_price": 6500
       },
       {
+        "name": "Nowe Miasto",
+        "offer_count": 28,
+        "avg_price": 2560,
+        "min_price": 1800,
+        "max_price": 4000
+      },
+      {
         "name": "Pogodno",
-        "offer_count": 170,
-        "avg_price": 2493,
+        "offer_count": 176,
+        "avg_price": 2500,
         "min_price": 787,
         "max_price": 7999
       },
       {
         "name": "Gumieńce",
-        "offer_count": 272,
-        "avg_price": 2476,
+        "offer_count": 286,
+        "avg_price": 2471,
         "min_price": 750,
         "max_price": 5800
       },
       {
-        "name": "Dąbie",
-        "offer_count": 29,
-        "avg_price": 2412,
-        "min_price": 1200,
-        "max_price": 3900
-      },
-      {
         "name": "Słoneczne",
-        "offer_count": 50,
-        "avg_price": 2406,
+        "offer_count": 51,
+        "avg_price": 2385,
         "min_price": 1200,
         "max_price": 6800
       },
       {
         "name": "Centrum",
-        "offer_count": 1012,
-        "avg_price": 2370,
+        "offer_count": 1069,
+        "avg_price": 2371,
         "min_price": 533,
         "max_price": 8500
       },
       {
-        "name": "Bukowe-Klęskowo",
-        "offer_count": 19,
-        "avg_price": 2352,
-        "min_price": 1650,
-        "max_price": 3300
+        "name": "Dąbie",
+        "offer_count": 31,
+        "avg_price": 2362,
+        "min_price": 1200,
+        "max_price": 3900
       },
       {
         "name": "Zdroje",
-        "offer_count": 44,
-        "avg_price": 2342,
+        "offer_count": 46,
+        "avg_price": 2346,
         "min_price": 1500,
         "max_price": 3900
       },
       {
+        "name": "Bukowe-Klęskowo",
+        "offer_count": 18,
+        "avg_price": 2327,
+        "min_price": 1650,
+        "max_price": 3300
+      },
+      {
         "name": "Świerczewo",
-        "offer_count": 65,
-        "avg_price": 2302,
+        "offer_count": 70,
+        "avg_price": 2326,
         "min_price": 900,
         "max_price": 3800
       },
       {
         "name": "Żelechowa",
-        "offer_count": 15,
-        "avg_price": 2253,
+        "offer_count": 16,
+        "avg_price": 2287,
         "min_price": 1600,
         "max_price": 2999
       },
       {
         "name": "Pomorzany",
-        "offer_count": 273,
+        "offer_count": 280,
         "avg_price": 2186,
         "min_price": 580,
         "max_price": 4000
       },
       {
         "name": "Niebuszewo",
-        "offer_count": 230,
-        "avg_price": 2141,
+        "offer_count": 237,
+        "avg_price": 2139,
         "min_price": 750,
         "max_price": 4350
       }
@@ -168,112 +168,112 @@
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 1201,
-        "avg_price": 1977,
+        "offer_count": 1254,
+        "avg_price": 1972,
         "median_price": 1950,
         "avg_area": 29,
         "price_per_m2": 71
       },
       {
         "rooms": 2,
-        "offer_count": 1917,
-        "avg_price": 2509,
+        "offer_count": 2016,
+        "avg_price": 2510,
         "median_price": 2500,
         "avg_area": 44,
         "price_per_m2": 60
       },
       {
         "rooms": 3,
-        "offer_count": 689,
-        "avg_price": 2867,
-        "median_price": 2900,
-        "avg_area": 61,
+        "offer_count": 718,
+        "avg_price": 2861,
+        "median_price": 2899,
+        "avg_area": 62,
         "price_per_m2": 52
       },
       {
         "rooms": 4,
-        "offer_count": 220,
-        "avg_price": 3001,
-        "median_price": 3362,
+        "offer_count": 231,
+        "avg_price": 3023,
+        "median_price": 3400,
         "avg_area": 78,
         "price_per_m2": 51
       },
       {
         "rooms": 5,
-        "offer_count": 44,
-        "avg_price": 1891,
-        "median_price": 1040,
-        "avg_area": 100,
-        "price_per_m2": 40
+        "offer_count": 49,
+        "avg_price": 1979,
+        "median_price": 1050,
+        "avg_area": 95,
+        "price_per_m2": 44
       }
     ],
     "sources": [
       {
         "source": "olx",
-        "offer_count": 2622,
-        "pct": 60.0
+        "offer_count": 2753,
+        "pct": 60.1
       },
       {
         "source": "otodom",
-        "offer_count": 982,
-        "pct": 22.5
+        "offer_count": 1041,
+        "pct": 22.7
       },
       {
         "source": "gratka",
-        "offer_count": 292,
-        "pct": 6.7
+        "offer_count": 297,
+        "pct": 6.5
       },
       {
         "source": "domiporta",
-        "offer_count": 244,
-        "pct": 5.6
+        "offer_count": 250,
+        "pct": 5.5
       },
       {
         "source": "morizon",
-        "offer_count": 232,
-        "pct": 5.3
+        "offer_count": 238,
+        "pct": 5.2
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 264
+        "count": 273
       },
       {
         "price": 1000,
-        "count": 363
+        "count": 378
       },
       {
         "price": 1500,
-        "count": 741
+        "count": 781
       },
       {
         "price": 2000,
-        "count": 1212
+        "count": 1257
       },
       {
         "price": 2500,
-        "count": 1054
+        "count": 1116
       },
       {
         "price": 3000,
-        "count": 338
+        "count": 358
       },
       {
         "price": 3500,
-        "count": 190
+        "count": 200
       },
       {
         "price": 4000,
-        "count": 68
+        "count": 69
       },
       {
         "price": 4500,
-        "count": 52
+        "count": 53
       },
       {
         "price": 5000,
-        "count": 23
+        "count": 26
       },
       {
         "price": 5500,
@@ -293,7 +293,7 @@
       },
       {
         "price": 7500,
-        "count": 6
+        "count": 7
       },
       {
         "price": 8000,
@@ -307,14 +307,14 @@
     "insights": [
       {
         "type": "room_mix_anomaly",
-        "text": "W Szczecinie kawalerki to 30% aktywnych ofert — 5,4 pp. więcej niż średnia kraju (24%).",
-        "magnitude": 5.447014940696501,
+        "text": "W Szczecinie kawalerki to 29% aktywnych ofert — 5,4 pp. więcej niż średnia kraju (24%).",
+        "magnitude": 5.4321203986906355,
         "evidence": {
-          "city_studio_pct": 29.5,
-          "national_studio_pct": 24.05,
-          "delta_pp": 5.45,
-          "city_studio_count": 1201,
-          "city_total": 4071
+          "city_studio_pct": 29.38,
+          "national_studio_pct": 23.95,
+          "delta_pp": 5.43,
+          "city_studio_count": 1254,
+          "city_total": 4268
         }
       }
     ]
@@ -322,70 +322,70 @@
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-09-29",
+        "date": "2026-10-06",
         "day_name": "Wt",
+        "new_offers": 47
+      },
+      {
+        "date": "2026-10-07",
+        "day_name": "Sr",
         "new_offers": 46
       },
       {
-        "date": "2026-09-30",
-        "day_name": "Sr",
-        "new_offers": 68
-      },
-      {
-        "date": "2026-10-01",
+        "date": "2026-10-08",
         "day_name": "Cz",
-        "new_offers": 53
+        "new_offers": 59
       },
       {
-        "date": "2026-10-02",
+        "date": "2026-10-09",
         "day_name": "Pt",
-        "new_offers": 41
+        "new_offers": 43
       },
       {
-        "date": "2026-10-03",
+        "date": "2026-10-10",
         "day_name": "So",
-        "new_offers": 3
+        "new_offers": 17
       },
       {
-        "date": "2026-10-04",
+        "date": "2026-10-11",
         "day_name": "Nd",
-        "new_offers": 0
+        "new_offers": 21
       },
       {
-        "date": "2026-10-05",
+        "date": "2026-10-12",
         "day_name": "Pn",
-        "new_offers": 53
+        "new_offers": 10
       }
     ],
-    "total_offers": 9719,
-    "active_offers": 4374,
-    "inactive_offers": 3175,
-    "active_rate_pct": 67,
+    "total_offers": 10000,
+    "active_offers": 4581,
+    "inactive_offers": 3160,
+    "active_rate_pct": 68,
     "source_activity_7d": [
       {
         "source": "otodom",
-        "count": 84,
-        "daily_avg": 12.0
+        "count": 91,
+        "daily_avg": 13.0
       },
       {
         "source": "olx",
-        "count": 180,
-        "daily_avg": 25.7
+        "count": 191,
+        "daily_avg": 27.3
       },
       {
         "source": "gratka",
-        "count": 29,
-        "daily_avg": 4.1
+        "count": 19,
+        "daily_avg": 2.7
       },
       {
         "source": "morizon",
-        "count": 29,
-        "daily_avg": 4.1
+        "count": 19,
+        "daily_avg": 2.7
       },
       {
         "source": "domiporta",
-        "count": 23,
-        "daily_avg": 3.3
+        "count": 14,
+        "daily_avg": 2.0
       }
     ]
   }
