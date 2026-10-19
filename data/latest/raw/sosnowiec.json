@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "sosnowiec",
-    "generated_at": "2026-10-12T05:13:31.217493+02:00",
+    "generated_at": "2026-10-19T05:13:54.617881+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-12T03:39:15.193089+02:00",
+    "data_as_of": "2026-10-19T04:28:37.609164+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,8 +29,8 @@
       }
     },
     "overview": {
-      "total_offers": 930,
-      "avg_price": 1691,
+      "total_offers": 980,
+      "avg_price": 1686,
       "median_price": 1600,
       "min_price": 500,
       "max_price": 12000,
@@ -41,32 +41,32 @@
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 266,
-        "avg_price": 1446,
-        "median_price": 1450,
+        "offer_count": 279,
+        "avg_price": 1436,
+        "median_price": 1400,
         "avg_area": 30,
         "price_per_m2": 50
       },
       {
         "rooms": 2,
-        "offer_count": 447,
-        "avg_price": 1789,
+        "offer_count": 473,
+        "avg_price": 1792,
         "median_price": 1700,
         "avg_area": 42,
         "price_per_m2": 44
       },
       {
         "rooms": 3,
-        "offer_count": 162,
-        "avg_price": 1970,
-        "median_price": 1850,
+        "offer_count": 169,
+        "avg_price": 1954,
+        "median_price": 1800,
         "avg_area": 61,
-        "price_per_m2": 38
+        "price_per_m2": 37
       },
       {
         "rooms": 4,
-        "offer_count": 27,
-        "avg_price": 1578,
+        "offer_count": 28,
+        "avg_price": 1602,
         "median_price": 1200,
         "avg_area": 64,
         "price_per_m2": 38
@@ -83,54 +83,54 @@
     "sources": [
       {
         "source": "olx",
-        "offer_count": 621,
-        "pct": 66.8
+        "offer_count": 659,
+        "pct": 67.2
       },
       {
         "source": "otodom",
-        "offer_count": 148,
-        "pct": 15.9
+        "offer_count": 160,
+        "pct": 16.3
       },
       {
         "source": "gratka",
         "offer_count": 97,
-        "pct": 10.4
+        "pct": 9.9
       },
       {
         "source": "morizon",
         "offer_count": 44,
-        "pct": 4.7
+        "pct": 4.5
       },
       {
         "source": "domiporta",
         "offer_count": 20,
-        "pct": 2.2
+        "pct": 2.0
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 76
+        "count": 84
       },
       {
         "price": 1000,
-        "count": 249
+        "count": 260
       },
       {
         "price": 1500,
-        "count": 362
+        "count": 382
       },
       {
         "price": 2000,
-        "count": 162
+        "count": 169
       },
       {
         "price": 2500,
-        "count": 51
+        "count": 54
       },
       {
         "price": 3000,
-        "count": 18
+        "count": 19
       },
       {
         "price": 3500,
@@ -147,26 +147,15 @@
     ],
     "insights": [
       {
-        "type": "freshness_signal",
-        "text": "46 nowych ofert w Sosnowcu w ostatnich 7 dniach — 23% mniej niż średnia 4-tygodniowa.",
-        "magnitude": 23.333333333333332,
-        "evidence": {
-          "last_7d_new": 46,
-          "trailing_28d_new": 240,
-          "weekly_avg_28d": 60.0,
-          "delta_pct": -23.33
-        }
-      },
-      {
         "type": "room_mix_anomaly",
-        "text": "W Sosnowcu kawalerki to 29% aktywnych ofert — 5,5 pp. więcej niż średnia kraju (24%).",
-        "magnitude": 5.476860362695881,
+        "text": "W Sosnowcu kawalerki to 29% aktywnych ofert — 5,4 pp. więcej niż średnia kraju (24%).",
+        "magnitude": 5.381524548091932,
         "evidence": {
-          "city_studio_pct": 29.42,
-          "national_studio_pct": 23.95,
-          "delta_pp": 5.48,
-          "city_studio_count": 266,
-          "city_total": 904
+          "city_studio_pct": 29.34,
+          "national_studio_pct": 23.96,
+          "delta_pp": 5.38,
+          "city_studio_count": 279,
+          "city_total": 951
         }
       }
     ]
@@ -174,65 +163,60 @@
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-10-06",
+        "date": "2026-10-13",
         "day_name": "Wt",
-        "new_offers": 21
+        "new_offers": 6
       },
       {
-        "date": "2026-10-07",
+        "date": "2026-10-14",
         "day_name": "Sr",
         "new_offers": 7
       },
       {
-        "date": "2026-10-08",
+        "date": "2026-10-15",
         "day_name": "Cz",
-        "new_offers": 7
+        "new_offers": 12
       },
       {
-        "date": "2026-10-09",
+        "date": "2026-10-16",
         "day_name": "Pt",
+        "new_offers": 8
+      },
+      {
+        "date": "2026-10-17",
+        "day_name": "So",
+        "new_offers": 4
+      },
+      {
+        "date": "2026-10-18",
+        "day_name": "Nd",
         "new_offers": 13
       },
       {
-        "date": "2026-10-10",
-        "day_name": "So",
-        "new_offers": 5
-      },
-      {
-        "date": "2026-10-11",
-        "day_name": "Nd",
-        "new_offers": 5
-      },
-      {
-        "date": "2026-10-12",
+        "date": "2026-10-19",
         "day_name": "Pn",
-        "new_offers": 4
+        "new_offers": 3
       }
     ],
-    "total_offers": 2148,
-    "active_offers": 935,
-    "inactive_offers": 467,
-    "active_rate_pct": 78,
+    "total_offers": 2217,
+    "active_offers": 985,
+    "inactive_offers": 463,
+    "active_rate_pct": 79,
     "source_activity_7d": [
       {
-        "source": "domiporta",
-        "count": 3,
-        "daily_avg": 0.4
-      },
-      {
         "source": "gratka",
-        "count": 11,
-        "daily_avg": 1.6
+        "count": 4,
+        "daily_avg": 0.6
       },
       {
         "source": "morizon",
-        "count": 11,
-        "daily_avg": 1.6
+        "count": 4,
+        "daily_avg": 0.6
       },
       {
         "source": "olx",
-        "count": 54,
-        "daily_avg": 7.7
+        "count": 45,
+        "daily_avg": 6.4
       },
       {
         "source": "otodom",

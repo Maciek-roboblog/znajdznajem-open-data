@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "gdynia",
-    "generated_at": "2026-10-12T05:11:48.016543+02:00",
+    "generated_at": "2026-10-19T05:07:31.035892+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-12T05:04:56.066661+02:00",
+    "data_as_of": "2026-10-19T04:04:26.278148+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,8 +29,8 @@
       }
     },
     "overview": {
-      "total_offers": 3003,
-      "avg_price": 2558,
+      "total_offers": 3127,
+      "avg_price": 2549,
       "median_price": 2400,
       "min_price": 500,
       "max_price": 14000,
@@ -40,148 +40,148 @@
     "districts": [
       {
         "name": "Orłowo",
-        "offer_count": 151,
-        "avg_price": 3577,
+        "offer_count": 158,
+        "avg_price": 3539,
         "min_price": 900,
         "max_price": 14000
       },
       {
         "name": "Śródmieście",
-        "offer_count": 464,
-        "avg_price": 3177,
+        "offer_count": 487,
+        "avg_price": 3151,
         "min_price": 580,
         "max_price": 13900
       },
       {
-        "name": "Mały Kack",
-        "offer_count": 127,
-        "avg_price": 3128,
-        "min_price": 1000,
-        "max_price": 13000
-      },
-      {
         "name": "Redłowo",
-        "offer_count": 158,
-        "avg_price": 3107,
+        "offer_count": 163,
+        "avg_price": 3095,
         "min_price": 850,
         "max_price": 13500
       },
       {
+        "name": "Mały Kack",
+        "offer_count": 132,
+        "avg_price": 3090,
+        "min_price": 1000,
+        "max_price": 13000
+      },
+      {
         "name": "Wzgórze Św. Maksymiliana",
-        "offer_count": 104,
-        "avg_price": 3032,
+        "offer_count": 108,
+        "avg_price": 3033,
         "min_price": 1300,
         "max_price": 12000
       },
       {
         "name": "Chwarzno-Wiczlino",
-        "offer_count": 95,
-        "avg_price": 2884,
+        "offer_count": 99,
+        "avg_price": 2873,
         "min_price": 1300,
         "max_price": 5600
       },
       {
         "name": "Kamienna Góra",
-        "offer_count": 81,
-        "avg_price": 2657,
+        "offer_count": 82,
+        "avg_price": 2689,
         "min_price": 900,
         "max_price": 7500
       },
       {
+        "name": "Dąbrowa",
+        "offer_count": 51,
+        "avg_price": 2634,
+        "min_price": 1000,
+        "max_price": 4400
+      },
+      {
         "name": "Wielki Kack",
-        "offer_count": 74,
-        "avg_price": 2596,
+        "offer_count": 79,
+        "avg_price": 2623,
         "min_price": 1000,
         "max_price": 4000
       },
       {
-        "name": "Dąbrowa",
-        "offer_count": 47,
-        "avg_price": 2577,
-        "min_price": 1000,
-        "max_price": 3600
-      },
-      {
         "name": "Pogórze",
-        "offer_count": 86,
-        "avg_price": 2546,
+        "offer_count": 90,
+        "avg_price": 2572,
         "min_price": 800,
         "max_price": 5000
       },
       {
         "name": "Działki Leśne",
-        "offer_count": 171,
-        "avg_price": 2541,
+        "offer_count": 176,
+        "avg_price": 2529,
         "min_price": 800,
         "max_price": 7500
       },
       {
-        "name": "Witomino",
-        "offer_count": 143,
-        "avg_price": 2482,
-        "min_price": 600,
-        "max_price": 8500
-      },
-      {
         "name": "Oksywie",
-        "offer_count": 102,
-        "avg_price": 2481,
+        "offer_count": 105,
+        "avg_price": 2461,
         "min_price": 900,
         "max_price": 3750
       },
       {
+        "name": "Witomino",
+        "offer_count": 149,
+        "avg_price": 2461,
+        "min_price": 600,
+        "max_price": 8500
+      },
+      {
         "name": "Karwiny",
-        "offer_count": 71,
-        "avg_price": 2468,
+        "offer_count": 75,
+        "avg_price": 2450,
         "min_price": 1300,
         "max_price": 4400
       },
       {
-        "name": "Obłuże",
-        "offer_count": 102,
-        "avg_price": 2422,
-        "min_price": 850,
-        "max_price": 10000
-      },
-      {
         "name": "Pustki Cisowskie-Demptowo",
-        "offer_count": 35,
-        "avg_price": 2420,
+        "offer_count": 36,
+        "avg_price": 2406,
         "min_price": 900,
         "max_price": 4900
       },
       {
         "name": "Babie Doły",
-        "offer_count": 17,
-        "avg_price": 2332,
+        "offer_count": 22,
+        "avg_price": 2395,
         "min_price": 1550,
         "max_price": 3500
       },
       {
+        "name": "Obłuże",
+        "offer_count": 103,
+        "avg_price": 2390,
+        "min_price": 850,
+        "max_price": 10000
+      },
+      {
         "name": "Grabówek",
-        "offer_count": 137,
-        "avg_price": 2296,
+        "offer_count": 146,
+        "avg_price": 2293,
         "min_price": 850,
         "max_price": 3700
       },
       {
         "name": "Cisowa",
         "offer_count": 62,
-        "avg_price": 2282,
+        "avg_price": 2267,
         "min_price": 900,
         "max_price": 3500
       },
       {
         "name": "Chylonia",
-        "offer_count": 165,
-        "avg_price": 2253,
+        "offer_count": 170,
+        "avg_price": 2260,
         "min_price": 700,
         "max_price": 3700
       },
       {
         "name": "Leszczynki",
-        "offer_count": 82,
-        "avg_price": 2147,
+        "offer_count": 85,
+        "avg_price": 2142,
         "min_price": 900,
         "max_price": 4500
       }
@@ -189,104 +189,104 @@
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 652,
-        "avg_price": 2039,
+        "offer_count": 687,
+        "avg_price": 2042,
         "median_price": 2000,
         "avg_area": 28,
         "price_per_m2": 77
       },
       {
         "rooms": 2,
-        "offer_count": 1339,
-        "avg_price": 2653,
+        "offer_count": 1386,
+        "avg_price": 2642,
         "median_price": 2500,
         "avg_area": 45,
         "price_per_m2": 62
       },
       {
         "rooms": 3,
-        "offer_count": 633,
-        "avg_price": 3137,
+        "offer_count": 659,
+        "avg_price": 3123,
         "median_price": 3000,
-        "avg_area": 61,
+        "avg_area": 60,
         "price_per_m2": 58
       },
       {
         "rooms": 4,
-        "offer_count": 151,
-        "avg_price": 3386,
-        "median_price": 2000,
-        "avg_area": 73,
-        "price_per_m2": 63
+        "offer_count": 156,
+        "avg_price": 3404,
+        "median_price": 2600,
+        "avg_area": 74,
+        "price_per_m2": 61
       },
       {
         "rooms": 5,
-        "offer_count": 22,
-        "avg_price": 2491,
+        "offer_count": 23,
+        "avg_price": 2545,
         "median_price": 1100,
-        "avg_area": 54,
-        "price_per_m2": 68
+        "avg_area": 57,
+        "price_per_m2": 66
       }
     ],
     "sources": [
       {
         "source": "olx",
-        "offer_count": 1687,
-        "pct": 56.2
+        "offer_count": 1765,
+        "pct": 56.4
       },
       {
         "source": "otodom",
-        "offer_count": 661,
-        "pct": 22.0
+        "offer_count": 702,
+        "pct": 22.4
       },
       {
         "source": "gratka",
-        "offer_count": 279,
-        "pct": 9.3
+        "offer_count": 275,
+        "pct": 8.8
       },
       {
         "source": "morizon",
-        "offer_count": 200,
-        "pct": 6.7
+        "offer_count": 201,
+        "pct": 6.4
       },
       {
         "source": "domiporta",
-        "offer_count": 176,
+        "offer_count": 184,
         "pct": 5.9
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 174
+        "count": 184
       },
       {
         "price": 1000,
-        "count": 306
+        "count": 313
       },
       {
         "price": 1500,
-        "count": 368
+        "count": 391
       },
       {
         "price": 2000,
-        "count": 696
+        "count": 726
       },
       {
         "price": 2500,
-        "count": 705
+        "count": 739
       },
       {
         "price": 3000,
-        "count": 300
+        "count": 305
       },
       {
         "price": 3500,
-        "count": 204
+        "count": 215
       },
       {
         "price": 4000,
-        "count": 73
+        "count": 75
       },
       {
         "price": 4500,
@@ -294,11 +294,11 @@
       },
       {
         "price": 5000,
-        "count": 32
+        "count": 33
       },
       {
         "price": 5500,
-        "count": 19
+        "count": 20
       },
       {
         "price": 6000,
@@ -370,70 +370,70 @@
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-10-06",
+        "date": "2026-10-13",
         "day_name": "Wt",
-        "new_offers": 51
+        "new_offers": 53
       },
       {
-        "date": "2026-10-07",
+        "date": "2026-10-14",
         "day_name": "Sr",
-        "new_offers": 49
+        "new_offers": 38
       },
       {
-        "date": "2026-10-08",
+        "date": "2026-10-15",
         "day_name": "Cz",
-        "new_offers": 42
+        "new_offers": 20
       },
       {
-        "date": "2026-10-09",
+        "date": "2026-10-16",
         "day_name": "Pt",
-        "new_offers": 43
+        "new_offers": 35
       },
       {
-        "date": "2026-10-10",
+        "date": "2026-10-17",
         "day_name": "So",
-        "new_offers": 17
+        "new_offers": 27
       },
       {
-        "date": "2026-10-11",
+        "date": "2026-10-18",
         "day_name": "Nd",
-        "new_offers": 29
+        "new_offers": 23
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-19",
         "day_name": "Pn",
-        "new_offers": 5
+        "new_offers": 0
       }
     ],
-    "total_offers": 6387,
-    "active_offers": 3012,
-    "inactive_offers": 1366,
+    "total_offers": 6622,
+    "active_offers": 3140,
+    "inactive_offers": 1371,
     "active_rate_pct": 79,
     "source_activity_7d": [
       {
-        "source": "otodom",
-        "count": 96,
-        "daily_avg": 13.7
+        "source": "olx",
+        "count": 107,
+        "daily_avg": 15.3
       },
       {
-        "source": "olx",
-        "count": 123,
-        "daily_avg": 17.6
+        "source": "otodom",
+        "count": 76,
+        "daily_avg": 10.9
       },
       {
         "source": "gratka",
-        "count": 37,
-        "daily_avg": 5.3
+        "count": 22,
+        "daily_avg": 3.1
       },
       {
         "source": "morizon",
-        "count": 37,
-        "daily_avg": 5.3
+        "count": 22,
+        "daily_avg": 3.1
       },
       {
         "source": "domiporta",
-        "count": 28,
-        "daily_avg": 4.0
+        "count": 14,
+        "daily_avg": 2.0
       }
     ]
   }

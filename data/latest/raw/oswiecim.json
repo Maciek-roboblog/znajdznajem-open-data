@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "oswiecim",
-    "generated_at": "2026-10-12T05:13:57.202306+02:00",
+    "generated_at": "2026-10-19T05:14:22.451652+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-12T03:41:12.393549+02:00",
+    "data_as_of": "2026-10-19T04:21:36.538727+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,36 +29,36 @@
       }
     },
     "overview": {
-      "total_offers": 598,
-      "avg_price": 1696,
+      "total_offers": 607,
+      "avg_price": 1706,
       "median_price": 1600,
       "min_price": 500,
       "max_price": 4999,
       "avg_price_per_m2": 43,
-      "avg_area": 44
+      "avg_area": 43
     },
     "districts": [],
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 155,
-        "avg_price": 1454,
+        "offer_count": 159,
+        "avg_price": 1461,
         "median_price": 1400,
-        "avg_area": 32,
+        "avg_area": 31,
         "price_per_m2": 49
       },
       {
         "rooms": 2,
-        "offer_count": 268,
-        "avg_price": 1710,
+        "offer_count": 276,
+        "avg_price": 1732,
         "median_price": 1700,
         "avg_area": 43,
-        "price_per_m2": 41
+        "price_per_m2": 42
       },
       {
         "rooms": 3,
-        "offer_count": 116,
-        "avg_price": 2176,
+        "offer_count": 114,
+        "avg_price": 2178,
         "median_price": 2150,
         "avg_area": 59,
         "price_per_m2": 39
@@ -83,18 +83,18 @@
     "sources": [
       {
         "source": "olx",
-        "offer_count": 400,
-        "pct": 66.9
+        "offer_count": 405,
+        "pct": 66.7
       },
       {
         "source": "nieruchomosci-online",
-        "offer_count": 79,
-        "pct": 13.2
+        "offer_count": 77,
+        "pct": 12.7
       },
       {
         "source": "adresowo",
-        "offer_count": 61,
-        "pct": 10.2
+        "offer_count": 64,
+        "pct": 10.5
       },
       {
         "source": "domiporta",
@@ -103,8 +103,8 @@
       },
       {
         "source": "otodom",
-        "offer_count": 15,
-        "pct": 2.5
+        "offer_count": 18,
+        "pct": 3.0
       },
       {
         "source": "gratka",
@@ -120,7 +120,7 @@
     "price_distribution": [
       {
         "price": 500,
-        "count": 52
+        "count": 50
       },
       {
         "price": 1000,
@@ -128,15 +128,15 @@
       },
       {
         "price": 1500,
-        "count": 215
+        "count": 219
       },
       {
         "price": 2000,
-        "count": 107
+        "count": 111
       },
       {
         "price": 2500,
-        "count": 40
+        "count": 43
       },
       {
         "price": 3000,
@@ -160,75 +160,60 @@
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-10-06",
+        "date": "2026-10-13",
         "day_name": "Wt",
-        "new_offers": 6
+        "new_offers": 4
       },
       {
-        "date": "2026-10-07",
+        "date": "2026-10-14",
         "day_name": "Sr",
-        "new_offers": 15
+        "new_offers": 4
       },
       {
-        "date": "2026-10-08",
+        "date": "2026-10-15",
         "day_name": "Cz",
+        "new_offers": 9
+      },
+      {
+        "date": "2026-10-16",
+        "day_name": "Pt",
         "new_offers": 7
       },
       {
-        "date": "2026-10-09",
-        "day_name": "Pt",
+        "date": "2026-10-17",
+        "day_name": "So",
         "new_offers": 3
       },
       {
-        "date": "2026-10-10",
-        "day_name": "So",
-        "new_offers": 5
-      },
-      {
-        "date": "2026-10-11",
+        "date": "2026-10-18",
         "day_name": "Nd",
-        "new_offers": 6
+        "new_offers": 8
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-19",
         "day_name": "Pn",
-        "new_offers": 0
+        "new_offers": 1
       }
     ],
-    "total_offers": 1779,
-    "active_offers": 600,
-    "inactive_offers": 878,
-    "active_rate_pct": 51,
+    "total_offers": 1813,
+    "active_offers": 609,
+    "inactive_offers": 870,
+    "active_rate_pct": 52,
     "source_activity_7d": [
       {
         "source": "adresowo",
-        "count": 1,
-        "daily_avg": 0.1
-      },
-      {
-        "source": "gratka",
         "count": 3,
         "daily_avg": 0.4
-      },
-      {
-        "source": "morizon",
-        "count": 3,
-        "daily_avg": 0.4
-      },
-      {
-        "source": "nieruchomosci-online",
-        "count": 2,
-        "daily_avg": 0.3
       },
       {
         "source": "olx",
-        "count": 42,
-        "daily_avg": 6.0
+        "count": 39,
+        "daily_avg": 5.6
       },
       {
         "source": "otodom",
-        "count": 3,
-        "daily_avg": 0.4
+        "count": 2,
+        "daily_avg": 0.3
       }
     ]
   }

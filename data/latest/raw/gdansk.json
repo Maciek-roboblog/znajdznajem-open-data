@@ -1,10 +1,10 @@
 {
   "report": {
     "city_slug": "gdansk",
-    "generated_at": "2026-10-12T05:46:11.225737+02:00",
+    "generated_at": "2026-10-19T05:10:39.148946+02:00",
     "observation_mode": "snapshot",
     "data_as_of_basis": "latest_source_change",
-    "data_as_of": "2026-10-12T05:23:15.106195+02:00",
+    "data_as_of": "2026-10-19T05:10:39.032265+02:00",
     "price_sample": {
       "scope": "price_analysis_band",
       "min_price": 500,
@@ -29,8 +29,8 @@
       }
     },
     "overview": {
-      "total_offers": 10545,
-      "avg_price": 2738,
+      "total_offers": 10888,
+      "avg_price": 2730,
       "median_price": 2700,
       "min_price": 550,
       "max_price": 14760,
@@ -40,264 +40,264 @@
     "districts": [
       {
         "name": "Letnica",
-        "offer_count": 338,
-        "avg_price": 3530,
+        "offer_count": 349,
+        "avg_price": 3525,
         "min_price": 800,
         "max_price": 14760
       },
       {
         "name": "Brzeźno",
-        "offer_count": 367,
-        "avg_price": 3242,
+        "offer_count": 375,
+        "avg_price": 3236,
         "min_price": 870,
         "max_price": 13000
       },
       {
         "name": "Śródmieście",
-        "offer_count": 1300,
-        "avg_price": 3150,
+        "offer_count": 1331,
+        "avg_price": 3136,
         "min_price": 600,
         "max_price": 12500
       },
       {
         "name": "Morena",
-        "offer_count": 55,
-        "avg_price": 3088,
+        "offer_count": 59,
+        "avg_price": 3079,
         "min_price": 750,
         "max_price": 4500
       },
       {
         "name": "Oliwa",
-        "offer_count": 345,
-        "avg_price": 3030,
-        "min_price": 799,
+        "offer_count": 354,
+        "avg_price": 3009,
+        "min_price": 750,
         "max_price": 12300
       },
       {
         "name": "Aniołki",
-        "offer_count": 292,
-        "avg_price": 2976,
+        "offer_count": 300,
+        "avg_price": 2963,
         "min_price": 890,
         "max_price": 7500
       },
       {
-        "name": "Przymorze",
-        "offer_count": 1158,
-        "avg_price": 2954,
-        "min_price": 555,
-        "max_price": 12000
-      },
-      {
         "name": "Zaspa",
-        "offer_count": 295,
-        "avg_price": 2944,
+        "offer_count": 298,
+        "avg_price": 2951,
         "min_price": 990,
         "max_price": 6000
       },
       {
+        "name": "Przymorze",
+        "offer_count": 1181,
+        "avg_price": 2943,
+        "min_price": 555,
+        "max_price": 12000
+      },
+      {
         "name": "Wrzeszcz",
-        "offer_count": 946,
-        "avg_price": 2931,
+        "offer_count": 979,
+        "avg_price": 2921,
         "min_price": 550,
         "max_price": 10400
       },
       {
         "name": "Strzyża",
-        "offer_count": 105,
-        "avg_price": 2875,
+        "offer_count": 104,
+        "avg_price": 2856,
         "min_price": 1000,
         "max_price": 5400
       },
       {
         "name": "Piecki-Migowo",
-        "offer_count": 454,
-        "avg_price": 2857,
+        "offer_count": 470,
+        "avg_price": 2854,
         "min_price": 745,
         "max_price": 9000
       },
       {
         "name": "Jasień",
-        "offer_count": 415,
-        "avg_price": 2813,
+        "offer_count": 426,
+        "avg_price": 2807,
         "min_price": 955,
         "max_price": 5550
       },
       {
         "name": "Siedlce",
-        "offer_count": 116,
-        "avg_price": 2790,
+        "offer_count": 123,
+        "avg_price": 2736,
         "min_price": 800,
         "max_price": 7500
       },
       {
         "name": "Ujeścisko-Łostowice",
-        "offer_count": 425,
-        "avg_price": 2696,
+        "offer_count": 440,
+        "avg_price": 2701,
         "min_price": 600,
         "max_price": 7000
       },
       {
         "name": "Orunia Górna",
-        "offer_count": 241,
-        "avg_price": 2668,
+        "offer_count": 252,
+        "avg_price": 2653,
         "min_price": 850,
         "max_price": 4500
       },
       {
         "name": "Nowy Port",
-        "offer_count": 51,
-        "avg_price": 2646,
+        "offer_count": 52,
+        "avg_price": 2641,
         "min_price": 800,
         "max_price": 5500
       },
       {
-        "name": "Stogi",
-        "offer_count": 79,
-        "avg_price": 2645,
-        "min_price": 1300,
-        "max_price": 6500
-      },
-      {
         "name": "Żabianka",
-        "offer_count": 265,
-        "avg_price": 2632,
+        "offer_count": 273,
+        "avg_price": 2634,
         "min_price": 950,
         "max_price": 5200
       },
       {
+        "name": "Stogi",
+        "offer_count": 85,
+        "avg_price": 2632,
+        "min_price": 1300,
+        "max_price": 6500
+      },
+      {
         "name": "Chełm",
-        "offer_count": 391,
-        "avg_price": 2607,
+        "offer_count": 411,
+        "avg_price": 2608,
         "min_price": 850,
         "max_price": 6500
       },
       {
         "name": "Suchanino",
-        "offer_count": 106,
-        "avg_price": 2560,
+        "offer_count": 109,
+        "avg_price": 2539,
         "min_price": 950,
-        "max_price": 5300
+        "max_price": 4950
       }
     ],
     "by_rooms": [
       {
         "rooms": 1,
-        "offer_count": 2090,
-        "avg_price": 2277,
+        "offer_count": 2169,
+        "avg_price": 2273,
         "median_price": 2300,
         "avg_area": 29,
         "price_per_m2": 84
       },
       {
         "rooms": 2,
-        "offer_count": 4795,
-        "avg_price": 2838,
+        "offer_count": 4966,
+        "avg_price": 2830,
         "median_price": 2800,
         "avg_area": 43,
         "price_per_m2": 69
       },
       {
         "rooms": 3,
-        "offer_count": 2270,
-        "avg_price": 3304,
-        "median_price": 3425,
+        "offer_count": 2326,
+        "avg_price": 3299,
+        "median_price": 3400,
         "avg_area": 59,
         "price_per_m2": 65
       },
       {
         "rooms": 4,
-        "offer_count": 555,
-        "avg_price": 3387,
-        "median_price": 2000,
+        "offer_count": 571,
+        "avg_price": 3366,
+        "median_price": 1900,
         "avg_area": 68,
         "price_per_m2": 71
       },
       {
         "rooms": 5,
-        "offer_count": 127,
-        "avg_price": 1726,
-        "median_price": 1180,
-        "avg_area": 53,
+        "offer_count": 130,
+        "avg_price": 1747,
+        "median_price": 1150,
+        "avg_area": 54,
         "price_per_m2": 75
       }
     ],
     "sources": [
       {
         "source": "olx",
-        "offer_count": 5112,
-        "pct": 48.5
+        "offer_count": 5303,
+        "pct": 48.7
       },
       {
         "source": "otodom",
-        "offer_count": 2018,
-        "pct": 19.1
+        "offer_count": 2110,
+        "pct": 19.4
       },
       {
         "source": "nieruchomosci-online",
-        "offer_count": 1437,
+        "offer_count": 1479,
         "pct": 13.6
       },
       {
         "source": "gratka",
-        "offer_count": 764,
-        "pct": 7.2
+        "offer_count": 759,
+        "pct": 7.0
       },
       {
         "source": "morizon",
-        "offer_count": 580,
-        "pct": 5.5
+        "offer_count": 574,
+        "pct": 5.3
       },
       {
         "source": "adresowo",
-        "offer_count": 390,
+        "offer_count": 405,
         "pct": 3.7
       },
       {
         "source": "domiporta",
-        "offer_count": 244,
-        "pct": 2.3
+        "offer_count": 258,
+        "pct": 2.4
       }
     ],
     "price_distribution": [
       {
         "price": 500,
-        "count": 402
+        "count": 424
       },
       {
         "price": 1000,
-        "count": 1174
+        "count": 1197
       },
       {
         "price": 1500,
-        "count": 734
+        "count": 756
       },
       {
         "price": 2000,
-        "count": 1657
+        "count": 1746
       },
       {
         "price": 2500,
-        "count": 2767
+        "count": 2874
       },
       {
         "price": 3000,
-        "count": 1713
+        "count": 1756
       },
       {
         "price": 3500,
-        "count": 983
+        "count": 1009
       },
       {
         "price": 4000,
-        "count": 419
+        "count": 422
       },
       {
         "price": 4500,
-        "count": 289
+        "count": 290
       },
       {
         "price": 5000,
-        "count": 99
+        "count": 102
       },
       {
         "price": 5500,
@@ -305,11 +305,11 @@
       },
       {
         "price": 6000,
-        "count": 51
+        "count": 54
       },
       {
         "price": 6500,
-        "count": 38
+        "count": 39
       },
       {
         "price": 7000,
@@ -317,15 +317,15 @@
       },
       {
         "price": 7500,
-        "count": 21
+        "count": 20
       },
       {
         "price": 8000,
-        "count": 22
+        "count": 23
       },
       {
         "price": 8500,
-        "count": 14
+        "count": 13
       },
       {
         "price": 9000,
@@ -353,7 +353,7 @@
       },
       {
         "price": 12500,
-        "count": 3
+        "count": 4
       },
       {
         "price": 13000,
@@ -373,80 +373,80 @@
   "dynamics": {
     "daily_new_offers": [
       {
-        "date": "2026-10-06",
+        "date": "2026-10-13",
         "day_name": "Wt",
-        "new_offers": 202
+        "new_offers": 165
       },
       {
-        "date": "2026-10-07",
+        "date": "2026-10-14",
         "day_name": "Sr",
+        "new_offers": 149
+      },
+      {
+        "date": "2026-10-15",
+        "day_name": "Cz",
         "new_offers": 147
       },
       {
-        "date": "2026-10-08",
-        "day_name": "Cz",
-        "new_offers": 156
-      },
-      {
-        "date": "2026-10-09",
+        "date": "2026-10-16",
         "day_name": "Pt",
-        "new_offers": 118
+        "new_offers": 126
       },
       {
-        "date": "2026-10-10",
+        "date": "2026-10-17",
         "day_name": "So",
-        "new_offers": 68
+        "new_offers": 77
       },
       {
-        "date": "2026-10-11",
+        "date": "2026-10-18",
         "day_name": "Nd",
-        "new_offers": 71
+        "new_offers": 86
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-10-19",
         "day_name": "Pn",
-        "new_offers": 19
+        "new_offers": 3
       }
     ],
-    "total_offers": 33970,
-    "active_offers": 10554,
-    "inactive_offers": 12880,
-    "active_rate_pct": 62,
+    "total_offers": 34829,
+    "active_offers": 10895,
+    "inactive_offers": 12933,
+    "active_rate_pct": 63,
     "source_activity_7d": [
       {
         "source": "adresowo",
-        "count": 22,
-        "daily_avg": 3.1
+        "count": 36,
+        "daily_avg": 5.1
       },
       {
         "source": "olx",
-        "count": 407,
-        "daily_avg": 58.1
+        "count": 304,
+        "daily_avg": 43.4
       },
       {
         "source": "gratka",
-        "count": 106,
-        "daily_avg": 15.1
+        "count": 81,
+        "daily_avg": 11.6
       },
       {
         "source": "morizon",
-        "count": 106,
-        "daily_avg": 15.1
+        "count": 81,
+        "daily_avg": 11.6
       },
       {
         "source": "domiporta",
-        "count": 57,
-        "daily_avg": 8.1
+        "count": 42,
+        "daily_avg": 6.0
       },
       {
         "source": "nieruchomosci-online",
-        "count": 136,
-        "daily_avg": 19.4
+        "count": 107,
+        "daily_avg": 15.3
       },
       {
         "source": "otodom",
-        "count": 259,
-        "daily_avg": 37.0
+        "count": 227,
+        "daily_avg": 32.4
       }
     ]
   }
